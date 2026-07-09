@@ -51,6 +51,28 @@ def pick_top_items(brief: dict, latest: dict, limit: int = 8) -> list[dict]:
     return items[:limit]
 
 
+def site_label(site_id: str, status: dict) -> str:
+    for site in status.get("sites", []) or []:
+        if site.get("site_id") == site_id:
+            return str(site.get("site_name") or site_id)
+    return {
+        "aihot": "AI HOT",
+    }.get(site_id, site_id)
+
+
+def source_status_line(status: dict) -> str:
+    successful_sites = int(status.get("successful_sites") or 0)
+    failed_sites = status.get("failed_sites") or []
+    if not isinstance(failed_sites, list):
+        failed_sites = [failed_sites] if failed_sites else []
+    failed_count = len(failed_sites)
+    if not failed_count:
+        return f"来源状态：{successful_sites} 个正常 / 0 个异常"
+    failed_names = "、".join(site_label(str(site), status) for site in failed_sites[:3])
+    extra = f" 等 {failed_count} 个" if failed_count > 3 else ""
+    return f"来源状态：{successful_sites} 个正常 / {failed_count} 个异常：{failed_names}{extra}"
+
+
 def format_message() -> str:
     brief = load_json(ROOT / "data" / "daily-brief.json")
     latest = load_json(ROOT / "data" / "latest-24h.json")
@@ -59,8 +81,6 @@ def format_message() -> str:
     generated_at = latest.get("generated_at") or brief.get("generated_at") or "unknown"
     total_ai = latest.get("total_items") or brief.get("total_items") or 0
     total_raw = latest.get("total_items_raw") or latest.get("total_items_all_mode") or 0
-    successful_sites = status.get("successful_sites", 0)
-    failed_sites = status.get("failed_sites", 0)
     site_url = infer_site_url()
 
     lines = [
@@ -68,7 +88,7 @@ def format_message() -> str:
         "",
         f"更新时间：{generated_at}",
         f"过去 24 小时：AI 信号 {total_ai} 条 / 原始覆盖 {total_raw} 条",
-        f"来源状态：{successful_sites} 个正常 / {failed_sites} 个失败",
+        source_status_line(status),
         "",
         "今日重点：",
     ]
