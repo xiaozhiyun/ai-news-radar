@@ -3,8 +3,14 @@ name: Send Feishu AI Daily
 on:
   workflow_dispatch:
   schedule:
-    # 09:00 Asia/Shanghai = 01:00 UTC
-    - cron: "0 1 * * *"
+    # GitHub Actions cron uses UTC. 09:00 Asia/Shanghai = 01:00 UTC.
+    # Retry inside the 09:00 Beijing hour because scheduled runs can be delayed
+    # or occasionally skipped. A guard step below prevents late/duplicate sends.
+    - cron: "0,10,20,30,40,50 1 * * *"
+
+concurrency:
+  group: feishu-daily-${{ github.ref }}
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -17,7 +23,46 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
+      - name: Check Beijing delivery window
+        id: delivery_guard
+        shell: bash
+        run: |
+          set -euo pipefail
+          event="${{ github.event_name }}"
+          should_send="true"
+          reason="manual dispatch"
+          beijing_now="$(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M:%S %z')"
+          beijing_date="$(TZ=Asia/Shanghai date '+%Y-%m-%d')"
+          beijing_hour="$(TZ=Asia/Shanghai date '+%H')"
+
+          if [ "$event" = "schedule" ]; then
+            git pull --ff-only origin "${GITHUB_REF_NAME:-main}" || true
+            should_send="false"
+            reason="outside Beijing 09:00 delivery window"
+
+            if [ "$beijing_hour" = "09" ]; then
+              should_send="true"
+              reason="inside Beijing 09:00 delivery window"
+            fi
+
+            if [ -f data/feishu-daily-state.json ]; then
+              sent_date="$(python -c 'import json; print((json.load(open("data/feishu-daily-state.json")).get("last_sent_date") or ""))')"
+              if [ "$sent_date" = "$beijing_date" ]; then
+                should_send="false"
+                reason="already sent for $beijing_date"
+              fi
+            fi
+          fi
+
+          echo "Beijing now: $beijing_now"
+          echo "Decision: $should_send ($reason)"
+          echo "beijing_date=$beijing_date" >> "$GITHUB_OUTPUT"
+          echo "beijing_now=$beijing_now" >> "$GITHUB_OUTPUT"
+          echo "should_send=$should_send" >> "$GITHUB_OUTPUT"
+          echo "reason=$reason" >> "$GITHUB_OUTPUT"
+
       - name: Setup Python
+        if: steps.delivery_guard.outputs.should_send == 'true'
         uses: actions/setup-python@v6
         with:
           python-version: "3.11"
@@ -25,11 +70,13 @@ jobs:
           cache-dependency-path: "requirements.txt"
 
       - name: Install dependencies
+        if: steps.delivery_guard.outputs.should_send == 'true'
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: Prepare OPML
+        if: steps.delivery_guard.outputs.should_send == 'true'
         env:
           FOLLOW_OPML_B64: ${{ secrets.FOLLOW_OPML_B64 }}
         run: |
@@ -41,6 +88,7 @@ jobs:
           fi
 
       - name: Update data
+        if: steps.delivery_guard.outputs.should_send == 'true'
         env:
           EMAIL_DIGEST_ENABLED: ${{ secrets.EMAIL_DIGEST_ENABLED || vars.EMAIL_DIGEST_ENABLED }}
           AGENTMAIL_API_KEY: ${{ secrets.AGENTMAIL_API_KEY }}
@@ -60,6 +108,7 @@ jobs:
           fi
 
       - name: Commit data
+        if: steps.delivery_guard.outputs.should_send == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -72,8 +121,24 @@ jobs:
           fi
 
       - name: Send Feishu daily brief
+        if: steps.delivery_guard.outputs.should_send == 'true'
         env:
           FEISHU_BOT_WEBHOOK: ${{ secrets.FEISHU_BOT_WEBHOOK }}
           FEISHU_BOT_SECRET: ${{ secrets.FEISHU_BOT_SECRET }}
           PUBLIC_SITE_URL: ${{ vars.PUBLIC_SITE_URL }}
         run: python scripts/send_feishu_daily.py
+
+      - name: Record scheduled Feishu delivery
+        if: github.event_name == 'schedule' && steps.delivery_guard.outputs.should_send == 'true'
+        env:
+          BEIJING_DATE: ${{ steps.delivery_guard.outputs.beijing_date }}
+          BEIJING_NOW: ${{ steps.delivery_guard.outputs.beijing_now }}
+          RUN_ID: ${{ github.run_id }}
+          RUN_NUMBER: ${{ github.run_number }}
+        run: |
+          python -c "import json, os, pathlib; p=pathlib.Path('data/feishu-daily-state.json'); p.write_text(json.dumps({'last_sent_date': os.environ['BEIJING_DATE'], 'last_sent_at_beijing': os.environ['BEIJING_NOW'], 'run_id': os.environ['RUN_ID'], 'run_number': os.environ['RUN_NUMBER']}, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/feishu-daily-state.json
+          git commit -m "chore: record feishu daily delivery"
+          git push
