@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T04:02:18.730957Z",
+  "generated_at": "2026-07-12T07:16:55.920420Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -131,15 +131,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.849,
-      "importance": 0.849,
-      "importance_score": 0.849,
+      "score": 0.842,
+      "importance": 0.842,
+      "importance_score": 0.842,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8468,
+        "recency": 0.808,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -231,15 +231,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8284,
-      "importance": 0.8284,
-      "importance_score": 0.8284,
+      "score": 0.8203,
+      "importance": 0.8203,
+      "importance_score": 0.8203,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9764,
+        "recency": 0.9317,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -255,6 +255,87 @@
         "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
         "url": "https://www.iroh.computer/blog/mesh-llm",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ed5bc085d889",
+      "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+      "url": "https://x.com/thsottiaux/status/2076119366647894371",
+      "primary_url": "https://x.com/thsottiaux/status/2076119366647894371",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T01:40:04Z"
+        },
+        {
+          "id": "1d11733b9fec7200cfaf033270139b86b36a3e26",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-12T01:40:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux",
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T01:40:04Z"
+        },
+        {
+          "id": "1d11733b9fec7200cfaf033270139b86b36a3e26",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-12T01:40:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7876,
+      "importance": 0.7876,
+      "importance_score": 0.7876,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9221,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T01:40:04Z",
+      "latest_at": "2026-07-12T01:40:04Z",
+      "primary_item": {
+        "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
+        "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+        "url": "https://x.com/thsottiaux/status/2076119366647894371",
+        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       }
     },
@@ -312,15 +393,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7932,
-      "importance": 0.7932,
-      "importance_score": 0.7932,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9536,
+        "recency": 0.9099,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -336,67 +417,6 @@
         "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
         "url": "https://www.ithome.com/0/975/646.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ed5bc085d889",
-      "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-      "url": "https://x.com/thsottiaux/status/2076119366647894371",
-      "primary_url": "https://x.com/thsottiaux/status/2076119366647894371",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-          "url": "https://x.com/thsottiaux/status/2076119366647894371",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T01:40:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-          "url": "https://x.com/thsottiaux/status/2076119366647894371",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T01:40:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9663,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-12T01:40:04Z",
-      "latest_at": "2026-07-12T01:40:04Z",
-      "primary_item": {
-        "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
-        "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-        "url": "https://x.com/thsottiaux/status/2076119366647894371",
-        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       }
     },
@@ -454,15 +474,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7692,
-      "importance": 0.7692,
-      "importance_score": 0.7692,
+      "score": 0.7622,
+      "importance": 0.7622,
+      "importance_score": 0.7622,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8536,
+        "recency": 0.8145,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -516,15 +536,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9874,
+        "recency": 0.9423,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -540,87 +560,6 @@
         "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
         "source": "Daily Digest",
         "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_57583f5b9bca",
-      "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-      "url": "https://x.com/sama/status/2075985056846451123",
-      "primary_url": "https://x.com/sama/status/2075985056846451123",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:46:22Z"
-        },
-        {
-          "id": "810bc02281177a13ff528308e8739a3d83a654e4",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "Follow Builders · X · Sam Altman",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-11T16:46:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Sam Altman",
-        "X：Sam Altman (@sama)"
-      ],
-      "items": [
-        {
-          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:46:22Z"
-        },
-        {
-          "id": "810bc02281177a13ff528308e8739a3d83a654e4",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "Follow Builders · X · Sam Altman",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-11T16:46:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8499,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-11T16:46:22Z",
-      "latest_at": "2026-07-11T16:46:22Z",
-      "primary_item": {
-        "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-        "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-        "url": "https://x.com/sama/status/2075985056846451123",
-        "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -677,22 +616,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7532,
-      "importance": 0.7532,
-      "importance_score": 0.7532,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.748,
+        "recency": 0.7138,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-11T07:56:11Z",
       "latest_at": "2026-07-11T07:56:11Z",
@@ -701,6 +639,86 @@
         "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
         "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
         "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_57583f5b9bca",
+      "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+      "url": "https://x.com/sama/status/2075985056846451123",
+      "primary_url": "https://x.com/sama/status/2075985056846451123",
+      "source": "X：Sam Altman (@sama)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
+          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+          "url": "https://x.com/sama/status/2075985056846451123",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T16:46:22Z"
+        },
+        {
+          "id": "810bc02281177a13ff528308e8739a3d83a654e4",
+          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
+          "url": "https://x.com/sama/status/2075985056846451123",
+          "source": "Follow Builders · X · Sam Altman",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-11T16:46:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Sam Altman",
+        "X：Sam Altman (@sama)"
+      ],
+      "items": [
+        {
+          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
+          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+          "url": "https://x.com/sama/status/2075985056846451123",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T16:46:22Z"
+        },
+        {
+          "id": "810bc02281177a13ff528308e8739a3d83a654e4",
+          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
+          "url": "https://x.com/sama/status/2075985056846451123",
+          "source": "Follow Builders · X · Sam Altman",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-11T16:46:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7466,
+      "importance": 0.7466,
+      "importance_score": 0.7466,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.811,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-11T16:46:22Z",
+      "latest_at": "2026-07-11T16:46:22Z",
+      "primary_item": {
+        "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
+        "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+        "url": "https://x.com/sama/status/2075985056846451123",
+        "source": "X：Sam Altman (@sama)",
         "source_name": "AI HOT"
       }
     },
@@ -758,15 +776,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.783,
-      "importance": 0.783,
-      "importance_score": 0.783,
+      "score": 0.7749,
+      "importance": 0.7749,
+      "importance_score": 0.7749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9798,
+        "recency": 0.9349,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -782,6 +800,87 @@
         "title": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
         "url": "https://www.ithome.com/0/975/666.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b21c70de14cb",
+      "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "primary_url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T03:59:09.632000Z"
+        },
+        {
+          "id": "b97d788b92fd38b4c103fc801bdc650df9832b27",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史 / What xAI's Grok Build CLI Actually Sends to xAI",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T01:09:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T03:59:09.632000Z"
+        },
+        {
+          "id": "b97d788b92fd38b4c103fc801bdc650df9832b27",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史 / What xAI's Grok Build CLI Actually Sends to xAI",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T01:09:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7902,
+      "importance": 0.7902,
+      "importance_score": 0.7902,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9535,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T01:09:50Z",
+      "latest_at": "2026-07-12T03:59:09.632000Z",
+      "primary_item": {
+        "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
+        "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+        "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -839,15 +938,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9347,
+        "recency": 0.892,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -920,15 +1019,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7439,
+        "recency": 0.7099,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1035,15 +1134,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6327,
-      "importance": 0.6327,
-      "importance_score": 0.6327,
+      "score": 0.6256,
+      "importance": 0.6256,
+      "importance_score": 0.6256,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.8667,
+        "recency": 0.8271,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1058,6 +1157,123 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-11",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_3ff1f70f056f",
+      "title": "“反向半人马”是解决人工智能悖论的答案（2025）",
+      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+      "primary_url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+      "source": "pluralistic.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "97efab0bfe2b1a777aa0b77fa065f105f53d35d6",
+          "title": "“反向半人马”是解决人工智能悖论的答案（2025）",
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "pluralistic.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T05:03:04.325000Z"
+        },
+        {
+          "id": "3c0548ff800ab99ca3885825fc0f74f717168e5a",
+          "title": "反向半人马是人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
+          "url": "https://news.ycombinator.com/item?id=48873855",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T21:12:33.128000Z"
+        },
+        {
+          "id": "f402204aeafbc5a0640273db623e38d0d26434e3",
+          "title": "“反向半人马”是解决人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox",
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T17:23:52Z"
+        },
+        {
+          "id": "ca08a8a9570106ba8f43da5446dfe54bce89078f",
+          "title": "“反向半人马”是解决人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T17:23:52Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "pluralistic.net"
+      ],
+      "items": [
+        {
+          "id": "97efab0bfe2b1a777aa0b77fa065f105f53d35d6",
+          "title": "“反向半人马”是解决人工智能悖论的答案（2025）",
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "pluralistic.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T05:03:04.325000Z"
+        },
+        {
+          "id": "3c0548ff800ab99ca3885825fc0f74f717168e5a",
+          "title": "反向半人马是人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
+          "url": "https://news.ycombinator.com/item?id=48873855",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T21:12:33.128000Z"
+        },
+        {
+          "id": "f402204aeafbc5a0640273db623e38d0d26434e3",
+          "title": "“反向半人马”是解决人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox",
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T17:23:52Z"
+        },
+        {
+          "id": "ca08a8a9570106ba8f43da5446dfe54bce89078f",
+          "title": "“反向半人马”是解决人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T17:23:52Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5901,
+      "importance": 0.5901,
+      "importance_score": 0.5901,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9683,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T17:23:52Z",
+      "latest_at": "2026-07-12T05:03:04.325000Z",
+      "primary_item": {
+        "id": "97efab0bfe2b1a777aa0b77fa065f105f53d35d6",
+        "title": "“反向半人马”是解决人工智能悖论的答案（2025）",
+        "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+        "source": "pluralistic.net",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1133,15 +1349,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5539,
-      "importance": 0.5539,
-      "importance_score": 0.5539,
+      "score": 0.5464,
+      "importance": 0.5464,
+      "importance_score": 0.5464,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9061,
+        "recency": 0.8646,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1159,30 +1375,30 @@
       }
     },
     {
-      "story_id": "story_5cd495760722",
-      "title": "百度 AI 将携智能体全家桶亮相 WAIC 2026",
-      "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
+      "story_id": "story_2c1bf5ffef3f",
+      "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
+      "url": "https://36kr.com/p/3892222176574211?f=rss",
+      "primary_url": "https://36kr.com/p/3892222176574211?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "9ee7cfe8d920f89852b01de7507be2813e332fce",
-          "title": "百度 AI 将携智能体全家桶亮相 WAIC 2026",
-          "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
+          "id": "a1415601490e7550f147f8f8aadcfa33a77ab23c",
+          "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
+          "url": "https://36kr.com/p/3892222176574211?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "2f5787bbeb9419d15d427248c39f635e7ab67a82",
-          "title": "百度AI将携智能体全家桶亮相WAIC 2026",
-          "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
+          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
+          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+          "url": "https://36kr.com/p/3892222176574211?f=rss",
           "source": "36氪 (36Kr)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-12T03:19:28Z"
+          "published_at": "2026-07-12T05:47:23Z"
         }
       ],
       "source_count": 2,
@@ -1192,22 +1408,22 @@
       ],
       "items": [
         {
-          "id": "9ee7cfe8d920f89852b01de7507be2813e332fce",
-          "title": "百度 AI 将携智能体全家桶亮相 WAIC 2026",
-          "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
+          "id": "a1415601490e7550f147f8f8aadcfa33a77ab23c",
+          "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
+          "url": "https://36kr.com/p/3892222176574211?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "2f5787bbeb9419d15d427248c39f635e7ab67a82",
-          "title": "百度AI将携智能体全家桶亮相WAIC 2026",
-          "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
+          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
+          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+          "url": "https://36kr.com/p/3892222176574211?f=rss",
           "source": "36氪 (36Kr)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-12T03:19:28Z"
+          "published_at": "2026-07-12T05:47:23Z"
         }
       ],
       "item_count": 2,
@@ -1227,12 +1443,12 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-12T03:19:28Z",
-      "latest_at": "2026-07-12T04:02:18.730957Z",
+      "earliest_at": "2026-07-12T05:47:23Z",
+      "latest_at": "2026-07-12T07:16:55.920420Z",
       "primary_item": {
-        "id": "9ee7cfe8d920f89852b01de7507be2813e332fce",
-        "title": "百度 AI 将携智能体全家桶亮相 WAIC 2026",
-        "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
+        "id": "a1415601490e7550f147f8f8aadcfa33a77ab23c",
+        "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
+        "url": "https://36kr.com/p/3892222176574211?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1291,15 +1507,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.5368,
+      "importance": 0.5368,
+      "importance_score": 0.5368,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9954,
+        "recency": 0.9498,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1314,6 +1530,84 @@
         "url": "https://thebeach.dev/posts/lisp-agent",
         "source": "thebeach.dev",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d510ab3ae5b4",
+      "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
+      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+      "primary_url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "cbe7f28694f1ae7931a8fc5325df06ca77669066",
+          "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
+          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T02:13:46Z"
+        },
+        {
+          "id": "72c7edbdcba05dbee3f4f23c1d9dd80461dd3bd1",
+          "title": "我们知道简单的流体可以流动。事实证明，有些会骨折 / We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T02:13:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "cbe7f28694f1ae7931a8fc5325df06ca77669066",
+          "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
+          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T02:13:46Z"
+        },
+        {
+          "id": "72c7edbdcba05dbee3f4f23c1d9dd80461dd3bd1",
+          "title": "我们知道简单的流体可以流动。事实证明，有些会骨折 / We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T02:13:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5331,
+      "importance": 0.5331,
+      "importance_score": 0.5331,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9296,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T02:13:46Z",
+      "latest_at": "2026-07-12T02:13:46Z",
+      "primary_item": {
+        "id": "cbe7f28694f1ae7931a8fc5325df06ca77669066",
+        "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
+        "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1370,15 +1664,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5356,
-      "importance": 0.5356,
-      "importance_score": 0.5356,
+      "score": 0.5278,
+      "importance": 0.5278,
+      "importance_score": 0.5278,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9432,
+        "recency": 0.9,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1449,15 +1743,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
+      "score": 0.5205,
+      "importance": 0.5205,
+      "importance_score": 0.5205,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9006,
+        "recency": 0.8594,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1471,262 +1765,6 @@
         "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
         "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d01a1045be8c",
-      "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-      "url": "https://github.com/sqlsure/sqlsure",
-      "primary_url": "https://github.com/sqlsure/sqlsure",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "abe2b5cdd130d900159ea5f5ccc6d3d7d79a2e72",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:15:06.203000Z"
-        },
-        {
-          "id": "900c0a49a44b168043d871f6c53eca0dfef4494b",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T20:03:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "abe2b5cdd130d900159ea5f5ccc6d3d7d79a2e72",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:15:06.203000Z"
-        },
-        {
-          "id": "900c0a49a44b168043d871f6c53eca0dfef4494b",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T20:03:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5267,
-      "importance": 0.5267,
-      "importance_score": 0.5267,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8936,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T20:03:42Z",
-      "latest_at": "2026-07-11T20:15:06.203000Z",
-      "primary_item": {
-        "id": "abe2b5cdd130d900159ea5f5ccc6d3d7d79a2e72",
-        "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-        "url": "https://github.com/sqlsure/sqlsure",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_3ff1f70f056f",
-      "title": "反向半人马是人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
-      "url": "https://news.ycombinator.com/item?id=48873855",
-      "primary_url": "https://news.ycombinator.com/item?id=48873855",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "3c0548ff800ab99ca3885825fc0f74f717168e5a",
-          "title": "反向半人马是人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
-          "url": "https://news.ycombinator.com/item?id=48873855",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T21:12:33.128000Z"
-        },
-        {
-          "id": "f402204aeafbc5a0640273db623e38d0d26434e3",
-          "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
-          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T17:23:52Z"
-        },
-        {
-          "id": "7e896cf99adddd7afdc8c547f36563590692a664",
-          "title": "反向半人马是人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
-          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T17:23:52Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3c0548ff800ab99ca3885825fc0f74f717168e5a",
-          "title": "反向半人马是人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
-          "url": "https://news.ycombinator.com/item?id=48873855",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T21:12:33.128000Z"
-        },
-        {
-          "id": "f402204aeafbc5a0640273db623e38d0d26434e3",
-          "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
-          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T17:23:52Z"
-        },
-        {
-          "id": "7e896cf99adddd7afdc8c547f36563590692a664",
-          "title": "反向半人马是人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
-          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T17:23:52Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5539,
-      "importance": 0.5539,
-      "importance_score": 0.5539,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9061,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T17:23:52Z",
-      "latest_at": "2026-07-11T21:12:33.128000Z",
-      "primary_item": {
-        "id": "3c0548ff800ab99ca3885825fc0f74f717168e5a",
-        "title": "反向半人马是人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
-        "url": "https://news.ycombinator.com/item?id=48873855",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_13a0d24db17c",
-      "title": "Show HN: Aether——在可供观看的开发机上运行 Claude Code、Codex 或 OpenCode",
-      "url": "https://www.runaether.dev",
-      "primary_url": "https://www.runaether.dev",
-      "source": "www.runaether.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "af035a2a854b9dda15185682d83475baaf9d9241",
-          "title": "Show HN: Aether——在可供观看的开发机上运行 Claude Code、Codex 或 OpenCode",
-          "url": "https://www.runaether.dev",
-          "source": "www.runaether.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T15:27:06.407000Z"
-        },
-        {
-          "id": "aeabd5dd1360a067f4805e3facdecbc7b44b0b3a",
-          "title": "Show HN: Aether——在可供观看的开发机上运行 Claude Code、Codex 或 OpenCode / Show HN: Aether – Run Claude Code, Codex, or OpenCode in devboxes you can watch",
-          "url": "https://www.runaether.dev",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-11T15:25:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "www.runaether.dev"
-      ],
-      "items": [
-        {
-          "id": "af035a2a854b9dda15185682d83475baaf9d9241",
-          "title": "Show HN: Aether——在可供观看的开发机上运行 Claude Code、Codex 或 OpenCode",
-          "url": "https://www.runaether.dev",
-          "source": "www.runaether.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T15:27:06.407000Z"
-        },
-        {
-          "id": "aeabd5dd1360a067f4805e3facdecbc7b44b0b3a",
-          "title": "Show HN: Aether——在可供观看的开发机上运行 Claude Code、Codex 或 OpenCode / Show HN: Aether – Run Claude Code, Codex, or OpenCode in devboxes you can watch",
-          "url": "https://www.runaether.dev",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-11T15:25:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5159,
-      "importance": 0.5159,
-      "importance_score": 0.5159,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8338,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T15:25:00Z",
-      "latest_at": "2026-07-11T15:27:06.407000Z",
-      "primary_item": {
-        "id": "af035a2a854b9dda15185682d83475baaf9d9241",
-        "title": "Show HN: Aether——在可供观看的开发机上运行 Claude Code、Codex 或 OpenCode",
-        "url": "https://www.runaether.dev",
-        "source": "www.runaether.dev",
         "source_name": "Buzzing"
       }
     }
