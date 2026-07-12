@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T19:59:01.888330Z",
+  "generated_at": "2026-07-12T22:33:36.269040Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -30,18 +30,18 @@
           "published_at": "2026-07-12T03:40:29.484000Z"
         },
         {
-          "id": "8e05c5de6932301ae68f8674d66b4ca481bad391",
+          "id": "3ab4fda50ecc05d339cce26d5d65671d36ea5896",
           "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算 / Mesh LLM: distributed AI computing on iroh",
           "url": "https://www.iroh.computer/blog/mesh-llm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-11T22:38:57Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "hackernews"
       ],
@@ -65,26 +65,26 @@
           "published_at": "2026-07-12T03:40:29.484000Z"
         },
         {
-          "id": "8e05c5de6932301ae68f8674d66b4ca481bad391",
+          "id": "3ab4fda50ecc05d339cce26d5d65671d36ea5896",
           "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算 / Mesh LLM: distributed AI computing on iroh",
           "url": "https://www.iroh.computer/blog/mesh-llm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-11T22:38:57Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7922,
-      "importance": 0.7922,
-      "importance_score": 0.7922,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7756,
+        "recency": 0.7473,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -138,15 +138,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7786,
-      "importance": 0.7786,
-      "importance_score": 0.7786,
+      "score": 0.7722,
+      "importance": 0.7722,
+      "importance_score": 0.7722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.978,
+        "recency": 0.9423,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -161,6 +161,67 @@
         "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
         "url": "https://x.com/dotey/status/2076372677577576864",
         "source": "X：宝玉 (@dotey)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7de58394b679",
+      "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
+      "url": "https://x.com/thsottiaux/status/2076365965915467978",
+      "primary_url": "https://x.com/thsottiaux/status/2076365965915467978",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
+          "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
+          "url": "https://x.com/thsottiaux/status/2076365965915467978",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T17:59:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
+          "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
+          "url": "https://x.com/thsottiaux/status/2076365965915467978",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T17:59:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7681,
+      "importance": 0.7681,
+      "importance_score": 0.7681,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9363,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T17:59:57Z",
+      "latest_at": "2026-07-12T17:59:57Z",
+      "primary_item": {
+        "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
+        "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
+        "url": "https://x.com/thsottiaux/status/2076365965915467978",
+        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       }
     },
@@ -199,15 +260,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9497,
+        "recency": 0.915,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -260,15 +321,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7645,
-      "importance": 0.7645,
-      "importance_score": 0.7645,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9328,
+        "recency": 0.8987,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -340,15 +401,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7638,
-      "importance": 0.7638,
-      "importance_score": 0.7638,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8566,
+        "recency": 0.8253,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -364,87 +425,6 @@
         "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
         "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ed5bc085d889",
-      "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-      "url": "https://x.com/thsottiaux/status/2076119366647894371",
-      "primary_url": "https://x.com/thsottiaux/status/2076119366647894371",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-          "url": "https://x.com/thsottiaux/status/2076119366647894371",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T01:40:04Z"
-        },
-        {
-          "id": "1d11733b9fec7200cfaf033270139b86b36a3e26",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
-          "url": "https://x.com/thsottiaux/status/2076119366647894371",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-12T01:40:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Thibault Sottiaux",
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-          "url": "https://x.com/thsottiaux/status/2076119366647894371",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T01:40:04Z"
-        },
-        {
-          "id": "1d11733b9fec7200cfaf033270139b86b36a3e26",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
-          "url": "https://x.com/thsottiaux/status/2076119366647894371",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-12T01:40:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7676,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-12T01:40:04Z",
-      "latest_at": "2026-07-12T01:40:04Z",
-      "primary_item": {
-        "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
-        "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-        "url": "https://x.com/thsottiaux/status/2076119366647894371",
-        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       }
     },
@@ -502,15 +482,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7574,
+        "recency": 0.7298,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -601,15 +581,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7865,
-      "importance": 0.7865,
-      "importance_score": 0.7865,
+      "score": 0.7813,
+      "importance": 0.7813,
+      "importance_score": 0.7813,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7937,
+        "recency": 0.7647,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -625,6 +605,87 @@
         "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
         "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ed5bc085d889",
+      "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+      "url": "https://x.com/thsottiaux/status/2076119366647894371",
+      "primary_url": "https://x.com/thsottiaux/status/2076119366647894371",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T01:40:04Z"
+        },
+        {
+          "id": "1d11733b9fec7200cfaf033270139b86b36a3e26",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-12T01:40:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux",
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T01:40:04Z"
+        },
+        {
+          "id": "1d11733b9fec7200cfaf033270139b86b36a3e26",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-12T01:40:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7396,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T01:40:04Z",
+      "latest_at": "2026-07-12T01:40:04Z",
+      "primary_item": {
+        "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
+        "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+        "url": "https://x.com/thsottiaux/status/2076119366647894371",
+        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       }
     },
@@ -663,15 +724,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7288,
-      "importance": 0.7288,
-      "importance_score": 0.7288,
+      "score": 0.7236,
+      "importance": 0.7236,
+      "importance_score": 0.7236,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7843,
+        "recency": 0.7557,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -742,15 +803,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7833,
-      "importance": 0.7833,
-      "importance_score": 0.7833,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9153,
+        "recency": 0.8818,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -823,15 +884,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7783,
+        "recency": 0.7498,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -974,15 +1035,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6858,
-      "importance": 0.6858,
-      "importance_score": 0.6858,
+      "score": 0.6793,
+      "importance": 0.6793,
+      "importance_score": 0.6793,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4968,
         "source_tier": 0.54,
         "ai_relevance": 0.69,
-        "recency": 1.0,
+        "recency": 0.9635,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1053,15 +1114,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7402,
-      "importance": 0.7402,
-      "importance_score": 0.7402,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7425,
+        "recency": 0.7154,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1189,15 +1250,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6208,
-      "importance": 0.6208,
-      "importance_score": 0.6208,
+      "score": 0.6143,
+      "importance": 0.6143,
+      "importance_score": 0.6143,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9636,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1215,74 +1276,409 @@
       }
     },
     {
-      "story_id": "story_065047e21dc3",
-      "title": "Claude Code 在阅读提示之前发送了 33k 令牌； OpenCode 发送 7k / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "url": "https://news.ycombinator.com/item?id=48883275",
-      "primary_url": "https://news.ycombinator.com/item?id=48883275",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_dd2c6d143ed1",
+      "title": "我喜欢大型语言模型，讨厌炒作",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "primary_url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "source": "geohot.github.io",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "8ee628acb1b0e26a28cf1e8423e778ce9d6b6b1e",
-          "title": "Claude Code 在阅读提示之前发送了 33k 令牌； OpenCode 发送 7k / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-          "url": "https://news.ycombinator.com/item?id=48883275",
+          "id": "12c5acbb94f5d123f7127e1ed16664da4dd64936",
+          "title": "我喜欢大型语言模型，讨厌炒作",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+          "source": "geohot.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T20:14:25.500000Z"
+        },
+        {
+          "id": "2ee91c796f92d5801172d6838d9d616e13364c1b",
+          "title": "我喜欢法学硕士，我讨厌炒作 / I love LLMs, I hate hype",
+          "url": "https://news.ycombinator.com/item?id=48883343",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-07-12T19:59:42.518000Z"
         },
         {
-          "id": "bb7376bdffa1cee9104b1e400b6a174d7f3868a4",
-          "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个",
-          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-          "source": "systima.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T19:27:07.004000Z"
-        },
-        {
-          "id": "cbcd3125e2dc3eafa30d45fcef4c253b747cde53",
-          "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个 / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "id": "476bb66e6f420cc2e0aff730de2a9e66e7bfc620",
+          "title": "我喜欢大型语言模型，讨厌炒作 / I love LLMs, I hate hype",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-12T18:25:51Z"
+          "published_at": "2026-07-12T18:31:56Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "geohot.github.io",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "12c5acbb94f5d123f7127e1ed16664da4dd64936",
+          "title": "我喜欢大型语言模型，讨厌炒作",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+          "source": "geohot.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T20:14:25.500000Z"
+        },
+        {
+          "id": "2ee91c796f92d5801172d6838d9d616e13364c1b",
+          "title": "我喜欢法学硕士，我讨厌炒作 / I love LLMs, I hate hype",
+          "url": "https://news.ycombinator.com/item?id=48883343",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T19:59:42.518000Z"
+        },
+        {
+          "id": "476bb66e6f420cc2e0aff730de2a9e66e7bfc620",
+          "title": "我喜欢大型语言模型，讨厌炒作 / I love LLMs, I hate hype",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T18:31:56Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5649,
+      "importance": 0.5649,
+      "importance_score": 0.5649,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9671,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T18:31:56Z",
+      "latest_at": "2026-07-12T20:14:25.500000Z",
+      "primary_item": {
+        "id": "12c5acbb94f5d123f7127e1ed16664da4dd64936",
+        "title": "我喜欢大型语言模型，讨厌炒作",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+        "source": "geohot.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_392ad56cd351",
+      "title": "知己知彼：对人工智能辅助软件开发的批判性探讨",
+      "url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
+      "primary_url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
+      "source": "medium.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c4cb052e0bfe69c6ed5de8f2cd7d17c61d65425c",
+          "title": "知己知彼：对人工智能辅助软件开发的批判性探讨",
+          "url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
+          "source": "medium.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T22:21:04.799000Z"
+        },
+        {
+          "id": "e3a3b98ea723b8a6cba4dc4f3a01b95ab0bb7be8",
+          "title": "知己知彼：对人工智能辅助软件开发的批判性探讨 / Know thine enemy: A critical engagement with AI-assisted software development",
+          "url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T22:12:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "medium.com"
+      ],
+      "items": [
+        {
+          "id": "c4cb052e0bfe69c6ed5de8f2cd7d17c61d65425c",
+          "title": "知己知彼：对人工智能辅助软件开发的批判性探讨",
+          "url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
+          "source": "medium.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T22:21:04.799000Z"
+        },
+        {
+          "id": "e3a3b98ea723b8a6cba4dc4f3a01b95ab0bb7be8",
+          "title": "知己知彼：对人工智能辅助软件开发的批判性探讨 / Know thine enemy: A critical engagement with AI-assisted software development",
+          "url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T22:12:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.997,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T22:12:06Z",
+      "latest_at": "2026-07-12T22:21:04.799000Z",
+      "primary_item": {
+        "id": "c4cb052e0bfe69c6ed5de8f2cd7d17c61d65425c",
+        "title": "知己知彼：对人工智能辅助软件开发的批判性探讨",
+        "url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
+        "source": "medium.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_61e1ad2b47b9",
+      "title": "负责保障OpenAI人工智能安全的负责人接连离职",
+      "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
+      "primary_url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bc91c8c2e75b867c563cb9e808e4a6152ac2d694",
+          "title": "负责保障OpenAI人工智能安全的负责人接连离职",
+          "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T20:46:20.809000Z"
+        },
+        {
+          "id": "fa3e097bc96649f90c46659bf8a475aac9a52bb2",
+          "title": "负责保障OpenAI人工智能安全的负责人接连离职 / The leaders responsible for keeping OpenAI's AI safe keep leaving",
+          "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T20:24:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "bc91c8c2e75b867c563cb9e808e4a6152ac2d694",
+          "title": "负责保障OpenAI人工智能安全的负责人接连离职",
+          "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T20:46:20.809000Z"
+        },
+        {
+          "id": "fa3e097bc96649f90c46659bf8a475aac9a52bb2",
+          "title": "负责保障OpenAI人工智能安全的负责人接连离职 / The leaders responsible for keeping OpenAI's AI safe keep leaving",
+          "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T20:24:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9745,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T20:24:48Z",
+      "latest_at": "2026-07-12T20:46:20.809000Z",
+      "primary_item": {
+        "id": "bc91c8c2e75b867c563cb9e808e4a6152ac2d694",
+        "title": "负责保障OpenAI人工智能安全的负责人接连离职",
+        "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "“停止削减群摄像头”（大规模监控是好的）[视频] / \"Stop Cutting Down Flock Cameras \" (Mass Surveillance Is Good) [video]",
+      "url": "https://www.youtube.com/watch?v=su-Ce4PlNz0",
+      "primary_url": "https://www.youtube.com/watch?v=su-Ce4PlNz0",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "0211121e9d3606cd4e924f1a39ccb237a2798f0c",
+          "title": "“停止削减群摄像头”（大规模监控是好的）[视频] / \"Stop Cutting Down Flock Cameras \" (Mass Surveillance Is Good) [video]",
+          "url": "https://www.youtube.com/watch?v=su-Ce4PlNz0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T20:39:01Z"
+        },
+        {
+          "id": "d48a89f200c870b6e0372b5470f9bc7f28e946dc",
+          "title": "在浏览器中运行 Claude 和 Codex [视频] / Run Claude and Codex in the Browser [video]",
+          "url": "https://www.youtube.com/watch?v=wgNbFRgQXwU",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-12T03:39:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "0211121e9d3606cd4e924f1a39ccb237a2798f0c",
+          "title": "“停止削减群摄像头”（大规模监控是好的）[视频] / \"Stop Cutting Down Flock Cameras \" (Mass Surveillance Is Good) [video]",
+          "url": "https://www.youtube.com/watch?v=su-Ce4PlNz0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T20:39:01Z"
+        },
+        {
+          "id": "d48a89f200c870b6e0372b5470f9bc7f28e946dc",
+          "title": "在浏览器中运行 Claude 和 Codex [视频] / Run Claude and Codex in the Browser [video]",
+          "url": "https://www.youtube.com/watch?v=wgNbFRgQXwU",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-12T03:39:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9728,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T03:39:10Z",
+      "latest_at": "2026-07-12T20:39:01Z",
+      "primary_item": {
+        "id": "0211121e9d3606cd4e924f1a39ccb237a2798f0c",
+        "title": "“停止削减群摄像头”（大规模监控是好的）[视频] / \"Stop Cutting Down Flock Cameras \" (Mass Surveillance Is Good) [video]",
+        "url": "https://www.youtube.com/watch?v=su-Ce4PlNz0",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_be381b18cc59",
+      "title": "Show HN：自适应召回，通过 MCP 为 AI 助手提供持久记忆 / Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+      "url": "https://news.ycombinator.com/item?id=48884815",
+      "primary_url": "https://news.ycombinator.com/item?id=48884815",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f56f112a127bc298cf337411b53d1b9a6d5fb0d0",
+          "title": "Show HN：自适应召回，通过 MCP 为 AI 助手提供持久记忆 / Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+          "url": "https://news.ycombinator.com/item?id=48884815",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T22:34:12.860000Z"
+        },
+        {
+          "id": "174dae429e96873b5ecaa3b3d74f28096b67a4af",
+          "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案",
+          "url": "https://www.adaptiverecall.com",
+          "source": "www.adaptiverecall.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T21:17:10.568000Z"
+        },
+        {
+          "id": "c444a45271c333e252b7a7a863be697238b393c2",
+          "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案 / Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+          "url": "https://www.adaptiverecall.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T21:08:20Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News",
         "hackernews",
-        "systima.ai"
+        "www.adaptiverecall.com"
       ],
       "items": [
         {
-          "id": "8ee628acb1b0e26a28cf1e8423e778ce9d6b6b1e",
-          "title": "Claude Code 在阅读提示之前发送了 33k 令牌； OpenCode 发送 7k / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-          "url": "https://news.ycombinator.com/item?id=48883275",
+          "id": "f56f112a127bc298cf337411b53d1b9a6d5fb0d0",
+          "title": "Show HN：自适应召回，通过 MCP 为 AI 助手提供持久记忆 / Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+          "url": "https://news.ycombinator.com/item?id=48884815",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-12T19:59:42.518000Z"
+          "published_at": "2026-07-12T22:34:12.860000Z"
         },
         {
-          "id": "bb7376bdffa1cee9104b1e400b6a174d7f3868a4",
-          "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个",
-          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-          "source": "systima.ai",
+          "id": "174dae429e96873b5ecaa3b3d74f28096b67a4af",
+          "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案",
+          "url": "https://www.adaptiverecall.com",
+          "source": "www.adaptiverecall.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-12T19:27:07.004000Z"
+          "published_at": "2026-07-12T21:17:10.568000Z"
         },
         {
-          "id": "cbcd3125e2dc3eafa30d45fcef4c253b747cde53",
-          "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个 / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "id": "c444a45271c333e252b7a7a863be697238b393c2",
+          "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案 / Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+          "url": "https://www.adaptiverecall.com",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-12T18:25:51Z"
+          "published_at": "2026-07-12T21:08:20Z"
         }
       ],
       "item_count": 3,
@@ -1302,408 +1698,14 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-12T18:25:51Z",
-      "latest_at": "2026-07-12T19:59:42.518000Z",
+      "earliest_at": "2026-07-12T21:08:20Z",
+      "latest_at": "2026-07-12T22:34:12.860000Z",
       "primary_item": {
-        "id": "8ee628acb1b0e26a28cf1e8423e778ce9d6b6b1e",
-        "title": "Claude Code 在阅读提示之前发送了 33k 令牌； OpenCode 发送 7k / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-        "url": "https://news.ycombinator.com/item?id=48883275",
+        "id": "f56f112a127bc298cf337411b53d1b9a6d5fb0d0",
+        "title": "Show HN：自适应召回，通过 MCP 为 AI 助手提供持久记忆 / Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+        "url": "https://news.ycombinator.com/item?id=48884815",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_79354e1b81c7",
-      "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-      "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4874651.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "2f73b85ce310166279bd6f41b12db5f86db47840",
-          "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c96c2c820fa8341624ea5d57bbd3ee17cb4b3e41",
-          "title": "10倍生产力和打折的支付能力，AI最大的矛盾如何破局？",
-          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T12:53:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "2f73b85ce310166279bd6f41b12db5f86db47840",
-          "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c96c2c820fa8341624ea5d57bbd3ee17cb4b3e41",
-          "title": "10倍生产力和打折的支付能力，AI最大的矛盾如何破局？",
-          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T12:53:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9395,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T12:53:09Z",
-      "latest_at": "2026-07-12T15:39:38.667281Z",
-      "primary_item": {
-        "id": "2f73b85ce310166279bd6f41b12db5f86db47840",
-        "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-        "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_12c458e9f6b4",
-      "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-      "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-      "primary_url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ba95601d865a0210044540be1f74d839af08e1f6",
-          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T14:23:06.187000Z"
-        },
-        {
-          "id": "2f0a66f4493e18a9b91c14c15e8029c0cec5cc91",
-          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实 / AI giants learn what everyone else on the modern internet already knows",
-          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T14:02:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "ba95601d865a0210044540be1f74d839af08e1f6",
-          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T14:23:06.187000Z"
-        },
-        {
-          "id": "2f0a66f4493e18a9b91c14c15e8029c0cec5cc91",
-          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实 / AI giants learn what everyone else on the modern internet already knows",
-          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T14:02:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5318,
-      "importance": 0.5318,
-      "importance_score": 0.5318,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9223,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T14:02:01Z",
-      "latest_at": "2026-07-12T14:23:06.187000Z",
-      "primary_item": {
-        "id": "ba95601d865a0210044540be1f74d839af08e1f6",
-        "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-        "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e2469c92ba3c",
-      "title": "Nutlope / 标志 / Nutlope / hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "primary_url": "https://github.com/Nutlope/hallmark",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "9d9d46ea318e17d7b19a45915b764698fa9a3240",
-          "title": "Nutlope / 标志 / Nutlope / hallmark",
-          "url": "https://github.com/Nutlope/hallmark",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
-          "title": "Nutlope / 标志 / Nutlope /      hallmark",
-          "url": "https://github.com/Nutlope/hallmark",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T11:31:25.750000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "9d9d46ea318e17d7b19a45915b764698fa9a3240",
-          "title": "Nutlope / 标志 / Nutlope / hallmark",
-          "url": "https://github.com/Nutlope/hallmark",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
-          "title": "Nutlope / 标志 / Nutlope /      hallmark",
-          "url": "https://github.com/Nutlope/hallmark",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T11:31:25.750000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5256,
-      "importance": 0.5256,
-      "importance_score": 0.5256,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8875,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T11:31:25.750000Z",
-      "latest_at": "2026-07-12T11:43:19.759562Z",
-      "primary_item": {
-        "id": "9d9d46ea318e17d7b19a45915b764698fa9a3240",
-        "title": "Nutlope / 标志 / Nutlope / hallmark",
-        "url": "https://github.com/Nutlope/hallmark",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_d9a2efbb68a1",
-      "title": "《新旧应用：通过现代编码代理》，作者：Terry Tao / Old and new apps, via modern coding agents",
-      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents",
-      "primary_url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "2dad0f13936b43f501a92c418fa17dfceb2365b6",
-          "title": "《新旧应用：通过现代编码代理》，作者：Terry Tao / Old and new apps, via modern coding agents",
-          "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T11:09:42Z"
-        },
-        {
-          "id": "7f5fcbd49809b5e1dcffc23529b9f1b2648e1522",
-          "title": "《新旧应用：通过现代编码代理》，作者：Terry Tao / Old and new apps, via modern coding agents by Terry Tao",
-          "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T11:09:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "2dad0f13936b43f501a92c418fa17dfceb2365b6",
-          "title": "《新旧应用：通过现代编码代理》，作者：Terry Tao / Old and new apps, via modern coding agents",
-          "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T11:09:42Z"
-        },
-        {
-          "id": "7f5fcbd49809b5e1dcffc23529b9f1b2648e1522",
-          "title": "《新旧应用：通过现代编码代理》，作者：Terry Tao / Old and new apps, via modern coding agents by Terry Tao",
-          "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T11:09:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5243,
-      "importance": 0.5243,
-      "importance_score": 0.5243,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8804,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T11:09:42Z",
-      "latest_at": "2026-07-12T11:09:42Z",
-      "primary_item": {
-        "id": "2dad0f13936b43f501a92c418fa17dfceb2365b6",
-        "title": "《新旧应用：通过现代编码代理》，作者：Terry Tao / Old and new apps, via modern coding agents",
-        "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_dfe87bfc97aa",
-      "title": "用100行Lisp编写的智能体",
-      "url": "https://thebeach.dev/posts/lisp-agent",
-      "primary_url": "https://thebeach.dev/posts/lisp-agent",
-      "source": "thebeach.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "df9710b1086a65100ad18e57dd1a7a3dc072971c",
-          "title": "用100行Lisp编写的智能体",
-          "url": "https://thebeach.dev/posts/lisp-agent",
-          "source": "thebeach.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T03:43:08.376000Z"
-        },
-        {
-          "id": "976a01010fcfbc257ad57c908f4262a10779621e",
-          "title": "用100行Lisp编写的智能体 / An Agent in 100 Lines of Lisp",
-          "url": "https://thebeach.dev/posts/lisp-agent",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T03:36:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "thebeach.dev"
-      ],
-      "items": [
-        {
-          "id": "df9710b1086a65100ad18e57dd1a7a3dc072971c",
-          "title": "用100行Lisp编写的智能体",
-          "url": "https://thebeach.dev/posts/lisp-agent",
-          "source": "thebeach.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T03:43:08.376000Z"
-        },
-        {
-          "id": "976a01010fcfbc257ad57c908f4262a10779621e",
-          "title": "用100行Lisp编写的智能体 / An Agent in 100 Lines of Lisp",
-          "url": "https://thebeach.dev/posts/lisp-agent",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T03:36:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5081,
-      "importance": 0.5081,
-      "importance_score": 0.5081,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7907,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T03:36:08Z",
-      "latest_at": "2026-07-12T03:43:08.376000Z",
-      "primary_item": {
-        "id": "df9710b1086a65100ad18e57dd1a7a3dc072971c",
-        "title": "用100行Lisp编写的智能体",
-        "url": "https://thebeach.dev/posts/lisp-agent",
-        "source": "thebeach.dev",
-        "source_name": "Buzzing"
       }
     }
   ]
