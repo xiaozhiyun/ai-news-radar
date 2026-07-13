@@ -2,11 +2,15 @@ name: Send Feishu AI Daily
 
 on:
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Update AI News Snapshot"]
+    types: [completed]
   schedule:
     # GitHub Actions cron uses UTC and scheduled runs may be delayed or dropped.
-    # Wake up every 10 minutes, away from the top of the hour. The guard below
-    # sends only on the first actual run at/after 09:00 Beijing time each day.
-    - cron: "7,17,27,37,47,57 * * * *"
+    # Use a focused morning window plus sparse backstops. The guard below sends
+    # only on the first automatic run at/after 09:00 Beijing time each day.
+    - cron: "11,31,51 1-4 * * *"
+    - cron: "17 5,9,13 * * *"
 
 concurrency:
   group: feishu-daily-${{ github.ref }}
@@ -17,6 +21,7 @@ permissions:
 
 jobs:
   send:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     timeout-minutes: 60
     runs-on: ubuntu-latest
     steps:
@@ -35,13 +40,13 @@ jobs:
           beijing_date="$(TZ=Asia/Shanghai date '+%Y-%m-%d')"
           beijing_hour="$(TZ=Asia/Shanghai date '+%H')"
 
-          if [ "$event" = "schedule" ]; then
+          if [ "$event" = "schedule" ] || [ "$event" = "workflow_run" ]; then
             should_send="false"
             reason="before Beijing 09:00"
 
             if [ "$beijing_hour" -ge 9 ]; then
               should_send="true"
-              reason="first scheduled run at or after Beijing 09:00"
+              reason="first automatic run at or after Beijing 09:00"
             fi
 
             branch="${GITHUB_REF_NAME:-main}"
@@ -72,13 +77,13 @@ jobs:
           cache-dependency-path: "requirements.txt"
 
       - name: Install dependencies
-        if: steps.delivery_guard.outputs.should_send == 'true'
+        if: steps.delivery_guard.outputs.should_send == 'true' && github.event_name != 'workflow_run'
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: Prepare OPML
-        if: steps.delivery_guard.outputs.should_send == 'true'
+        if: steps.delivery_guard.outputs.should_send == 'true' && github.event_name != 'workflow_run'
         env:
           FOLLOW_OPML_B64: ${{ secrets.FOLLOW_OPML_B64 }}
         run: |
@@ -90,7 +95,7 @@ jobs:
           fi
 
       - name: Update data
-        if: steps.delivery_guard.outputs.should_send == 'true'
+        if: steps.delivery_guard.outputs.should_send == 'true' && github.event_name != 'workflow_run'
         env:
           EMAIL_DIGEST_ENABLED: ${{ secrets.EMAIL_DIGEST_ENABLED || vars.EMAIL_DIGEST_ENABLED }}
           AGENTMAIL_API_KEY: ${{ secrets.AGENTMAIL_API_KEY }}
@@ -110,7 +115,7 @@ jobs:
           fi
 
       - name: Commit data
-        if: steps.delivery_guard.outputs.should_send == 'true'
+        if: steps.delivery_guard.outputs.should_send == 'true' && github.event_name != 'workflow_run'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

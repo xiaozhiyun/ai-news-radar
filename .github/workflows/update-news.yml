@@ -9,7 +9,9 @@ on:
         default: false
         type: boolean
   schedule:
-    - cron: "*/30 * * * *"
+    # Avoid the top and half hour, where GitHub scheduled runs are more likely
+    # to be delayed or dropped.
+    - cron: "17,47 * * * *"
 
 concurrency:
   group: update-ai-news-${{ github.ref }}
