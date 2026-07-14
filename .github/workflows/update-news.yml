@@ -10,8 +10,10 @@ on:
         type: boolean
   schedule:
     # Avoid the top and half hour, where GitHub scheduled runs are more likely
-    # to be delayed or dropped.
+    # to be delayed or dropped. Add extra morning wake-ups so one missed cron
+    # cannot suppress the daily brief for the whole morning.
     - cron: "17,47 * * * *"
+    - cron: "7,27,37,57 1-4 * * *"
 
 concurrency:
   group: update-ai-news-${{ github.ref }}
@@ -128,3 +130,82 @@ jobs:
           fi
           git commit -m "chore: update ai news snapshot"
           git push
+
+  send-daily-fallback:
+    name: Send daily fallback after snapshot update
+    needs: update
+    timeout-minutes: 10
+    runs-on: ubuntu-latest
+    steps:
+      # The update job may have pushed a newer data commit. Explicitly checkout
+      # the branch tip instead of the workflow's original event SHA.
+      - name: Checkout latest branch data
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Check Beijing delivery window
+        id: delivery_guard
+        shell: bash
+        run: |
+          set -euo pipefail
+          should_send="false"
+          reason="before Beijing 09:00"
+          beijing_now="$(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M:%S %z')"
+          beijing_date="$(TZ=Asia/Shanghai date '+%Y-%m-%d')"
+          beijing_hour="$(TZ=Asia/Shanghai date '+%H')"
+          branch="${GITHUB_REF_NAME:-main}"
+
+          if [ "$beijing_hour" -ge 9 ]; then
+            should_send="true"
+            reason="snapshot update completed after Beijing 09:00"
+          fi
+
+          git fetch origin "$branch"
+          sent_date=""
+          if git cat-file -e "origin/$branch:data/feishu-daily-state.json" 2>/dev/null; then
+            sent_date="$(git show "origin/$branch:data/feishu-daily-state.json" | python -c 'import json, sys; print((json.load(sys.stdin).get("last_sent_date") or ""))')"
+          fi
+          if [ "$sent_date" = "$beijing_date" ]; then
+            should_send="false"
+            reason="already sent for $beijing_date"
+          fi
+
+          echo "Beijing now: $beijing_now"
+          echo "Decision: $should_send ($reason)"
+          echo "beijing_date=$beijing_date" >> "$GITHUB_OUTPUT"
+          echo "beijing_now=$beijing_now" >> "$GITHUB_OUTPUT"
+          echo "should_send=$should_send" >> "$GITHUB_OUTPUT"
+
+      - name: Send Feishu daily brief
+        if: steps.delivery_guard.outputs.should_send == 'true'
+        env:
+          FEISHU_BOT_WEBHOOK: ${{ secrets.FEISHU_BOT_WEBHOOK }}
+          FEISHU_BOT_SECRET: ${{ secrets.FEISHU_BOT_SECRET }}
+          PUBLIC_SITE_URL: ${{ vars.PUBLIC_SITE_URL }}
+        run: python scripts/send_feishu_daily.py
+
+      - name: Record Feishu delivery
+        if: steps.delivery_guard.outputs.should_send == 'true'
+        env:
+          BEIJING_DATE: ${{ steps.delivery_guard.outputs.beijing_date }}
+          BEIJING_NOW: ${{ steps.delivery_guard.outputs.beijing_now }}
+          RUN_ID: ${{ github.run_id }}
+          RUN_NUMBER: ${{ github.run_number }}
+        run: |
+          branch="${GITHUB_REF_NAME:-main}"
+          git pull --rebase origin "$branch"
+          python -c "import json, os, pathlib; p=pathlib.Path('data/feishu-daily-state.json'); p.write_text(json.dumps({'last_sent_date': os.environ['BEIJING_DATE'], 'last_sent_at_beijing': os.environ['BEIJING_NOW'], 'run_id': os.environ['RUN_ID'], 'run_number': os.environ['RUN_NUMBER']}, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/feishu-daily-state.json
+          git commit -m "chore: record feishu daily delivery"
+          for attempt in 1 2 3; do
+            if git push origin "HEAD:$branch"; then
+              exit 0
+            fi
+            echo "State push attempt $attempt failed; rebasing and retrying"
+            git pull --rebase origin "$branch"
+          done
+          echo "Failed to record Feishu delivery state after 3 attempts"
+          exit 1
