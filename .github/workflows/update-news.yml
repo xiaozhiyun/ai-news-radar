@@ -8,6 +8,10 @@ on:
         required: false
         default: false
         type: boolean
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/update-news.yml"
   schedule:
     # Avoid the top and half hour, where GitHub scheduled runs are more likely
     # to be delayed or dropped. Add extra morning wake-ups so one missed cron
