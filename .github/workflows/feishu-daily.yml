@@ -2,6 +2,10 @@ name: Send Feishu AI Daily
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/feishu-daily.yml"
   workflow_run:
     workflows: ["Update AI News Snapshot"]
     types: [completed]
@@ -22,7 +26,7 @@ permissions:
 jobs:
   send:
     if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
-    timeout-minutes: 60
+    timeout-minutes: 75
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -39,10 +43,24 @@ jobs:
           beijing_now="$(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M:%S %z')"
           beijing_date="$(TZ=Asia/Shanghai date '+%Y-%m-%d')"
           beijing_hour="$(TZ=Asia/Shanghai date '+%H')"
+          beijing_minute="$(TZ=Asia/Shanghai date '+%M')"
+          beijing_second="$(TZ=Asia/Shanghai date '+%S')"
 
-          if [ "$event" = "schedule" ] || [ "$event" = "workflow_run" ]; then
+          if [ "$event" = "schedule" ] || [ "$event" = "workflow_run" ] || [ "$event" = "push" ]; then
             should_send="false"
             reason="before Beijing 09:00"
+
+            # GitHub may deliver an update before 09:00 and then drop every
+            # post-09:00 cron. Keep the 08:xx workflow_run alive until 09:00 so
+            # that the already-delivered event can still close the daily loop.
+            if [ "$event" = "workflow_run" ] && [ "$beijing_hour" -eq 8 ]; then
+              wait_seconds=$((3600 - 10#$beijing_minute * 60 - 10#$beijing_second))
+              echo "Waiting ${wait_seconds}s for Beijing 09:00 delivery window"
+              sleep "$wait_seconds"
+              beijing_now="$(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M:%S %z')"
+              beijing_date="$(TZ=Asia/Shanghai date '+%Y-%m-%d')"
+              beijing_hour="$(TZ=Asia/Shanghai date '+%H')"
+            fi
 
             if [ "$beijing_hour" -ge 9 ]; then
               should_send="true"
