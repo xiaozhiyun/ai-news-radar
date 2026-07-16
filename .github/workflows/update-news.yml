@@ -154,15 +154,15 @@ jobs:
         run: |
           set -euo pipefail
           should_send="false"
-          reason="before Beijing 09:00"
+          reason="before Beijing 08:00"
           beijing_now="$(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M:%S %z')"
           beijing_date="$(TZ=Asia/Shanghai date '+%Y-%m-%d')"
           beijing_hour="$(TZ=Asia/Shanghai date '+%H')"
           branch="${GITHUB_REF_NAME:-main}"
 
-          if [ "$beijing_hour" -ge 9 ]; then
+          if [ "$beijing_hour" -ge 8 ]; then
             should_send="true"
-            reason="snapshot update completed after Beijing 09:00"
+            reason="snapshot update completed after Beijing 08:00 (target before 10:00)"
           fi
 
           git fetch origin "$branch"

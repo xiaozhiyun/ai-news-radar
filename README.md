@@ -156,7 +156,7 @@ GitHub 自动更新
 `.github/workflows/update-news.yml` 已经配置好定时任务。
 支持手动触发 `workflow_dispatch`；需要忽略 TikHub 的正常付费源间隔时，显式传入 `force_tikhub=true`
 默认每 30 分钟错峰运行一次：`17,47 * * * *`，并在 UTC 01:00–04:59 增加 `7,27,37,57 1-4 * * *` 上午唤醒点，降低单次 cron 漏投递造成整日上午不运行的概率
-`Update AI News Snapshot` 成功后会在同一次工作流内执行飞书日报 fallback：09:00 后当天未发送才推送，并在成功后记录发送状态
+`Update AI News Snapshot` 成功后会在同一次工作流内执行飞书日报 fallback：北京时间 08:00 后首次成功唤醒且当天未发送时即推送，目标在 10:00 前完成，并在成功后记录发送状态
 `update-news.yml` 自身发生推送时会自动运行一次完整自检；该触发器只匹配工作流文件，不会被日常 `data/` 提交递归触发
 自动生成并提交 `data/*.json`；工作流使用 `git add data/`，避免新增 JSON 文件因为白名单遗漏而停留在旧更新时间
 如果没有设置 `FOLLOW_OPML_B64`，线上工作流会自动使用公开示例 `feeds/follow.example.opml`，让页面展示 RSS/OPML 能力
@@ -272,7 +272,7 @@ Actions Variable：`PUBLIC_SITE_URL`
 定时目标：每天北京时间 9:00 推送 AI 日报。
 GitHub Actions 的 `cron` 使用 UTC，并且定时运行可能延迟或漏触发。
 独立日报工作流使用北京时间上午窗口和午后/傍晚/夜间兜底：`11,31,51 1-4 * * *`、`17 5,9,13 * * *`。
-`Update AI News Snapshot` 成功后会在同一次工作流内直接检查并补发；内置北京时间守门：09:00 前跳过，09:00 后当天未发送才推送。
+`Update AI News Snapshot` 成功后会在同一次工作流内直接检查并补发；内置北京时间守门：08:00 前跳过，08:00 后首次成功唤醒且当天未发送时即推送，目标在 10:00 前完成。
 独立的 `Send Feishu AI Daily` 工作流继续保留定时和 `workflow_run` 检查，作为第二条自动发送路径。
 每次成功推送都会写入 `data/feishu-daily-state.json` 记录当天已发送，防止手动验证后又被自动任务重复推送；手动触发仍保留，用于测试和补发。
 已验证：

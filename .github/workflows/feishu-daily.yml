@@ -12,7 +12,8 @@ on:
   schedule:
     # GitHub Actions cron uses UTC and scheduled runs may be delayed or dropped.
     # Use a focused morning window plus sparse backstops. The guard below sends
-    # only on the first automatic run at/after 09:00 Beijing time each day.
+    # only on the first automatic run at/after 08:00 Beijing time each day,
+    # with a relaxed delivery target of completing before 10:00.
     - cron: "11,31,51 1-4 * * *"
     - cron: "17 5,9,13 * * *"
 
@@ -26,7 +27,7 @@ permissions:
 jobs:
   send:
     if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
-    timeout-minutes: 75
+    timeout-minutes: 60
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -43,28 +44,14 @@ jobs:
           beijing_now="$(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M:%S %z')"
           beijing_date="$(TZ=Asia/Shanghai date '+%Y-%m-%d')"
           beijing_hour="$(TZ=Asia/Shanghai date '+%H')"
-          beijing_minute="$(TZ=Asia/Shanghai date '+%M')"
-          beijing_second="$(TZ=Asia/Shanghai date '+%S')"
 
           if [ "$event" = "schedule" ] || [ "$event" = "workflow_run" ] || [ "$event" = "push" ]; then
             should_send="false"
-            reason="before Beijing 09:00"
+            reason="before Beijing 08:00"
 
-            # GitHub may deliver an update before 09:00 and then drop every
-            # post-09:00 cron. Keep the 08:xx workflow_run alive until 09:00 so
-            # that the already-delivered event can still close the daily loop.
-            if [ "$event" = "workflow_run" ] && [ "$beijing_hour" -eq 8 ]; then
-              wait_seconds=$((3600 - 10#$beijing_minute * 60 - 10#$beijing_second))
-              echo "Waiting ${wait_seconds}s for Beijing 09:00 delivery window"
-              sleep "$wait_seconds"
-              beijing_now="$(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M:%S %z')"
-              beijing_date="$(TZ=Asia/Shanghai date '+%Y-%m-%d')"
-              beijing_hour="$(TZ=Asia/Shanghai date '+%H')"
-            fi
-
-            if [ "$beijing_hour" -ge 9 ]; then
+            if [ "$beijing_hour" -ge 8 ]; then
               should_send="true"
-              reason="first automatic run at or after Beijing 09:00"
+              reason="first automatic run at or after Beijing 08:00 (target before 10:00)"
             fi
 
             branch="${GITHUB_REF_NAME:-main}"
