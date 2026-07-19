@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-19T11:00:12.979241Z",
+  "generated_at": "2026-07-19T12:06:50.738764Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 174,
-      "duration_ms": 5192,
+      "item_count": 173,
+      "duration_ms": 5133,
       "error": null
     },
     {
       "site_id": "curated_media",
       "site_name": "Curated Media",
       "ok": true,
-      "item_count": 45,
-      "duration_ms": 6124,
+      "item_count": 39,
+      "duration_ms": 2929,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 6,
-      "duration_ms": 271,
+      "duration_ms": 243,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 24,
-      "duration_ms": 346,
+      "duration_ms": 29,
       "error": null
     },
     {
@@ -38,7 +38,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 526,
+      "duration_ms": 454,
       "error": null
     },
     {
@@ -46,15 +46,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 377,
+      "duration_ms": 301,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 385,
-      "duration_ms": 14352,
+      "item_count": 393,
+      "duration_ms": 32148,
       "error": null
     },
     {
@@ -62,31 +62,31 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1233,
+      "duration_ms": 691,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3041,
-      "duration_ms": 1606,
+      "item_count": 3038,
+      "duration_ms": 2206,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 59,
-      "duration_ms": 706,
+      "item_count": 63,
+      "duration_ms": 577,
       "error": null
     },
     {
       "site_id": "hackernews",
       "site_name": "Hacker News",
       "ok": true,
-      "item_count": 4,
-      "duration_ms": 6343,
+      "item_count": 3,
+      "duration_ms": 5579,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 26,
-      "duration_ms": 394,
+      "duration_ms": 312,
       "error": null
     },
     {
@@ -102,7 +102,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1266,
+      "duration_ms": 997,
       "error": null
     },
     {
@@ -110,35 +110,33 @@
       "site_name": "AI HOT",
       "ok": true,
       "item_count": 94,
-      "duration_ms": 942,
+      "duration_ms": 4041,
       "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 20799,
-      "error": "HTTPSConnectionPool(host='newsnow.busiyi.world', port=443): Max retries exceeded with url: /api/s?id=36kr (Caused by ResponseError('too many 500 error responses'))"
+      "ok": true,
+      "item_count": 128,
+      "duration_ms": 1239,
+      "error": null
     },
     {
       "site_id": "waytoagi",
       "site_name": "WaytoAGI",
       "ok": true,
       "item_count": 6,
-      "duration_ms": 7433,
+      "duration_ms": 5142,
       "error": null
     }
   ],
-  "successful_sites": 15,
-  "failed_sites": [
-    "newsnow"
-  ],
+  "successful_sites": 16,
+  "failed_sites": [],
   "zero_item_sites": [],
   "empty_advanced_sources": [],
-  "fetched_raw_items": 5034,
-  "items_before_topic_filter": 5573,
-  "items_in_24h": 464,
+  "fetched_raw_items": 5163,
+  "items_before_topic_filter": 5586,
+  "items_in_24h": 469,
   "rss_opml": {
     "enabled": false,
     "path": null,
