@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T00:12:54.655197Z",
+  "generated_at": "2026-07-21T03:46:40.006507Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8648,
-      "importance": 0.8648,
-      "importance_score": 0.8648,
+      "score": 0.8568,
+      "importance": 0.8568,
+      "importance_score": 0.8568,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8879,
+        "recency": 0.8434,
         "story_heat": 0.25
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8436,
-      "importance": 0.8436,
-      "importance_score": 0.8436,
+      "score": 0.8362,
+      "importance": 0.8362,
+      "importance_score": 0.8362,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8144,
+        "recency": 0.7736,
         "story_heat": 0.25
       },
       "category": "official",
@@ -164,6 +164,187 @@
         "title": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系 / Safety and alignment in an era of long-horizon models",
         "url": "https://openai.com/index/safety-alignment-long-horizon-models",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_32d427eb72d1",
+      "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
+      "url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "primary_url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9a0ec36f6f8791f3a36883b7a3e2a4b2f2a40f84",
+          "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T00:35:26.928000Z"
+        },
+        {
+          "id": "9967527d5e5b535c1b7e8fa13dd7b9a991ec71fa",
+          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:00:00Z"
+        },
+        {
+          "id": "0f7b1a9c982e3a0e860acf56d601bfcbbb63cec7",
+          "title": "代理群与新经济模式",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-21T00:35:26.928000Z"
+        },
+        {
+          "id": "ba63a889be06175186b81bb35172e9a594e1cc65",
+          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试 / Agent swarms and the new model economics",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T18:06:13Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Cursor Blog",
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "cursor.com"
+      ],
+      "items": [
+        {
+          "id": "9a0ec36f6f8791f3a36883b7a3e2a4b2f2a40f84",
+          "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T00:35:26.928000Z"
+        },
+        {
+          "id": "9967527d5e5b535c1b7e8fa13dd7b9a991ec71fa",
+          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:00:00Z"
+        },
+        {
+          "id": "0f7b1a9c982e3a0e860acf56d601bfcbbb63cec7",
+          "title": "代理群与新经济模式",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-21T00:35:26.928000Z"
+        },
+        {
+          "id": "ba63a889be06175186b81bb35172e9a594e1cc65",
+          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试 / Agent swarms and the new model economics",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T18:06:13Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8315,
+      "importance": 0.8315,
+      "importance_score": 0.8315,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.955,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T12:00:00Z",
+      "latest_at": "2026-07-21T00:35:26.928000Z",
+      "primary_item": {
+        "id": "9a0ec36f6f8791f3a36883b7a3e2a4b2f2a40f84",
+        "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
+        "url": "https://cursor.com/blog/agent-swarm-model-economics",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_907952925737",
+      "title": "Copilot 用户现在可以查看每个计费周期使用的 AI 积分 / Copilot users can now see AI credits used per billing cycle",
+      "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
+      "primary_url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c4797d399f3b08c3517e7396453d98a469814bc6",
+          "title": "Copilot 用户现在可以查看每个计费周期使用的 AI 积分 / Copilot users can now see AI credits used per billing cycle",
+          "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T16:00:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c4797d399f3b08c3517e7396453d98a469814bc6",
+          "title": "Copilot 用户现在可以查看每个计费周期使用的 AI 积分 / Copilot users can now see AI credits used per billing cycle",
+          "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T16:00:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8239,
+      "importance": 0.8239,
+      "importance_score": 0.8239,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8436,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T16:00:14Z",
+      "latest_at": "2026-07-20T16:00:14Z",
+      "primary_item": {
+        "id": "c4797d399f3b08c3517e7396453d98a469814bc6",
+        "title": "Copilot 用户现在可以查看每个计费周期使用的 AI 积分 / Copilot users can now see AI credits used per billing cycle",
+        "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -258,15 +439,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
+      "score": 0.826,
+      "importance": 0.826,
+      "importance_score": 0.826,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9204,
+        "recency": 0.8743,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -286,65 +467,84 @@
       }
     },
     {
-      "story_id": "story_907952925737",
-      "title": "Copilot 用户现在可以查看每个计费周期使用的 AI 积分 / Copilot users can now see AI credits used per billing cycle",
-      "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
-      "primary_url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_4ca1da280c69",
+      "title": "Gartner最新预测：全球AI模型与平台市场高速增长， 2026 年规模将达 640 亿美元",
+      "url": "https://www.aibase.com/news/29743",
+      "primary_url": "https://www.aibase.com/news/29743",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "c4797d399f3b08c3517e7396453d98a469814bc6",
-          "title": "Copilot 用户现在可以查看每个计费周期使用的 AI 积分 / Copilot users can now see AI credits used per billing cycle",
-          "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-20T16:00:14Z"
+          "id": "510b356a0644522ede024f6bd0e58373564d27b1",
+          "title": "Gartner最新预测：全球AI模型与平台市场高速增长， 2026 年规模将达 640 亿美元",
+          "url": "https://www.aibase.com/news/29743",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T03:46:40.006507Z"
+        },
+        {
+          "id": "a22cae7d2a2ac61d90b5f9d4fade66675f572f40",
+          "title": "Gartner 最新预测：全球 AI 模型与平台市场高速增长，2026 年规模将达 640 亿美元",
+          "url": "https://www.aibase.com/zh/news/29743",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "c4797d399f3b08c3517e7396453d98a469814bc6",
-          "title": "Copilot 用户现在可以查看每个计费周期使用的 AI 积分 / Copilot users can now see AI credits used per billing cycle",
-          "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-20T16:00:14Z"
+          "id": "510b356a0644522ede024f6bd0e58373564d27b1",
+          "title": "Gartner最新预测：全球AI模型与平台市场高速增长， 2026 年规模将达 640 亿美元",
+          "url": "https://www.aibase.com/news/29743",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T03:46:40.006507Z"
+        },
+        {
+          "id": "a22cae7d2a2ac61d90b5f9d4fade66675f572f40",
+          "title": "Gartner 最新预测：全球 AI 模型与平台市场高速增长，2026 年规模将达 640 亿美元",
+          "url": "https://www.aibase.com/zh/news/29743",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8319,
-      "importance": 0.8319,
-      "importance_score": 0.8319,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8882,
-        "story_heat": 0.0
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-20T16:00:14Z",
-      "latest_at": "2026-07-20T16:00:14Z",
+      "earliest_at": "2026-07-21T03:46:40.006507Z",
+      "latest_at": "2026-07-21T03:46:40.006507Z",
       "primary_item": {
-        "id": "c4797d399f3b08c3517e7396453d98a469814bc6",
-        "title": "Copilot 用户现在可以查看每个计费周期使用的 AI 积分 / Copilot users can now see AI credits used per billing cycle",
-        "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "510b356a0644522ede024f6bd0e58373564d27b1",
+        "title": "Gartner最新预测：全球AI模型与平台市场高速增长， 2026 年规模将达 640 亿美元",
+        "url": "https://www.aibase.com/news/29743",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -382,15 +582,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
+      "score": 0.8212,
+      "importance": 0.8212,
+      "importance_score": 0.8212,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9195,
+        "recency": 0.8734,
         "story_heat": 0.0
       },
       "category": "official",
@@ -407,6 +607,87 @@
         "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_dbb4e0df2319",
+      "title": "Anthropic 与作家群体15亿美元版权和解获批",
+      "url": "https://www.ithome.com/0/979/324.htm",
+      "primary_url": "https://www.ithome.com/0/979/324.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4915405446f701d1c7d239855623693740c3c469",
+          "title": "Anthropic 与作家群体15亿美元版权和解获批",
+          "url": "https://www.ithome.com/0/979/324.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T01:57:54Z"
+        },
+        {
+          "id": "ba1a071fa3e452f6dced6218a30a4941f2762e38",
+          "title": "美国版权案件最高金额：Anthropic 与作家群体 15 亿美元和解获批",
+          "url": "https://www.ithome.com/0/979/324.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T01:57:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4915405446f701d1c7d239855623693740c3c469",
+          "title": "Anthropic 与作家群体15亿美元版权和解获批",
+          "url": "https://www.ithome.com/0/979/324.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T01:57:54Z"
+        },
+        {
+          "id": "ba1a071fa3e452f6dced6218a30a4941f2762e38",
+          "title": "美国版权案件最高金额：Anthropic 与作家群体 15 亿美元和解获批",
+          "url": "https://www.ithome.com/0/979/324.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T01:57:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7909,
+      "importance": 0.7909,
+      "importance_score": 0.7909,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9742,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T01:57:54Z",
+      "latest_at": "2026-07-21T01:57:54Z",
+      "primary_item": {
+        "id": "4915405446f701d1c7d239855623693740c3c469",
+        "title": "Anthropic 与作家群体15亿美元版权和解获批",
+        "url": "https://www.ithome.com/0/979/324.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -463,15 +744,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.7799,
+      "importance": 0.7799,
+      "importance_score": 0.7799,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9082,
+        "recency": 0.8626,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -488,6 +769,87 @@
         "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_689c07d673cc",
+      "title": "千问甩出语音合成大模型Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
+      "url": "https://www.aibase.com/news/29739",
+      "primary_url": "https://www.aibase.com/news/29739",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e4433a818822d9fbee1123c2fd746f0518e9085e",
+          "title": "千问甩出语音合成大模型Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
+          "url": "https://www.aibase.com/news/29739",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T03:46:40.006507Z"
+        },
+        {
+          "id": "808e8ee8e2667e5d27b5584472d35c201dd84d6d",
+          "title": "千问发布语音合成大模型 Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
+          "url": "https://www.aibase.com/zh/news/29739",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e4433a818822d9fbee1123c2fd746f0518e9085e",
+          "title": "千问甩出语音合成大模型Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
+          "url": "https://www.aibase.com/news/29739",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T03:46:40.006507Z"
+        },
+        {
+          "id": "808e8ee8e2667e5d27b5584472d35c201dd84d6d",
+          "title": "千问发布语音合成大模型 Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
+          "url": "https://www.aibase.com/zh/news/29739",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T03:46:40.006507Z",
+      "latest_at": "2026-07-21T03:46:40.006507Z",
+      "primary_item": {
+        "id": "e4433a818822d9fbee1123c2fd746f0518e9085e",
+        "title": "千问甩出语音合成大模型Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
+        "url": "https://www.aibase.com/news/29739",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -525,15 +887,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8171,
-      "importance": 0.8171,
-      "importance_score": 0.8171,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8508,
+        "recency": 0.8081,
         "story_heat": 0.0
       },
       "category": "official",
@@ -553,26 +915,227 @@
       }
     },
     {
-      "story_id": "story_7fe35170d27a",
-      "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-      "url": "https://www.aibase.com/news/29716",
-      "primary_url": "https://www.aibase.com/news/29716",
+      "story_id": "story_d41379acd239",
+      "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
+      "url": "https://mp.weixin.qq.com/s/upwDQ_6ZfmszBUcRQjR_Dg",
+      "primary_url": "https://mp.weixin.qq.com/s/upwDQ_6ZfmszBUcRQjR_Dg",
+      "source": "公众号：腾讯混元",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "15a94235646fd91f4d56cfe7459edff4271ac204",
+          "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
+          "url": "https://mp.weixin.qq.com/s/upwDQ_6ZfmszBUcRQjR_Dg",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T03:33:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：腾讯混元"
+      ],
+      "items": [
+        {
+          "id": "15a94235646fd91f4d56cfe7459edff4271ac204",
+          "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
+          "url": "https://mp.weixin.qq.com/s/upwDQ_6ZfmszBUcRQjR_Dg",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T03:33:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9967,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-21T03:33:08Z",
+      "latest_at": "2026-07-21T03:33:08Z",
+      "primary_item": {
+        "id": "15a94235646fd91f4d56cfe7459edff4271ac204",
+        "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
+        "url": "https://mp.weixin.qq.com/s/upwDQ_6ZfmszBUcRQjR_Dg",
+        "source": "公众号：腾讯混元",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_61ab212c97bc",
+      "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
+      "url": "https://mp.weixin.qq.com/s/pqFZreEZj8kB4KDirl4MSQ",
+      "primary_url": "https://mp.weixin.qq.com/s/pqFZreEZj8kB4KDirl4MSQ",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0afc9cd3fb43225d820e86b29b10663a9980ddd0",
+          "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
+          "url": "https://mp.weixin.qq.com/s/pqFZreEZj8kB4KDirl4MSQ",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T01:10:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "0afc9cd3fb43225d820e86b29b10663a9980ddd0",
+          "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
+          "url": "https://mp.weixin.qq.com/s/pqFZreEZj8kB4KDirl4MSQ",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T01:10:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9632,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-21T01:10:49Z",
+      "latest_at": "2026-07-21T01:10:49Z",
+      "primary_item": {
+        "id": "0afc9cd3fb43225d820e86b29b10663a9980ddd0",
+        "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
+        "url": "https://mp.weixin.qq.com/s/pqFZreEZj8kB4KDirl4MSQ",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c4ff01821c40",
+      "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+      "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+      "primary_url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
+          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:12:47Z"
+        },
+        {
+          "id": "6b3edb0ee695ad9f0fab9396e5c875c67d15ad10",
+          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析 / Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
+          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-20T12:12:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
+          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:12:47Z"
+        },
+        {
+          "id": "6b3edb0ee695ad9f0fab9396e5c875c67d15ad10",
+          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析 / Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
+          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-20T12:12:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7987,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T12:12:47Z",
+      "latest_at": "2026-07-20T12:12:47Z",
+      "primary_item": {
+        "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
+        "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+        "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d171fa0ebcad",
+      "title": "猿辅导发布AI大阅读，打造面向青少年的智能伴读产品",
+      "url": "https://www.aibase.com/news/29742",
+      "primary_url": "https://www.aibase.com/news/29742",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6a2a4efff57c55b85339a80813549686a3d87126",
-          "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-          "url": "https://www.aibase.com/news/29716",
+          "id": "4712d1eef3f7ae43fc990915eee0384e5b6fec14",
+          "title": "猿辅导发布AI大阅读，打造面向青少年的智能伴读产品",
+          "url": "https://www.aibase.com/news/29742",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-20T07:30:26.836655Z"
+          "published_at": "2026-07-21T03:46:40.006507Z"
         },
         {
-          "id": "d1a05510149e53ae0717ecb0690519e9acffaa7b",
-          "title": "字节跳动发布 Seed Audio 1.0：音频生成从「会说」迈向「会创作」",
-          "url": "https://www.aibase.com/zh/news/29716",
+          "id": "9758b60e55ca61db0cf141cc0289329b51e18c72",
+          "title": "猿辅导发布AI大阅读，打造面向青少年的智能伴读产品",
+          "url": "https://www.aibase.com/zh/news/29742",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -586,18 +1149,18 @@
       ],
       "items": [
         {
-          "id": "6a2a4efff57c55b85339a80813549686a3d87126",
-          "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-          "url": "https://www.aibase.com/news/29716",
+          "id": "4712d1eef3f7ae43fc990915eee0384e5b6fec14",
+          "title": "猿辅导发布AI大阅读，打造面向青少年的智能伴读产品",
+          "url": "https://www.aibase.com/news/29742",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-20T07:30:26.836655Z"
+          "published_at": "2026-07-21T03:46:40.006507Z"
         },
         {
-          "id": "d1a05510149e53ae0717ecb0690519e9acffaa7b",
-          "title": "字节跳动发布 Seed Audio 1.0：音频生成从「会说」迈向「会创作」",
-          "url": "https://www.aibase.com/zh/news/29716",
+          "id": "9758b60e55ca61db0cf141cc0289329b51e18c72",
+          "title": "猿辅导发布AI大阅读，打造面向青少年的智能伴读产品",
+          "url": "https://www.aibase.com/zh/news/29742",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -606,15 +1169,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7856,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -623,14 +1186,134 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-20T07:30:26.836655Z",
-      "latest_at": "2026-07-20T07:30:26.836655Z",
+      "earliest_at": "2026-07-21T03:46:40.006507Z",
+      "latest_at": "2026-07-21T03:46:40.006507Z",
       "primary_item": {
-        "id": "6a2a4efff57c55b85339a80813549686a3d87126",
-        "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-        "url": "https://www.aibase.com/news/29716",
+        "id": "4712d1eef3f7ae43fc990915eee0384e5b6fec14",
+        "title": "猿辅导发布AI大阅读，打造面向青少年的智能伴读产品",
+        "url": "https://www.aibase.com/news/29742",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_750b59cf8263",
+      "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
+      "url": "https://x.ai/news/introducing-excel-addin",
+      "primary_url": "https://x.ai/news/introducing-excel-addin",
+      "source": "xAI：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f6697f4ca470f898348aef165d8193b250e8b902",
+          "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
+          "url": "https://x.ai/news/introducing-excel-addin",
+          "source": "xAI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T16:19:52.655000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "xAI：News（网页）"
+      ],
+      "items": [
+        {
+          "id": "f6697f4ca470f898348aef165d8193b250e8b902",
+          "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
+          "url": "https://x.ai/news/introducing-excel-addin",
+          "source": "xAI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T16:19:52.655000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8476,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-20T16:19:52.655000Z",
+      "latest_at": "2026-07-20T16:19:52.655000Z",
+      "primary_item": {
+        "id": "f6697f4ca470f898348aef165d8193b250e8b902",
+        "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
+        "url": "https://x.ai/news/introducing-excel-addin",
+        "source": "xAI：News（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d6dc47cf0cbd",
+      "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
+      "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
+      "primary_url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
+      "source": "公众号：面壁智能（MiniCPM）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ebf9cae24a7ec874e2f054116d36585d5feb7978",
+          "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
+          "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T03:54:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：面壁智能（MiniCPM）"
+      ],
+      "items": [
+        {
+          "id": "ebf9cae24a7ec874e2f054116d36585d5feb7978",
+          "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
+          "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T03:54:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7301,
+      "importance": 0.7301,
+      "importance_score": 0.7301,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7084,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-20T03:54:08Z",
+      "latest_at": "2026-07-20T03:54:08Z",
+      "primary_item": {
+        "id": "ebf9cae24a7ec874e2f054116d36585d5feb7978",
+        "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
+        "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
+        "source": "公众号：面壁智能（MiniCPM）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -706,15 +1389,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7833,
-      "importance": 0.7833,
-      "importance_score": 0.7833,
+      "score": 0.7757,
+      "importance": 0.7757,
+      "importance_score": 0.7757,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8426,
+        "recency": 0.8003,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -787,15 +1470,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7399,
+      "importance": 0.7399,
+      "importance_score": 0.7399,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7799,
+        "recency": 0.7408,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -811,488 +1494,6 @@
         "url": "https://www.ithome.com/0/979/017.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c4ff01821c40",
-      "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-      "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-      "primary_url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
-          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:12:47Z"
-        },
-        {
-          "id": "6b3edb0ee695ad9f0fab9396e5c875c67d15ad10",
-          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析 / Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
-          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-20T12:12:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
-          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:12:47Z"
-        },
-        {
-          "id": "6b3edb0ee695ad9f0fab9396e5c875c67d15ad10",
-          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析 / Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
-          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-20T12:12:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8409,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T12:12:47Z",
-      "latest_at": "2026-07-20T12:12:47Z",
-      "primary_item": {
-        "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
-        "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-        "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_32d427eb72d1",
-      "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
-      "url": "https://cursor.com/blog/agent-swarm-model-economics",
-      "primary_url": "https://cursor.com/blog/agent-swarm-model-economics",
-      "source": "Cursor Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9967527d5e5b535c1b7e8fa13dd7b9a991ec71fa",
-          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
-          "url": "https://cursor.com/blog/agent-swarm-model-economics",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:00:00Z"
-        },
-        {
-          "id": "ba63a889be06175186b81bb35172e9a594e1cc65",
-          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试 / Agent swarms and the new model economics",
-          "url": "https://cursor.com/blog/agent-swarm-model-economics",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T18:06:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Cursor Blog",
-        "Hacker News (黑客新闻)"
-      ],
-      "items": [
-        {
-          "id": "9967527d5e5b535c1b7e8fa13dd7b9a991ec71fa",
-          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
-          "url": "https://cursor.com/blog/agent-swarm-model-economics",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:00:00Z"
-        },
-        {
-          "id": "ba63a889be06175186b81bb35172e9a594e1cc65",
-          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试 / Agent swarms and the new model economics",
-          "url": "https://cursor.com/blog/agent-swarm-model-economics",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T18:06:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7395,
-      "importance": 0.7395,
-      "importance_score": 0.7395,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8383,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T12:00:00Z",
-      "latest_at": "2026-07-20T18:06:13Z",
-      "primary_item": {
-        "id": "9967527d5e5b535c1b7e8fa13dd7b9a991ec71fa",
-        "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
-        "url": "https://cursor.com/blog/agent-swarm-model-economics",
-        "source": "Cursor Blog",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_750b59cf8263",
-      "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-      "url": "https://x.ai/news/introducing-excel-addin",
-      "primary_url": "https://x.ai/news/introducing-excel-addin",
-      "source": "xAI：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f6697f4ca470f898348aef165d8193b250e8b902",
-          "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-          "url": "https://x.ai/news/introducing-excel-addin",
-          "source": "xAI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T16:19:52.655000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "xAI：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "f6697f4ca470f898348aef165d8193b250e8b902",
-          "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-          "url": "https://x.ai/news/introducing-excel-addin",
-          "source": "xAI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T16:19:52.655000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8924,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T16:19:52.655000Z",
-      "latest_at": "2026-07-20T16:19:52.655000Z",
-      "primary_item": {
-        "id": "f6697f4ca470f898348aef165d8193b250e8b902",
-        "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-        "url": "https://x.ai/news/introducing-excel-addin",
-        "source": "xAI：News（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d6dc47cf0cbd",
-      "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
-      "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
-      "primary_url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
-      "source": "公众号：面壁智能（MiniCPM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ebf9cae24a7ec874e2f054116d36585d5feb7978",
-          "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
-          "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T03:54:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：面壁智能（MiniCPM）"
-      ],
-      "items": [
-        {
-          "id": "ebf9cae24a7ec874e2f054116d36585d5feb7978",
-          "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
-          "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T03:54:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7458,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T03:54:08Z",
-      "latest_at": "2026-07-20T03:54:08Z",
-      "primary_item": {
-        "id": "ebf9cae24a7ec874e2f054116d36585d5feb7978",
-        "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
-        "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
-        "source": "公众号：面壁智能（MiniCPM）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_156195f4caae",
-      "title": "Replit 新统一工具栏集成数据库与双因素认证",
-      "url": "https://x.com/Replit/status/2079235154485109114",
-      "primary_url": "https://x.com/Replit/status/2079235154485109114",
-      "source": "X：Replit (@Replit)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "835a9a3500b3f20c63c11c067b20c46aa7196d56",
-          "title": "Replit 新统一工具栏集成数据库与双因素认证",
-          "url": "https://x.com/Replit/status/2079235154485109114",
-          "source": "X：Replit (@Replit)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T16:01:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Replit (@Replit)"
-      ],
-      "items": [
-        {
-          "id": "835a9a3500b3f20c63c11c067b20c46aa7196d56",
-          "title": "Replit 新统一工具栏集成数据库与双因素认证",
-          "url": "https://x.com/Replit/status/2079235154485109114",
-          "source": "X：Replit (@Replit)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T16:01:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7265,
-      "importance": 0.7265,
-      "importance_score": 0.7265,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8884,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T16:01:05Z",
-      "latest_at": "2026-07-20T16:01:05Z",
-      "primary_item": {
-        "id": "835a9a3500b3f20c63c11c067b20c46aa7196d56",
-        "title": "Replit 新统一工具栏集成数据库与双因素认证",
-        "url": "https://x.com/Replit/status/2079235154485109114",
-        "source": "X：Replit (@Replit)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_eec8cd6d4207",
-      "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-      "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
-      "primary_url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
-      "source": "公众号：通义实验室（千问）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
-          "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-          "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T08:53:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：通义实验室（千问）"
-      ],
-      "items": [
-        {
-          "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
-          "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-          "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T08:53:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7259,
-      "importance": 0.7259,
-      "importance_score": 0.7259,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8014,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T08:53:11Z",
-      "latest_at": "2026-07-20T08:53:11Z",
-      "primary_item": {
-        "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
-        "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-        "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
-        "source": "公众号：通义实验室（千问）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_edfc7d9a444c",
-      "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-      "url": "https://www.aibase.com/news/29720",
-      "primary_url": "https://www.aibase.com/news/29720",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "33c4456e27ccf2b161161bca8777983efc49bd07",
-          "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-          "url": "https://www.aibase.com/news/29720",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T07:30:26.836655Z"
-        },
-        {
-          "id": "be756b637a39b8a3b31bc47d62c1722fdb656e3a",
-          "title": "智象未来发布全球首个无限时长创作智能体 vivago R1，商业可用率拉到 85%",
-          "url": "https://www.aibase.com/zh/news/29720",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "33c4456e27ccf2b161161bca8777983efc49bd07",
-          "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-          "url": "https://www.aibase.com/news/29720",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T07:30:26.836655Z"
-        },
-        {
-          "id": "be756b637a39b8a3b31bc47d62c1722fdb656e3a",
-          "title": "智象未来发布全球首个无限时长创作智能体 vivago R1，商业可用率拉到 85%",
-          "url": "https://www.aibase.com/zh/news/29720",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7856,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T07:30:26.836655Z",
-      "latest_at": "2026-07-20T07:30:26.836655Z",
-      "primary_item": {
-        "id": "33c4456e27ccf2b161161bca8777983efc49bd07",
-        "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-        "url": "https://www.aibase.com/news/29720",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1420,15 +1621,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6934,
-      "importance": 0.6934,
-      "importance_score": 0.6934,
+      "score": 0.6854,
+      "importance": 0.6854,
+      "importance_score": 0.6854,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.54,
         "ai_relevance": 0.76,
-        "recency": 0.8799,
+        "recency": 0.8358,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1443,126 +1644,6 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-20",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_fdabc12803be",
-      "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
-      "url": "https://www.aibase.com/news/29725",
-      "primary_url": "https://www.aibase.com/news/29725",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
-          "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
-          "url": "https://www.aibase.com/news/29725",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T10:30:37.736705Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
-          "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
-          "url": "https://www.aibase.com/news/29725",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T10:30:37.736705Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8204,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T10:30:37.736705Z",
-      "latest_at": "2026-07-20T10:30:37.736705Z",
-      "primary_item": {
-        "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
-        "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
-        "url": "https://www.aibase.com/news/29725",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5051d31999f6",
-      "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-      "url": "https://ollama.com/blog/all-aboard-open-models",
-      "primary_url": "https://ollama.com/blog/all-aboard-open-models",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
-          "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-          "url": "https://ollama.com/blog/all-aboard-open-models",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T01:45:09.765000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
-          "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-          "url": "https://ollama.com/blog/all-aboard-open-models",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T01:45:09.765000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7207,
-      "importance": 0.7207,
-      "importance_score": 0.7207,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.723,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T01:45:09.765000Z",
-      "latest_at": "2026-07-20T01:45:09.765000Z",
-      "primary_item": {
-        "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
-        "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-        "url": "https://ollama.com/blog/all-aboard-open-models",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     }
   ]
