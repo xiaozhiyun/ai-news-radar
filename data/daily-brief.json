@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T01:07:56.487679Z",
+  "generated_at": "2026-07-22T04:27:33.944052Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -132,15 +132,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.9285,
-      "importance": 0.9285,
-      "importance_score": 0.9285,
+      "score": 0.922,
+      "importance": 0.922,
+      "importance_score": 0.922,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7696,
+        "recency": 0.7335,
         "story_heat": 1.0
       },
       "category": "official",
@@ -271,15 +271,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.9281,
-      "importance": 0.9281,
-      "importance_score": 0.9281,
+      "score": 0.9208,
+      "importance": 0.9208,
+      "importance_score": 0.9208,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8673,
+        "recency": 0.8266,
         "story_heat": 1.0
       },
       "category": "official",
@@ -296,68 +296,6 @@
         "title": "隆重推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber / Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
         "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
         "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_eed16821fcdd",
-      "title": "物理 AI 仿真现状：概述 / The State of Simulation for Physical AI: An Overview",
-      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-      "primary_url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9ebf5c48305ae386c0e6a4477024ccf03d38ee44",
-          "title": "物理 AI 仿真现状：概述 / The State of Simulation for Physical AI: An Overview",
-          "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T20:00:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "9ebf5c48305ae386c0e6a4477024ccf03d38ee44",
-          "title": "物理 AI 仿真现状：概述 / The State of Simulation for Physical AI: An Overview",
-          "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T20:00:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8472,
-      "importance": 0.8472,
-      "importance_score": 0.8472,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9287,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T20:00:27Z",
-      "latest_at": "2026-07-21T20:00:27Z",
-      "primary_item": {
-        "id": "9ebf5c48305ae386c0e6a4477024ccf03d38ee44",
-        "title": "物理 AI 仿真现状：概述 / The State of Simulation for Physical AI: An Overview",
-        "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -415,15 +353,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8468,
-      "importance": 0.8468,
-      "importance_score": 0.8468,
+      "score": 0.8394,
+      "importance": 0.8394,
+      "importance_score": 0.8394,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8764,
+        "recency": 0.8353,
         "story_heat": 0.25
       },
       "category": "official",
@@ -440,6 +378,68 @@
         "title": "GitHub Copilot 推出 canvases 扩展，实现开发者与 AI 智能体实时协作 / How to build interactive experiences with canvases",
         "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
         "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_eed16821fcdd",
+      "title": "物理 AI 仿真现状：概述 / The State of Simulation for Physical AI: An Overview",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "primary_url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9ebf5c48305ae386c0e6a4477024ccf03d38ee44",
+          "title": "物理 AI 仿真现状：概述 / The State of Simulation for Physical AI: An Overview",
+          "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-21T20:00:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "9ebf5c48305ae386c0e6a4477024ccf03d38ee44",
+          "title": "物理 AI 仿真现状：概述 / The State of Simulation for Physical AI: An Overview",
+          "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-21T20:00:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8393,
+      "importance": 0.8393,
+      "importance_score": 0.8393,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8851,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T20:00:27Z",
+      "latest_at": "2026-07-21T20:00:27Z",
+      "primary_item": {
+        "id": "9ebf5c48305ae386c0e6a4477024ccf03d38ee44",
+        "title": "物理 AI 仿真现状：概述 / The State of Simulation for Physical AI: An Overview",
+        "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -478,15 +478,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8357,
-      "importance": 0.8357,
-      "importance_score": 0.8357,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8648,
+        "recency": 0.8243,
         "story_heat": 0.0
       },
       "category": "official",
@@ -577,15 +577,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.8247,
+      "importance": 0.8247,
+      "importance_score": 0.8247,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9684,
+        "recency": 0.923,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -601,409 +601,6 @@
         "title": "OpenAI 自曝 AI 模型突破沙盒入侵 Hugging Face",
         "url": "https://www.ithome.com/0/979/815.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1db9c8ac2637",
-      "title": "五家美国科技巨头因不透明AI融资隐性债务飙升至1.65万亿美元",
-      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-      "primary_url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "af7d6248407dbd8bec3b59b4c542fe8da91e018b",
-          "title": "五家美国科技巨头因不透明AI融资隐性债务飙升至1.65万亿美元",
-          "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T05:54:05.672000Z"
-        },
-        {
-          "id": "1ed27b6f885e79ad484c21efaabab02210fb054a",
-          "title": "五家美国科技巨头的隐性债务因不透明的人工智能融资飙升至1.65万亿美元",
-          "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-          "source": "asia.nikkei.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T05:54:05.672000Z"
-        },
-        {
-          "id": "870201b2392dbaf2dfc87231762febb172eb72f4",
-          "title": "由于人工智能融资不透明，美国五家科技巨头的隐性债务飙升至 1.65 吨 / Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-          "url": "https://news.ycombinator.com/item?id=48987863",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-21T04:25:29.247000Z"
-        },
-        {
-          "id": "0285ad52e8e2fd643c01f65ec1b4aa9a9b7fa6fb",
-          "title": "五家美国科技巨头的隐性债务因不透明的人工智能融资飙升至1.65万亿美元 / Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-          "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-21T03:56:03Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "asia.nikkei.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "af7d6248407dbd8bec3b59b4c542fe8da91e018b",
-          "title": "五家美国科技巨头因不透明AI融资隐性债务飙升至1.65万亿美元",
-          "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T05:54:05.672000Z"
-        },
-        {
-          "id": "1ed27b6f885e79ad484c21efaabab02210fb054a",
-          "title": "五家美国科技巨头的隐性债务因不透明的人工智能融资飙升至1.65万亿美元",
-          "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-          "source": "asia.nikkei.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T05:54:05.672000Z"
-        },
-        {
-          "id": "870201b2392dbaf2dfc87231762febb172eb72f4",
-          "title": "由于人工智能融资不透明，美国五家科技巨头的隐性债务飙升至 1.65 吨 / Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-          "url": "https://news.ycombinator.com/item?id=48987863",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-21T04:25:29.247000Z"
-        },
-        {
-          "id": "0285ad52e8e2fd643c01f65ec1b4aa9a9b7fa6fb",
-          "title": "五家美国科技巨头的隐性债务因不透明的人工智能融资飙升至1.65万亿美元 / Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-          "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-21T03:56:03Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.826,
-      "importance": 0.826,
-      "importance_score": 0.826,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7575,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T03:56:03Z",
-      "latest_at": "2026-07-21T05:54:05.672000Z",
-      "primary_item": {
-        "id": "af7d6248407dbd8bec3b59b4c542fe8da91e018b",
-        "title": "五家美国科技巨头因不透明AI融资隐性债务飙升至1.65万亿美元",
-        "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d42362617c64",
-      "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "primary_url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b9aa56271695b6dc458f13551b888e6449f32922",
-          "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
-          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "b9aa56271695b6dc458f13551b888e6449f32922",
-          "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
-          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8401,
-      "importance": 0.8401,
-      "importance_score": 0.8401,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8892,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T17:00:00Z",
-      "latest_at": "2026-07-21T17:00:00Z",
-      "primary_item": {
-        "id": "b9aa56271695b6dc458f13551b888e6449f32922",
-        "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
-        "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2e31341bbc0d",
-      "title": "OpenAI 与 HuggingFace 调查安全事件",
-      "url": "https://x.com/OpenAI/status/2079658951264920020",
-      "primary_url": "https://x.com/OpenAI/status/2079658951264920020",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e99c44acaa1e2f76ff58dbc27e47de802c6f4735",
-          "title": "OpenAI 与 HuggingFace 调查安全事件",
-          "url": "https://x.com/OpenAI/status/2079658951264920020",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T20:05:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "items": [
-        {
-          "id": "e99c44acaa1e2f76ff58dbc27e47de802c6f4735",
-          "title": "OpenAI 与 HuggingFace 调查安全事件",
-          "url": "https://x.com/OpenAI/status/2079658951264920020",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T20:05:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8029,
-      "importance": 0.8029,
-      "importance_score": 0.8029,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.88,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9297,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T20:05:06Z",
-      "latest_at": "2026-07-21T20:05:06Z",
-      "primary_item": {
-        "id": "e99c44acaa1e2f76ff58dbc27e47de802c6f4735",
-        "title": "OpenAI 与 HuggingFace 调查安全事件",
-        "url": "https://x.com/OpenAI/status/2079658951264920020",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_86dc3adba6c2",
-      "title": "OpenAI 模型逃逸沙箱入侵 Hugging Face 作弊",
-      "url": "https://x.com/rohanpaul_ai/status/2079718327954690167",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2079718327954690167",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8507ee3b037c0c9716cf024ab5aa17396f625f93",
-          "title": "OpenAI 模型逃逸沙箱入侵 Hugging Face 作弊",
-          "url": "https://x.com/rohanpaul_ai/status/2079718327954690167",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T00:01:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "8507ee3b037c0c9716cf024ab5aa17396f625f93",
-          "title": "OpenAI 模型逃逸沙箱入侵 Hugging Face 作弊",
-          "url": "https://x.com/rohanpaul_ai/status/2079718327954690167",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T00:01:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7977,
-      "importance": 0.7977,
-      "importance_score": 0.7977,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.984,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T00:01:03Z",
-      "latest_at": "2026-07-22T00:01:03Z",
-      "primary_item": {
-        "id": "8507ee3b037c0c9716cf024ab5aa17396f625f93",
-        "title": "OpenAI 模型逃逸沙箱入侵 Hugging Face 作弊",
-        "url": "https://x.com/rohanpaul_ai/status/2079718327954690167",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8a76849761ae",
-      "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
-      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "primary_url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "source": "Qwen：Blog Retrieval（API）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "36d38540011f8f5fcbc9e5b3b53653f01cd2a3d0",
-          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
-          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T06:00:00Z"
-        },
-        {
-          "id": "46d9236c43067a055cda17be4f14cb3dcfbfdf08",
-          "title": "Qwen-Image-3.0：丰富的内容、真实的细节、深厚的知识",
-          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-          "source": "qwen.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T10:38:03.030000Z"
-        },
-        {
-          "id": "4e4246dba5c5ba1be1f42db1539cc1aac9819851",
-          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\" / Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T08:44:23Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Qwen：Blog Retrieval（API）",
-        "qwen.ai"
-      ],
-      "items": [
-        {
-          "id": "36d38540011f8f5fcbc9e5b3b53653f01cd2a3d0",
-          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
-          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T06:00:00Z"
-        },
-        {
-          "id": "46d9236c43067a055cda17be4f14cb3dcfbfdf08",
-          "title": "Qwen-Image-3.0：丰富的内容、真实的细节、深厚的知识",
-          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-          "source": "qwen.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T10:38:03.030000Z"
-        },
-        {
-          "id": "4e4246dba5c5ba1be1f42db1539cc1aac9819851",
-          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\" / Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T08:44:23Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7891,
-      "importance": 0.7891,
-      "importance_score": 0.7891,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7586,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T06:00:00Z",
-      "latest_at": "2026-07-21T10:38:03.030000Z",
-      "primary_item": {
-        "id": "36d38540011f8f5fcbc9e5b3b53653f01cd2a3d0",
-        "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
-        "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-        "source": "Qwen：Blog Retrieval（API）",
         "source_name": "AI HOT"
       }
     },
@@ -1080,15 +677,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8189,
-      "importance": 0.8189,
-      "importance_score": 0.8189,
+      "score": 0.8111,
+      "importance": 0.8111,
+      "importance_score": 0.8111,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.924,
+        "recency": 0.8807,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1108,49 +705,111 @@
       }
     },
     {
-      "story_id": "story_3fdc40a5e56b",
-      "title": "OpenAI 承认预发布模型攻破 Hugging Face 系统",
-      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models",
-      "primary_url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_d42362617c64",
+      "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "primary_url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "952dbf2176c3568e2023947887cdcff36280603b",
-          "title": "OpenAI 承认预发布模型攻破 Hugging Face 系统",
-          "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T20:56:55Z"
+          "id": "b9aa56271695b6dc458f13551b888e6449f32922",
+          "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
+          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-21T17:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "TechCrunch：AI（RSS）"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "952dbf2176c3568e2023947887cdcff36280603b",
-          "title": "OpenAI 承认预发布模型攻破 Hugging Face 系统",
-          "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T20:56:55Z"
+          "id": "b9aa56271695b6dc458f13551b888e6449f32922",
+          "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
+          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-21T17:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.787,
-      "importance": 0.787,
-      "importance_score": 0.787,
+      "score": 0.8325,
+      "importance": 0.8325,
+      "importance_score": 0.8325,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8475,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T17:00:00Z",
+      "latest_at": "2026-07-21T17:00:00Z",
+      "primary_item": {
+        "id": "b9aa56271695b6dc458f13551b888e6449f32922",
+        "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
+        "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2e31341bbc0d",
+      "title": "OpenAI 与 HuggingFace 调查安全事件",
+      "url": "https://x.com/OpenAI/status/2079658951264920020",
+      "primary_url": "https://x.com/OpenAI/status/2079658951264920020",
+      "source": "X：OpenAI (@OpenAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e99c44acaa1e2f76ff58dbc27e47de802c6f4735",
+          "title": "OpenAI 与 HuggingFace 调查安全事件",
+          "url": "https://x.com/OpenAI/status/2079658951264920020",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T20:05:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI (@OpenAI)"
+      ],
+      "items": [
+        {
+          "id": "e99c44acaa1e2f76ff58dbc27e47de802c6f4735",
+          "title": "OpenAI 与 HuggingFace 调查安全事件",
+          "url": "https://x.com/OpenAI/status/2079658951264920020",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T20:05:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7951,
+      "importance": 0.7951,
+      "importance_score": 0.7951,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9414,
+        "recency": 0.8861,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1158,13 +817,255 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T20:56:55Z",
-      "latest_at": "2026-07-21T20:56:55Z",
+      "earliest_at": "2026-07-21T20:05:06Z",
+      "latest_at": "2026-07-21T20:05:06Z",
       "primary_item": {
-        "id": "952dbf2176c3568e2023947887cdcff36280603b",
-        "title": "OpenAI 承认预发布模型攻破 Hugging Face 系统",
-        "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models",
-        "source": "TechCrunch：AI（RSS）",
+        "id": "e99c44acaa1e2f76ff58dbc27e47de802c6f4735",
+        "title": "OpenAI 与 HuggingFace 调查安全事件",
+        "url": "https://x.com/OpenAI/status/2079658951264920020",
+        "source": "X：OpenAI (@OpenAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_61626271e238",
+      "title": "OpenAI 正式在 ChatGPT 中推出广告服务，Best Buy 等已率先试水",
+      "url": "https://www.aibase.com/news/29785",
+      "primary_url": "https://www.aibase.com/news/29785",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "069f33320aaaf7a0ab44956f2dc8d24a14a447b5",
+          "title": "OpenAI 正式在 ChatGPT 中推出广告服务，Best Buy 等已率先试水",
+          "url": "https://www.aibase.com/news/29785",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T04:27:33.944052Z"
+        },
+        {
+          "id": "8b3af4c6e4cb7d22f0d23309874d64614c206e57",
+          "title": "OpenAI 正式在 ChatGPT 中推出广告服务，Best Buy 等已率先试水",
+          "url": "https://www.aibase.com/zh/news/29785",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "069f33320aaaf7a0ab44956f2dc8d24a14a447b5",
+          "title": "OpenAI 正式在 ChatGPT 中推出广告服务，Best Buy 等已率先试水",
+          "url": "https://www.aibase.com/news/29785",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T04:27:33.944052Z"
+        },
+        {
+          "id": "8b3af4c6e4cb7d22f0d23309874d64614c206e57",
+          "title": "OpenAI 正式在 ChatGPT 中推出广告服务，Best Buy 等已率先试水",
+          "url": "https://www.aibase.com/zh/news/29785",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T04:27:33.944052Z",
+      "latest_at": "2026-07-22T04:27:33.944052Z",
+      "primary_item": {
+        "id": "069f33320aaaf7a0ab44956f2dc8d24a14a447b5",
+        "title": "OpenAI 正式在 ChatGPT 中推出广告服务，Best Buy 等已率先试水",
+        "url": "https://www.aibase.com/news/29785",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_86dc3adba6c2",
+      "title": "OpenAI 模型逃逸沙箱入侵 Hugging Face 作弊",
+      "url": "https://x.com/rohanpaul_ai/status/2079718327954690167",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2079718327954690167",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8507ee3b037c0c9716cf024ab5aa17396f625f93",
+          "title": "OpenAI 模型逃逸沙箱入侵 Hugging Face 作弊",
+          "url": "https://x.com/rohanpaul_ai/status/2079718327954690167",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T00:01:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "8507ee3b037c0c9716cf024ab5aa17396f625f93",
+          "title": "OpenAI 模型逃逸沙箱入侵 Hugging Face 作弊",
+          "url": "https://x.com/rohanpaul_ai/status/2079718327954690167",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T00:01:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7894,
+      "importance": 0.7894,
+      "importance_score": 0.7894,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9379,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T00:01:03Z",
+      "latest_at": "2026-07-22T00:01:03Z",
+      "primary_item": {
+        "id": "8507ee3b037c0c9716cf024ab5aa17396f625f93",
+        "title": "OpenAI 模型逃逸沙箱入侵 Hugging Face 作弊",
+        "url": "https://x.com/rohanpaul_ai/status/2079718327954690167",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8a76849761ae",
+      "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
+      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "primary_url": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "source": "Qwen：Blog Retrieval（API）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "36d38540011f8f5fcbc9e5b3b53653f01cd2a3d0",
+          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
+          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T06:00:00Z"
+        },
+        {
+          "id": "46d9236c43067a055cda17be4f14cb3dcfbfdf08",
+          "title": "Qwen-Image-3.0：丰富的内容、真实的细节、深厚的知识",
+          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+          "source": "qwen.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-21T10:38:03.030000Z"
+        },
+        {
+          "id": "9e1c85bdb91b749d58b1ef2fcf5ed6849a5e4003",
+          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\" / Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-21T08:44:23Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Qwen：Blog Retrieval（API）",
+        "qwen.ai"
+      ],
+      "items": [
+        {
+          "id": "36d38540011f8f5fcbc9e5b3b53653f01cd2a3d0",
+          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
+          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T06:00:00Z"
+        },
+        {
+          "id": "46d9236c43067a055cda17be4f14cb3dcfbfdf08",
+          "title": "Qwen-Image-3.0：丰富的内容、真实的细节、深厚的知识",
+          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+          "source": "qwen.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-21T10:38:03.030000Z"
+        },
+        {
+          "id": "9e1c85bdb91b749d58b1ef2fcf5ed6849a5e4003",
+          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\" / Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-21T08:44:23Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7827,
+      "importance": 0.7827,
+      "importance_score": 0.7827,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.723,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T06:00:00Z",
+      "latest_at": "2026-07-21T10:38:03.030000Z",
+      "primary_item": {
+        "id": "36d38540011f8f5fcbc9e5b3b53653f01cd2a3d0",
+        "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
+        "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+        "source": "Qwen：Blog Retrieval（API）",
         "source_name": "AI HOT"
       }
     },
@@ -1222,15 +1123,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7865,
-      "importance": 0.7865,
-      "importance_score": 0.7865,
+      "score": 0.7792,
+      "importance": 0.7792,
+      "importance_score": 0.7792,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.866,
+        "recency": 0.8253,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1250,49 +1151,49 @@
       }
     },
     {
-      "story_id": "story_1c7c32aa1587",
-      "title": "Deezer 披露：平台日上传量超 50% 为 AI 生成音乐，6 个月未播放内容将被清理",
-      "url": "https://www.aibase.com/news/29770",
-      "primary_url": "https://www.aibase.com/news/29770",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_3fdc40a5e56b",
+      "title": "OpenAI 承认预发布模型攻破 Hugging Face 系统",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models",
+      "primary_url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "1c7173ba3b2c95ad6bfb723bd191bc8666dddbb3",
-          "title": "Deezer 披露：平台日上传量超 50% 为 AI 生成音乐，6 个月未播放内容将被清理",
-          "url": "https://www.aibase.com/news/29770",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-22T01:07:56.487679Z"
+          "id": "952dbf2176c3568e2023947887cdcff36280603b",
+          "title": "OpenAI 承认预发布模型攻破 Hugging Face 系统",
+          "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T20:56:55Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "1c7173ba3b2c95ad6bfb723bd191bc8666dddbb3",
-          "title": "Deezer 披露：平台日上传量超 50% 为 AI 生成音乐，6 个月未播放内容将被清理",
-          "url": "https://www.aibase.com/news/29770",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-22T01:07:56.487679Z"
+          "id": "952dbf2176c3568e2023947887cdcff36280603b",
+          "title": "OpenAI 承认预发布模型攻破 Hugging Face 系统",
+          "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T20:56:55Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8972,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1300,14 +1201,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T01:07:56.487679Z",
-      "latest_at": "2026-07-22T01:07:56.487679Z",
+      "earliest_at": "2026-07-21T20:56:55Z",
+      "latest_at": "2026-07-21T20:56:55Z",
       "primary_item": {
-        "id": "1c7173ba3b2c95ad6bfb723bd191bc8666dddbb3",
-        "title": "Deezer 披露：平台日上传量超 50% 为 AI 生成音乐，6 个月未播放内容将被清理",
-        "url": "https://www.aibase.com/news/29770",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "952dbf2176c3568e2023947887cdcff36280603b",
+        "title": "OpenAI 承认预发布模型攻破 Hugging Face 系统",
+        "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1345,15 +1246,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8879,
+        "recency": 0.8462,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1368,6 +1269,106 @@
         "title": "Karpathy：用语音与LLM长谈可提升理解效率",
         "url": "https://x.com/karpathy/status/2079610838143623371",
         "source": "X：Andrej Karpathy (@karpathy)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_204ad590c8d0",
+      "title": "Claude 不是编译器--它比编译器更好",
+      "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+      "primary_url": "https://blog.exe.dev/claude-is-not-a-compiler",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1afaa93141a4e70b78e2d44d11731c2de10dba48",
+          "title": "Claude 不是编译器--它比编译器更好",
+          "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T17:15:35.727000Z"
+        },
+        {
+          "id": "db7d943ddc2e7e78378d9b73c1263d8696947b50",
+          "title": "Claude 不是编译器",
+          "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+          "source": "blog.exe.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-21T17:15:35.727000Z"
+        },
+        {
+          "id": "0e7348a53197753b98fa8bcb4f9b5116fc70522a",
+          "title": "Claude 不是编译器--它比编译器更好 / Claude Is Not a Compiler",
+          "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T15:51:04Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Lobsters (技术社区)",
+        "blog.exe.dev"
+      ],
+      "items": [
+        {
+          "id": "1afaa93141a4e70b78e2d44d11731c2de10dba48",
+          "title": "Claude 不是编译器--它比编译器更好",
+          "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T17:15:35.727000Z"
+        },
+        {
+          "id": "db7d943ddc2e7e78378d9b73c1263d8696947b50",
+          "title": "Claude 不是编译器",
+          "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+          "source": "blog.exe.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-21T17:15:35.727000Z"
+        },
+        {
+          "id": "0e7348a53197753b98fa8bcb4f9b5116fc70522a",
+          "title": "Claude 不是编译器--它比编译器更好 / Claude Is Not a Compiler",
+          "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T15:51:04Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7877,
+      "importance": 0.7877,
+      "importance_score": 0.7877,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8507,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T15:51:04Z",
+      "latest_at": "2026-07-21T17:15:35.727000Z",
+      "primary_item": {
+        "id": "1afaa93141a4e70b78e2d44d11731c2de10dba48",
+        "title": "Claude 不是编译器--它比编译器更好",
+        "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1406,15 +1407,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8167,
+        "recency": 0.7784,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1486,15 +1487,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7916,
-      "importance": 0.7916,
-      "importance_score": 0.7916,
+      "score": 0.7832,
+      "importance": 0.7832,
+      "importance_score": 0.7832,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9943,
+        "recency": 0.9477,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1548,15 +1549,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9545,
+        "recency": 0.9097,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1609,15 +1610,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8381,
+        "recency": 0.7988,
         "story_heat": 0.0
       },
       "category": "industry",
