@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T11:51:03.606661Z",
+  "generated_at": "2026-07-25T14:02:15.697791Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8164,
-      "importance": 0.8164,
-      "importance_score": 0.8164,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.758,
+        "recency": 0.7345,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8105,
-      "importance": 0.8105,
-      "importance_score": 0.8105,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.92,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7662,
+        "recency": 0.7424,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -143,6 +143,87 @@
         "title": "Anthropic 发布 Claude Opus 5",
         "url": "https://www.anthropic.com/news/claude-opus-5",
         "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5baddcdfddd2",
+      "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
+      "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
+      "primary_url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7cddb17668caa954ede537ab3f8091fc5795b2fb",
+          "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
+          "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-25T13:45:50Z"
+        },
+        {
+          "id": "f8d3f272c889e78bd20b2d681cba5a9082802c17",
+          "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度 / New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
+          "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-25T13:45:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7cddb17668caa954ede537ab3f8091fc5795b2fb",
+          "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
+          "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-25T13:45:50Z"
+        },
+        {
+          "id": "f8d3f272c889e78bd20b2d681cba5a9082802c17",
+          "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度 / New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
+          "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-25T13:45:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8039,
+      "importance": 0.8039,
+      "importance_score": 0.8039,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9961,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-25T13:45:50Z",
+      "latest_at": "2026-07-25T13:45:50Z",
+      "primary_item": {
+        "id": "7cddb17668caa954ede537ab3f8091fc5795b2fb",
+        "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
+        "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -200,15 +281,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
+      "score": 0.771,
+      "importance": 0.771,
+      "importance_score": 0.771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8568,
+        "recency": 0.8301,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -243,20 +324,10 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-24T19:07:52.324000Z"
-        },
-        {
-          "id": "350c51365d8dc729c33f9dfe9558a88b3d2c3488",
-          "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管 / Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-          "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T13:32:30Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
@@ -268,37 +339,26 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-24T19:07:52.324000Z"
-        },
-        {
-          "id": "350c51365d8dc729c33f9dfe9558a88b3d2c3488",
-          "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管 / Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-          "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T13:32:30Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7855,
-        "story_heat": 0.25
+        "recency": 0.7611,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T13:32:30Z",
+      "earliest_at": "2026-07-24T19:07:52.324000Z",
       "latest_at": "2026-07-24T19:07:52.324000Z",
       "primary_item": {
         "id": "5442ae94f4b2f0478e8d4594a4983632d08a2d88",
@@ -343,15 +403,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7386,
-      "importance": 0.7386,
-      "importance_score": 0.7386,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8224,
+        "recency": 0.7969,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -422,15 +482,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
+      "score": 0.7324,
+      "importance": 0.7324,
+      "importance_score": 0.7324,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8247,
+        "recency": 0.7991,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -445,66 +505,6 @@
         "title": "Claude Opus 5 发布，以一半价格逼近 Fable 5",
         "url": "https://mp.weixin.qq.com/s/vkm3VcgfKyqPijfxydNtgQ",
         "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2ac29ebc87bb",
-      "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-      "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
-      "primary_url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
-      "source": "公众号：蚂蚁百灵（Ling）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cc31beb6a04d5fe1892b55856a826870a83fd214",
-          "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-          "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:40:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：蚂蚁百灵（Ling）"
-      ],
-      "items": [
-        {
-          "id": "cc31beb6a04d5fe1892b55856a826870a83fd214",
-          "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-          "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:40:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7273,
-      "importance": 0.7273,
-      "importance_score": 0.7273,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.726,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T13:40:30Z",
-      "latest_at": "2026-07-24T13:40:30Z",
-      "primary_item": {
-        "id": "cc31beb6a04d5fe1892b55856a826870a83fd214",
-        "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-        "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
-        "source": "公众号：蚂蚁百灵（Ling）",
         "source_name": "AI HOT"
       }
     },
@@ -543,15 +543,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7246,
-      "importance": 0.7246,
-      "importance_score": 0.7246,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7446,
+        "recency": 0.7215,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -565,126 +565,6 @@
         "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
         "url": "https://www.anthropic.com/research/project-pilot",
         "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_886d512748f4",
-      "title": "微软阐述开源模型助力美国竞争力路径",
-      "url": "https://x.com/satyanadella/status/2080646162483417097",
-      "primary_url": "https://x.com/satyanadella/status/2080646162483417097",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
-          "title": "微软阐述开源模型助力美国竞争力路径",
-          "url": "https://x.com/satyanadella/status/2080646162483417097",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:27:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Satya Nadella (@satyanadella)"
-      ],
-      "items": [
-        {
-          "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
-          "title": "微软阐述开源模型助力美国竞争力路径",
-          "url": "https://x.com/satyanadella/status/2080646162483417097",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:27:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7239,
-      "importance": 0.7239,
-      "importance_score": 0.7239,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7238,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T13:27:56Z",
-      "latest_at": "2026-07-24T13:27:56Z",
-      "primary_item": {
-        "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
-        "title": "微软阐述开源模型助力美国竞争力路径",
-        "url": "https://x.com/satyanadella/status/2080646162483417097",
-        "source": "X：Satya Nadella (@satyanadella)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2b7ddff8ef48",
-      "title": "FLUX 3 x mimic：新一代视频动作模型",
-      "url": "https://bfl.ai/blog/flux-3-mimic",
-      "primary_url": "https://bfl.ai/blog/flux-3-mimic",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
-          "title": "FLUX 3 x mimic：新一代视频动作模型",
-          "url": "https://bfl.ai/blog/flux-3-mimic",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T11:55:45.885000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
-          "title": "FLUX 3 x mimic：新一代视频动作模型",
-          "url": "https://bfl.ai/blog/flux-3-mimic",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T11:55:45.885000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.724,
-      "importance": 0.724,
-      "importance_score": 0.724,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7079,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T11:55:45.885000Z",
-      "latest_at": "2026-07-24T11:55:45.885000Z",
-      "primary_item": {
-        "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
-        "title": "FLUX 3 x mimic：新一代视频动作模型",
-        "url": "https://bfl.ai/blog/flux-3-mimic",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -741,15 +621,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6637,
+      "importance": 0.6637,
+      "importance_score": 0.6637,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.9747,
+        "recency": 0.9444,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -838,15 +718,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5799,
-      "importance": 0.5799,
-      "importance_score": 0.5799,
+      "score": 0.5755,
+      "importance": 0.5755,
+      "importance_score": 0.5755,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7817,
+        "recency": 0.7574,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -861,240 +741,6 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-24",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_890207b2b481",
-      "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-      "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-      "primary_url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-      "source": "images.nvidia.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f3e8b48288a59c23a853693f7be48e61e47d3e25",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "images.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T17:15:36.535000Z"
-        },
-        {
-          "id": "e272d3d08b263a12dcd2d9e26277abfa6134ffb3",
-          "title": "开放权重和美国人工智能领导力 [pdf] / Open Weights and American AI Leadership [pdf]",
-          "url": "https://news.ycombinator.com/item?id=49035751",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-24T15:46:11.440000Z"
-        },
-        {
-          "id": "372a2fec8d822a30b0321df132e97776f442907e",
-          "title": "开放式权重与美国在人工智能领域的领导地位",
-          "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight",
-          "source": "www.microsoft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T14:03:36.850000Z"
-        },
-        {
-          "id": "97b5e2ce3fa3c5b8c6867fdba8b6dd7065ecb262",
-          "title": "开放式权重与美国在人工智能领域的领导地位 / Open Weights and American AI Leadership",
-          "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T14:01:24Z"
-        },
-        {
-          "id": "5d2a41d23d4400c0443b3dfb7e1a994ba8764d8b",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf] / Open Weights and American AI Leadership [pdf]",
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T13:58:12Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "hackernews",
-        "images.nvidia.com",
-        "www.microsoft.com"
-      ],
-      "items": [
-        {
-          "id": "f3e8b48288a59c23a853693f7be48e61e47d3e25",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "images.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T17:15:36.535000Z"
-        },
-        {
-          "id": "e272d3d08b263a12dcd2d9e26277abfa6134ffb3",
-          "title": "开放权重和美国人工智能领导力 [pdf] / Open Weights and American AI Leadership [pdf]",
-          "url": "https://news.ycombinator.com/item?id=49035751",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-24T15:46:11.440000Z"
-        },
-        {
-          "id": "372a2fec8d822a30b0321df132e97776f442907e",
-          "title": "开放式权重与美国在人工智能领域的领导地位",
-          "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight",
-          "source": "www.microsoft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T14:03:36.850000Z"
-        },
-        {
-          "id": "97b5e2ce3fa3c5b8c6867fdba8b6dd7065ecb262",
-          "title": "开放式权重与美国在人工智能领域的领导地位 / Open Weights and American AI Leadership",
-          "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T14:01:24Z"
-        },
-        {
-          "id": "5d2a41d23d4400c0443b3dfb7e1a994ba8764d8b",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf] / Open Weights and American AI Leadership [pdf]",
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T13:58:12Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5784,
-      "importance": 0.5784,
-      "importance_score": 0.5784,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7646,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T13:58:12Z",
-      "latest_at": "2026-07-24T17:15:36.535000Z",
-      "primary_item": {
-        "id": "f3e8b48288a59c23a853693f7be48e61e47d3e25",
-        "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-        "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-        "source": "images.nvidia.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_1a80d0c28a4d",
-      "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
-      "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
-      "primary_url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
-      "source": "www.alexhyett.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "36d34b7b19d79cca12c5f80334b2fcff99916c35",
-          "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
-          "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
-          "source": "www.alexhyett.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T11:07:01.937000Z"
-        },
-        {
-          "id": "b0a51e30625f00ea877d8b3ad99c12e742d69c45",
-          "title": "我尝试用人工智能构建一个真正的应用程序。花了一年的时间 / I Tried Building a Real App with AI. It Took a Year",
-          "url": "https://news.ycombinator.com/item?id=49034342",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-24T14:14:11.535000Z"
-        },
-        {
-          "id": "825aaf23d62a0a7230ccf0c077290a16c82aa6d1",
-          "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间 / I Tried Building a Real App with AI. It Took a Year",
-          "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T12:00:17Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.alexhyett.com"
-      ],
-      "items": [
-        {
-          "id": "36d34b7b19d79cca12c5f80334b2fcff99916c35",
-          "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
-          "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
-          "source": "www.alexhyett.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T11:07:01.937000Z"
-        },
-        {
-          "id": "b0a51e30625f00ea877d8b3ad99c12e742d69c45",
-          "title": "我尝试用人工智能构建一个真正的应用程序。花了一年的时间 / I Tried Building a Real App with AI. It Took a Year",
-          "url": "https://news.ycombinator.com/item?id=49034342",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-24T14:14:11.535000Z"
-        },
-        {
-          "id": "825aaf23d62a0a7230ccf0c077290a16c82aa6d1",
-          "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间 / I Tried Building a Real App with AI. It Took a Year",
-          "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T12:00:17Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5689,
-      "importance": 0.5689,
-      "importance_score": 0.5689,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9895,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T12:00:17Z",
-      "latest_at": "2026-07-25T11:07:01.937000Z",
-      "primary_item": {
-        "id": "36d34b7b19d79cca12c5f80334b2fcff99916c35",
-        "title": "我尝试用人工智能开发了一个真正的应用程序。这花了一年时间",
-        "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
-        "source": "www.alexhyett.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1168,15 +814,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5602,
-      "importance": 0.5602,
-      "importance_score": 0.5602,
+      "score": 0.555,
+      "importance": 0.555,
+      "importance_score": 0.555,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9413,
+        "recency": 0.912,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1190,6 +836,164 @@
         "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企",
         "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
         "source": "www.reuters.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4de03213f8f7",
+      "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+      "url": "https://news.ycombinator.com/item?id=49047448",
+      "primary_url": "https://news.ycombinator.com/item?id=49047448",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
+          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+          "url": "https://news.ycombinator.com/item?id=49047448",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T13:51:49.551000Z"
+        },
+        {
+          "id": "a11c0cd9fe312566106c57e8f390e8ba2f419d0e",
+          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+          "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T13:33:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
+          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+          "url": "https://news.ycombinator.com/item?id=49047448",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T13:51:49.551000Z"
+        },
+        {
+          "id": "a11c0cd9fe312566106c57e8f390e8ba2f419d0e",
+          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+          "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T13:33:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9975,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T13:33:03Z",
+      "latest_at": "2026-07-25T13:51:49.551000Z",
+      "primary_item": {
+        "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
+        "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+        "url": "https://news.ycombinator.com/item?id=49047448",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_7991fa3ce865",
+      "title": "AI的新“北极星”：每美元智能值",
+      "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d0cb1aba099db2a5904889cc884b2ad835eb933d",
+          "title": "AI的新“北极星”：每美元智能值",
+          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T13:14:51.939000Z"
+        },
+        {
+          "id": "b019d20007b2fee79b9481442a27097c93520dfd",
+          "title": "AI的新“北极星”：每美元智能值 / AI's new North Star: Intelligence per dollar",
+          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T13:02:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "d0cb1aba099db2a5904889cc884b2ad835eb933d",
+          "title": "AI的新“北极星”：每美元智能值",
+          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T13:14:51.939000Z"
+        },
+        {
+          "id": "b019d20007b2fee79b9481442a27097c93520dfd",
+          "title": "AI的新“北极星”：每美元智能值 / AI's new North Star: Intelligence per dollar",
+          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T13:02:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5438,
+      "importance": 0.5438,
+      "importance_score": 0.5438,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9887,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T13:02:01Z",
+      "latest_at": "2026-07-25T13:14:51.939000Z",
+      "primary_item": {
+        "id": "d0cb1aba099db2a5904889cc884b2ad835eb933d",
+        "title": "AI的新“北极星”：每美元智能值",
+        "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1266,15 +1070,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8457,
+        "recency": 0.8194,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1289,85 +1093,6 @@
         "url": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_2b75b6719305",
-      "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
-      "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
-      "primary_url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7ce5968c55e53d2732c9ea078ff0c489adb2a1a0",
-          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
-          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T10:35:07.024000Z"
-        },
-        {
-          "id": "10f6b1bfd771afc7cb58c6786f978e5992d0d68a",
-          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元 / I dreamt of building rockets until my aunt's illness inspired me to build an AI startup that's raised nearly $10 million",
-          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T10:02:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "7ce5968c55e53d2732c9ea078ff0c489adb2a1a0",
-          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
-          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T10:35:07.024000Z"
-        },
-        {
-          "id": "10f6b1bfd771afc7cb58c6786f978e5992d0d68a",
-          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元 / I dreamt of building rockets until my aunt's illness inspired me to build an AI startup that's raised nearly $10 million",
-          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T10:02:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9819,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T10:02:01Z",
-      "latest_at": "2026-07-25T10:35:07.024000Z",
-      "primary_item": {
-        "id": "7ce5968c55e53d2732c9ea078ff0c489adb2a1a0",
-        "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
-        "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1443,15 +1168,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
+      "score": 0.5359,
+      "importance": 0.5359,
+      "importance_score": 0.5359,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8322,
+        "recency": 0.8063,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1486,27 +1211,28 @@
           "published_at": "2026-07-24T18:03:38.315000Z"
         },
         {
+          "id": "6789045bbad9da5f6137bd2c45a04d41965f7f7e",
+          "title": "对 OpenAI 的流氓黑客代理故事持怀疑态度 / Be skeptical of OpenAI's rogue hacker agent story",
+          "url": "https://news.ycombinator.com/item?id=49038060",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-24T17:14:43.741000Z"
+        },
+        {
           "id": "81b41f41108b32d7858d78a125b32bc7ab6a54f3",
-          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿 / Be skeptical of OpenAI's rogue hacker agent story",
+          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度 / Be skeptical of OpenAI's rogue hacker agent story",
           "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-07-24T16:33:31Z"
-        },
-        {
-          "id": "ab81b1f75584c63440810504587934f1b70153a7",
-          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿",
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T13:15:35.524000Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News · 24h最热",
+        "hackernews",
         "www.theguardian.com"
       ],
       "items": [
@@ -1520,42 +1246,42 @@
           "published_at": "2026-07-24T18:03:38.315000Z"
         },
         {
+          "id": "6789045bbad9da5f6137bd2c45a04d41965f7f7e",
+          "title": "对 OpenAI 的流氓黑客代理故事持怀疑态度 / Be skeptical of OpenAI's rogue hacker agent story",
+          "url": "https://news.ycombinator.com/item?id=49038060",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-24T17:14:43.741000Z"
+        },
+        {
           "id": "81b41f41108b32d7858d78a125b32bc7ab6a54f3",
-          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿 / Be skeptical of OpenAI's rogue hacker agent story",
+          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度 / Be skeptical of OpenAI's rogue hacker agent story",
           "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-07-24T16:33:31Z"
-        },
-        {
-          "id": "ab81b1f75584c63440810504587934f1b70153a7",
-          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿",
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T13:15:35.524000Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
+      "score": 0.5257,
+      "importance": 0.5257,
+      "importance_score": 0.5257,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7734,
+        "recency": 0.7494,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-24T13:15:35.524000Z",
+      "earliest_at": "2026-07-24T16:33:31Z",
       "latest_at": "2026-07-24T18:03:38.315000Z",
       "primary_item": {
         "id": "b7cee266358674bbfa115907e1fa668565616cbb",
@@ -1619,15 +1345,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5288,
-      "importance": 0.5288,
-      "importance_score": 0.5288,
+      "score": 0.5238,
+      "importance": 0.5238,
+      "importance_score": 0.5238,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9057,
+        "recency": 0.8776,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1641,6 +1367,243 @@
         "title": "英伟达与SK集团联合推出总额逾5000亿美元的人工智能数据中心计划，并达成内存合作 - Reuters",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVFFLak9qWnRXdllOXzdoR0dESHJsZnUzb3E4UnpreExzYVZMa1lYa1JESlZiZUw4VFFOazNUSE4wTll5U3kycTg4RjlYaDQtdEp0T0xQejFDYXZUaVROT1gtaFRQM1RlM0Fpei1yNmZ5bFZFZlo5VEVVYkVCbzRvLVdpZVMxcG9TQ3c1VERSQmZiRGRDZ1hDNnd5bUhWUGNmNmZYMk9lSjN4bzRGTWhNd2RvQWowYTRqdVdXcjJNejFManNYLXNzb1BuMlg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "source": "news.google.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_3f7650520ee0",
+      "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+      "url": "https://www.36kr.com/p/3910351337821318",
+      "primary_url": "https://www.36kr.com/p/3910351337821318",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "647584204616186cb5c014ebb50041b1173f8954",
+          "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+          "url": "https://www.36kr.com/p/3910351337821318",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7bac0788e0f935fd785c64555515c11bcafc75e6",
+          "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+          "url": "https://36kr.com/p/3910351337821318?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T00:57:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "36氪 · 24小时热榜"
+      ],
+      "items": [
+        {
+          "id": "647584204616186cb5c014ebb50041b1173f8954",
+          "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+          "url": "https://www.36kr.com/p/3910351337821318",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7bac0788e0f935fd785c64555515c11bcafc75e6",
+          "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+          "url": "https://36kr.com/p/3910351337821318?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T00:57:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5223,
+      "importance": 0.5223,
+      "importance_score": 0.5223,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8693,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T00:57:52Z",
+      "latest_at": "2026-07-25T04:20:30.696826Z",
+      "primary_item": {
+        "id": "647584204616186cb5c014ebb50041b1173f8954",
+        "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+        "url": "https://www.36kr.com/p/3910351337821318",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_7dff37e775d9",
+      "title": "报道称英伟达与SK集团共同推出价值超过5000亿美元的AI计划",
+      "url": "https://36kr.com/newsflashes/3910374290707844?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3910374290707844?f=rss",
+      "source": "36氪 (36Kr)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "e53d544e1e8c55a0de15ba9e75f3a74f854fd72c",
+          "title": "报道称英伟达与SK集团共同推出价值超过5000亿美元的AI计划",
+          "url": "https://36kr.com/newsflashes/3910374290707844?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T01:24:14Z"
+        },
+        {
+          "id": "cb4acbf35e0bd386ae7105f0c1472eb29cdc0263",
+          "title": "英伟达与 SK 集团共同推出价值超过 5000 亿美元的 AI 计划",
+          "url": "https://www.gelonghui.com/live/2571777",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e53d544e1e8c55a0de15ba9e75f3a74f854fd72c",
+          "title": "报道称英伟达与SK集团共同推出价值超过5000亿美元的AI计划",
+          "url": "https://36kr.com/newsflashes/3910374290707844?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T01:24:14Z"
+        },
+        {
+          "id": "cb4acbf35e0bd386ae7105f0c1472eb29cdc0263",
+          "title": "英伟达与 SK 集团共同推出价值超过 5000 亿美元的 AI 计划",
+          "url": "https://www.gelonghui.com/live/2571777",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5158,
+      "importance": 0.5158,
+      "importance_score": 0.5158,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8332,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T01:13:26.877087Z",
+      "latest_at": "2026-07-25T01:24:14Z",
+      "primary_item": {
+        "id": "e53d544e1e8c55a0de15ba9e75f3a74f854fd72c",
+        "title": "报道称英伟达与SK集团共同推出价值超过5000亿美元的AI计划",
+        "url": "https://36kr.com/newsflashes/3910374290707844?f=rss",
+        "source": "36氪 (36Kr)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_e616440e259b",
+      "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
+      "url": "https://artificialanalysis.ai/models",
+      "primary_url": "https://artificialanalysis.ai/models",
+      "source": "artificialanalysis.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "78990e7317fc8e606d2991350d8f49291b5c0e5a",
+          "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
+          "url": "https://artificialanalysis.ai/models",
+          "source": "artificialanalysis.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T00:43:56.309000Z"
+        },
+        {
+          "id": "f20451c1356dfba53bf83bedcce072baff3eb01f",
+          "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首 / Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+          "url": "https://artificialanalysis.ai/models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-24T19:45:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "artificialanalysis.ai"
+      ],
+      "items": [
+        {
+          "id": "78990e7317fc8e606d2991350d8f49291b5c0e5a",
+          "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
+          "url": "https://artificialanalysis.ai/models",
+          "source": "artificialanalysis.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T00:43:56.309000Z"
+        },
+        {
+          "id": "f20451c1356dfba53bf83bedcce072baff3eb01f",
+          "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首 / Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+          "url": "https://artificialanalysis.ai/models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-24T19:45:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5143,
+      "importance": 0.5143,
+      "importance_score": 0.5143,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8252,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T19:45:10Z",
+      "latest_at": "2026-07-25T00:43:56.309000Z",
+      "primary_item": {
+        "id": "78990e7317fc8e606d2991350d8f49291b5c0e5a",
+        "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
+        "url": "https://artificialanalysis.ai/models",
+        "source": "artificialanalysis.ai",
         "source_name": "Buzzing"
       }
     }
