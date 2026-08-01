@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T07:15:35.095665Z",
+  "generated_at": "2026-08-01T09:24:06.282046Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8251,
-      "importance": 0.8251,
-      "importance_score": 0.8251,
+      "score": 0.8205,
+      "importance": 0.8205,
+      "importance_score": 0.8205,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8508,
+        "recency": 0.8248,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +219,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8105,
-      "importance": 0.8105,
-      "importance_score": 0.8105,
+      "score": 0.8058,
+      "importance": 0.8058,
+      "importance_score": 0.8058,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8551,
+        "recency": 0.8291,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -247,63 +247,83 @@
       }
     },
     {
-      "story_id": "story_b86dc435d64a",
-      "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "primary_url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "story_id": "story_6e145b017b5a",
+      "title": "构建丰富的智能 / Building abundant intelligence",
+      "url": "https://openai.com/index/building-abundant-intelligence",
+      "primary_url": "https://openai.com/index/building-abundant-intelligence",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
-          "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
-          "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+          "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
+          "title": "构建丰富的智能 / Building abundant intelligence",
+          "url": "https://openai.com/index/building-abundant-intelligence",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-07-31T15:00:00Z"
+        },
+        {
+          "id": "63783678b17eb65944ded4d1e4c7bdf91d0b1398",
+          "title": "OpenAI 服务超过 10 亿活跃用户 / OpenAI serves more than one billion active users",
+          "url": "https://openai.com/index/building-abundant-intelligence",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-31T19:42:35Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
+        "Hacker News · 24h最热",
         "OpenAI News"
       ],
       "items": [
         {
-          "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
-          "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
-          "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+          "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
+          "title": "构建丰富的智能 / Building abundant intelligence",
+          "url": "https://openai.com/index/building-abundant-intelligence",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-07-31T15:00:00Z"
+        },
+        {
+          "id": "63783678b17eb65944ded4d1e4c7bdf91d0b1398",
+          "title": "OpenAI 服务超过 10 亿活跃用户 / OpenAI serves more than one billion active users",
+          "url": "https://openai.com/index/building-abundant-intelligence",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-31T19:42:35Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.835,
+      "importance": 0.835,
+      "importance_score": 0.835,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7907,
-        "story_heat": 0.0
+        "recency": 0.7666,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-07-31T15:00:00Z",
-      "latest_at": "2026-07-31T15:00:00Z",
+      "latest_at": "2026-07-31T19:42:35Z",
       "primary_item": {
-        "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
-        "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
-        "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+        "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
+        "title": "构建丰富的智能 / Building abundant intelligence",
+        "url": "https://openai.com/index/building-abundant-intelligence",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
@@ -343,15 +363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8131,
-      "importance": 0.8131,
-      "importance_score": 0.8131,
+      "score": 0.8085,
+      "importance": 0.8085,
+      "importance_score": 0.8085,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8281,
+        "recency": 0.8029,
         "story_heat": 0.0
       },
       "category": "official",
@@ -367,6 +387,68 @@
         "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
         "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6d58997b466c",
+      "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "primary_url": "https://openai.com/index/ten-advances-in-mathematics",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
+          "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-01T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
+          "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-01T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8291,
+      "importance": 0.8291,
+      "importance_score": 0.8291,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.873,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-01T00:00:00Z",
+      "latest_at": "2026-08-01T00:00:00Z",
+      "primary_item": {
+        "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
+        "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
+        "url": "https://openai.com/index/ten-advances-in-mathematics",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -405,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9534,
+        "recency": 0.9243,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -466,15 +548,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8702,
+        "recency": 0.8437,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -493,65 +575,64 @@
       }
     },
     {
-      "story_id": "story_6e145b017b5a",
-      "title": "构建丰富的智能 / Building abundant intelligence",
-      "url": "https://openai.com/index/building-abundant-intelligence",
-      "primary_url": "https://openai.com/index/building-abundant-intelligence",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_478fa414920c",
+      "title": "OpenAI Astra 以约2000美元证明10项数学难题",
+      "url": "https://x.com/gdb/status/2083457463337287721",
+      "primary_url": "https://x.com/gdb/status/2083457463337287721",
+      "source": "X：Greg Brockman (@gdb)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
-          "title": "构建丰富的智能 / Building abundant intelligence",
-          "url": "https://openai.com/index/building-abundant-intelligence",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T15:00:00Z"
+          "id": "5388e09d34b8b96f7241cc196d2cde3bb212a98d",
+          "title": "OpenAI Astra 以约2000美元证明10项数学难题",
+          "url": "https://x.com/gdb/status/2083457463337287721",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-01T07:39:02Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "X：Greg Brockman (@gdb)"
       ],
       "items": [
         {
-          "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
-          "title": "构建丰富的智能 / Building abundant intelligence",
-          "url": "https://openai.com/index/building-abundant-intelligence",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T15:00:00Z"
+          "id": "5388e09d34b8b96f7241cc196d2cde3bb212a98d",
+          "title": "OpenAI Astra 以约2000美元证明10项数学难题",
+          "url": "https://x.com/gdb/status/2083457463337287721",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-01T07:39:02Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
-      "importance_label": "官方更新",
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7907,
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.975,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-31T15:00:00Z",
-      "latest_at": "2026-07-31T15:00:00Z",
+      "earliest_at": "2026-08-01T07:39:02Z",
+      "latest_at": "2026-08-01T07:39:02Z",
       "primary_item": {
-        "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
-        "title": "构建丰富的智能 / Building abundant intelligence",
-        "url": "https://openai.com/index/building-abundant-intelligence",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "5388e09d34b8b96f7241cc196d2cde3bb212a98d",
+        "title": "OpenAI Astra 以约2000美元证明10项数学难题",
+        "url": "https://x.com/gdb/status/2083457463337287721",
+        "source": "X：Greg Brockman (@gdb)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -608,22 +689,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7459,
+        "recency": 0.7232,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-31T10:57:37Z",
       "latest_at": "2026-07-31T10:57:37Z",
@@ -670,15 +750,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.81,
-      "importance": 0.81,
-      "importance_score": 0.81,
+      "score": 0.8056,
+      "importance": 0.8056,
+      "importance_score": 0.8056,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8111,
+        "recency": 0.7864,
         "story_heat": 0.0
       },
       "category": "official",
@@ -732,15 +812,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8391,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -811,15 +891,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7357,
+        "recency": 0.7133,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -872,15 +952,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7355,
+        "recency": 0.7131,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -932,15 +1012,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7349,
-      "importance": 0.7349,
-      "importance_score": 0.7349,
+      "score": 0.7307,
+      "importance": 0.7307,
+      "importance_score": 0.7307,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7682,
+        "recency": 0.7448,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -958,63 +1038,65 @@
       }
     },
     {
-      "story_id": "story_11290e610f9d",
-      "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-      "url": "https://www.ithome.com/0/984/365.htm",
-      "primary_url": "https://www.ithome.com/0/984/365.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_b86dc435d64a",
+      "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "primary_url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "4207883dfe56195b7076cbccf3ec343449ed502b",
-          "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-          "url": "https://www.ithome.com/0/984/365.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T11:40:12Z"
+          "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
+          "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
+          "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T15:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "4207883dfe56195b7076cbccf3ec343449ed502b",
-          "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-          "url": "https://www.ithome.com/0/984/365.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T11:40:12Z"
+          "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
+          "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
+          "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T15:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7232,
-      "importance": 0.7232,
-      "importance_score": 0.7232,
-      "importance_label": "行业动态",
+      "score": 0.81,
+      "importance": 0.81,
+      "importance_score": 0.81,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7536,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7666,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-31T11:40:12Z",
-      "latest_at": "2026-07-31T11:40:12Z",
+      "earliest_at": "2026-07-31T15:00:00Z",
+      "latest_at": "2026-07-31T15:00:00Z",
       "primary_item": {
-        "id": "4207883dfe56195b7076cbccf3ec343449ed502b",
-        "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-        "url": "https://www.ithome.com/0/984/365.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
+        "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
+        "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1052,15 +1134,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8026,
+        "recency": 0.7781,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1075,86 +1157,6 @@
         "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
         "source": "X：阿易 AI Notes (@AYi_AInotes)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_72d30b731ced",
-      "title": "DeepSeek-V4-Flash正式版上线，130亿激活参数撬动Agent战场",
-      "url": "https://www.aibase.com/news/30040",
-      "primary_url": "https://www.aibase.com/news/30040",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2cc1223af2f0cee57a2e93e4e060f7d5d303b2b3",
-          "title": "DeepSeek-V4-Flash正式版上线，130亿激活参数撬动Agent战场",
-          "url": "https://www.aibase.com/news/30040",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T07:27:33.928701Z"
-        },
-        {
-          "id": "a8fb86b1190ee7459d670d9cca8bc7f5883dde29",
-          "title": "DeepSeek-V4-Flash 正式版上线，130 亿激活参数撬动 Agent 战场",
-          "url": "https://www.aibase.com/zh/news/30040",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "2cc1223af2f0cee57a2e93e4e060f7d5d303b2b3",
-          "title": "DeepSeek-V4-Flash正式版上线，130亿激活参数撬动Agent战场",
-          "url": "https://www.aibase.com/news/30040",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T07:27:33.928701Z"
-        },
-        {
-          "id": "a8fb86b1190ee7459d670d9cca8bc7f5883dde29",
-          "title": "DeepSeek-V4-Flash 正式版上线，130 亿激活参数撬动 Agent 战场",
-          "url": "https://www.aibase.com/zh/news/30040",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7402,
-      "importance": 0.7402,
-      "importance_score": 0.7402,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7091,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T07:27:33.928701Z",
-      "latest_at": "2026-07-31T10:00:02.923329Z",
-      "primary_item": {
-        "id": "2cc1223af2f0cee57a2e93e4e060f7d5d303b2b3",
-        "title": "DeepSeek-V4-Flash正式版上线，130亿激活参数撬动Agent战场",
-        "url": "https://www.aibase.com/news/30040",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1192,15 +1194,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7311,
-      "importance": 0.7311,
-      "importance_score": 0.7311,
+      "score": 0.7271,
+      "importance": 0.7271,
+      "importance_score": 0.7271,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7305,
+        "recency": 0.7082,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1215,86 +1217,6 @@
         "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
         "source": "X：Artificial Analysis (@ArtificialAnlys)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5bb7bd93b518",
-      "title": "韩国最大 AI 模型问世：LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型",
-      "url": "https://www.aibase.com/news/30041",
-      "primary_url": "https://www.aibase.com/news/30041",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2f1ee219ee82a980a69cbe42dbafbe0c791adfb4",
-          "title": "韩国最大 AI 模型问世：LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型",
-          "url": "https://www.aibase.com/news/30041",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T07:27:33.928701Z"
-        },
-        {
-          "id": "b8adcaec9ca05baa158a4c9527a7aa1e5be5c65c",
-          "title": "韩国最大 AI 模型问世：LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型",
-          "url": "https://www.aibase.com/zh/news/30041",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "2f1ee219ee82a980a69cbe42dbafbe0c791adfb4",
-          "title": "韩国最大 AI 模型问世：LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型",
-          "url": "https://www.aibase.com/news/30041",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T07:27:33.928701Z"
-        },
-        {
-          "id": "b8adcaec9ca05baa158a4c9527a7aa1e5be5c65c",
-          "title": "韩国最大 AI 模型问世：LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型",
-          "url": "https://www.aibase.com/zh/news/30041",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7402,
-      "importance": 0.7402,
-      "importance_score": 0.7402,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7091,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T07:27:33.928701Z",
-      "latest_at": "2026-07-31T10:00:02.923329Z",
-      "primary_item": {
-        "id": "2f1ee219ee82a980a69cbe42dbafbe0c791adfb4",
-        "title": "韩国最大 AI 模型问世：LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型",
-        "url": "https://www.aibase.com/news/30041",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1332,15 +1254,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7871,
+        "recency": 0.7632,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1355,6 +1277,156 @@
         "url": "https://x.com/AYi_AInotes/status/2083201284593565719",
         "source": "X：阿易 AI Notes (@AYi_AInotes)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "AI 信息越多，越容易焦虑：今天追模型，明天追框架，但真正难的是判断技术边界——哪些现在值得做，哪些再等几个月模型自己就会补上。作者借谢青池两年读200多篇AI论文的经历，讲他如何用历史、范式变迁和人物三个视角理解技术演进：从 GPU、AlexNet、Transformer，到 AlphaGo Zero、MoE、CoT、Scaling Law、GPT 和 RLHF。读完你会更清楚，大模型的发展是一串关键问题被逐步回答的过程。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-07-31",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "97de2c9659b842c9b6ff070df28eddf3f12b434a",
+          "title": "7月26日，我们和全国52个城市的小伙伴们，在博物馆过了个周末。这期AI切磋大会的主题是「博物馆奇妙日」。上午先去逛逛自己城市的博物馆，看文物、记故事、拍照片，下午回来，用 AI 把它做成一件作品，不管是网页、视频、海报，还是3D 交互都行。最终我们收到了160多件作品，并把它摆上了线上展厅，欢迎来逛👏🏻",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T18:45:29.683258Z"
+        },
+        {
+          "id": "98c29b83fba7c42f34657b9623d34f8b6feff382",
+          "title": "AI 信息越多，越容易焦虑：今天追模型，明天追框架，但真正难的是判断技术边界——哪些现在值得做，哪些再等几个月模型自己就会补上。作者借谢青池两年读200多篇AI论文的经历，讲他如何用历史、范式变迁和人物三个视角理解技术演进：从 GPU、AlexNet、Transformer，到 AlphaGo Zero、MoE、CoT、Scaling Law、GPT 和 RLHF。读完你会更清楚，大模型的发展是一串关键问题被逐步回答的过程。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T18:45:29.683258Z"
+        },
+        {
+          "id": "1610e8ea69d8ce3c58ac3a262ed597379d81295c",
+          "title": "很多亚马逊卖家优化 Listing 还停留在“凭经验看标题、图片、五点”的阶段，但新的规则和AI购物助手介入后，靠感觉很容易漏掉真正影响流量的扣分项。作者开源了Amazon Listing Doctor这个Skill，用 CDQ、A9、COSMO、Alexa四套逻辑检查标题75字符规则、关键词收录、用户意图覆盖、AI 购物助手可发现性。做亚马逊运营的小伙伴儿可以试试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T18:45:29.683258Z"
+        },
+        {
+          "id": "f42c1e962ad0695823fc0a0f187961671d255c03",
+          "title": "很多人做AI 视频或3D场景，麻烦的是角色、镜头、地形、分镜和录制分散在不同工具里，流程很难串起来。awplanet 是一个开源的AI原生3D导演工作台，基于React、Three.js、Vite和Electron构建，把可视化场景编辑、角色骨骼、电影化运镜、分镜时间轴、地形雕刻、物件布置放进同一套工作流，适合快速搭场景、走镜头、验证画面调度。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T18:45:29.683258Z"
+        },
+        {
+          "id": "3e8703cd50efa319f1c696c41916396cff6c48a9",
+          "title": "DeepSeek V4 Flash 正式版API上线公测中，在九项Agent测试里全部超过V4 Pro Preview了；同时原生支持 Responses API，并针对Codex做了适配，可一键配置。长文档读取、批量管理文件、浏览器自动化、新闻清洗这类高频任务，很值得用Flash试试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T16:57:37.854345Z"
+        },
+        {
+          "id": "f5570c7b2dd191c1243212e2edd1245c2108db14",
+          "title": "MiniMax H3正式发布。这是一款通用的全模态生成模型，支持对文本、图像、视频、声音组成的多模态上下文的统一理解能力、能够输出具备原生双声道的音视频，最高可支持 15s 2K 分辨率。快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T16:57:37.854345Z"
+        }
+      ],
+      "source_count": 6,
+      "source_names": [
+        "社区更新 · 2026-07-31"
+      ],
+      "items": [
+        {
+          "id": "97de2c9659b842c9b6ff070df28eddf3f12b434a",
+          "title": "7月26日，我们和全国52个城市的小伙伴们，在博物馆过了个周末。这期AI切磋大会的主题是「博物馆奇妙日」。上午先去逛逛自己城市的博物馆，看文物、记故事、拍照片，下午回来，用 AI 把它做成一件作品，不管是网页、视频、海报，还是3D 交互都行。最终我们收到了160多件作品，并把它摆上了线上展厅，欢迎来逛👏🏻",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T18:45:29.683258Z"
+        },
+        {
+          "id": "98c29b83fba7c42f34657b9623d34f8b6feff382",
+          "title": "AI 信息越多，越容易焦虑：今天追模型，明天追框架，但真正难的是判断技术边界——哪些现在值得做，哪些再等几个月模型自己就会补上。作者借谢青池两年读200多篇AI论文的经历，讲他如何用历史、范式变迁和人物三个视角理解技术演进：从 GPU、AlexNet、Transformer，到 AlphaGo Zero、MoE、CoT、Scaling Law、GPT 和 RLHF。读完你会更清楚，大模型的发展是一串关键问题被逐步回答的过程。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T18:45:29.683258Z"
+        },
+        {
+          "id": "1610e8ea69d8ce3c58ac3a262ed597379d81295c",
+          "title": "很多亚马逊卖家优化 Listing 还停留在“凭经验看标题、图片、五点”的阶段，但新的规则和AI购物助手介入后，靠感觉很容易漏掉真正影响流量的扣分项。作者开源了Amazon Listing Doctor这个Skill，用 CDQ、A9、COSMO、Alexa四套逻辑检查标题75字符规则、关键词收录、用户意图覆盖、AI 购物助手可发现性。做亚马逊运营的小伙伴儿可以试试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T18:45:29.683258Z"
+        },
+        {
+          "id": "f42c1e962ad0695823fc0a0f187961671d255c03",
+          "title": "很多人做AI 视频或3D场景，麻烦的是角色、镜头、地形、分镜和录制分散在不同工具里，流程很难串起来。awplanet 是一个开源的AI原生3D导演工作台，基于React、Three.js、Vite和Electron构建，把可视化场景编辑、角色骨骼、电影化运镜、分镜时间轴、地形雕刻、物件布置放进同一套工作流，适合快速搭场景、走镜头、验证画面调度。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T18:45:29.683258Z"
+        },
+        {
+          "id": "3e8703cd50efa319f1c696c41916396cff6c48a9",
+          "title": "DeepSeek V4 Flash 正式版API上线公测中，在九项Agent测试里全部超过V4 Pro Preview了；同时原生支持 Responses API，并针对Codex做了适配，可一键配置。长文档读取、批量管理文件、浏览器自动化、新闻清洗这类高频任务，很值得用Flash试试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T16:57:37.854345Z"
+        },
+        {
+          "id": "f5570c7b2dd191c1243212e2edd1245c2108db14",
+          "title": "MiniMax H3正式发布。这是一款通用的全模态生成模型，支持对文本、图像、视频、声音组成的多模态上下文的统一理解能力、能够输出具备原生双声道的音视频，最高可支持 15s 2K 分辨率。快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T16:57:37.854345Z"
+        }
+      ],
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6557,
+      "importance": 0.6557,
+      "importance_score": 0.6557,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.504,
+        "source_tier": 0.54,
+        "ai_relevance": 0.7,
+        "recency": 0.8094,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-31T16:57:37.854345Z",
+      "latest_at": "2026-07-31T18:45:29.683258Z",
+      "primary_item": {
+        "id": "98c29b83fba7c42f34657b9623d34f8b6feff382",
+        "title": "AI 信息越多，越容易焦虑：今天追模型，明天追框架，但真正难的是判断技术边界——哪些现在值得做，哪些再等几个月模型自己就会补上。作者借谢青池两年读200多篇AI论文的经历，讲他如何用历史、范式变迁和人物三个视角理解技术演进：从 GPU、AlexNet、Transformer，到 AlphaGo Zero、MoE、CoT、Scaling Law、GPT 和 RLHF。读完你会更清楚，大模型的发展是一串关键问题被逐步回答的过程。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-07-31",
+        "source_name": "WaytoAGI"
       }
     }
   ]
