@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T15:21:20.020609Z",
+  "generated_at": "2026-08-02T16:37:22.056818Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9362,
+        "recency": 0.9192,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -161,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
+      "score": 0.7429,
+      "importance": 0.7429,
+      "importance_score": 0.7429,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8787,
+        "recency": 0.8627,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -188,13 +188,40 @@
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "如果你已经会让 AI 帮自己写代码、查资料，但一到团队协作就变乱：谁的记忆算谁的？文件和权限怎么隔离？AI 能不能在Slack里一起推进项目？这篇就很好理解。YC开源了他们内部使用的多Agent协作框架：QM。它让每个员工、每个频道、每个项目都有独立的记忆、文件、密钥权限、定时任务和沙箱环境；还能接入 Pi、OpenCode、Codex、Claude Code 等不同Agent框架，避免被单一模型或工具绑定。",
+      "title": "Anthropic、OpenAI 和 DeepSeek 正在向同一个想法靠拢：将系统提示词用作奖励函数。下面会从 RLHF 一路讲到 RULER，拆解强化学习在智能体上的演进，并保留对应代码。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-08-01",
+      "source": "社区更新 · 2026-08-02",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "bfe7880a9b408cd372e730fe4301e81172c5b164",
+          "title": "Anthropic、OpenAI 和 DeepSeek 正在向同一个想法靠拢：将系统提示词用作奖励函数。下面会从 RLHF 一路讲到 RULER，拆解强化学习在智能体上的演进，并保留对应代码。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-02",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T16:37:22.056818Z"
+        },
+        {
+          "id": "cc419cc91b2ee4849448a4918d30a682c93d5e00",
+          "title": "很多团队开发Agent，注意力都放在模型、MCP、Skills和Harness 上，但真正容易被忽略的是：公司的规则、业务定义、历史经验，到底该用什么格式交给Agent，才能长期维护、迁移和验证。这篇文章把Google Cloud推出的OKF讲得很清楚。它有点像AI时代的“HTML”，把组织知识整理成可打开、可审查、可版本管理的Knowledge Bundle。未来企业真正沉淀下来的资产，可能是一套持续更新的可信知识层。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-02",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T16:37:22.056818Z"
+        },
+        {
+          "id": "56642e3a381f2e92a105fec8510054c4aa23e6da",
+          "title": "本周「AI 论文精选」把智能体工程、模型训练、安全监控和算力优化串了起来：NOOA把Agent写成Python 对象，ACM让智能体自己管理上下文，ReOPD复用教师轨迹降低训练成本，JAXBench提醒大家“文档和搜索”对工具调用很关键，还覆盖不可见推理、文件系统记忆、角色漂移等风险点。来看看哪些思路已经能迁移到真实项目里。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-02",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T16:37:22.056818Z"
+        },
+        {
           "id": "c06e1536ca165c819ac55c05b2693fb3441cb121",
           "title": "作者对Codex Micro，这个vibecoding 键盘做了配置体验和拆机。它没有本地AI、也没有内置麦克风，主要负责输入、灯光、通信和供电；同时也遇到了 USB 卡顿、HID 读取中断等稳定性问题。一起来看看230美元到底买到的是什么。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -222,12 +249,40 @@
           "published_at": "2026-08-01T16:37:51.176783Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 6,
       "source_names": [
-        "社区更新 · 2026-08-01"
+        "社区更新 · 2026-08-01",
+        "社区更新 · 2026-08-02"
       ],
       "items": [
         {
+          "id": "bfe7880a9b408cd372e730fe4301e81172c5b164",
+          "title": "Anthropic、OpenAI 和 DeepSeek 正在向同一个想法靠拢：将系统提示词用作奖励函数。下面会从 RLHF 一路讲到 RULER，拆解强化学习在智能体上的演进，并保留对应代码。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-02",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T16:37:22.056818Z"
+        },
+        {
+          "id": "cc419cc91b2ee4849448a4918d30a682c93d5e00",
+          "title": "很多团队开发Agent，注意力都放在模型、MCP、Skills和Harness 上，但真正容易被忽略的是：公司的规则、业务定义、历史经验，到底该用什么格式交给Agent，才能长期维护、迁移和验证。这篇文章把Google Cloud推出的OKF讲得很清楚。它有点像AI时代的“HTML”，把组织知识整理成可打开、可审查、可版本管理的Knowledge Bundle。未来企业真正沉淀下来的资产，可能是一套持续更新的可信知识层。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-02",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T16:37:22.056818Z"
+        },
+        {
+          "id": "56642e3a381f2e92a105fec8510054c4aa23e6da",
+          "title": "本周「AI 论文精选」把智能体工程、模型训练、安全监控和算力优化串了起来：NOOA把Agent写成Python 对象，ACM让智能体自己管理上下文，ReOPD复用教师轨迹降低训练成本，JAXBench提醒大家“文档和搜索”对工具调用很关键，还覆盖不可见推理、文件系统记忆、角色漂移等风险点。来看看哪些思路已经能迁移到真实项目里。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-02",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T16:37:22.056818Z"
+        },
+        {
           "id": "c06e1536ca165c819ac55c05b2693fb3441cb121",
           "title": "作者对Codex Micro，这个vibecoding 键盘做了配置体验和拆机。它没有本地AI、也没有内置麦克风，主要负责输入、灯光、通信和供电；同时也遇到了 USB 卡顿、HID 读取中断等稳定性问题。一起来看看230美元到底买到的是什么。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -255,30 +310,30 @@
           "published_at": "2026-08-01T16:37:51.176783Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5751,
-      "importance": 0.5751,
-      "importance_score": 0.5751,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6817,
+      "importance": 0.6817,
+      "importance_score": 0.6817,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.4752,
+        "editorial": 0.4896,
         "source_tier": 0.54,
-        "ai_relevance": 0.66,
-        "recency": 0.7317,
-        "story_heat": 0.5
+        "ai_relevance": 0.68,
+        "recency": 1.0,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-08-01T16:37:51.176783Z",
-      "latest_at": "2026-08-01T17:43:35.726921Z",
+      "latest_at": "2026-08-02T16:37:22.056818Z",
       "primary_item": {
-        "id": "ef8a92139ed81c0d03704b1795eac9596de0060e",
-        "title": "如果你已经会让 AI 帮自己写代码、查资料，但一到团队协作就变乱：谁的记忆算谁的？文件和权限怎么隔离？AI 能不能在Slack里一起推进项目？这篇就很好理解。YC开源了他们内部使用的多Agent协作框架：QM。它让每个员工、每个频道、每个项目都有独立的记忆、文件、密钥权限、定时任务和沙箱环境；还能接入 Pi、OpenCode、Codex、Claude Code 等不同Agent框架，避免被单一模型或工具绑定。",
+        "id": "bfe7880a9b408cd372e730fe4301e81172c5b164",
+        "title": "Anthropic、OpenAI 和 DeepSeek 正在向同一个想法靠拢：将系统提示词用作奖励函数。下面会从 RLHF 一路讲到 RULER，拆解强化学习在智能体上的演进，并保留对应代码。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-08-01",
+        "source": "社区更新 · 2026-08-02",
         "source_name": "WaytoAGI"
       }
     },
@@ -374,15 +429,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5614,
-      "importance": 0.5614,
-      "importance_score": 0.5614,
+      "score": 0.5588,
+      "importance": 0.5588,
+      "importance_score": 0.5588,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8091,
+        "recency": 0.7944,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -452,15 +507,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5425,
+      "importance": 0.5425,
+      "importance_score": 0.5425,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9819,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -478,82 +533,81 @@
       }
     },
     {
-      "story_id": "story_fbc44f3b9320",
-      "title": "在引发“代币狂潮”恐慌之后，优步首席技术官又带来了一个截然不同的人工智能故事",
-      "url": "https://www.businessinsider.com/uber-turns-best-ai-engineers-loose-pods-business-2026-8",
-      "primary_url": "https://www.businessinsider.com/uber-turns-best-ai-engineers-loose-pods-business-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_0405ae091a4a",
+      "title": "关于“技术”的咆哮 (2005) / A Rant About “Technology” (2005)",
+      "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+      "primary_url": "https://www.ursulakleguin.com/a-rant-about-technology",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "b141c71170ccd0faec51836b070fa3be8592c0e6",
-          "title": "在引发“代币狂潮”恐慌之后，优步首席技术官又带来了一个截然不同的人工智能故事",
-          "url": "https://www.businessinsider.com/uber-turns-best-ai-engineers-loose-pods-business-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T14:32:48.790000Z"
+          "id": "12c4183df13c7e4ba2eb1d793d54ed592afb3749",
+          "title": "关于“技术”的咆哮 (2005) / A Rant About “Technology” (2005)",
+          "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T14:51:18Z"
         },
         {
-          "id": "425db223cf82efa123a33731bc8129d1ed6df732",
-          "title": "在引发“代币狂潮”恐慌之后，优步首席技术官又带来了一个截然不同的人工智能故事 / After starting the tokenmaxxing panic, Uber's CTO is back with a very different AI story",
-          "url": "https://www.businessinsider.com/uber-turns-best-ai-engineers-loose-pods-business-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-02T13:30:01Z"
+          "id": "21cb4e27fc2051c6680e4ac4dcf624ea03a9a258",
+          "title": "Ursula K. Le Guin：关于“技术”的咆哮 (2005) / Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
+          "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T14:51:18Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "b141c71170ccd0faec51836b070fa3be8592c0e6",
-          "title": "在引发“代币狂潮”恐慌之后，优步首席技术官又带来了一个截然不同的人工智能故事",
-          "url": "https://www.businessinsider.com/uber-turns-best-ai-engineers-loose-pods-business-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T14:32:48.790000Z"
+          "id": "12c4183df13c7e4ba2eb1d793d54ed592afb3749",
+          "title": "关于“技术”的咆哮 (2005) / A Rant About “Technology” (2005)",
+          "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T14:51:18Z"
         },
         {
-          "id": "425db223cf82efa123a33731bc8129d1ed6df732",
-          "title": "在引发“代币狂潮”恐慌之后，优步首席技术官又带来了一个截然不同的人工智能故事 / After starting the tokenmaxxing panic, Uber's CTO is back with a very different AI story",
-          "url": "https://www.businessinsider.com/uber-turns-best-ai-engineers-loose-pods-business-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-02T13:30:01Z"
+          "id": "21cb4e27fc2051c6680e4ac4dcf624ea03a9a258",
+          "title": "Ursula K. Le Guin：关于“技术”的咆哮 (2005) / Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
+          "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T14:51:18Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5437,
-      "importance": 0.5437,
-      "importance_score": 0.5437,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9884,
+        "recency": 0.9748,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T13:30:01Z",
-      "latest_at": "2026-08-02T14:32:48.790000Z",
+      "earliest_at": "2026-08-02T14:51:18Z",
+      "latest_at": "2026-08-02T14:51:18Z",
       "primary_item": {
-        "id": "b141c71170ccd0faec51836b070fa3be8592c0e6",
-        "title": "在引发“代币狂潮”恐慌之后，优步首席技术官又带来了一个截然不同的人工智能故事",
-        "url": "https://www.businessinsider.com/uber-turns-best-ai-engineers-loose-pods-business-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "12c4183df13c7e4ba2eb1d793d54ed592afb3749",
+        "title": "关于“技术”的咆哮 (2005) / A Rant About “Technology” (2005)",
+        "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -629,15 +683,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5434,
-      "importance": 0.5434,
-      "importance_score": 0.5434,
+      "score": 0.5406,
+      "importance": 0.5406,
+      "importance_score": 0.5406,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8477,
+        "recency": 0.8323,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -652,6 +706,85 @@
         "url": "https://news.ycombinator.com/item?id=49140340",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_fbc44f3b9320",
+      "title": "在引发“代币狂潮”恐慌之后，优步首席技术官又带来了一个截然不同的人工智能故事",
+      "url": "https://www.businessinsider.com/uber-turns-best-ai-engineers-loose-pods-business-2026-8",
+      "primary_url": "https://www.businessinsider.com/uber-turns-best-ai-engineers-loose-pods-business-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b141c71170ccd0faec51836b070fa3be8592c0e6",
+          "title": "在引发“代币狂潮”恐慌之后，优步首席技术官又带来了一个截然不同的人工智能故事",
+          "url": "https://www.businessinsider.com/uber-turns-best-ai-engineers-loose-pods-business-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T14:32:48.790000Z"
+        },
+        {
+          "id": "425db223cf82efa123a33731bc8129d1ed6df732",
+          "title": "在引发“代币狂潮”恐慌之后，优步首席技术官又带来了一个截然不同的人工智能故事 / After starting the tokenmaxxing panic, Uber's CTO is back with a very different AI story",
+          "url": "https://www.businessinsider.com/uber-turns-best-ai-engineers-loose-pods-business-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T13:30:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "b141c71170ccd0faec51836b070fa3be8592c0e6",
+          "title": "在引发“代币狂潮”恐慌之后，优步首席技术官又带来了一个截然不同的人工智能故事",
+          "url": "https://www.businessinsider.com/uber-turns-best-ai-engineers-loose-pods-business-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T14:32:48.790000Z"
+        },
+        {
+          "id": "425db223cf82efa123a33731bc8129d1ed6df732",
+          "title": "在引发“代币狂潮”恐慌之后，优步首席技术官又带来了一个截然不同的人工智能故事 / After starting the tokenmaxxing panic, Uber's CTO is back with a very different AI story",
+          "url": "https://www.businessinsider.com/uber-turns-best-ai-engineers-loose-pods-business-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T13:30:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5405,
+      "importance": 0.5405,
+      "importance_score": 0.5405,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9705,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T13:30:01Z",
+      "latest_at": "2026-08-02T14:32:48.790000Z",
+      "primary_item": {
+        "id": "b141c71170ccd0faec51836b070fa3be8592c0e6",
+        "title": "在引发“代币狂潮”恐慌之后，优步首席技术官又带来了一个截然不同的人工智能故事",
+        "url": "https://www.businessinsider.com/uber-turns-best-ai-engineers-loose-pods-business-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -708,15 +841,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
+      "score": 0.5348,
+      "importance": 0.5348,
+      "importance_score": 0.5348,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9563,
+        "recency": 0.939,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -787,15 +920,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9365,
+        "recency": 0.9195,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -866,15 +999,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
+      "score": 0.5233,
+      "importance": 0.5233,
+      "importance_score": 0.5233,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8909,
+        "recency": 0.8747,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -888,104 +1021,6 @@
         "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
         "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
         "source": "www.wafer.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4d5fae192487",
-      "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
-      "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-      "primary_url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-      "source": "forum.cursor.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e90b4afc2008713009e131f5b452c20b0078a47c",
-          "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
-          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-          "source": "forum.cursor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T17:29:19.514000Z"
-        },
-        {
-          "id": "e9c7de4959c8c31c8ebcc99f00578f42deff131f",
-          "title": "光标从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
-          "url": "https://news.ycombinator.com/item?id=49135257",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T16:23:38.053000Z"
-        },
-        {
-          "id": "de573c10b33e0a6db03369843a6dd7ee7a027e5c",
-          "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息 / Cursor removed cost information from the usage page and CSV export",
-          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T15:25:21Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "forum.cursor.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e90b4afc2008713009e131f5b452c20b0078a47c",
-          "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
-          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-          "source": "forum.cursor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T17:29:19.514000Z"
-        },
-        {
-          "id": "e9c7de4959c8c31c8ebcc99f00578f42deff131f",
-          "title": "光标从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
-          "url": "https://news.ycombinator.com/item?id=49135257",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T16:23:38.053000Z"
-        },
-        {
-          "id": "de573c10b33e0a6db03369843a6dd7ee7a027e5c",
-          "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息 / Cursor removed cost information from the usage page and CSV export",
-          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T15:25:21Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5221,
-      "importance": 0.5221,
-      "importance_score": 0.5221,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7292,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T15:25:21Z",
-      "latest_at": "2026-08-01T17:29:19.514000Z",
-      "primary_item": {
-        "id": "e90b4afc2008713009e131f5b452c20b0078a47c",
-        "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
-        "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-        "source": "forum.cursor.com",
         "source_name": "Buzzing"
       }
     },
@@ -1060,15 +1095,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5434,
-      "importance": 0.5434,
-      "importance_score": 0.5434,
+      "score": 0.5406,
+      "importance": 0.5406,
+      "importance_score": 0.5406,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8477,
+        "recency": 0.8323,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1139,15 +1174,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5076,
-      "importance": 0.5076,
-      "importance_score": 0.5076,
+      "score": 0.505,
+      "importance": 0.505,
+      "importance_score": 0.505,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7878,
+        "recency": 0.7735,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1218,15 +1253,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5043,
-      "importance": 0.5043,
-      "importance_score": 0.5043,
+      "score": 0.5018,
+      "importance": 0.5018,
+      "importance_score": 0.5018,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7696,
+        "recency": 0.7557,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1297,15 +1332,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5286,
-      "importance": 0.5286,
-      "importance_score": 0.5286,
+      "score": 0.5257,
+      "importance": 0.5257,
+      "importance_score": 0.5257,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9046,
+        "recency": 0.8882,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1320,84 +1355,6 @@
         "url": "https://www.businessinsider.com/steve-hanke-ai-not-destroying-jobs-unemployment-cost-data-centers-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_bc4ec80770d1",
-      "title": "NetBSD 11.0 正式发布 / NetBSD 11.0",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-      "primary_url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "2e0a09d0155552ee6132af5dc6bd5be75b9d84b3",
-          "title": "NetBSD 11.0 正式发布 / NetBSD 11.0",
-          "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T17:56:41Z"
-        },
-        {
-          "id": "4664a2a308675e56f5cbe17a7417aa0ddbfb9521",
-          "title": "NetBSD 11.0 正式发布 / NetBSD 11.0 Released",
-          "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T17:56:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "2e0a09d0155552ee6132af5dc6bd5be75b9d84b3",
-          "title": "NetBSD 11.0 正式发布 / NetBSD 11.0",
-          "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T17:56:41Z"
-        },
-        {
-          "id": "4664a2a308675e56f5cbe17a7417aa0ddbfb9521",
-          "title": "NetBSD 11.0 正式发布 / NetBSD 11.0 Released",
-          "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T17:56:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4979,
-      "importance": 0.4979,
-      "importance_score": 0.4979,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.734,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T17:56:41Z",
-      "latest_at": "2026-08-01T17:56:41Z",
-      "primary_item": {
-        "id": "2e0a09d0155552ee6132af5dc6bd5be75b9d84b3",
-        "title": "NetBSD 11.0 正式发布 / NetBSD 11.0",
-        "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1454,15 +1411,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5248,
-      "importance": 0.5248,
-      "importance_score": 0.5248,
+      "score": 0.5219,
+      "importance": 0.5219,
+      "importance_score": 0.5219,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8834,
+        "recency": 0.8674,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1533,15 +1490,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.537,
-      "importance": 0.537,
-      "importance_score": 0.537,
+      "score": 0.5339,
+      "importance": 0.5339,
+      "importance_score": 0.5339,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9512,
+        "recency": 0.934,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1556,6 +1513,84 @@
         "url": "https://news.ycombinator.com/item?id=49143001",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_bc4ec80770d1",
+      "title": "NetBSD 11.0 正式发布 / NetBSD 11.0",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+      "primary_url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "2e0a09d0155552ee6132af5dc6bd5be75b9d84b3",
+          "title": "NetBSD 11.0 正式发布 / NetBSD 11.0",
+          "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T17:56:41Z"
+        },
+        {
+          "id": "4664a2a308675e56f5cbe17a7417aa0ddbfb9521",
+          "title": "NetBSD 11.0 正式发布 / NetBSD 11.0 Released",
+          "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T17:56:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "2e0a09d0155552ee6132af5dc6bd5be75b9d84b3",
+          "title": "NetBSD 11.0 正式发布 / NetBSD 11.0",
+          "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T17:56:41Z"
+        },
+        {
+          "id": "4664a2a308675e56f5cbe17a7417aa0ddbfb9521",
+          "title": "NetBSD 11.0 正式发布 / NetBSD 11.0 Released",
+          "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T17:56:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4955,
+      "importance": 0.4955,
+      "importance_score": 0.4955,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7207,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T17:56:41Z",
+      "latest_at": "2026-08-01T17:56:41Z",
+      "primary_item": {
+        "id": "2e0a09d0155552ee6132af5dc6bd5be75b9d84b3",
+        "title": "NetBSD 11.0 正式发布 / NetBSD 11.0",
+        "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1612,15 +1647,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5198,
-      "importance": 0.5198,
-      "importance_score": 0.5198,
+      "score": 0.517,
+      "importance": 0.517,
+      "importance_score": 0.517,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8554,
+        "recency": 0.8399,
         "story_heat": 0.25
       },
       "category": "watch",
