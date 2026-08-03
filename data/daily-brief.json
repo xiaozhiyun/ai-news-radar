@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T07:46:48.083437Z",
+  "generated_at": "2026-08-03T08:22:19.845267Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8542,
-      "importance": 0.8542,
-      "importance_score": 0.8542,
+      "score": 0.8528,
+      "importance": 0.8528,
+      "importance_score": 0.8528,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9199,
+        "recency": 0.9121,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -166,6 +166,87 @@
       }
     },
     {
+      "story_id": "story_8e3f233c3306",
+      "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
+      "url": "https://www.aibase.com/news/30072",
+      "primary_url": "https://www.aibase.com/news/30072",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "98976399b9e5b24bc239dbb80a4401d88c609bdb",
+          "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
+          "url": "https://www.aibase.com/news/30072",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T07:46:48.083437Z"
+        },
+        {
+          "id": "f18233175bed1eb1d855a1c05a1857a070c18f75",
+          "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
+          "url": "https://www.aibase.com/zh/news/30072",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "98976399b9e5b24bc239dbb80a4401d88c609bdb",
+          "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
+          "url": "https://www.aibase.com/news/30072",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T07:46:48.083437Z"
+        },
+        {
+          "id": "f18233175bed1eb1d855a1c05a1857a070c18f75",
+          "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
+          "url": "https://www.aibase.com/zh/news/30072",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7911,
+      "importance": 0.7911,
+      "importance_score": 0.7911,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9915,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T07:46:48.083437Z",
+      "latest_at": "2026-08-03T08:22:19.845267Z",
+      "primary_item": {
+        "id": "98976399b9e5b24bc239dbb80a4401d88c609bdb",
+        "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
+        "url": "https://www.aibase.com/news/30072",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
       "story_id": "story_771ba959c84a",
       "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
       "url": "https://www.aibase.com/news/30067",
@@ -219,15 +300,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7911,
+      "importance": 0.7911,
+      "importance_score": 0.7911,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9915,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -242,87 +323,6 @@
         "id": "0c9c3b0ce6e6d52004bd1e9d1c9f952d2280b6b3",
         "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
         "url": "https://www.aibase.com/news/30067",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_274b65a462ed",
-      "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
-      "url": "https://www.aibase.com/news/30066",
-      "primary_url": "https://www.aibase.com/news/30066",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bb31af528713edc2c7a2f92c89e2114f3918e8e3",
-          "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
-          "url": "https://www.aibase.com/news/30066",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T07:46:48.083437Z"
-        },
-        {
-          "id": "bebc1eff66a93c33a7123af564dfe95b22e77bfc",
-          "title": "年薪 50 万美元招不到人，AI 安全领域的「人类预备队」人手严重告急",
-          "url": "https://www.aibase.com/zh/news/30066",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "bb31af528713edc2c7a2f92c89e2114f3918e8e3",
-          "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
-          "url": "https://www.aibase.com/news/30066",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T07:46:48.083437Z"
-        },
-        {
-          "id": "bebc1eff66a93c33a7123af564dfe95b22e77bfc",
-          "title": "年薪 50 万美元招不到人，AI 安全领域的「人类预备队」人手严重告急",
-          "url": "https://www.aibase.com/zh/news/30066",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T07:46:48.083437Z",
-      "latest_at": "2026-08-03T07:46:48.083437Z",
-      "primary_item": {
-        "id": "bb31af528713edc2c7a2f92c89e2114f3918e8e3",
-        "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
-        "url": "https://www.aibase.com/news/30066",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -381,15 +381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8611,
+        "recency": 0.8538,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -404,6 +404,147 @@
         "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
         "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
         "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_274b65a462ed",
+      "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
+      "url": "https://www.aibase.com/news/30066",
+      "primary_url": "https://www.aibase.com/news/30066",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bb31af528713edc2c7a2f92c89e2114f3918e8e3",
+          "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
+          "url": "https://www.aibase.com/news/30066",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T07:46:48.083437Z"
+        },
+        {
+          "id": "bebc1eff66a93c33a7123af564dfe95b22e77bfc",
+          "title": "年薪 50 万美元招不到人，AI 安全领域的「人类预备队」人手严重告急",
+          "url": "https://www.aibase.com/zh/news/30066",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "bb31af528713edc2c7a2f92c89e2114f3918e8e3",
+          "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
+          "url": "https://www.aibase.com/news/30066",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T07:46:48.083437Z"
+        },
+        {
+          "id": "bebc1eff66a93c33a7123af564dfe95b22e77bfc",
+          "title": "年薪 50 万美元招不到人，AI 安全领域的「人类预备队」人手严重告急",
+          "url": "https://www.aibase.com/zh/news/30066",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7911,
+      "importance": 0.7911,
+      "importance_score": 0.7911,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9915,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T07:46:48.083437Z",
+      "latest_at": "2026-08-03T07:46:48.083437Z",
+      "primary_item": {
+        "id": "bb31af528713edc2c7a2f92c89e2114f3918e8e3",
+        "title": "年薪 50 万美元招不到人，AI 安全领域的\"人类预备队\"人手严重告急",
+        "url": "https://www.aibase.com/news/30066",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ea173ba37f58",
+      "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+      "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+      "primary_url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
+          "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+          "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T10:47:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
+          "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+          "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T10:47:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7322,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-02T10:47:27Z",
+      "latest_at": "2026-08-02T10:47:27Z",
+      "primary_item": {
+        "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
+        "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+        "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
         "source_name": "AI HOT"
       }
     },
@@ -461,15 +602,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7911,
+      "importance": 0.7911,
+      "importance_score": 0.7911,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9915,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -484,147 +625,6 @@
         "id": "dfca8260da6754f5f6bbada75279c9896f29c232",
         "title": "视觉大模型迎来开源重磅消息！多模态生成再升级，2K高清音画如何颠覆行业？",
         "url": "https://www.aibase.com/news/30069",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ea173ba37f58",
-      "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-      "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
-      "primary_url": "https://x.com/AYi_AInotes/status/2083867265179537565",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
-          "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-          "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-02T10:47:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
-          "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-          "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-02T10:47:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7295,
-      "importance": 0.7295,
-      "importance_score": 0.7295,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7385,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-02T10:47:27Z",
-      "latest_at": "2026-08-02T10:47:27Z",
-      "primary_item": {
-        "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
-        "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-        "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8c95a732d38c",
-      "title": "Claude Opus5展现游戏生成能力:可用代码打造射击、赛车和3D世界",
-      "url": "https://www.aibase.com/news/30053",
-      "primary_url": "https://www.aibase.com/news/30053",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "014bcf3fef568b751229bb26e76fabb9066f78c7",
-          "title": "Claude Opus5展现游戏生成能力:可用代码打造射击、赛车和3D世界",
-          "url": "https://www.aibase.com/news/30053",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T03:55:37.463805Z"
-        },
-        {
-          "id": "609e4b9a114323378b9793d4db66661c8ec089d8",
-          "title": "Claude Opus5 展现游戏生成能力：可用代码打造射击、赛车和 3D 世界",
-          "url": "https://www.aibase.com/zh/news/30053",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "014bcf3fef568b751229bb26e76fabb9066f78c7",
-          "title": "Claude Opus5展现游戏生成能力:可用代码打造射击、赛车和3D世界",
-          "url": "https://www.aibase.com/news/30053",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T03:55:37.463805Z"
-        },
-        {
-          "id": "609e4b9a114323378b9793d4db66661c8ec089d8",
-          "title": "Claude Opus5 展现游戏生成能力：可用代码打造射击、赛车和 3D 世界",
-          "url": "https://www.aibase.com/zh/news/30053",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7829,
-      "importance": 0.7829,
-      "importance_score": 0.7829,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9459,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T03:55:37.463805Z",
-      "latest_at": "2026-08-03T03:55:37.463805Z",
-      "primary_item": {
-        "id": "014bcf3fef568b751229bb26e76fabb9066f78c7",
-        "title": "Claude Opus5展现游戏生成能力:可用代码打造射击、赛车和3D世界",
-        "url": "https://www.aibase.com/news/30053",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -755,15 +755,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6734,
-      "importance": 0.6734,
-      "importance_score": 0.6734,
+      "score": 0.6718,
+      "importance": 0.6718,
+      "importance_score": 0.6718,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.54,
         "ai_relevance": 0.66,
-        "recency": 1.0,
+        "recency": 0.9915,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -778,6 +778,87 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-03",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_8c95a732d38c",
+      "title": "Claude Opus5展现游戏生成能力:可用代码打造射击、赛车和3D世界",
+      "url": "https://www.aibase.com/news/30053",
+      "primary_url": "https://www.aibase.com/news/30053",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "014bcf3fef568b751229bb26e76fabb9066f78c7",
+          "title": "Claude Opus5展现游戏生成能力:可用代码打造射击、赛车和3D世界",
+          "url": "https://www.aibase.com/news/30053",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T03:55:37.463805Z"
+        },
+        {
+          "id": "609e4b9a114323378b9793d4db66661c8ec089d8",
+          "title": "Claude Opus5 展现游戏生成能力：可用代码打造射击、赛车和 3D 世界",
+          "url": "https://www.aibase.com/zh/news/30053",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "014bcf3fef568b751229bb26e76fabb9066f78c7",
+          "title": "Claude Opus5展现游戏生成能力:可用代码打造射击、赛车和3D世界",
+          "url": "https://www.aibase.com/news/30053",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T03:55:37.463805Z"
+        },
+        {
+          "id": "609e4b9a114323378b9793d4db66661c8ec089d8",
+          "title": "Claude Opus5 展现游戏生成能力：可用代码打造射击、赛车和 3D 世界",
+          "url": "https://www.aibase.com/zh/news/30053",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7814,
+      "importance": 0.7814,
+      "importance_score": 0.7814,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9378,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T03:55:37.463805Z",
+      "latest_at": "2026-08-03T03:55:37.463805Z",
+      "primary_item": {
+        "id": "014bcf3fef568b751229bb26e76fabb9066f78c7",
+        "title": "Claude Opus5展现游戏生成能力:可用代码打造射击、赛车和3D世界",
+        "url": "https://www.aibase.com/news/30053",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -834,15 +915,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7829,
-      "importance": 0.7829,
-      "importance_score": 0.7829,
+      "score": 0.7814,
+      "importance": 0.7814,
+      "importance_score": 0.7814,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9459,
+        "recency": 0.9378,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -857,87 +938,6 @@
         "id": "59814318328af4611933775cbc86841bd19f6eb1",
         "title": "OpenAI人工智能体突破沙箱入侵开源平台Hugging Face 自主AI安全边界失守",
         "url": "https://www.aibase.com/news/30057",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_38b7c0dbea72",
-      "title": "Qwen3.8-Max上线:聚焦真实办公与复杂任务，下周将开源模型权重",
-      "url": "https://www.aibase.com/news/30059",
-      "primary_url": "https://www.aibase.com/news/30059",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5c5a9598e49fa5b486baff44e1213ebfcf7b7c6d",
-          "title": "Qwen3.8-Max上线:聚焦真实办公与复杂任务，下周将开源模型权重",
-          "url": "https://www.aibase.com/news/30059",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T03:55:37.463805Z"
-        },
-        {
-          "id": "9e40d1e94c14c7e9896c173547ad90ed71793a57",
-          "title": "Qwen3.8-Max 上线：聚焦真实办公与复杂任务，下周将开源模型权重",
-          "url": "https://www.aibase.com/zh/news/30059",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "5c5a9598e49fa5b486baff44e1213ebfcf7b7c6d",
-          "title": "Qwen3.8-Max上线:聚焦真实办公与复杂任务，下周将开源模型权重",
-          "url": "https://www.aibase.com/news/30059",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T03:55:37.463805Z"
-        },
-        {
-          "id": "9e40d1e94c14c7e9896c173547ad90ed71793a57",
-          "title": "Qwen3.8-Max 上线：聚焦真实办公与复杂任务，下周将开源模型权重",
-          "url": "https://www.aibase.com/zh/news/30059",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7829,
-      "importance": 0.7829,
-      "importance_score": 0.7829,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9459,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T03:55:37.463805Z",
-      "latest_at": "2026-08-03T03:55:37.463805Z",
-      "primary_item": {
-        "id": "5c5a9598e49fa5b486baff44e1213ebfcf7b7c6d",
-        "title": "Qwen3.8-Max上线:聚焦真实办公与复杂任务，下周将开源模型权重",
-        "url": "https://www.aibase.com/news/30059",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1052,15 +1052,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6105,
-      "importance": 0.6105,
-      "importance_score": 0.6105,
+      "score": 0.6091,
+      "importance": 0.6091,
+      "importance_score": 0.6091,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9428,
+        "recency": 0.9348,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1075,6 +1075,87 @@
         "url": "https://news.ycombinator.com/item?id=49147622",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_38b7c0dbea72",
+      "title": "Qwen3.8-Max上线:聚焦真实办公与复杂任务，下周将开源模型权重",
+      "url": "https://www.aibase.com/news/30059",
+      "primary_url": "https://www.aibase.com/news/30059",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5c5a9598e49fa5b486baff44e1213ebfcf7b7c6d",
+          "title": "Qwen3.8-Max上线:聚焦真实办公与复杂任务，下周将开源模型权重",
+          "url": "https://www.aibase.com/news/30059",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T03:55:37.463805Z"
+        },
+        {
+          "id": "9e40d1e94c14c7e9896c173547ad90ed71793a57",
+          "title": "Qwen3.8-Max 上线：聚焦真实办公与复杂任务，下周将开源模型权重",
+          "url": "https://www.aibase.com/zh/news/30059",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "5c5a9598e49fa5b486baff44e1213ebfcf7b7c6d",
+          "title": "Qwen3.8-Max上线:聚焦真实办公与复杂任务，下周将开源模型权重",
+          "url": "https://www.aibase.com/news/30059",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-03T03:55:37.463805Z"
+        },
+        {
+          "id": "9e40d1e94c14c7e9896c173547ad90ed71793a57",
+          "title": "Qwen3.8-Max 上线：聚焦真实办公与复杂任务，下周将开源模型权重",
+          "url": "https://www.aibase.com/zh/news/30059",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7814,
+      "importance": 0.7814,
+      "importance_score": 0.7814,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9378,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T03:55:37.463805Z",
+      "latest_at": "2026-08-03T03:55:37.463805Z",
+      "primary_item": {
+        "id": "5c5a9598e49fa5b486baff44e1213ebfcf7b7c6d",
+        "title": "Qwen3.8-Max上线:聚焦真实办公与复杂任务，下周将开源模型权重",
+        "url": "https://www.aibase.com/news/30059",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1131,15 +1212,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7829,
-      "importance": 0.7829,
-      "importance_score": 0.7829,
+      "score": 0.7814,
+      "importance": 0.7814,
+      "importance_score": 0.7814,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9459,
+        "recency": 0.9378,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1154,87 +1235,6 @@
         "id": "2e1e45b20f840146141814ed5c038aeb44e120f4",
         "title": "xAI升级 Imagine Video1.5:新增图像语音参考与原生1080p视频生成",
         "url": "https://www.aibase.com/news/30056",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_26541ea63b4d",
-      "title": "​长三角AI算力迎来“超级枢纽”，DeepSeek、千问等100+大模型任你挑！",
-      "url": "https://www.aibase.com/news/30062",
-      "primary_url": "https://www.aibase.com/news/30062",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7aeffc521ed198938afe83333b1eb18a194fa6c0",
-          "title": "​长三角AI算力迎来“超级枢纽”，DeepSeek、千问等100+大模型任你挑！",
-          "url": "https://www.aibase.com/news/30062",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T03:55:37.463805Z"
-        },
-        {
-          "id": "8112edbdb5159c26af33714cc8c9f0fee0761555",
-          "title": "长三角 AI 算力迎来「超级枢纽」，DeepSeek、千问等 100+ 大模型任你挑",
-          "url": "https://www.aibase.com/zh/news/30062",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "7aeffc521ed198938afe83333b1eb18a194fa6c0",
-          "title": "​长三角AI算力迎来“超级枢纽”，DeepSeek、千问等100+大模型任你挑！",
-          "url": "https://www.aibase.com/news/30062",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T03:55:37.463805Z"
-        },
-        {
-          "id": "8112edbdb5159c26af33714cc8c9f0fee0761555",
-          "title": "长三角 AI 算力迎来「超级枢纽」，DeepSeek、千问等 100+ 大模型任你挑",
-          "url": "https://www.aibase.com/zh/news/30062",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7829,
-      "importance": 0.7829,
-      "importance_score": 0.7829,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9459,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T03:55:37.463805Z",
-      "latest_at": "2026-08-03T03:55:37.463805Z",
-      "primary_item": {
-        "id": "7aeffc521ed198938afe83333b1eb18a194fa6c0",
-        "title": "​长三角AI算力迎来“超级枢纽”，DeepSeek、千问等100+大模型任你挑！",
-        "url": "https://www.aibase.com/news/30062",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1312,15 +1312,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5539,
-      "importance": 0.5539,
-      "importance_score": 0.5539,
+      "score": 0.5525,
+      "importance": 0.5525,
+      "importance_score": 0.5525,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.906,
+        "recency": 0.8983,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1409,15 +1409,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5501,
-      "importance": 0.5501,
-      "importance_score": 0.5501,
+      "score": 0.5488,
+      "importance": 0.5488,
+      "importance_score": 0.5488,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8852,
+        "recency": 0.8776,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1507,15 +1507,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5489,
-      "importance": 0.5489,
-      "importance_score": 0.5489,
+      "score": 0.5476,
+      "importance": 0.5476,
+      "importance_score": 0.5476,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8786,
+        "recency": 0.8711,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1533,26 +1533,105 @@
       }
     },
     {
-      "story_id": "story_ec532ad19e9a",
-      "title": "京东外卖发布AI智能头盔:支持语音接单、路线导航和订单备注提醒",
-      "url": "https://www.aibase.com/news/30060",
-      "primary_url": "https://www.aibase.com/news/30060",
+      "story_id": "story_9ebc895c2d08",
+      "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度",
+      "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
+      "primary_url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2b77c8a244bbe12f437b142b77337dc6e16ee434",
+          "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度",
+          "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T07:20:51.777000Z"
+        },
+        {
+          "id": "340019a9161967c58e7c13ae9acdb78bf2e4fb57",
+          "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度 / Hugging Face CEO says AI companies should be required to disclose hacks after OpenAI breach",
+          "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T06:52:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "2b77c8a244bbe12f437b142b77337dc6e16ee434",
+          "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度",
+          "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T07:20:51.777000Z"
+        },
+        {
+          "id": "340019a9161967c58e7c13ae9acdb78bf2e4fb57",
+          "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度 / Hugging Face CEO says AI companies should be required to disclose hacks after OpenAI breach",
+          "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-03T06:52:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9853,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-03T06:52:48Z",
+      "latest_at": "2026-08-03T07:20:51.777000Z",
+      "primary_item": {
+        "id": "2b77c8a244bbe12f437b142b77337dc6e16ee434",
+        "title": "Hugging Face 首席执行官表示，像 OpenAI 事件这样的黑客攻击需要透明度",
+        "url": "https://www.businessinsider.com/hugging-face-ceo-hack-openai-mandatory-transparency-law-ai-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_26541ea63b4d",
+      "title": "​长三角AI算力迎来“超级枢纽”，DeepSeek、千问等100+大模型任你挑！",
+      "url": "https://www.aibase.com/news/30062",
+      "primary_url": "https://www.aibase.com/news/30062",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1ff502a93129ff73ab156450252b42a72a355d3f",
-          "title": "京东外卖发布AI智能头盔:支持语音接单、路线导航和订单备注提醒",
-          "url": "https://www.aibase.com/news/30060",
+          "id": "7aeffc521ed198938afe83333b1eb18a194fa6c0",
+          "title": "​长三角AI算力迎来“超级枢纽”，DeepSeek、千问等100+大模型任你挑！",
+          "url": "https://www.aibase.com/news/30062",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-03T03:55:37.463805Z"
         },
         {
-          "id": "cd32d4ab6ad20401276db2ea77a5fec7920ff4ff",
-          "title": "京东外卖发布 AI 智能头盔：支持语音接单、路线导航和订单备注提醒",
-          "url": "https://www.aibase.com/zh/news/30060",
+          "id": "8112edbdb5159c26af33714cc8c9f0fee0761555",
+          "title": "长三角 AI 算力迎来「超级枢纽」，DeepSeek、千问等 100+ 大模型任你挑",
+          "url": "https://www.aibase.com/zh/news/30062",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1566,18 +1645,18 @@
       ],
       "items": [
         {
-          "id": "1ff502a93129ff73ab156450252b42a72a355d3f",
-          "title": "京东外卖发布AI智能头盔:支持语音接单、路线导航和订单备注提醒",
-          "url": "https://www.aibase.com/news/30060",
+          "id": "7aeffc521ed198938afe83333b1eb18a194fa6c0",
+          "title": "​长三角AI算力迎来“超级枢纽”，DeepSeek、千问等100+大模型任你挑！",
+          "url": "https://www.aibase.com/news/30062",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-03T03:55:37.463805Z"
         },
         {
-          "id": "cd32d4ab6ad20401276db2ea77a5fec7920ff4ff",
-          "title": "京东外卖发布 AI 智能头盔：支持语音接单、路线导航和订单备注提醒",
-          "url": "https://www.aibase.com/zh/news/30060",
+          "id": "8112edbdb5159c26af33714cc8c9f0fee0761555",
+          "title": "长三角 AI 算力迎来「超级枢纽」，DeepSeek、千问等 100+ 大模型任你挑",
+          "url": "https://www.aibase.com/zh/news/30062",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1586,15 +1665,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7829,
-      "importance": 0.7829,
-      "importance_score": 0.7829,
+      "score": 0.7814,
+      "importance": 0.7814,
+      "importance_score": 0.7814,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9459,
+        "recency": 0.9378,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1606,9 +1685,9 @@
       "earliest_at": "2026-08-03T03:55:37.463805Z",
       "latest_at": "2026-08-03T03:55:37.463805Z",
       "primary_item": {
-        "id": "1ff502a93129ff73ab156450252b42a72a355d3f",
-        "title": "京东外卖发布AI智能头盔:支持语音接单、路线导航和订单备注提醒",
-        "url": "https://www.aibase.com/news/30060",
+        "id": "7aeffc521ed198938afe83333b1eb18a194fa6c0",
+        "title": "​长三角AI算力迎来“超级枢纽”，DeepSeek、千问等100+大模型任你挑！",
+        "url": "https://www.aibase.com/news/30062",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1686,15 +1765,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5412,
-      "importance": 0.5412,
-      "importance_score": 0.5412,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8357,
+        "recency": 0.8285,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1708,85 +1787,6 @@
         "title": "人工智能：《Ars Notoria》与即时知识的承诺",
         "url": "https://publicdomainreview.org/essay/ars-notoria",
         "source": "publicdomainreview.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_245bd9037021",
-      "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-      "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-      "primary_url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-      "source": "www.modelrepublic.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1df375caf2242069944c372fb478134ce40d4667",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "www.modelrepublic.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T05:44:58.273000Z"
-        },
-        {
-          "id": "27d72771898a26819f8daa9ad1aa28003b0f0dbf",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-03T02:30:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.modelrepublic.org"
-      ],
-      "items": [
-        {
-          "id": "1df375caf2242069944c372fb478134ce40d4667",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "www.modelrepublic.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T05:44:58.273000Z"
-        },
-        {
-          "id": "27d72771898a26819f8daa9ad1aa28003b0f0dbf",
-          "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者 / OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-          "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-03T02:30:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9711,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T02:30:30Z",
-      "latest_at": "2026-08-03T05:44:58.273000Z",
-      "primary_item": {
-        "id": "1df375caf2242069944c372fb478134ce40d4667",
-        "title": "OpenAI的超级政治行动委员会正在资助一个由人工智能生成的新闻网站，该网站针对行业批评者",
-        "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-        "source": "www.modelrepublic.org",
         "source_name": "Buzzing"
       }
     }
