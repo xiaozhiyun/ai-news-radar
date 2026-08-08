@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T13:57:39.974413Z",
+  "generated_at": "2026-08-08T14:50:03.504097Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8268,
-      "importance": 0.8268,
-      "importance_score": 0.8268,
+      "score": 0.8252,
+      "importance": 0.8252,
+      "importance_score": 0.8252,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7213,
+        "recency": 0.7122,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.8158,
+      "importance": 0.8158,
+      "importance_score": 0.8158,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8088,
+        "recency": 0.7987,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8147,
-      "importance": 0.8147,
-      "importance_score": 0.8147,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7484,
+        "recency": 0.739,
         "story_heat": 0.0
       },
       "category": "official",
@@ -207,6 +207,87 @@
         "url": "https://huggingface.co/blog/allenai/tutormoments",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_10f59a98f1f0",
+      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+      "url": "https://www.ithome.com/0/987/438.htm",
+      "primary_url": "https://www.ithome.com/0/987/438.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T13:38:40Z"
+        },
+        {
+          "id": "682068a11714b8eea5aae54179de865fdd172a09",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”",
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T13:38:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T13:38:40Z"
+        },
+        {
+          "id": "682068a11714b8eea5aae54179de865fdd172a09",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”",
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T13:38:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.983,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-08T13:38:40Z",
+      "latest_at": "2026-08-08T13:38:40Z",
+      "primary_item": {
+        "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+        "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "url": "https://www.ithome.com/0/987/438.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -244,15 +325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8131,
-      "importance": 0.8131,
-      "importance_score": 0.8131,
+      "score": 0.8113,
+      "importance": 0.8113,
+      "importance_score": 0.8113,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7838,
+        "recency": 0.774,
         "story_heat": 0.0
       },
       "category": "official",
@@ -306,15 +387,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
+      "score": 0.7731,
+      "importance": 0.7731,
+      "importance_score": 0.7731,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9595,
+        "recency": 0.9475,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -329,67 +410,6 @@
         "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
         "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
         "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f86125a0b832",
-      "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-      "url": "https://www.ithome.com/0/987/366.htm",
-      "primary_url": "https://www.ithome.com/0/987/366.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "39ae011c786ec99da87b989825c3aba421ec9838",
-          "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "url": "https://www.ithome.com/0/987/366.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T08:25:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "39ae011c786ec99da87b989825c3aba421ec9838",
-          "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "url": "https://www.ithome.com/0/987/366.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T08:25:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7658,
-      "importance": 0.7658,
-      "importance_score": 0.7658,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9231,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-08T08:25:11Z",
-      "latest_at": "2026-08-08T08:25:11Z",
-      "primary_item": {
-        "id": "39ae011c786ec99da87b989825c3aba421ec9838",
-        "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-        "url": "https://www.ithome.com/0/987/366.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -428,15 +448,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.8125,
-      "importance_score": 0.8125,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7808,
+        "recency": 0.771,
         "story_heat": 0.0
       },
       "category": "official",
@@ -490,15 +510,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7376,
+      "importance": 0.7376,
+      "importance_score": 0.7376,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7595,
+        "recency": 0.75,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -512,6 +532,67 @@
         "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
         "url": "https://blog.cloudflare.com/kitesurf",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f86125a0b832",
+      "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+      "url": "https://www.ithome.com/0/987/366.htm",
+      "primary_url": "https://www.ithome.com/0/987/366.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "39ae011c786ec99da87b989825c3aba421ec9838",
+          "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "url": "https://www.ithome.com/0/987/366.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T08:25:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "39ae011c786ec99da87b989825c3aba421ec9838",
+          "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "url": "https://www.ithome.com/0/987/366.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T08:25:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9115,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-08T08:25:11Z",
+      "latest_at": "2026-08-08T08:25:11Z",
+      "primary_item": {
+        "id": "39ae011c786ec99da87b989825c3aba421ec9838",
+        "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+        "url": "https://www.ithome.com/0/987/366.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -550,15 +631,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7342,
-      "importance": 0.7342,
-      "importance_score": 0.7342,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.748,
+        "recency": 0.7387,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -610,15 +691,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7293,
-      "importance": 0.7293,
-      "importance_score": 0.7293,
+      "score": 0.7276,
+      "importance": 0.7276,
+      "importance_score": 0.7276,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7707,
+        "recency": 0.761,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -670,15 +751,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7242,
-      "importance": 0.7242,
-      "importance_score": 0.7242,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7592,
+        "recency": 0.7496,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -692,67 +773,6 @@
         "title": "OpenAI 将 Astra 列为首个\"关键\"网络安全模型",
         "url": "https://x.com/OpenAI/status/2085801349866729975",
         "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8ce398d73cfe",
-      "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-      "url": "https://www.ithome.com/0/987/221.htm",
-      "primary_url": "https://www.ithome.com/0/987/221.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
-          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "url": "https://www.ithome.com/0/987/221.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T23:08:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
-          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "url": "https://www.ithome.com/0/987/221.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T23:08:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7509,
-      "importance": 0.7509,
-      "importance_score": 0.7509,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8074,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T23:08:56Z",
-      "latest_at": "2026-08-07T23:08:56Z",
-      "primary_item": {
-        "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
-        "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-        "url": "https://www.ithome.com/0/987/221.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -791,15 +811,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7533,
+        "recency": 0.7439,
         "story_heat": 0.0
       },
       "category": "official",
@@ -816,6 +836,66 @@
         "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8ce398d73cfe",
+      "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+      "url": "https://www.ithome.com/0/987/221.htm",
+      "primary_url": "https://www.ithome.com/0/987/221.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
+          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+          "url": "https://www.ithome.com/0/987/221.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T23:08:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
+          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+          "url": "https://www.ithome.com/0/987/221.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T23:08:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7973,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T23:08:56Z",
+      "latest_at": "2026-08-07T23:08:56Z",
+      "primary_item": {
+        "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
+        "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+        "url": "https://www.ithome.com/0/987/221.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -853,15 +933,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
+      "score": 0.8045,
+      "importance": 0.8045,
+      "importance_score": 0.8045,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7903,
+        "recency": 0.7804,
         "story_heat": 0.0
       },
       "category": "official",
@@ -915,15 +995,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8014,
-      "importance": 0.8014,
-      "importance_score": 0.8014,
+      "score": 0.7998,
+      "importance": 0.7998,
+      "importance_score": 0.7998,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7191,
+        "recency": 0.7101,
         "story_heat": 0.0
       },
       "category": "official",
@@ -977,15 +1057,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7981,
-      "importance": 0.7981,
-      "importance_score": 0.7981,
+      "score": 0.7964,
+      "importance": 0.7964,
+      "importance_score": 0.7964,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7448,
+        "recency": 0.7354,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1093,15 +1173,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6051,
-      "importance": 0.6051,
-      "importance_score": 0.6051,
+      "score": 0.6033,
+      "importance": 0.6033,
+      "importance_score": 0.6033,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7826,
+        "recency": 0.7728,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1116,6 +1196,123 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-07",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_0e629a938b0d",
+      "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+      "primary_url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+      "source": "simonwillison.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "64fa3f9e49363fc2819186bd8757cd00d59a6545",
+          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "simonwillison.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T14:38:40.439000Z"
+        },
+        {
+          "id": "f3322cdb03b9204d5bfa111f6a6de7808a57b307",
+          "title": "OpenAI 对 Hugging Face 的意外攻击时间线公布 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T10:57:44Z"
+        },
+        {
+          "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
+          "title": "OpenAI 对 Hugging Face 的意外攻击时间线公布 / Timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T10:57:44Z"
+        },
+        {
+          "id": "4e2a37c2212a1082f40d53192379b2d5c237b4dd",
+          "title": "OpenAI 对 Hugging Face 的意外攻击时间线公布",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "Readhub · AI",
+        "simonwillison.net"
+      ],
+      "items": [
+        {
+          "id": "64fa3f9e49363fc2819186bd8757cd00d59a6545",
+          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "simonwillison.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T14:38:40.439000Z"
+        },
+        {
+          "id": "f3322cdb03b9204d5bfa111f6a6de7808a57b307",
+          "title": "OpenAI 对 Hugging Face 的意外攻击时间线公布 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T10:57:44Z"
+        },
+        {
+          "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
+          "title": "OpenAI 对 Hugging Face 的意外攻击时间线公布 / Timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T10:57:44Z"
+        },
+        {
+          "id": "4e2a37c2212a1082f40d53192379b2d5c237b4dd",
+          "title": "OpenAI 对 Hugging Face 的意外攻击时间线公布",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5953,
+      "importance": 0.5953,
+      "importance_score": 0.5953,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9973,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T02:21:49.254553Z",
+      "latest_at": "2026-08-08T14:38:40.439000Z",
+      "primary_item": {
+        "id": "64fa3f9e49363fc2819186bd8757cd00d59a6545",
+        "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+        "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+        "source": "simonwillison.net",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1228,15 +1425,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5931,
-      "importance": 0.5931,
-      "importance_score": 0.5931,
+      "score": 0.5912,
+      "importance": 0.5912,
+      "importance_score": 0.5912,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8459,
+        "recency": 0.8353,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1251,146 +1448,6 @@
         "url": "https://news.ycombinator.com/item?id=49214468",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_523078d0c9f7",
-      "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-      "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-      "primary_url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
-          "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T16:54:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
-          "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T16:54:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7968,
-      "importance": 0.7968,
-      "importance_score": 0.7968,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7379,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T16:54:47Z",
-      "latest_at": "2026-08-07T16:54:47Z",
-      "primary_item": {
-        "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
-        "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-        "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d128983602b2",
-      "title": "OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "b155f569133e42dbe18da9d39c1d621e3ff71a00",
-          "title": "OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-07T18:40:34Z"
-        },
-        {
-          "id": "f11ba5ec225d341c8d4856109d2806c7968aa821",
-          "title": "OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T18:40:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "b155f569133e42dbe18da9d39c1d621e3ff71a00",
-          "title": "OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-07T18:40:34Z"
-        },
-        {
-          "id": "f11ba5ec225d341c8d4856109d2806c7968aa821",
-          "title": "OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T18:40:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5842,
-      "importance": 0.5842,
-      "importance_score": 0.5842,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.7569,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-07T18:40:34Z",
-      "latest_at": "2026-08-07T18:40:34Z",
-      "primary_item": {
-        "id": "b155f569133e42dbe18da9d39c1d621e3ff71a00",
-        "title": "OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-        "source": "The Verge",
-        "source_name": "Curated Media"
       }
     }
   ]
