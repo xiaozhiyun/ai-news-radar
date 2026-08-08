@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:15:37.018371Z",
+  "generated_at": "2026-08-08T08:02:13.732205Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.84,
-      "importance": 0.84,
-      "importance_score": 0.84,
+      "score": 0.8384,
+      "importance": 0.8384,
+      "importance_score": 0.8384,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7945,
+        "recency": 0.7857,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.8306,
+      "importance": 0.8306,
+      "importance_score": 0.8306,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.891,
+        "recency": 0.881,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8284,
-      "importance": 0.8284,
-      "importance_score": 0.8284,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8244,
+        "recency": 0.8152,
         "story_heat": 0.0
       },
       "category": "official",
@@ -207,106 +207,6 @@
         "url": "https://huggingface.co/blog/allenai/tutormoments",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6f79108c376f",
-      "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-      "url": "https://blog.cloudflare.com/kitesurf",
-      "primary_url": "https://blog.cloudflare.com/kitesurf",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
-          "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-          "url": "https://blog.cloudflare.com/kitesurf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T18:54:34.746000Z"
-        },
-        {
-          "id": "2e1f5ab412ff59602875d97d2d1a452071ac5c01",
-          "title": "介绍 Kitesurf：一款在 Cloudflare Workers 的 V8 隔离环境中运行的“代理优先”浏览器 / Kitesurf: Agent-first browser that runs in V8 isolates",
-          "url": "https://blog.cloudflare.com/kitesurf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-07T10:42:07Z"
-        },
-        {
-          "id": "7ce1eba3c5d5a7477183877cabf1cb95f35dee06",
-          "title": "介绍 Kitesurf：一款在 Cloudflare Workers 的 V8 隔离环境中运行的“代理优先”浏览器 / Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers",
-          "url": "https://blog.cloudflare.com/kitesurf",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-07T07:16:50Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Lobsters (技术社区)"
-      ],
-      "items": [
-        {
-          "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
-          "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-          "url": "https://blog.cloudflare.com/kitesurf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T18:54:34.746000Z"
-        },
-        {
-          "id": "2e1f5ab412ff59602875d97d2d1a452071ac5c01",
-          "title": "介绍 Kitesurf：一款在 Cloudflare Workers 的 V8 隔离环境中运行的“代理优先”浏览器 / Kitesurf: Agent-first browser that runs in V8 isolates",
-          "url": "https://blog.cloudflare.com/kitesurf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-07T10:42:07Z"
-        },
-        {
-          "id": "7ce1eba3c5d5a7477183877cabf1cb95f35dee06",
-          "title": "介绍 Kitesurf：一款在 Cloudflare Workers 的 V8 隔离环境中运行的“代理优先”浏览器 / Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers",
-          "url": "https://blog.cloudflare.com/kitesurf",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-07T07:16:50Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8032,
-      "importance": 0.8032,
-      "importance_score": 0.8032,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8366,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T07:16:50Z",
-      "latest_at": "2026-08-07T18:54:34.746000Z",
-      "primary_item": {
-        "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
-        "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-        "url": "https://blog.cloudflare.com/kitesurf",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -344,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8274,
-      "importance": 0.8274,
-      "importance_score": 0.8274,
+      "score": 0.8257,
+      "importance": 0.8257,
+      "importance_score": 0.8257,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8635,
+        "recency": 0.8538,
         "story_heat": 0.0
       },
       "category": "official",
@@ -369,6 +269,87 @@
         "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6f79108c376f",
+      "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+      "url": "https://blog.cloudflare.com/kitesurf",
+      "primary_url": "https://blog.cloudflare.com/kitesurf",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
+          "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+          "url": "https://blog.cloudflare.com/kitesurf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T18:54:34.746000Z"
+        },
+        {
+          "id": "2e1f5ab412ff59602875d97d2d1a452071ac5c01",
+          "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器 / Kitesurf: Agent-first browser that runs in V8 isolates",
+          "url": "https://blog.cloudflare.com/kitesurf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-07T10:42:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
+          "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+          "url": "https://blog.cloudflare.com/kitesurf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T18:54:34.746000Z"
+        },
+        {
+          "id": "2e1f5ab412ff59602875d97d2d1a452071ac5c01",
+          "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器 / Kitesurf: Agent-first browser that runs in V8 isolates",
+          "url": "https://blog.cloudflare.com/kitesurf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-07T10:42:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7765,
+      "importance": 0.7765,
+      "importance_score": 0.7765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8273,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T10:42:07Z",
+      "latest_at": "2026-08-07T18:54:34.746000Z",
+      "primary_item": {
+        "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
+        "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+        "url": "https://blog.cloudflare.com/kitesurf",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -406,15 +387,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8025,
-      "importance": 0.8025,
-      "importance_score": 0.8025,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7251,
+        "recency": 0.717,
         "story_heat": 0.0
       },
       "category": "official",
@@ -468,15 +449,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8268,
-      "importance": 0.8268,
-      "importance_score": 0.8268,
+      "score": 0.8251,
+      "importance": 0.8251,
+      "importance_score": 0.8251,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8601,
+        "recency": 0.8505,
         "story_heat": 0.0
       },
       "category": "official",
@@ -530,15 +511,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7657,
-      "importance": 0.7657,
-      "importance_score": 0.7657,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8895,
+        "recency": 0.8795,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -610,15 +591,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7576,
+        "recency": 0.7492,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -691,22 +672,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7665,
+        "recency": 0.758,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-07T12:50:56Z",
       "latest_at": "2026-08-07T12:50:56Z",
@@ -753,15 +733,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.824,
+        "recency": 0.8148,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -832,15 +812,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7325,
+        "recency": 0.7243,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -893,15 +873,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.849,
+        "recency": 0.8395,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -953,15 +933,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8363,
+        "recency": 0.827,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1013,15 +993,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8214,
-      "importance": 0.8214,
-      "importance_score": 0.8214,
+      "score": 0.8197,
+      "importance": 0.8197,
+      "importance_score": 0.8197,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8299,
+        "recency": 0.8206,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1075,15 +1055,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7312,
-      "importance": 0.7312,
-      "importance_score": 0.7312,
+      "score": 0.7297,
+      "importance": 0.7297,
+      "importance_score": 0.7297,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7479,
+        "recency": 0.7395,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1154,15 +1134,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7201,
+        "recency": 0.7121,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1215,15 +1195,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8207,
-      "importance": 0.8207,
-      "importance_score": 0.8207,
+      "score": 0.819,
+      "importance": 0.819,
+      "importance_score": 0.819,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8706,
+        "recency": 0.8609,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1277,15 +1257,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7921,
+        "recency": 0.7833,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1339,15 +1319,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8117,
-      "importance": 0.8117,
-      "importance_score": 0.8117,
+      "score": 0.81,
+      "importance": 0.81,
+      "importance_score": 0.81,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8204,
+        "recency": 0.8113,
         "story_heat": 0.0
       },
       "category": "official",
