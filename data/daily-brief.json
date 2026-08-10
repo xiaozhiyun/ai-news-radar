@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T04:18:48.454534Z",
+  "generated_at": "2026-08-10T05:02:54.262740Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.815,
-      "importance": 0.815,
-      "importance_score": 0.815,
+      "score": 0.8132,
+      "importance": 0.8132,
+      "importance_score": 0.8132,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9688,
+        "recency": 0.9586,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7907,
+      "importance": 0.7907,
+      "importance_score": 0.7907,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9894,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -238,15 +238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7907,
-      "importance": 0.7907,
-      "importance_score": 0.7907,
+      "score": 0.7889,
+      "importance": 0.7889,
+      "importance_score": 0.7889,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9393,
+        "recency": 0.9294,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -319,15 +319,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.781,
-      "importance": 0.781,
-      "importance_score": 0.781,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8192,
+        "recency": 0.8105,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -400,15 +400,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9502,
+        "recency": 0.9401,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -424,6 +424,67 @@
         "title": "OpenChamber：一个基于代理的开发环境",
         "url": "https://openchamber.dev",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b39a1e85ac54",
+      "title": "Qwen-MM-Plugins 让智能体原生支持多模态",
+      "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "40289628fd97dbfa4ceb38f989b7cda1fbd0234b",
+          "title": "Qwen-MM-Plugins 让智能体原生支持多模态",
+          "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T04:04:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "40289628fd97dbfa4ceb38f989b7cda1fbd0234b",
+          "title": "Qwen-MM-Plugins 让智能体原生支持多模态",
+          "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T04:04:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.986,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T04:04:12Z",
+      "latest_at": "2026-08-10T04:04:12Z",
+      "primary_item": {
+        "id": "40289628fd97dbfa4ceb38f989b7cda1fbd0234b",
+        "title": "Qwen-MM-Plugins 让智能体原生支持多模态",
+        "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
         "source_name": "AI HOT"
       }
     },
@@ -481,15 +542,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9753,
+        "recency": 0.965,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -543,21 +604,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9277,
+        "recency": 0.9179,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-09T23:07:08Z",
       "latest_at": "2026-08-09T23:07:08Z",
@@ -604,15 +664,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8683,
+        "recency": 0.8592,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -683,15 +743,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9753,
+        "recency": 0.965,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -764,15 +824,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9753,
+        "recency": 0.965,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -845,15 +905,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9753,
+        "recency": 0.965,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -926,15 +986,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6518,
-      "importance": 0.6518,
-      "importance_score": 0.6518,
+      "score": 0.6502,
+      "importance": 0.6502,
+      "importance_score": 0.6502,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.8785,
+        "recency": 0.8692,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1006,15 +1066,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9753,
+        "recency": 0.965,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1122,15 +1182,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6258,
-      "importance": 0.6258,
-      "importance_score": 0.6258,
+      "score": 0.6241,
+      "importance": 0.6241,
+      "importance_score": 0.6241,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.898,
+        "recency": 0.8885,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1201,15 +1261,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9753,
+        "recency": 0.965,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1338,15 +1398,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5941,
-      "importance": 0.5941,
-      "importance_score": 0.5941,
+      "score": 0.5924,
+      "importance": 0.5924,
+      "importance_score": 0.5924,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8514,
+        "recency": 0.8425,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1417,15 +1477,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6173,
-      "importance": 0.6173,
-      "importance_score": 0.6173,
+      "score": 0.6157,
+      "importance": 0.6157,
+      "importance_score": 0.6157,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8251,
+        "recency": 0.8164,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1496,15 +1556,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9753,
+        "recency": 0.965,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1524,177 +1584,99 @@
       }
     },
     {
-      "story_id": "story_aedfa804198d",
-      "title": "人工智能安全测试正逐渐成为一项安全风险 - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7ed5358edd6edb9520832a9a39f0ea3670800f79",
-          "title": "人工智能安全测试正逐渐成为一项安全风险 - TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-10T02:22:51.518000Z"
-        },
-        {
-          "id": "446fffe0dfb79c6bddb3529652751490ebea98a2",
-          "title": "人工智能安全测试正逐渐成为一项安全风险 - techcrunch.com",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T23:42:30.361000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com"
-      ],
-      "items": [
-        {
-          "id": "7ed5358edd6edb9520832a9a39f0ea3670800f79",
-          "title": "人工智能安全测试正逐渐成为一项安全风险 - TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-10T02:22:51.518000Z"
-        },
-        {
-          "id": "446fffe0dfb79c6bddb3529652751490ebea98a2",
-          "title": "人工智能安全测试正逐渐成为一项安全风险 - techcrunch.com",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T23:42:30.361000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5408,
-      "importance": 0.5408,
-      "importance_score": 0.5408,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9725,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T23:42:30.361000Z",
-      "latest_at": "2026-08-10T02:22:51.518000Z",
-      "primary_item": {
-        "id": "7ed5358edd6edb9520832a9a39f0ea3670800f79",
-        "title": "人工智能安全测试正逐渐成为一项安全风险 - TechCrunch",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_bd5f6c57f204",
-      "title": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-      "url": "https://news.ycombinator.com/item?id=49230550",
-      "primary_url": "https://news.ycombinator.com/item?id=49230550",
+      "story_id": "story_e1976e8a5b98",
+      "title": "Show HN：语音驱动的谋杀之谜，用你的声音采访人工智能嫌疑人 / Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "url": "https://news.ycombinator.com/item?id=49238851",
+      "primary_url": "https://news.ycombinator.com/item?id=49238851",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "170aa6c78fb817e9e360f77b6a1353d936704c82",
-          "title": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-          "url": "https://news.ycombinator.com/item?id=49230550",
+          "id": "45a1e26d00589c48762181725f9be2d3d385833a",
+          "title": "Show HN：语音驱动的谋杀之谜，用你的声音采访人工智能嫌疑人 / Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+          "url": "https://news.ycombinator.com/item?id=49238851",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-09T13:06:53.624000Z"
+          "published_at": "2026-08-10T04:52:11.108000Z"
         },
         {
-          "id": "2a51c08bd79c5a401d68a6701c1721d11d8cc46f",
-          "title": "Show HN: DeepSeek-V4 潜在推理——将“思考”转移到潜在空间",
-          "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-          "source": "blog.n.ichol.ai",
+          "id": "801f0fba098b6fe160120c838ab093849c07c550",
+          "title": "Show HN: 语音驱动的谋杀悬疑游戏，用你的声音审问AI嫌疑人",
+          "url": "https://www.whodunnitai.com",
+          "source": "www.whodunnitai.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-09T11:58:46.174000Z"
+          "published_at": "2026-08-10T03:26:28.103000Z"
         },
         {
-          "id": "bcea122e50442a20d68b1681ca7f2feeeb6ad581",
-          "title": "Show HN: DeepSeek-V4 潜在推理——将“思考”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-          "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T11:46:28Z"
+          "id": "b731b6d81a80c8d11e9e1a754a24a9e65782415e",
+          "title": "Show HN: 语音驱动的谋杀悬疑游戏，用你的声音审问AI嫌疑人 / Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+          "url": "https://www.whodunnitai.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T03:18:40Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News · 24h最热",
-        "blog.n.ichol.ai",
-        "hackernews"
+        "Hacker News",
+        "hackernews",
+        "www.whodunnitai.com"
       ],
       "items": [
         {
-          "id": "170aa6c78fb817e9e360f77b6a1353d936704c82",
-          "title": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-          "url": "https://news.ycombinator.com/item?id=49230550",
+          "id": "45a1e26d00589c48762181725f9be2d3d385833a",
+          "title": "Show HN：语音驱动的谋杀之谜，用你的声音采访人工智能嫌疑人 / Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+          "url": "https://news.ycombinator.com/item?id=49238851",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-09T13:06:53.624000Z"
+          "published_at": "2026-08-10T04:52:11.108000Z"
         },
         {
-          "id": "2a51c08bd79c5a401d68a6701c1721d11d8cc46f",
-          "title": "Show HN: DeepSeek-V4 潜在推理——将“思考”转移到潜在空间",
-          "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-          "source": "blog.n.ichol.ai",
+          "id": "801f0fba098b6fe160120c838ab093849c07c550",
+          "title": "Show HN: 语音驱动的谋杀悬疑游戏，用你的声音审问AI嫌疑人",
+          "url": "https://www.whodunnitai.com",
+          "source": "www.whodunnitai.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-09T11:58:46.174000Z"
+          "published_at": "2026-08-10T03:26:28.103000Z"
         },
         {
-          "id": "bcea122e50442a20d68b1681ca7f2feeeb6ad581",
-          "title": "Show HN: DeepSeek-V4 潜在推理——将“思考”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-          "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-09T11:46:28Z"
+          "id": "b731b6d81a80c8d11e9e1a754a24a9e65782415e",
+          "title": "Show HN: 语音驱动的谋杀悬疑游戏，用你的声音审问AI嫌疑人 / Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+          "url": "https://www.whodunnitai.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T03:18:40Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5353,
-      "importance": 0.5353,
-      "importance_score": 0.5353,
+      "score": 0.5703,
+      "importance": 0.5703,
+      "importance_score": 0.5703,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8029,
+        "recency": 0.9974,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-09T11:46:28Z",
-      "latest_at": "2026-08-09T13:06:53.624000Z",
+      "earliest_at": "2026-08-10T03:18:40Z",
+      "latest_at": "2026-08-10T04:52:11.108000Z",
       "primary_item": {
-        "id": "170aa6c78fb817e9e360f77b6a1353d936704c82",
-        "title": "Show HN：DeepSeek-V4 潜在推理 – 将“思维”转移到潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-        "url": "https://news.ycombinator.com/item?id=49230550",
+        "id": "45a1e26d00589c48762181725f9be2d3d385833a",
+        "title": "Show HN：语音驱动的谋杀之谜，用你的声音采访人工智能嫌疑人 / Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+        "url": "https://news.ycombinator.com/item?id=49238851",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
