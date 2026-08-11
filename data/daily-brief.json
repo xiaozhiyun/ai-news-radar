@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T02:53:16.609952Z",
+  "generated_at": "2026-08-11T03:08:28.227253Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8964,
-      "importance": 0.8964,
-      "importance_score": 0.8964,
+      "score": 0.8959,
+      "importance": 0.8959,
+      "importance_score": 0.8959,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8302,
+        "recency": 0.8272,
         "story_heat": 0.75
       },
       "category": "official",
@@ -121,6 +121,144 @@
         "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0b2744e224d2",
+      "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "primary_url": "https://www.anthropic.com/research/riemann-zeta",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "087b7b97eda5b51adf17d38caf1402a830468ca3",
+          "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T19:54:08.696000Z"
+        },
+        {
+          "id": "427659b5f9990e5bbf1a8b83e39fb2f1485c8bc4",
+          "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2% / More than two thirds of the zeros of the Riemann zeta function lie on the critical line",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-11T01:49:16Z"
+        },
+        {
+          "id": "12173ad590578b11991d7b1d1b2842489544711d",
+          "title": "进一步了解克劳德的数学能力",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-10T19:54:08.696000Z"
+        },
+        {
+          "id": "3240bc91afd2def4fa0b271aa9c2dd313d133843",
+          "title": "进一步了解克劳德的数学能力 / Learning more about Claude's mathematical capabilities",
+          "url": "https://news.ycombinator.com/item?id=49247070",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T19:17:54.492000Z"
+        },
+        {
+          "id": "456856493e7d6a15ada24d728ed900923678a231",
+          "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2% / Learning more about Claude's mathematical capabilities",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T17:41:13Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Lobsters (技术社区)",
+        "hackernews",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "087b7b97eda5b51adf17d38caf1402a830468ca3",
+          "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T19:54:08.696000Z"
+        },
+        {
+          "id": "427659b5f9990e5bbf1a8b83e39fb2f1485c8bc4",
+          "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2% / More than two thirds of the zeros of the Riemann zeta function lie on the critical line",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-11T01:49:16Z"
+        },
+        {
+          "id": "12173ad590578b11991d7b1d1b2842489544711d",
+          "title": "进一步了解克劳德的数学能力",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-10T19:54:08.696000Z"
+        },
+        {
+          "id": "3240bc91afd2def4fa0b271aa9c2dd313d133843",
+          "title": "进一步了解克劳德的数学能力 / Learning more about Claude's mathematical capabilities",
+          "url": "https://news.ycombinator.com/item?id=49247070",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T19:17:54.492000Z"
+        },
+        {
+          "id": "456856493e7d6a15ada24d728ed900923678a231",
+          "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2% / Learning more about Claude's mathematical capabilities",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-10T17:41:13Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.8737,
+      "importance": 0.8737,
+      "importance_score": 0.8737,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9007,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T17:41:13Z",
+      "latest_at": "2026-08-11T01:49:16Z",
+      "primary_item": {
+        "id": "087b7b97eda5b51adf17d38caf1402a830468ca3",
+        "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
+        "url": "https://www.anthropic.com/research/riemann-zeta",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -177,15 +315,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8598,
-      "importance": 0.8598,
-      "importance_score": 0.8598,
+      "score": 0.8592,
+      "importance": 0.8592,
+      "importance_score": 0.8592,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8598,
+        "recency": 0.8567,
         "story_heat": 0.25
       },
       "category": "official",
@@ -203,125 +341,6 @@
         "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_0b2744e224d2",
-      "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
-      "url": "https://www.anthropic.com/research/riemann-zeta",
-      "primary_url": "https://www.anthropic.com/research/riemann-zeta",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "087b7b97eda5b51adf17d38caf1402a830468ca3",
-          "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
-          "url": "https://www.anthropic.com/research/riemann-zeta",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T19:54:08.696000Z"
-        },
-        {
-          "id": "12173ad590578b11991d7b1d1b2842489544711d",
-          "title": "进一步了解克劳德的数学能力",
-          "url": "https://www.anthropic.com/research/riemann-zeta",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-10T19:54:08.696000Z"
-        },
-        {
-          "id": "3240bc91afd2def4fa0b271aa9c2dd313d133843",
-          "title": "进一步了解克劳德的数学能力 / Learning more about Claude's mathematical capabilities",
-          "url": "https://news.ycombinator.com/item?id=49247070",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T19:17:54.492000Z"
-        },
-        {
-          "id": "456856493e7d6a15ada24d728ed900923678a231",
-          "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2% / Learning more about Claude's mathematical capabilities",
-          "url": "https://www.anthropic.com/research/riemann-zeta",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T17:41:13Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.anthropic.com"
-      ],
-      "items": [
-        {
-          "id": "087b7b97eda5b51adf17d38caf1402a830468ca3",
-          "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
-          "url": "https://www.anthropic.com/research/riemann-zeta",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T19:54:08.696000Z"
-        },
-        {
-          "id": "12173ad590578b11991d7b1d1b2842489544711d",
-          "title": "进一步了解克劳德的数学能力",
-          "url": "https://www.anthropic.com/research/riemann-zeta",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-10T19:54:08.696000Z"
-        },
-        {
-          "id": "3240bc91afd2def4fa0b271aa9c2dd313d133843",
-          "title": "进一步了解克劳德的数学能力 / Learning more about Claude's mathematical capabilities",
-          "url": "https://news.ycombinator.com/item?id=49247070",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T19:17:54.492000Z"
-        },
-        {
-          "id": "456856493e7d6a15ada24d728ed900923678a231",
-          "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2% / Learning more about Claude's mathematical capabilities",
-          "url": "https://www.anthropic.com/research/riemann-zeta",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-10T17:41:13Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8493,
-      "importance": 0.8493,
-      "importance_score": 0.8493,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.904,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T17:41:13Z",
-      "latest_at": "2026-08-10T19:54:08.696000Z",
-      "primary_item": {
-        "id": "087b7b97eda5b51adf17d38caf1402a830468ca3",
-        "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
-        "url": "https://www.anthropic.com/research/riemann-zeta",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -359,15 +378,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "score": 0.8332,
+      "importance": 0.8332,
+      "importance_score": 0.8332,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8988,
+        "recency": 0.8955,
         "story_heat": 0.0
       },
       "category": "official",
@@ -421,15 +440,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8224,
-      "importance": 0.8224,
-      "importance_score": 0.8224,
+      "score": 0.8219,
+      "importance": 0.8219,
+      "importance_score": 0.8219,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8356,
+        "recency": 0.8326,
         "story_heat": 0.0
       },
       "category": "official",
@@ -483,15 +502,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8145,
-      "importance": 0.8145,
-      "importance_score": 0.8145,
+      "score": 0.814,
+      "importance": 0.814,
+      "importance_score": 0.814,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8362,
+        "recency": 0.8331,
         "story_heat": 0.0
       },
       "category": "official",
@@ -564,15 +583,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.838,
-      "importance": 0.838,
-      "importance_score": 0.838,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7836,
+        "recency": 0.7807,
         "story_heat": 0.25
       },
       "category": "official",
@@ -703,15 +722,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8372,
-      "importance": 0.8372,
-      "importance_score": 0.8372,
+      "score": 0.8366,
+      "importance": 0.8366,
+      "importance_score": 0.8366,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8309,
+        "recency": 0.8278,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -784,15 +803,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7919,
+      "importance": 0.7919,
+      "importance_score": 0.7919,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9963,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -846,15 +865,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8212,
-      "importance": 0.8212,
-      "importance_score": 0.8212,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7846,
+        "recency": 0.7818,
         "story_heat": 0.0
       },
       "category": "official",
@@ -908,15 +927,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
+      "score": 0.8129,
+      "importance": 0.8129,
+      "importance_score": 0.8129,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8304,
+        "recency": 0.8273,
         "story_heat": 0.0
       },
       "category": "official",
@@ -970,15 +989,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7762,
-      "importance": 0.7762,
-      "importance_score": 0.7762,
+      "score": 0.7756,
+      "importance": 0.7756,
+      "importance_score": 0.7756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.931,
+        "recency": 0.9276,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1031,15 +1050,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.828,
-      "importance": 0.828,
-      "importance_score": 0.828,
+      "score": 0.8275,
+      "importance": 0.8275,
+      "importance_score": 0.8275,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8669,
+        "recency": 0.8638,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1112,15 +1131,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7919,
+      "importance": 0.7919,
+      "importance_score": 0.7919,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9963,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1174,15 +1193,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8108,
-      "importance": 0.8108,
-      "importance_score": 0.8108,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8155,
+        "recency": 0.8125,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1236,15 +1255,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7439,
-      "importance": 0.7439,
-      "importance_score": 0.7439,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7849,
+        "recency": 0.782,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1296,15 +1315,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7397,
-      "importance": 0.7397,
-      "importance_score": 0.7397,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9619,
+        "recency": 0.9584,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1356,15 +1375,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9474,
+        "recency": 0.944,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1416,15 +1435,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8303,
+        "recency": 0.8273,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1476,15 +1495,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8252,
-      "importance": 0.8252,
-      "importance_score": 0.8252,
+      "score": 0.8246,
+      "importance": 0.8246,
+      "importance_score": 0.8246,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8065,
+        "recency": 0.8036,
         "story_heat": 0.0
       },
       "category": "official",
