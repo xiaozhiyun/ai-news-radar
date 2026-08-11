@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T05:48:50.288432Z",
+  "generated_at": "2026-08-11T06:36:22.354012Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8903,
-      "importance": 0.8903,
-      "importance_score": 0.8903,
+      "score": 0.8886,
+      "importance": 0.8886,
+      "importance_score": 0.8886,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7958,
+        "recency": 0.7868,
         "story_heat": 0.75
       },
       "category": "official",
@@ -252,15 +252,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8676,
-      "importance": 0.8676,
-      "importance_score": 0.8676,
+      "score": 0.8658,
+      "importance": 0.8658,
+      "importance_score": 0.8658,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8666,
+        "recency": 0.8568,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -333,15 +333,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8534,
-      "importance": 0.8534,
-      "importance_score": 0.8534,
+      "score": 0.8517,
+      "importance": 0.8517,
+      "importance_score": 0.8517,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8242,
+        "recency": 0.8148,
         "story_heat": 0.25
       },
       "category": "official",
@@ -358,6 +358,107 @@
         "title": "NVIDIA 发布 Magpie TTS：开源低延迟多语言语音代理解决方案 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
         "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_3a8585570cab",
+      "title": "GPT 5.6 网络安全 / Expanding Daybreak as the Cyber Defense Window Narrows",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "primary_url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
+          "title": "GPT 5.6 网络安全 / Expanding Daybreak as the Cyber Defense Window Narrows",
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T10:00:00Z"
+        },
+        {
+          "id": "d53e1173335713948c031579c35493314db7562c",
+          "title": "GPT 5.6 网络安全",
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-11T05:46:03.587000Z"
+        },
+        {
+          "id": "95b1b933484992e4ce5309f0273f9f60cf9243d0",
+          "title": "GPT 5.6 网络安全 / GPT 5.6 Cyber",
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-10T17:14:00Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
+          "title": "GPT 5.6 网络安全 / Expanding Daybreak as the Cyber Defense Window Narrows",
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T10:00:00Z"
+        },
+        {
+          "id": "d53e1173335713948c031579c35493314db7562c",
+          "title": "GPT 5.6 网络安全",
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-11T05:46:03.587000Z"
+        },
+        {
+          "id": "95b1b933484992e4ce5309f0273f9f60cf9243d0",
+          "title": "GPT 5.6 网络安全 / GPT 5.6 Cyber",
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-10T17:14:00Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8557,
+      "importance": 0.8557,
+      "importance_score": 0.8557,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7426,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T10:00:00Z",
+      "latest_at": "2026-08-11T05:46:03.587000Z",
+      "primary_item": {
+        "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
+        "title": "GPT 5.6 网络安全 / Expanding Daybreak as the Cyber Defense Window Narrows",
+        "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -396,15 +497,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8271,
-      "importance": 0.8271,
-      "importance_score": 0.8271,
+      "score": 0.8253,
+      "importance": 0.8253,
+      "importance_score": 0.8253,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8616,
+        "recency": 0.8518,
         "story_heat": 0.0
       },
       "category": "official",
@@ -420,88 +521,6 @@
         "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
         "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_7a678e9a26d7",
-      "title": "OpenAI CFO分享构建AI原生财务职能的五大经验 / What building an AI-native finance function taught me",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "primary_url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
-          "title": "OpenAI CFO分享构建AI原生财务职能的五大经验 / What building an AI-native finance function taught me",
-          "url": "https://openai.com/index/building-an-ai-native-finance-function",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T17:00:00Z"
-        },
-        {
-          "id": "385eb9873258cf2e023ed6e9b900491347bfd43b",
-          "title": "OpenAI CFO分享构建AI原生财务职能的五大经验",
-          "url": "https://openai.com/index/building-an-ai-native-finance-function",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
-          "title": "OpenAI CFO分享构建AI原生财务职能的五大经验 / What building an AI-native finance function taught me",
-          "url": "https://openai.com/index/building-an-ai-native-finance-function",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T17:00:00Z"
-        },
-        {
-          "id": "385eb9873258cf2e023ed6e9b900491347bfd43b",
-          "title": "OpenAI CFO分享构建AI原生财务职能的五大经验",
-          "url": "https://openai.com/index/building-an-ai-native-finance-function",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8466,
-      "importance": 0.8466,
-      "importance_score": 0.8466,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8311,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T17:00:00Z",
-      "latest_at": "2026-08-11T04:40:01.940986Z",
-      "primary_item": {
-        "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
-        "title": "OpenAI CFO分享构建AI原生财务职能的五大经验 / What building an AI-native finance function taught me",
-        "url": "https://openai.com/index/building-an-ai-native-finance-function",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -540,15 +559,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8162,
-      "importance": 0.8162,
-      "importance_score": 0.8162,
+      "score": 0.8145,
+      "importance": 0.8145,
+      "importance_score": 0.8145,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.801,
+        "recency": 0.7919,
         "story_heat": 0.0
       },
       "category": "official",
@@ -602,15 +621,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8083,
-      "importance": 0.8083,
-      "importance_score": 0.8083,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8016,
+        "recency": 0.7925,
         "story_heat": 0.0
       },
       "category": "official",
@@ -740,15 +759,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.831,
-      "importance": 0.831,
-      "importance_score": 0.831,
+      "score": 0.8293,
+      "importance": 0.8293,
+      "importance_score": 0.8293,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7965,
+        "recency": 0.7874,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -765,6 +784,250 @@
         "url": "https://bobdahacker.com/blog/tldv-hack",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ed119d3bc38a",
+      "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
+      "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+      "primary_url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5af023feb5917b0420ac99ebd023db76d69db035",
+          "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
+          "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T05:44:38Z"
+        },
+        {
+          "id": "dd595b5ca5333a005cb79dd29a358564726f5948",
+          "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+          "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-11T05:44:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5af023feb5917b0420ac99ebd023db76d69db035",
+          "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
+          "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T05:44:38Z"
+        },
+        {
+          "id": "dd595b5ca5333a005cb79dd29a358564726f5948",
+          "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+          "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-11T05:44:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7904,
+      "importance": 0.7904,
+      "importance_score": 0.7904,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9876,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T05:44:38Z",
+      "latest_at": "2026-08-11T05:44:38Z",
+      "primary_item": {
+        "id": "5af023feb5917b0420ac99ebd023db76d69db035",
+        "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
+        "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+      "source": "公众号：智谱（GLM）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
+          "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T05:52:25Z"
+        },
+        {
+          "id": "d29517a81457995e790278d11211679f24adbff8",
+          "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T00:12:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "公众号：数字生命卡兹克",
+        "公众号：智谱（GLM）"
+      ],
+      "items": [
+        {
+          "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
+          "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T05:52:25Z"
+        },
+        {
+          "id": "d29517a81457995e790278d11211679f24adbff8",
+          "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T00:12:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7877,
+      "importance": 0.7877,
+      "importance_score": 0.7877,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9895,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T00:12:00Z",
+      "latest_at": "2026-08-11T05:52:25Z",
+      "primary_item": {
+        "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
+        "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+        "source": "公众号：智谱（GLM）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7a678e9a26d7",
+      "title": "OpenAI CFO分享构建AI原生财务职能的五大经验 / What building an AI-native finance function taught me",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "primary_url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
+          "title": "OpenAI CFO分享构建AI原生财务职能的五大经验 / What building an AI-native finance function taught me",
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T17:00:00Z"
+        },
+        {
+          "id": "385eb9873258cf2e023ed6e9b900491347bfd43b",
+          "title": "OpenAI CFO分享构建AI原生财务职能的五大经验",
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
+          "title": "OpenAI CFO分享构建AI原生财务职能的五大经验 / What building an AI-native finance function taught me",
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T17:00:00Z"
+        },
+        {
+          "id": "385eb9873258cf2e023ed6e9b900491347bfd43b",
+          "title": "OpenAI CFO分享构建AI原生财务职能的五大经验",
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8449,
+      "importance": 0.8449,
+      "importance_score": 0.8449,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8216,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T17:00:00Z",
+      "latest_at": "2026-08-11T04:40:01.940986Z",
+      "primary_item": {
+        "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
+        "title": "OpenAI CFO分享构建AI原生财务职能的五大经验 / What building an AI-native finance function taught me",
+        "url": "https://openai.com/index/building-an-ai-native-finance-function",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -802,15 +1065,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8154,
-      "importance": 0.8154,
-      "importance_score": 0.8154,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7522,
+        "recency": 0.7436,
         "story_heat": 0.0
       },
       "category": "official",
@@ -883,15 +1146,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7852,
-      "importance": 0.7852,
-      "importance_score": 0.7852,
+      "score": 0.7832,
+      "importance": 0.7832,
+      "importance_score": 0.7832,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9586,
+        "recency": 0.9477,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -945,15 +1208,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7839,
-      "importance": 0.7839,
-      "importance_score": 0.7839,
+      "score": 0.7819,
+      "importance": 0.7819,
+      "importance_score": 0.7819,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9736,
+        "recency": 0.9626,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1006,15 +1269,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
+      "score": 0.8057,
+      "importance": 0.8057,
+      "importance_score": 0.8057,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.796,
+        "recency": 0.787,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1030,88 +1293,6 @@
         "title": "印度的 GitHub 计费现在支持自动定期付款 / GitHub billing in India now supports automatic recurring payments",
         "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3a8585570cab",
-      "title": "随着网络防御窗口的缩小，黎明时间的扩大 / Expanding Daybreak as the Cyber Defense Window Narrows",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "primary_url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
-          "title": "随着网络防御窗口的缩小，黎明时间的扩大 / Expanding Daybreak as the Cyber Defense Window Narrows",
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T10:00:00Z"
-        },
-        {
-          "id": "95b1b933484992e4ce5309f0273f9f60cf9243d0",
-          "title": "GPT 5.6 网络 / GPT 5.6 Cyber",
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-10T17:14:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
-          "title": "随着网络防御窗口的缩小，黎明时间的扩大 / Expanding Daybreak as the Cyber Defense Window Narrows",
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T10:00:00Z"
-        },
-        {
-          "id": "95b1b933484992e4ce5309f0273f9f60cf9243d0",
-          "title": "GPT 5.6 网络 / GPT 5.6 Cyber",
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-10T17:14:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8322,
-      "importance": 0.8322,
-      "importance_score": 0.8322,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7512,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T10:00:00Z",
-      "latest_at": "2026-08-10T17:14:00Z",
-      "primary_item": {
-        "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
-        "title": "随着网络防御窗口的缩小，黎明时间的扩大 / Expanding Daybreak as the Cyber Defense Window Narrows",
-        "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -1150,15 +1331,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8925,
+        "recency": 0.8824,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1230,15 +1411,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7852,
-      "importance": 0.7852,
-      "importance_score": 0.7852,
+      "score": 0.7832,
+      "importance": 0.7832,
+      "importance_score": 0.7832,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9586,
+        "recency": 0.9477,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1292,15 +1473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8047,
-      "importance": 0.8047,
-      "importance_score": 0.8047,
+      "score": 0.8031,
+      "importance": 0.8031,
+      "importance_score": 0.8031,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7818,
+        "recency": 0.7729,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1354,15 +1535,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7524,
+        "recency": 0.7438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1376,66 +1557,6 @@
         "title": "Scale AI 开源 Muse 系列模型",
         "url": "https://x.com/alexandr_wang/status/2086756152034066792",
         "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d29517a81457995e790278d11211679f24adbff8",
-          "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T00:12:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "d29517a81457995e790278d11211679f24adbff8",
-          "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T00:12:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9221,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T00:12:00Z",
-      "latest_at": "2026-08-11T00:12:00Z",
-      "primary_item": {
-        "id": "d29517a81457995e790278d11211679f24adbff8",
-        "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
-        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -1474,15 +1595,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7309,
-      "importance": 0.7309,
-      "importance_score": 0.7309,
+      "score": 0.7292,
+      "importance": 0.7292,
+      "importance_score": 0.7292,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.796,
+        "recency": 0.7869,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1496,66 +1617,6 @@
         "title": "智能体真的会用电脑吗？a16z 用数据给出答案",
         "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
         "source": "a16z：News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_13aa163b225a",
-      "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
-      "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-      "primary_url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-      "source": "Databricks：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "123277d810480c26bc58f077f9317ab5165ab89f",
-          "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
-          "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-          "source": "Databricks：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T23:08:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Databricks：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "123277d810480c26bc58f077f9317ab5165ab89f",
-          "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
-          "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-          "source": "Databricks：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T23:08:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9082,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T23:08:50Z",
-      "latest_at": "2026-08-10T23:08:50Z",
-      "primary_item": {
-        "id": "123277d810480c26bc58f077f9317ab5165ab89f",
-        "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
-        "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-        "source": "Databricks：Blog（RSS）",
         "source_name": "AI HOT"
       }
     }
