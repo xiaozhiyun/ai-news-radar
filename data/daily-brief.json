@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T11:57:04.614425Z",
+  "generated_at": "2026-08-11T13:43:13.894664Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8781,
-      "importance": 0.8781,
-      "importance_score": 0.8781,
+      "score": 0.8748,
+      "importance": 0.8748,
+      "importance_score": 0.8748,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7283,
+        "recency": 0.71,
         "story_heat": 0.75
       },
       "category": "official",
@@ -120,6 +120,68 @@
         "title": "致阿博特州长的信：关于德克萨斯州负责任的人工智能基础设施 / OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
         "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5eb3c49c6262",
+      "title": "想到 ACE 了吗？我们可以用更少的代币做到这一点 / Thinking of ACE? We Can Do It with Fewer Tokens",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8e9955ab6df244cfd9efefe5c5327a0a0c049557",
+          "title": "想到 ACE 了吗？我们可以用更少的代币做到这一点 / Thinking of ACE? We Can Do It with Fewer Tokens",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T13:37:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "8e9955ab6df244cfd9efefe5c5327a0a0c049557",
+          "title": "想到 ACE 了吗？我们可以用更少的代币做到这一点 / Thinking of ACE? We Can Do It with Fewer Tokens",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T13:37:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8597,
+      "importance": 0.8597,
+      "importance_score": 0.8597,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9985,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T13:37:10Z",
+      "latest_at": "2026-08-11T13:37:10Z",
+      "primary_item": {
+        "id": "8e9955ab6df244cfd9efefe5c5327a0a0c049557",
+        "title": "想到 ACE 了吗？我们可以用更少的代币做到这一点 / Thinking of ACE? We Can Do It with Fewer Tokens",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -252,15 +314,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8544,
-      "importance": 0.8544,
-      "importance_score": 0.8544,
+      "score": 0.8508,
+      "importance": 0.8508,
+      "importance_score": 0.8508,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7931,
+        "recency": 0.7731,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -277,6 +339,68 @@
         "url": "https://www.anthropic.com/research/riemann-zeta",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_db6826b82650",
+      "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+      "primary_url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
+          "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T19:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
+          "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T19:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7687,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T19:30:00Z",
+      "latest_at": "2026-08-10T19:30:00Z",
+      "primary_item": {
+        "id": "24acb4029cb84001e3b5f778e74906def87075dc",
+        "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+        "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -333,15 +457,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8408,
-      "importance": 0.8408,
-      "importance_score": 0.8408,
+      "score": 0.8374,
+      "importance": 0.8374,
+      "importance_score": 0.8374,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7543,
+        "recency": 0.7353,
         "story_heat": 0.25
       },
       "category": "official",
@@ -358,68 +482,6 @@
         "title": "NVIDIA 发布 Magpie TTS：开源低延迟多语言语音代理解决方案 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
         "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_db6826b82650",
-      "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-      "primary_url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
-          "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T19:30:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
-          "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T19:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7885,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T19:30:00Z",
-      "latest_at": "2026-08-10T19:30:00Z",
-      "primary_item": {
-        "id": "24acb4029cb84001e3b5f778e74906def87075dc",
-        "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-        "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
@@ -496,15 +558,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8109,
-      "importance": 0.8109,
-      "importance_score": 0.8109,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9629,
+        "recency": 0.9386,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -558,15 +620,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.804,
-      "importance": 0.804,
-      "importance_score": 0.804,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7331,
+        "recency": 0.7146,
         "story_heat": 0.0
       },
       "category": "official",
@@ -639,15 +701,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8339,
-      "importance": 0.8339,
-      "importance_score": 0.8339,
+      "score": 0.8305,
+      "importance": 0.8305,
+      "importance_score": 0.8305,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7606,
+        "recency": 0.7414,
         "story_heat": 0.25
       },
       "category": "official",
@@ -721,15 +783,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7991,
-      "importance": 0.7991,
-      "importance_score": 0.7991,
+      "score": 0.7947,
+      "importance": 0.7947,
+      "importance_score": 0.7947,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9864,
+        "recency": 0.9615,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -783,15 +845,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7961,
-      "importance": 0.7961,
-      "importance_score": 0.7961,
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7336,
+        "recency": 0.7151,
         "story_heat": 0.0
       },
       "category": "official",
@@ -808,144 +870,6 @@
         "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_53e3f99448d4",
-      "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
-      "url": "https://bobdahacker.com/blog/tldv-hack",
-      "primary_url": "https://bobdahacker.com/blog/tldv-hack",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7f5793dff6154f8b6bee4fdc7600a28a95bd1761",
-          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
-          "url": "https://bobdahacker.com/blog/tldv-hack",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T14:03:26.804000Z"
-        },
-        {
-          "id": "4e5eb3a75e0ad5a54e603202b055e6bb59c42606",
-          "title": "笔记应用中逾18.1万段AI会议录音被公开暴露",
-          "url": "https://bobdahacker.com/blog/tldv-hack",
-          "source": "bobdahacker.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-10T14:03:26.804000Z"
-        },
-        {
-          "id": "c99f9a3940811591e93287967b698602795b59c6",
-          "title": "超过 181,000 份 AI 会议录音在笔记应用程序中完全开放 / Over 181,000 AI meeting recordings left wide open in note taking app",
-          "url": "https://news.ycombinator.com/item?id=49242739",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T13:44:18.429000Z"
-        },
-        {
-          "id": "8afc0f7a0b4b5c96efde6740ff5059df0d8dd58b",
-          "title": "笔记应用中逾18.1万段AI会议录音被公开暴露 / Over 181,000 AI meeting recordings left wide open in note taking app",
-          "url": "https://bobdahacker.com/blog/tldv-hack",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-10T12:26:05Z"
-        },
-        {
-          "id": "4ae64a11c74795c15417253f494f3182aaf55481",
-          "title": "笔记应用中逾18.1万段AI会议录音被公开暴露 / Tl;dv: Over 180k meetings left wide open",
-          "url": "https://bobdahacker.com/blog/tldv-hack",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-10T12:26:05Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "bobdahacker.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "7f5793dff6154f8b6bee4fdc7600a28a95bd1761",
-          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
-          "url": "https://bobdahacker.com/blog/tldv-hack",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T14:03:26.804000Z"
-        },
-        {
-          "id": "4e5eb3a75e0ad5a54e603202b055e6bb59c42606",
-          "title": "笔记应用中逾18.1万段AI会议录音被公开暴露",
-          "url": "https://bobdahacker.com/blog/tldv-hack",
-          "source": "bobdahacker.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-10T14:03:26.804000Z"
-        },
-        {
-          "id": "c99f9a3940811591e93287967b698602795b59c6",
-          "title": "超过 181,000 份 AI 会议录音在笔记应用程序中完全开放 / Over 181,000 AI meeting recordings left wide open in note taking app",
-          "url": "https://news.ycombinator.com/item?id=49242739",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T13:44:18.429000Z"
-        },
-        {
-          "id": "8afc0f7a0b4b5c96efde6740ff5059df0d8dd58b",
-          "title": "笔记应用中逾18.1万段AI会议录音被公开暴露 / Over 181,000 AI meeting recordings left wide open in note taking app",
-          "url": "https://bobdahacker.com/blog/tldv-hack",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-10T12:26:05Z"
-        },
-        {
-          "id": "4ae64a11c74795c15417253f494f3182aaf55481",
-          "title": "笔记应用中逾18.1万段AI会议录音被公开暴露 / Tl;dv: Over 180k meetings left wide open",
-          "url": "https://bobdahacker.com/blog/tldv-hack",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-10T12:26:05Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.8188,
-      "importance": 0.8188,
-      "importance_score": 0.8188,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7289,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T12:26:05Z",
-      "latest_at": "2026-08-10T14:03:26.804000Z",
-      "primary_item": {
-        "id": "7f5793dff6154f8b6bee4fdc7600a28a95bd1761",
-        "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
-        "url": "https://bobdahacker.com/blog/tldv-hack",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1002,15 +926,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7857,
-      "importance": 0.7857,
-      "importance_score": 0.7857,
+      "score": 0.7813,
+      "importance": 0.7813,
+      "importance_score": 0.7813,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9615,
+        "recency": 0.9373,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1027,6 +951,67 @@
         "url": "https://www.aibase.com/news/30253",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5389972db876",
+      "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
+      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+      "primary_url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+      "source": "NVIDIA Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ce8df83c0bd43a234eae61fd9eee1400bf85850f",
+          "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
+          "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T13:00:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "NVIDIA Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ce8df83c0bd43a234eae61fd9eee1400bf85850f",
+          "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
+          "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T13:00:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9897,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T13:00:25Z",
+      "latest_at": "2026-08-11T13:00:25Z",
+      "primary_item": {
+        "id": "ce8df83c0bd43a234eae61fd9eee1400bf85850f",
+        "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
+        "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+        "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1083,15 +1068,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7772,
-      "importance": 0.7772,
-      "importance_score": 0.7772,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9143,
+        "recency": 0.8912,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1145,15 +1130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8911,
+        "recency": 0.8686,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1206,15 +1191,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7951,
-      "importance": 0.7951,
-      "importance_score": 0.7951,
+      "score": 0.7918,
+      "importance": 0.7918,
+      "importance_score": 0.7918,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7285,
+        "recency": 0.7101,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1268,15 +1253,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
+      "score": 0.7519,
+      "importance": 0.7519,
+      "importance_score": 0.7519,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8168,
+        "recency": 0.7962,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1292,68 +1277,6 @@
         "url": "https://x.com/JensenHuang/status/2086934705207959965",
         "source": "X：Jensen Huang (@JensenHuang)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c7b962b1d9ef",
-      "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "url": "https://openai.com/index/model-ml",
-      "primary_url": "https://openai.com/index/model-ml",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
-          "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-          "url": "https://openai.com/index/model-ml",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
-          "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-          "url": "https://openai.com/index/model-ml",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8074,
-      "importance": 0.8074,
-      "importance_score": 0.8074,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7076,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T12:00:00Z",
-      "latest_at": "2026-08-10T12:00:00Z",
-      "primary_item": {
-        "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
-        "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-        "url": "https://openai.com/index/model-ml",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1410,15 +1333,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
+      "score": 0.7665,
+      "importance": 0.7665,
+      "importance_score": 0.7665,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8773,
+        "recency": 0.8552,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1433,149 +1356,6 @@
         "id": "fef489ba6b0758064e6c4ee38a67e4e5152164c1",
         "title": "TVB进军AI算力赛道:2027年启动首期万P级算力设施运营",
         "url": "https://www.aibase.com/news/30236",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6f75a11700ad",
-      "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
-      "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-      "primary_url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
-          "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
-          "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T12:45:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
-          "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
-          "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T12:45:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7928,
-      "importance": 0.7928,
-      "importance_score": 0.7928,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7155,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T12:45:49Z",
-      "latest_at": "2026-08-10T12:45:49Z",
-      "primary_item": {
-        "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
-        "title": "自定义线程订阅已被弃用 / Custom thread subscriptions are being deprecated",
-        "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e237d1b6fa70",
-      "title": "千问 App 推出付费方案:办公助理最高128元/月，AI视频生成单独计费",
-      "url": "https://www.aibase.com/news/30230",
-      "primary_url": "https://www.aibase.com/news/30230",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "91c4b6838c42cdee7325a596252d513c80a523ca",
-          "title": "千问 App 推出付费方案:办公助理最高128元/月，AI视频生成单独计费",
-          "url": "https://www.aibase.com/news/30230",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T02:53:16.609952Z"
-        },
-        {
-          "id": "4ae0e78a117e7e754392439f5714fe3e13355cb8",
-          "title": "千问 App 推出付费方案：办公助理最高 128 元/月，AI 视频生成单独计费",
-          "url": "https://www.aibase.com/zh/news/30230",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "91c4b6838c42cdee7325a596252d513c80a523ca",
-          "title": "千问 App 推出付费方案:办公助理最高128元/月，AI视频生成单独计费",
-          "url": "https://www.aibase.com/news/30230",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T02:53:16.609952Z"
-        },
-        {
-          "id": "4ae0e78a117e7e754392439f5714fe3e13355cb8",
-          "title": "千问 App 推出付费方案：办公助理最高 128 元/月，AI 视频生成单独计费",
-          "url": "https://www.aibase.com/zh/news/30230",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8773,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T02:53:16.609952Z",
-      "latest_at": "2026-08-11T02:53:16.609952Z",
-      "primary_item": {
-        "id": "91c4b6838c42cdee7325a596252d513c80a523ca",
-        "title": "千问 App 推出付费方案:办公助理最高128元/月，AI视频生成单独计费",
-        "url": "https://www.aibase.com/news/30230",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1634,15 +1414,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9041,
+        "recency": 0.8813,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1657,6 +1437,167 @@
         "id": "6c73822ce260fed8a308e92fcf71e96ceea5c8f6",
         "title": "编写智能体时，哪种编程语言最合适？",
         "url": "http://danluu.com/pl-tokens",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e237d1b6fa70",
+      "title": "千问 App 推出付费方案:办公助理最高128元/月，AI视频生成单独计费",
+      "url": "https://www.aibase.com/news/30230",
+      "primary_url": "https://www.aibase.com/news/30230",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "91c4b6838c42cdee7325a596252d513c80a523ca",
+          "title": "千问 App 推出付费方案:办公助理最高128元/月，AI视频生成单独计费",
+          "url": "https://www.aibase.com/news/30230",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-11T02:53:16.609952Z"
+        },
+        {
+          "id": "4ae0e78a117e7e754392439f5714fe3e13355cb8",
+          "title": "千问 App 推出付费方案：办公助理最高 128 元/月，AI 视频生成单独计费",
+          "url": "https://www.aibase.com/zh/news/30230",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "91c4b6838c42cdee7325a596252d513c80a523ca",
+          "title": "千问 App 推出付费方案:办公助理最高128元/月，AI视频生成单独计费",
+          "url": "https://www.aibase.com/news/30230",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-11T02:53:16.609952Z"
+        },
+        {
+          "id": "4ae0e78a117e7e754392439f5714fe3e13355cb8",
+          "title": "千问 App 推出付费方案：办公助理最高 128 元/月，AI 视频生成单独计费",
+          "url": "https://www.aibase.com/zh/news/30230",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7665,
+      "importance": 0.7665,
+      "importance_score": 0.7665,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8552,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T02:53:16.609952Z",
+      "latest_at": "2026-08-11T02:53:16.609952Z",
+      "primary_item": {
+        "id": "91c4b6838c42cdee7325a596252d513c80a523ca",
+        "title": "千问 App 推出付费方案:办公助理最高128元/月，AI视频生成单独计费",
+        "url": "https://www.aibase.com/news/30230",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_53e3f99448d4",
+      "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+      "url": "https://bobdahacker.com/blog/tldv-hack",
+      "primary_url": "https://bobdahacker.com/blog/tldv-hack",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7f5793dff6154f8b6bee4fdc7600a28a95bd1761",
+          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+          "url": "https://bobdahacker.com/blog/tldv-hack",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T14:03:26.804000Z"
+        },
+        {
+          "id": "4e5eb3a75e0ad5a54e603202b055e6bb59c42606",
+          "title": "笔记应用中逾18.1万段AI会议录音被公开暴露",
+          "url": "https://bobdahacker.com/blog/tldv-hack",
+          "source": "bobdahacker.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-10T14:03:26.804000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "bobdahacker.com"
+      ],
+      "items": [
+        {
+          "id": "7f5793dff6154f8b6bee4fdc7600a28a95bd1761",
+          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+          "url": "https://bobdahacker.com/blog/tldv-hack",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T14:03:26.804000Z"
+        },
+        {
+          "id": "4e5eb3a75e0ad5a54e603202b055e6bb59c42606",
+          "title": "笔记应用中逾18.1万段AI会议录音被公开暴露",
+          "url": "https://bobdahacker.com/blog/tldv-hack",
+          "source": "bobdahacker.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-10T14:03:26.804000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7405,
+      "importance": 0.7405,
+      "importance_score": 0.7405,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7106,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-10T14:03:26.804000Z",
+      "latest_at": "2026-08-10T14:03:26.804000Z",
+      "primary_item": {
+        "id": "7f5793dff6154f8b6bee4fdc7600a28a95bd1761",
+        "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+        "url": "https://bobdahacker.com/blog/tldv-hack",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
