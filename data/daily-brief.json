@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T16:06:21.218794Z",
+  "generated_at": "2026-08-14T17:11:44.428565Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8518,
-      "importance": 0.8518,
-      "importance_score": 0.8518,
+      "score": 0.8492,
+      "importance": 0.8492,
+      "importance_score": 0.8492,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9346,
+        "recency": 0.92,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -120,6 +120,88 @@
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
         "source": "公众号：小红书技术（dots.llm）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d556a48bace2",
+      "title": "开放模型状况：2026 年夏季观察 / State of Open Models: Summer 2026 Observations",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "primary_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
+          "title": "开放模型状况：2026 年夏季观察 / State of Open Models: Summer 2026 Observations",
+          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T00:00:00Z"
+        },
+        {
+          "id": "3bd97ce1581508d971c07b8c987612418a9afebd",
+          "title": "开放模型状况：2026 年夏季观察 / State of Open Models： Summer 2026 Observations",
+          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T00:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
+          "title": "开放模型状况：2026 年夏季观察 / State of Open Models: Summer 2026 Observations",
+          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T00:00:00Z"
+        },
+        {
+          "id": "3bd97ce1581508d971c07b8c987612418a9afebd",
+          "title": "开放模型状况：2026 年夏季观察 / State of Open Models： Summer 2026 Observations",
+          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T00:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8454,
+      "importance": 0.8454,
+      "importance_score": 0.8454,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7801,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T00:00:00Z",
+      "latest_at": "2026-08-14T00:00:00Z",
+      "primary_item": {
+        "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
+        "title": "开放模型状况：2026 年夏季观察 / State of Open Models: Summer 2026 Observations",
+        "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -157,15 +239,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
+      "score": 0.8409,
+      "importance": 0.8409,
+      "importance_score": 0.8409,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9985,
+        "recency": 0.9829,
         "story_heat": 0.0
       },
       "category": "official",
@@ -185,131 +267,49 @@
       }
     },
     {
-      "story_id": "story_e83d70611f6b",
-      "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-      "primary_url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-      "source": "Google DeepMind",
+      "story_id": "story_117194245eb4",
+      "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
+      "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+      "primary_url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
-          "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
-          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-          "source": "Google DeepMind",
+          "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
+          "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
+          "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T17:04:18Z"
-        },
-        {
-          "id": "02675bae99f5356d65724bcde95733a4987e2c98",
-          "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
-          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-          "source": "Google DeepMind：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T17:04:18Z"
+          "published_at": "2026-08-14T03:15:56Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Google DeepMind",
-        "Google DeepMind：Blog（RSS）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
-          "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
-          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-          "source": "Google DeepMind",
+          "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
+          "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
+          "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T17:04:18Z"
-        },
-        {
-          "id": "02675bae99f5356d65724bcde95733a4987e2c98",
-          "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
-          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-          "source": "Google DeepMind：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T17:04:18Z"
+          "published_at": "2026-08-14T03:15:56Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8261,
-      "importance": 0.8261,
-      "importance_score": 0.8261,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.717,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T17:04:18Z",
-      "latest_at": "2026-08-13T17:04:18Z",
-      "primary_item": {
-        "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
-        "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
-        "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d556a48bace2",
-      "title": "开放模型状况：2026 年夏季观察 / State of Open Models: Summer 2026 Observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "primary_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
-          "title": "开放模型状况：2026 年夏季观察 / State of Open Models: Summer 2026 Observations",
-          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
-          "title": "开放模型状况：2026 年夏季观察 / State of Open Models: Summer 2026 Observations",
-          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7925,
+        "recency": 0.8178,
         "story_heat": 0.0
       },
       "category": "official",
@@ -318,95 +318,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-14T00:00:00Z",
-      "latest_at": "2026-08-14T00:00:00Z",
+      "earliest_at": "2026-08-14T03:15:56Z",
+      "latest_at": "2026-08-14T03:15:56Z",
       "primary_item": {
-        "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
-        "title": "开放模型状况：2026 年夏季观察 / State of Open Models: Summer 2026 Observations",
-        "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_76c77512e473",
-      "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-      "primary_url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
-          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
-          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T16:45:00Z"
-        },
-        {
-          "id": "b72ff7f4bd7ca0bacb42b3e69eccd854c132c104",
-          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
-          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T16:45:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google AI Blog",
-        "Google Blog：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
-          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
-          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T16:45:00Z"
-        },
-        {
-          "id": "b72ff7f4bd7ca0bacb42b3e69eccd854c132c104",
-          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
-          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T16:45:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8175,
-      "importance": 0.8175,
-      "importance_score": 0.8175,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7137,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T16:45:00Z",
-      "latest_at": "2026-08-13T16:45:00Z",
-      "primary_item": {
-        "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
-        "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
-        "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-        "source": "Google AI Blog",
+        "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
+        "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
+        "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -464,15 +382,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8004,
-      "importance": 0.8004,
-      "importance_score": 0.8004,
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9764,
+        "recency": 0.9612,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -489,68 +407,6 @@
         "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
         "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7b7795911104",
-      "title": "许可数据质量改进 / License data quality improvements",
-      "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-      "primary_url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "87dd2c8686ef4e741185768b45139d717de59f24",
-          "title": "许可数据质量改进 / License data quality improvements",
-          "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T19:14:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "87dd2c8686ef4e741185768b45139d717de59f24",
-          "title": "许可数据质量改进 / License data quality improvements",
-          "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T19:14:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7972,
-      "importance": 0.7972,
-      "importance_score": 0.7972,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7398,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T19:14:12Z",
-      "latest_at": "2026-08-13T19:14:12Z",
-      "primary_item": {
-        "id": "87dd2c8686ef4e741185768b45139d717de59f24",
-        "title": "许可数据质量改进 / License data quality improvements",
-        "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -588,15 +444,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8154,
-      "importance": 0.8154,
-      "importance_score": 0.8154,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7191,
+        "recency": 0.7078,
         "story_heat": 0.0
       },
       "category": "official",
@@ -669,15 +525,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7759,
-      "importance": 0.7759,
-      "importance_score": 0.7759,
+      "score": 0.7733,
+      "importance": 0.7733,
+      "importance_score": 0.7733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9071,
+        "recency": 0.8929,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -731,15 +587,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
+      "score": 0.7722,
+      "importance": 0.7722,
+      "importance_score": 0.7722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9569,
+        "recency": 0.942,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -758,21 +614,102 @@
       }
     },
     {
-      "story_id": "story_968ad09332ea",
-      "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
-      "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
-      "primary_url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+      "story_id": "story_20b744e598ba",
+      "title": "Cursor 正式被 SpaceX 收购",
+      "url": "https://cursor.com/blog/joining-spacex",
+      "primary_url": "https://cursor.com/blog/joining-spacex",
+      "source": "Cursor Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "37be0084d39109564aa95e679db99447f43ba6a3",
+          "title": "Cursor 正式被 SpaceX 收购",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T12:00:00Z"
+        },
+        {
+          "id": "e37cd83f96c4e5a36e5d09f3428b72e1f7f7f378",
+          "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-14T13:10:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Cursor Blog",
+        "Hacker News (黑客新闻)"
+      ],
+      "items": [
+        {
+          "id": "37be0084d39109564aa95e679db99447f43ba6a3",
+          "title": "Cursor 正式被 SpaceX 收购",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T12:00:00Z"
+        },
+        {
+          "id": "e37cd83f96c4e5a36e5d09f3428b72e1f7f7f378",
+          "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-14T13:10:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9277,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T12:00:00Z",
+      "latest_at": "2026-08-14T13:10:12Z",
+      "primary_item": {
+        "id": "37be0084d39109564aa95e679db99447f43ba6a3",
+        "title": "Cursor 正式被 SpaceX 收购",
+        "url": "https://cursor.com/blog/joining-spacex",
+        "source": "Cursor Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7b7795911104",
+      "title": "许可数据质量改进 / License data quality improvements",
+      "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
+      "primary_url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "60f355677cf4a09c3158662dda1f01d50413d142",
-          "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
-          "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+          "id": "87dd2c8686ef4e741185768b45139d717de59f24",
+          "title": "许可数据质量改进 / License data quality improvements",
+          "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T19:02:46Z"
+          "published_at": "2026-08-13T19:14:12Z"
         }
       ],
       "source_count": 1,
@@ -781,26 +718,26 @@
       ],
       "items": [
         {
-          "id": "60f355677cf4a09c3158662dda1f01d50413d142",
-          "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
-          "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+          "id": "87dd2c8686ef4e741185768b45139d717de59f24",
+          "title": "许可数据质量改进 / License data quality improvements",
+          "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T19:02:46Z"
+          "published_at": "2026-08-13T19:14:12Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7968,
-      "importance": 0.7968,
-      "importance_score": 0.7968,
+      "score": 0.7951,
+      "importance": 0.7951,
+      "importance_score": 0.7951,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7378,
+        "recency": 0.7283,
         "story_heat": 0.0
       },
       "category": "official",
@@ -809,12 +746,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-13T19:02:46Z",
-      "latest_at": "2026-08-13T19:02:46Z",
+      "earliest_at": "2026-08-13T19:14:12Z",
+      "latest_at": "2026-08-13T19:14:12Z",
       "primary_item": {
-        "id": "60f355677cf4a09c3158662dda1f01d50413d142",
-        "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
-        "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+        "id": "87dd2c8686ef4e741185768b45139d717de59f24",
+        "title": "许可数据质量改进 / License data quality improvements",
+        "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -854,15 +791,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9848,
+        "recency": 0.9694,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -877,66 +814,6 @@
         "title": "通义千问开源 Qwen3.8 系列模型",
         "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
         "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_20b744e598ba",
-      "title": "Cursor 正式被 SpaceX 收购",
-      "url": "https://cursor.com/blog/joining-spacex",
-      "primary_url": "https://cursor.com/blog/joining-spacex",
-      "source": "Cursor Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "37be0084d39109564aa95e679db99447f43ba6a3",
-          "title": "Cursor 正式被 SpaceX 收购",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cursor Blog"
-      ],
-      "items": [
-        {
-          "id": "37be0084d39109564aa95e679db99447f43ba6a3",
-          "title": "Cursor 正式被 SpaceX 收购",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9424,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T12:00:00Z",
-      "latest_at": "2026-08-14T12:00:00Z",
-      "primary_item": {
-        "id": "37be0084d39109564aa95e679db99447f43ba6a3",
-        "title": "Cursor 正式被 SpaceX 收购",
-        "url": "https://cursor.com/blog/joining-spacex",
-        "source": "Cursor Blog",
         "source_name": "AI HOT"
       }
     },
@@ -994,15 +871,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
+      "score": 0.7673,
+      "importance": 0.7673,
+      "importance_score": 0.7673,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8731,
+        "recency": 0.8595,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1019,6 +896,68 @@
         "url": "https://www.aibase.com/news/30353",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_968ad09332ea",
+      "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
+      "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+      "primary_url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "60f355677cf4a09c3158662dda1f01d50413d142",
+          "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
+          "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T19:02:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "60f355677cf4a09c3158662dda1f01d50413d142",
+          "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
+          "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T19:02:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7947,
+      "importance": 0.7947,
+      "importance_score": 0.7947,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7263,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T19:02:46Z",
+      "latest_at": "2026-08-13T19:02:46Z",
+      "primary_item": {
+        "id": "60f355677cf4a09c3158662dda1f01d50413d142",
+        "title": "阻止用户在个人存储库中发表评论 / Block users from comments in personal repositories",
+        "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1075,15 +1014,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
+      "score": 0.7299,
+      "importance": 0.7299,
+      "importance_score": 0.7299,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7638,
+        "recency": 0.7519,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1155,15 +1094,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8527,
+        "recency": 0.8394,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1236,15 +1175,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8527,
+        "recency": 0.8394,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1370,15 +1309,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6559,
-      "importance": 0.6559,
-      "importance_score": 0.6559,
+      "score": 0.6538,
+      "importance": 0.6538,
+      "importance_score": 0.6538,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5256,
         "source_tier": 0.54,
         "ai_relevance": 0.73,
-        "recency": 0.7411,
+        "recency": 0.7295,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1449,15 +1388,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8303,
+        "recency": 0.8173,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1530,15 +1469,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6272,
-      "importance": 0.6272,
-      "importance_score": 0.6272,
+      "score": 0.6251,
+      "importance": 0.6251,
+      "importance_score": 0.6251,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.7413,
+        "recency": 0.7297,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1554,6 +1493,87 @@
         "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_595ebf749a43",
+      "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
+      "url": "https://www.aibase.com/news/30332",
+      "primary_url": "https://www.aibase.com/news/30332",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f93691ad5f2e54d1db9b6439fd6206f0343a4eca",
+          "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
+          "url": "https://www.aibase.com/news/30332",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T03:13:37.993616Z"
+        },
+        {
+          "id": "d2dfa1a6c5a2385836633431b47712658e285f22",
+          "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的「工作记忆」",
+          "url": "https://www.aibase.com/zh/news/30332",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f93691ad5f2e54d1db9b6439fd6206f0343a4eca",
+          "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
+          "url": "https://www.aibase.com/news/30332",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T03:13:37.993616Z"
+        },
+        {
+          "id": "d2dfa1a6c5a2385836633431b47712658e285f22",
+          "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的「工作记忆」",
+          "url": "https://www.aibase.com/zh/news/30332",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8173,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T03:13:37.993616Z",
+      "latest_at": "2026-08-14T03:13:37.993616Z",
+      "primary_item": {
+        "id": "f93691ad5f2e54d1db9b6439fd6206f0343a4eca",
+        "title": "Mac 版 ChatGPT 上线 Computer History：告别截图记录，用系统事件构建你的\"工作记忆\"",
+        "url": "https://www.aibase.com/news/30332",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
