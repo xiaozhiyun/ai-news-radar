@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T19:56:38.784908Z",
+  "generated_at": "2026-08-15T20:39:16.973171Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7965,
-      "importance": 0.7965,
-      "importance_score": 0.7965,
+      "score": 0.7951,
+      "importance": 0.7951,
+      "importance_score": 0.7951,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7361,
+        "recency": 0.7286,
         "story_heat": 0.0
       },
       "category": "official",
@@ -63,6 +63,87 @@
         "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_20b744e598ba",
+      "title": "Cursor 正式被 SpaceX 收购",
+      "url": "https://cursor.com/blog/joining-spacex",
+      "primary_url": "https://cursor.com/blog/joining-spacex",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
+          "title": "Cursor 正式被 SpaceX 收购",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-15T20:05:54.703000Z"
+        },
+        {
+          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
+          "title": "Cursor 现已成为 SpaceX 的一部分",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:05:54.703000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "cursor.com"
+      ],
+      "items": [
+        {
+          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
+          "title": "Cursor 正式被 SpaceX 收购",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-15T20:05:54.703000Z"
+        },
+        {
+          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
+          "title": "Cursor 现已成为 SpaceX 的一部分",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:05:54.703000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7882,
+      "importance": 0.7882,
+      "importance_score": 0.7882,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.992,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-15T20:05:54.703000Z",
+      "latest_at": "2026-08-15T20:05:54.703000Z",
+      "primary_item": {
+        "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
+        "title": "Cursor 正式被 SpaceX 收购",
+        "url": "https://cursor.com/blog/joining-spacex",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -118,15 +199,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7648,
-      "importance": 0.7648,
-      "importance_score": 0.7648,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.879,
+        "recency": 0.87,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -143,6 +224,123 @@
         "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0b73ad404776",
+      "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+      "url": "https://news.ycombinator.com/item?id=49310725",
+      "primary_url": "https://news.ycombinator.com/item?id=49310725",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://news.ycombinator.com/item?id=49310725",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T14:40:10.810000Z"
+        },
+        {
+          "id": "df4e0999ddfe3441c499f1ff2a561e8a81fc55e7",
+          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T14:30:12.217000Z"
+        },
+        {
+          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:08:55Z"
+        },
+        {
+          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
+          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:25:32Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "BBC News",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.bbc.co.uk"
+      ],
+      "items": [
+        {
+          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://news.ycombinator.com/item?id=49310725",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T14:40:10.810000Z"
+        },
+        {
+          "id": "df4e0999ddfe3441c499f1ff2a561e8a81fc55e7",
+          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T14:30:12.217000Z"
+        },
+        {
+          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:08:55Z"
+        },
+        {
+          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
+          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:25:32Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5809,
+      "importance": 0.5809,
+      "importance_score": 0.5809,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9172,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T11:25:32Z",
+      "latest_at": "2026-08-15T14:40:10.810000Z",
+      "primary_item": {
+        "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+        "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+        "url": "https://news.ycombinator.com/item?id=49310725",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -218,15 +416,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5691,
-      "importance": 0.5691,
-      "importance_score": 0.5691,
+      "score": 0.5673,
+      "importance": 0.5673,
+      "importance_score": 0.5673,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9908,
+        "recency": 0.9806,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -316,15 +514,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5624,
-      "importance": 0.5624,
-      "importance_score": 0.5624,
+      "score": 0.5606,
+      "importance": 0.5606,
+      "importance_score": 0.5606,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9533,
+        "recency": 0.9436,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -339,104 +537,6 @@
         "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
         "source": "allen.bargi.org",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0b73ad404776",
-      "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-      "url": "https://news.ycombinator.com/item?id=49310725",
-      "primary_url": "https://news.ycombinator.com/item?id=49310725",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://news.ycombinator.com/item?id=49310725",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:40:10.810000Z"
-        },
-        {
-          "id": "df4e0999ddfe3441c499f1ff2a561e8a81fc55e7",
-          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T14:30:12.217000Z"
-        },
-        {
-          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
-          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T11:25:32Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "BBC News",
-        "hackernews",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://news.ycombinator.com/item?id=49310725",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:40:10.810000Z"
-        },
-        {
-          "id": "df4e0999ddfe3441c499f1ff2a561e8a81fc55e7",
-          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T14:30:12.217000Z"
-        },
-        {
-          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
-          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T11:25:32Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5576,
-      "importance": 0.5576,
-      "importance_score": 0.5576,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9267,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T11:25:32Z",
-      "latest_at": "2026-08-15T14:40:10.810000Z",
-      "primary_item": {
-        "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-        "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-        "url": "https://news.ycombinator.com/item?id=49310725",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -512,15 +612,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5559,
-      "importance": 0.5559,
-      "importance_score": 0.5559,
+      "score": 0.5542,
+      "importance": 0.5542,
+      "importance_score": 0.5542,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9173,
+        "recency": 0.9079,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -535,6 +635,103 @@
         "url": "https://sankalp.bearblog.dev/autoresearch",
         "source": "sankalp.bearblog.dev",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_611835edca3b",
+      "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
+      "url": "https://news.ycombinator.com/item?id=49313367",
+      "primary_url": "https://news.ycombinator.com/item?id=49313367",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
+          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
+          "url": "https://news.ycombinator.com/item?id=49313367",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T20:39:48.144000Z"
+        },
+        {
+          "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "url": "https://news.ycombinator.com/item?id=49313367",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T19:39:29.237000Z"
+        },
+        {
+          "id": "fb742fc02c70e40eb693c6c361e1d0860ae6f8b3",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:12:53Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
+          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
+          "url": "https://news.ycombinator.com/item?id=49313367",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T20:39:48.144000Z"
+        },
+        {
+          "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "url": "https://news.ycombinator.com/item?id=49313367",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T19:39:29.237000Z"
+        },
+        {
+          "id": "fb742fc02c70e40eb693c6c361e1d0860ae6f8b3",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:12:53Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5708,
+      "importance": 0.5708,
+      "importance_score": 0.5708,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T19:12:53Z",
+      "latest_at": "2026-08-15T20:39:48.144000Z",
+      "primary_item": {
+        "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
+        "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
+        "url": "https://news.ycombinator.com/item?id=49313367",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -610,15 +807,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
+      "score": 0.537,
+      "importance": 0.537,
+      "importance_score": 0.537,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8204,
+        "recency": 0.812,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -689,15 +886,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5235,
-      "importance": 0.5235,
-      "importance_score": 0.5235,
+      "score": 0.5218,
+      "importance": 0.5218,
+      "importance_score": 0.5218,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8759,
+        "recency": 0.8669,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -712,85 +909,6 @@
         "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_611835edca3b",
-      "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
-      "url": "https://news.ycombinator.com/item?id=49313367",
-      "primary_url": "https://news.ycombinator.com/item?id=49313367",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
-          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
-          "url": "https://news.ycombinator.com/item?id=49313367",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T19:39:29.237000Z"
-        },
-        {
-          "id": "fb742fc02c70e40eb693c6c361e1d0860ae6f8b3",
-          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T19:12:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
-          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
-          "url": "https://news.ycombinator.com/item?id=49313367",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T19:39:29.237000Z"
-        },
-        {
-          "id": "fb742fc02c70e40eb693c6c361e1d0860ae6f8b3",
-          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T19:12:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9959,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T19:12:53Z",
-      "latest_at": "2026-08-15T19:39:29.237000Z",
-      "primary_item": {
-        "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
-        "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
-        "url": "https://news.ycombinator.com/item?id=49313367",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -847,15 +965,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.515,
-      "importance": 0.515,
-      "importance_score": 0.515,
+      "score": 0.5135,
+      "importance": 0.5135,
+      "importance_score": 0.5135,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8292,
+        "recency": 0.8207,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -926,15 +1044,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5052,
-      "importance": 0.5052,
-      "importance_score": 0.5052,
+      "score": 0.5038,
+      "importance": 0.5038,
+      "importance_score": 0.5038,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7743,
+        "recency": 0.7664,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1004,15 +1122,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.502,
-      "importance": 0.502,
-      "importance_score": 0.502,
+      "score": 0.5006,
+      "importance": 0.5006,
+      "importance_score": 0.5006,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7569,
+        "recency": 0.7492,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1082,15 +1200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4948,
-      "importance": 0.4948,
-      "importance_score": 0.4948,
+      "score": 0.4935,
+      "importance": 0.4935,
+      "importance_score": 0.4935,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7167,
+        "recency": 0.7094,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1161,15 +1279,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5229,
-      "importance": 0.5229,
-      "importance_score": 0.5229,
+      "score": 0.5212,
+      "importance": 0.5212,
+      "importance_score": 0.5212,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8725,
+        "recency": 0.8636,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1182,6 +1300,243 @@
         "id": "9b534af4d903899a735a8130a35795f50995d60a",
         "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切",
         "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5fc4fcc0f82f",
+      "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
+      "url": "https://news.ycombinator.com/item?id=49313519",
+      "primary_url": "https://news.ycombinator.com/item?id=49313519",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "901b3aaa15d04da62e96b93894715feadc126f5c",
+          "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
+          "url": "https://news.ycombinator.com/item?id=49313519",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T20:39:48.144000Z"
+        },
+        {
+          "id": "a5c133336b6e6a98972c6f1411921a08ea19d62f",
+          "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
+          "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:30:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "901b3aaa15d04da62e96b93894715feadc126f5c",
+          "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
+          "url": "https://news.ycombinator.com/item?id=49313519",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T20:39:48.144000Z"
+        },
+        {
+          "id": "a5c133336b6e6a98972c6f1411921a08ea19d62f",
+          "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
+          "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:30:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T19:30:32Z",
+      "latest_at": "2026-08-15T20:39:48.144000Z",
+      "primary_item": {
+        "id": "901b3aaa15d04da62e96b93894715feadc126f5c",
+        "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
+        "url": "https://news.ycombinator.com/item?id=49313519",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_760bd4034f95",
+      "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
+      "url": "https://www.ithome.com/0/989/999.htm",
+      "primary_url": "https://www.ithome.com/0/989/999.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "4f43a01d211f7c4a3db2d73bc923de29d076d6c2",
+          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
+          "url": "https://www.ithome.com/0/989/999.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f4de1ce779eddcb8e5a0def32244748020c82612",
+          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug，部分用户拍手叫好",
+          "url": "https://www.ithome.com/0/989/999.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T01:43:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4f43a01d211f7c4a3db2d73bc923de29d076d6c2",
+          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
+          "url": "https://www.ithome.com/0/989/999.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f4de1ce779eddcb8e5a0def32244748020c82612",
+          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug，部分用户拍手叫好",
+          "url": "https://www.ithome.com/0/989/999.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T01:43:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5039,
+      "importance": 0.5039,
+      "importance_score": 0.5039,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.767,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T01:43:10Z",
+      "latest_at": "2026-08-15T02:17:17.151232Z",
+      "primary_item": {
+        "id": "4f43a01d211f7c4a3db2d73bc923de29d076d6c2",
+        "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
+        "url": "https://www.ithome.com/0/989/999.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_fdec6775b90c",
+      "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。",
+      "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+      "primary_url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9b13703f4af2fb62fc36cc02e5c2d9ff6dcf95e1",
+          "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。",
+          "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T10:14:10.909000Z"
+        },
+        {
+          "id": "675fb42a69b1b3c2840cbab77e95dc5f9f6753a4",
+          "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。 / I stared deep into the heart of LinkedIn AI cringe slop. Darkness (and engagement) stared back.",
+          "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T10:02:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "9b13703f4af2fb62fc36cc02e5c2d9ff6dcf95e1",
+          "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。",
+          "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T10:14:10.909000Z"
+        },
+        {
+          "id": "675fb42a69b1b3c2840cbab77e95dc5f9f6753a4",
+          "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。 / I stared deep into the heart of LinkedIn AI cringe slop. Darkness (and engagement) stared back.",
+          "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T10:02:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5207,
+      "importance": 0.5207,
+      "importance_score": 0.5207,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8603,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T10:02:01Z",
+      "latest_at": "2026-08-15T10:14:10.909000Z",
+      "primary_item": {
+        "id": "9b13703f4af2fb62fc36cc02e5c2d9ff6dcf95e1",
+        "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。",
+        "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -1259,15 +1614,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5401,
-      "importance": 0.5401,
-      "importance_score": 0.5401,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8293,
+        "recency": 0.8208,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1280,243 +1635,6 @@
         "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
         "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
         "url": "https://news.ycombinator.com/item?id=49307700",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_760bd4034f95",
-      "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
-      "url": "https://www.ithome.com/0/989/999.htm",
-      "primary_url": "https://www.ithome.com/0/989/999.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "4f43a01d211f7c4a3db2d73bc923de29d076d6c2",
-          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
-          "url": "https://www.ithome.com/0/989/999.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f4de1ce779eddcb8e5a0def32244748020c82612",
-          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug，部分用户拍手叫好",
-          "url": "https://www.ithome.com/0/989/999.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T01:43:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "4f43a01d211f7c4a3db2d73bc923de29d076d6c2",
-          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
-          "url": "https://www.ithome.com/0/989/999.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f4de1ce779eddcb8e5a0def32244748020c82612",
-          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug，部分用户拍手叫好",
-          "url": "https://www.ithome.com/0/989/999.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T01:43:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5053,
-      "importance": 0.5053,
-      "importance_score": 0.5053,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7749,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T01:43:10Z",
-      "latest_at": "2026-08-15T02:17:17.151232Z",
-      "primary_item": {
-        "id": "4f43a01d211f7c4a3db2d73bc923de29d076d6c2",
-        "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
-        "url": "https://www.ithome.com/0/989/999.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_fdec6775b90c",
-      "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。",
-      "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
-      "primary_url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9b13703f4af2fb62fc36cc02e5c2d9ff6dcf95e1",
-          "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。",
-          "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T10:14:10.909000Z"
-        },
-        {
-          "id": "675fb42a69b1b3c2840cbab77e95dc5f9f6753a4",
-          "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。 / I stared deep into the heart of LinkedIn AI cringe slop. Darkness (and engagement) stared back.",
-          "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T10:02:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "9b13703f4af2fb62fc36cc02e5c2d9ff6dcf95e1",
-          "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。",
-          "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T10:14:10.909000Z"
-        },
-        {
-          "id": "675fb42a69b1b3c2840cbab77e95dc5f9f6753a4",
-          "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。 / I stared deep into the heart of LinkedIn AI cringe slop. Darkness (and engagement) stared back.",
-          "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T10:02:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8692,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T10:02:01Z",
-      "latest_at": "2026-08-15T10:14:10.909000Z",
-      "primary_item": {
-        "id": "9b13703f4af2fb62fc36cc02e5c2d9ff6dcf95e1",
-        "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。",
-        "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2eddcc502dba",
-      "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-      "url": "https://news.ycombinator.com/item?id=49311445",
-      "primary_url": "https://news.ycombinator.com/item?id=49311445",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
-          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-          "url": "https://news.ycombinator.com/item?id=49311445",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T16:42:52.142000Z"
-        },
-        {
-          "id": "f873e21dcbe486d43afc15fb728e20630fc62340",
-          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-          "url": "https://spectrum.ieee.org/ai-designed-virus",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T15:32:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
-          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-          "url": "https://news.ycombinator.com/item?id=49311445",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T16:42:52.142000Z"
-        },
-        {
-          "id": "f873e21dcbe486d43afc15fb728e20630fc62340",
-          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-          "url": "https://spectrum.ieee.org/ai-designed-virus",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T15:32:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5376,
-      "importance": 0.5376,
-      "importance_score": 0.5376,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9544,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T15:32:25Z",
-      "latest_at": "2026-08-15T16:42:52.142000Z",
-      "primary_item": {
-        "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
-        "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-        "url": "https://news.ycombinator.com/item?id=49311445",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1575,15 +1693,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5044,
-      "importance": 0.5044,
-      "importance_score": 0.5044,
+      "score": 0.503,
+      "importance": 0.503,
+      "importance_score": 0.503,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7698,
+        "recency": 0.762,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1598,85 +1716,6 @@
         "url": "https://www.ithome.com/0/989/989.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_c71ab223e5c0",
-      "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工",
-      "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
-      "primary_url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "dbcc639113a67c34be4b15783c590acda889f65c",
-          "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工",
-          "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T08:22:17.069000Z"
-        },
-        {
-          "id": "89c6527e6dbde2f93b0b21e76861baaadbc7d955",
-          "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工 / The AI boss at a San Francisco store just fired its first human",
-          "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T08:11:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "dbcc639113a67c34be4b15783c590acda889f65c",
-          "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工",
-          "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T08:22:17.069000Z"
-        },
-        {
-          "id": "89c6527e6dbde2f93b0b21e76861baaadbc7d955",
-          "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工 / The AI boss at a San Francisco store just fired its first human",
-          "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T08:11:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5181,
-      "importance": 0.5181,
-      "importance_score": 0.5181,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8461,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T08:11:01Z",
-      "latest_at": "2026-08-15T08:22:17.069000Z",
-      "primary_item": {
-        "id": "dbcc639113a67c34be4b15783c590acda889f65c",
-        "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工",
-        "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
