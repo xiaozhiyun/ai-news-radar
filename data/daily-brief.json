@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T03:26:16.870388Z",
+  "generated_at": "2026-08-17T04:03:46.179597Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.807,
-      "importance": 0.807,
-      "importance_score": 0.807,
+      "score": 0.8055,
+      "importance": 0.8055,
+      "importance_score": 0.8055,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9246,
+        "recency": 0.9163,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -101,6 +101,87 @@
         "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
         "source": "Simon Willison 博客",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_52ac790130a7",
+      "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+      "url": "https://www.aibase.com/news/30389",
+      "primary_url": "https://www.aibase.com/news/30389",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a022d3348fa94af5af15c940e1f2ba5b3a58bdef",
+          "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+          "url": "https://www.aibase.com/news/30389",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T03:13:05.267338Z"
+        },
+        {
+          "id": "f5e62b9b881e85627b0ec6e8eb333bc2df7434b0",
+          "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+          "url": "https://www.aibase.com/zh/news/30389",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "a022d3348fa94af5af15c940e1f2ba5b3a58bdef",
+          "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+          "url": "https://www.aibase.com/news/30389",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T03:13:05.267338Z"
+        },
+        {
+          "id": "f5e62b9b881e85627b0ec6e8eb333bc2df7434b0",
+          "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+          "url": "https://www.aibase.com/zh/news/30389",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7904,
+      "importance": 0.7904,
+      "importance_score": 0.7904,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9879,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T03:13:05.267338Z",
+      "latest_at": "2026-08-17T04:03:46.179597Z",
+      "primary_item": {
+        "id": "a022d3348fa94af5af15c940e1f2ba5b3a58bdef",
+        "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+        "url": "https://www.aibase.com/news/30389",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -157,15 +238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7899,
-      "importance": 0.7899,
-      "importance_score": 0.7899,
+      "score": 0.7883,
+      "importance": 0.7883,
+      "importance_score": 0.7883,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.985,
+        "recency": 0.9762,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -182,6 +263,66 @@
         "url": "https://www.aibase.com/news/30383",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_af863cb3b215",
+      "title": "新兴多智能体系统的模式与问题",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "primary_url": "https://www.anthropic.com/research/multiagent-systems",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
+          "title": "新兴多智能体系统的模式与问题",
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-16T11:17:57.393000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
+          "title": "新兴多智能体系统的模式与问题",
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-16T11:17:57.393000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7319,
+      "importance": 0.7319,
+      "importance_score": 0.7319,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.785,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-16T11:17:57.393000Z",
+      "latest_at": "2026-08-16T11:17:57.393000Z",
+      "primary_item": {
+        "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
+        "title": "新兴多智能体系统的模式与问题",
+        "url": "https://www.anthropic.com/research/multiagent-systems",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -238,15 +379,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7899,
-      "importance": 0.7899,
-      "importance_score": 0.7899,
+      "score": 0.7883,
+      "importance": 0.7883,
+      "importance_score": 0.7883,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.985,
+        "recency": 0.9762,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -263,66 +404,6 @@
         "url": "https://www.aibase.com/news/30381",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_af863cb3b215",
-      "title": "新兴多智能体系统的模式与问题",
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "primary_url": "https://www.anthropic.com/research/multiagent-systems",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
-          "title": "新兴多智能体系统的模式与问题",
-          "url": "https://www.anthropic.com/research/multiagent-systems",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-16T11:17:57.393000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
-          "title": "新兴多智能体系统的模式与问题",
-          "url": "https://www.anthropic.com/research/multiagent-systems",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-16T11:17:57.393000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7921,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-16T11:17:57.393000Z",
-      "latest_at": "2026-08-16T11:17:57.393000Z",
-      "primary_item": {
-        "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
-        "title": "新兴多智能体系统的模式与问题",
-        "url": "https://www.anthropic.com/research/multiagent-systems",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -379,15 +460,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9784,
+        "recency": 0.9696,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -460,15 +541,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9784,
+        "recency": 0.9696,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -541,15 +622,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9784,
+        "recency": 0.9696,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -622,15 +703,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9784,
+        "recency": 0.9696,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -645,87 +726,6 @@
         "id": "83ba19bb2792ea655cba213819a09e199cfef98f",
         "title": "小红书开源大模型迎突破：华为昇腾完成 0 Day 全量适配与性能优化",
         "url": "https://www.aibase.com/news/30377",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_82762d6fd591",
-      "title": "美团全员\"养虾\"曾日烧千万：王莆中复盘 AI 变革，CatPaw 终跑通",
-      "url": "https://www.aibase.com/news/30367",
-      "primary_url": "https://www.aibase.com/news/30367",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9c00aa497067e8d58911f47c56ccb3034af8e050",
-          "title": "美团全员\"养虾\"曾日烧千万：王莆中复盘 AI 变革，CatPaw 终跑通",
-          "url": "https://www.aibase.com/news/30367",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T01:55:37.804613Z"
-        },
-        {
-          "id": "9ef56ca133992447f422bb86db349ff3dd5801a5",
-          "title": "美团全员「养虾」曾日烧千万：王莆中复盘 AI 变革，CatPaw 终跑通",
-          "url": "https://www.aibase.com/zh/news/30367",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "9c00aa497067e8d58911f47c56ccb3034af8e050",
-          "title": "美团全员\"养虾\"曾日烧千万：王莆中复盘 AI 变革，CatPaw 终跑通",
-          "url": "https://www.aibase.com/news/30367",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T01:55:37.804613Z"
-        },
-        {
-          "id": "9ef56ca133992447f422bb86db349ff3dd5801a5",
-          "title": "美团全员「养虾」曾日烧千万：王莆中复盘 AI 变革，CatPaw 终跑通",
-          "url": "https://www.aibase.com/zh/news/30367",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9784,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T01:55:37.804613Z",
-      "latest_at": "2026-08-17T01:55:37.804613Z",
-      "primary_item": {
-        "id": "9c00aa497067e8d58911f47c56ccb3034af8e050",
-        "title": "美团全员\"养虾\"曾日烧千万：王莆中复盘 AI 变革，CatPaw 终跑通",
-        "url": "https://www.aibase.com/news/30367",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -822,15 +822,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5873,
-      "importance": 0.5873,
-      "importance_score": 0.5873,
+      "score": 0.5858,
+      "importance": 0.5858,
+      "importance_score": 0.5858,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9529,
+        "recency": 0.9444,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -939,15 +939,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5842,
-      "importance": 0.5842,
-      "importance_score": 0.5842,
+      "score": 0.5827,
+      "importance": 0.5827,
+      "importance_score": 0.5827,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9358,
+        "recency": 0.9274,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -965,26 +965,26 @@
       }
     },
     {
-      "story_id": "story_5243b55fd3e2",
-      "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
-      "url": "https://www.aibase.com/news/30374",
-      "primary_url": "https://www.aibase.com/news/30374",
+      "story_id": "story_82762d6fd591",
+      "title": "美团全员\"养虾\"曾日烧千万：王莆中复盘 AI 变革，CatPaw 终跑通",
+      "url": "https://www.aibase.com/news/30367",
+      "primary_url": "https://www.aibase.com/news/30367",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4bf672a10aa32f7c46fd3806e4f98d00800326bf",
-          "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
-          "url": "https://www.aibase.com/news/30374",
+          "id": "9c00aa497067e8d58911f47c56ccb3034af8e050",
+          "title": "美团全员\"养虾\"曾日烧千万：王莆中复盘 AI 变革，CatPaw 终跑通",
+          "url": "https://www.aibase.com/news/30367",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-17T01:55:37.804613Z"
         },
         {
-          "id": "99b5669dbeff6ded8381f803ca9e29653ad7e185",
-          "title": "英伟达拟向软银旗下 SB Energy 注资 30 亿美元，加码 OpenAI 数据中心生态",
-          "url": "https://www.aibase.com/zh/news/30374",
+          "id": "9ef56ca133992447f422bb86db349ff3dd5801a5",
+          "title": "美团全员「养虾」曾日烧千万：王莆中复盘 AI 变革，CatPaw 终跑通",
+          "url": "https://www.aibase.com/zh/news/30367",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -998,18 +998,18 @@
       ],
       "items": [
         {
-          "id": "4bf672a10aa32f7c46fd3806e4f98d00800326bf",
-          "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
-          "url": "https://www.aibase.com/news/30374",
+          "id": "9c00aa497067e8d58911f47c56ccb3034af8e050",
+          "title": "美团全员\"养虾\"曾日烧千万：王莆中复盘 AI 变革，CatPaw 终跑通",
+          "url": "https://www.aibase.com/news/30367",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-17T01:55:37.804613Z"
         },
         {
-          "id": "99b5669dbeff6ded8381f803ca9e29653ad7e185",
-          "title": "英伟达拟向软银旗下 SB Energy 注资 30 亿美元，加码 OpenAI 数据中心生态",
-          "url": "https://www.aibase.com/zh/news/30374",
+          "id": "9ef56ca133992447f422bb86db349ff3dd5801a5",
+          "title": "美团全员「养虾」曾日烧千万：王莆中复盘 AI 变革，CatPaw 终跑通",
+          "url": "https://www.aibase.com/zh/news/30367",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1018,15 +1018,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9784,
+        "recency": 0.9696,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1038,11 +1038,109 @@
       "earliest_at": "2026-08-17T01:55:37.804613Z",
       "latest_at": "2026-08-17T01:55:37.804613Z",
       "primary_item": {
-        "id": "4bf672a10aa32f7c46fd3806e4f98d00800326bf",
-        "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
-        "url": "https://www.aibase.com/news/30374",
+        "id": "9c00aa497067e8d58911f47c56ccb3034af8e050",
+        "title": "美团全员\"养虾\"曾日烧千万：王莆中复盘 AI 变革，CatPaw 终跑通",
+        "url": "https://www.aibase.com/news/30367",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_186740912b76",
+      "title": "年轻人对AI首席执行官的憎恶之深，简直令人难以置信",
+      "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+      "primary_url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+      "source": "futurism.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ad1601f9e92bf2452135465bf662eb4718917362",
+          "title": "年轻人对AI首席执行官的憎恶之深，简直令人难以置信",
+          "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+          "source": "futurism.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T03:34:12.479000Z"
+        },
+        {
+          "id": "84486f08031cb804badebdefd5bc8ccf28ec0f0d",
+          "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+          "url": "https://news.ycombinator.com/item?id=49323932",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T22:45:08.332000Z"
+        },
+        {
+          "id": "63ccfe6f157fcc1e9c61323b7a4d1c177e548fd0",
+          "title": "年轻人对AI首席执行官的憎恶之深，简直令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+          "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T21:34:06Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "futurism.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ad1601f9e92bf2452135465bf662eb4718917362",
+          "title": "年轻人对AI首席执行官的憎恶之深，简直令人难以置信",
+          "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+          "source": "futurism.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T03:34:12.479000Z"
+        },
+        {
+          "id": "84486f08031cb804badebdefd5bc8ccf28ec0f0d",
+          "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+          "url": "https://news.ycombinator.com/item?id=49323932",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T22:45:08.332000Z"
+        },
+        {
+          "id": "63ccfe6f157fcc1e9c61323b7a4d1c177e548fd0",
+          "title": "年轻人对AI首席执行官的憎恶之深，简直令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+          "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T21:34:06Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5695,
+      "importance": 0.5695,
+      "importance_score": 0.5695,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9929,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T21:34:06Z",
+      "latest_at": "2026-08-17T03:34:12.479000Z",
+      "primary_item": {
+        "id": "ad1601f9e92bf2452135465bf662eb4718917362",
+        "title": "年轻人对AI首席执行官的憎恶之深，简直令人难以置信",
+        "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+        "source": "futurism.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1118,15 +1216,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.567,
-      "importance": 0.567,
-      "importance_score": 0.567,
+      "score": 0.5654,
+      "importance": 0.5654,
+      "importance_score": 0.5654,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.979,
+        "recency": 0.9702,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1141,6 +1239,87 @@
         "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
         "source": "www.reuters.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5243b55fd3e2",
+      "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
+      "url": "https://www.aibase.com/news/30374",
+      "primary_url": "https://www.aibase.com/news/30374",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4bf672a10aa32f7c46fd3806e4f98d00800326bf",
+          "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
+          "url": "https://www.aibase.com/news/30374",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:55:37.804613Z"
+        },
+        {
+          "id": "99b5669dbeff6ded8381f803ca9e29653ad7e185",
+          "title": "英伟达拟向软银旗下 SB Energy 注资 30 亿美元，加码 OpenAI 数据中心生态",
+          "url": "https://www.aibase.com/zh/news/30374",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4bf672a10aa32f7c46fd3806e4f98d00800326bf",
+          "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
+          "url": "https://www.aibase.com/news/30374",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T01:55:37.804613Z"
+        },
+        {
+          "id": "99b5669dbeff6ded8381f803ca9e29653ad7e185",
+          "title": "英伟达拟向软银旗下 SB Energy 注资 30 亿美元，加码 OpenAI 数据中心生态",
+          "url": "https://www.aibase.com/zh/news/30374",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9696,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T01:55:37.804613Z",
+      "latest_at": "2026-08-17T01:55:37.804613Z",
+      "primary_item": {
+        "id": "4bf672a10aa32f7c46fd3806e4f98d00800326bf",
+        "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
+        "url": "https://www.aibase.com/news/30374",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1216,15 +1395,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5466,
-      "importance": 0.5466,
-      "importance_score": 0.5466,
+      "score": 0.5452,
+      "importance": 0.5452,
+      "importance_score": 0.5452,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8656,
+        "recency": 0.8578,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1294,15 +1473,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9893,
+        "recency": 0.9804,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1373,15 +1552,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9786,
+        "recency": 0.9698,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1452,15 +1631,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5387,
-      "importance": 0.5387,
-      "importance_score": 0.5387,
+      "score": 0.5371,
+      "importance": 0.5371,
+      "importance_score": 0.5371,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9603,
+        "recency": 0.9517,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1531,15 +1710,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9567,
+        "recency": 0.9481,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1554,164 +1733,6 @@
         "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say",
         "source": "codemanship.wordpress.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5f2cf02546e5",
-      "title": "AI 可通过图片视觉线索识别拍照地点，准确率 87%-91%",
-      "url": "https://www.ithome.com/0/990/420.htm",
-      "primary_url": "https://www.ithome.com/0/990/420.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "d17fbad42278852eb4c6b8cddf880d5c338e551c",
-          "title": "AI 可通过图片视觉线索识别拍照地点，准确率 87%-91%",
-          "url": "https://www.ithome.com/0/990/420.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "91f43dced0cf35b4656beb07aa895c8b9ea0ed12",
-          "title": "准确率 87%-91%，AI 可通过图片视觉线索识别拍照地点",
-          "url": "https://www.ithome.com/0/990/420.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T23:27:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d17fbad42278852eb4c6b8cddf880d5c338e551c",
-          "title": "AI 可通过图片视觉线索识别拍照地点，准确率 87%-91%",
-          "url": "https://www.ithome.com/0/990/420.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "91f43dced0cf35b4656beb07aa895c8b9ea0ed12",
-          "title": "准确率 87%-91%，AI 可通过图片视觉线索识别拍照地点",
-          "url": "https://www.ithome.com/0/990/420.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T23:27:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5369,
-      "importance": 0.5369,
-      "importance_score": 0.5369,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9508,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T23:27:04Z",
-      "latest_at": "2026-08-16T23:56:45.335769Z",
-      "primary_item": {
-        "id": "d17fbad42278852eb4c6b8cddf880d5c338e551c",
-        "title": "AI 可通过图片视觉线索识别拍照地点，准确率 87%-91%",
-        "url": "https://www.ithome.com/0/990/420.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_f7264e73b32c",
-      "title": "克劳德·奥特宕机了 / Claude Auth Is Down",
-      "url": "https://claude.ai/new",
-      "primary_url": "https://claude.ai/new",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "36a67b9b8b85cfb557e62a9d6418fec6ad9643bf",
-          "title": "克劳德·奥特宕机了 / Claude Auth Is Down",
-          "url": "https://claude.ai/new",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T21:51:25Z"
-        },
-        {
-          "id": "9c093bc0e023dfc61db565f0fb27ea56d9db9853",
-          "title": "克劳德倒下了 / Claude Is Down",
-          "url": "https://claude.ai/new",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T21:51:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "36a67b9b8b85cfb557e62a9d6418fec6ad9643bf",
-          "title": "克劳德·奥特宕机了 / Claude Auth Is Down",
-          "url": "https://claude.ai/new",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T21:51:25Z"
-        },
-        {
-          "id": "9c093bc0e023dfc61db565f0fb27ea56d9db9853",
-          "title": "克劳德倒下了 / Claude Is Down",
-          "url": "https://claude.ai/new",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T21:51:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5319,
-      "importance": 0.5319,
-      "importance_score": 0.5319,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9226,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T21:51:25Z",
-      "latest_at": "2026-08-16T21:51:25Z",
-      "primary_item": {
-        "id": "36a67b9b8b85cfb557e62a9d6418fec6ad9643bf",
-        "title": "克劳德·奥特宕机了 / Claude Auth Is Down",
-        "url": "https://claude.ai/new",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     }
   ]
