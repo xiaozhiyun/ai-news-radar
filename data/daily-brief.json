@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T23:59:54.682237Z",
+  "generated_at": "2026-08-21T01:57:51.284082Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8924,
-      "importance": 0.8924,
-      "importance_score": 0.8924,
+      "score": 0.8879,
+      "importance": 0.8879,
+      "importance_score": 0.8879,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9023,
+        "recency": 0.8771,
         "story_heat": 0.5
       },
       "category": "official",
@@ -105,183 +105,21 @@
       }
     },
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "Codex 和 ChatGPT 更新 / Codex and ChatGPT updates",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "92750e7a46945c96a19d170ab8950057fd9cc578",
-          "title": "法典 CLI 0.149.0 / Codex CLI 0.149.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T00:00:00Z"
-        },
-        {
-          "id": "848b61992c147b8bfa1de6ee297eb16eca68debc",
-          "title": "Codex 和 ChatGPT 更新 / Codex and ChatGPT updates",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "92750e7a46945c96a19d170ab8950057fd9cc578",
-          "title": "法典 CLI 0.149.0 / Codex CLI 0.149.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T00:00:00Z"
-        },
-        {
-          "id": "848b61992c147b8bfa1de6ee297eb16eca68debc",
-          "title": "Codex 和 ChatGPT 更新 / Codex and ChatGPT updates",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8423,
-      "importance": 0.8423,
-      "importance_score": 0.8423,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7071,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T00:00:00Z",
-      "latest_at": "2026-08-20T00:00:00Z",
-      "primary_item": {
-        "id": "848b61992c147b8bfa1de6ee297eb16eca68debc",
-        "title": "Codex 和 ChatGPT 更新 / Codex and ChatGPT updates",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_cb030de2dd94",
-      "title": "ChatGPT 如何帮助 Stampli 将创意推向市场 / How ChatGPT Work helps Stampli move ideas to market",
-      "url": "https://openai.com/index/stampli",
-      "primary_url": "https://openai.com/index/stampli",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3ae845494efe7827db0e55ad56f2b2ac370dd597",
-          "title": "ChatGPT 如何帮助 Stampli 将创意推向市场 / How ChatGPT Work helps Stampli move ideas to market",
-          "url": "https://openai.com/index/stampli",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T00:00:00Z"
-        },
-        {
-          "id": "7fd91e6585094da5bbdeb7314d65d39fd379e452",
-          "title": "Stampli 使用 ChatGPT Work 将启动时间缩短了 68% / Stampli cuts launch hours by 68% using ChatGPT Work",
-          "url": "https://openai.com/index/stampli",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "3ae845494efe7827db0e55ad56f2b2ac370dd597",
-          "title": "ChatGPT 如何帮助 Stampli 将创意推向市场 / How ChatGPT Work helps Stampli move ideas to market",
-          "url": "https://openai.com/index/stampli",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T00:00:00Z"
-        },
-        {
-          "id": "7fd91e6585094da5bbdeb7314d65d39fd379e452",
-          "title": "Stampli 使用 ChatGPT Work 将启动时间缩短了 68% / Stampli cuts launch hours by 68% using ChatGPT Work",
-          "url": "https://openai.com/index/stampli",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8323,
-      "importance": 0.8323,
-      "importance_score": 0.8323,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7071,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T00:00:00Z",
-      "latest_at": "2026-08-20T00:00:00Z",
-      "primary_item": {
-        "id": "3ae845494efe7827db0e55ad56f2b2ac370dd597",
-        "title": "ChatGPT 如何帮助 Stampli 将创意推向市场 / How ChatGPT Work helps Stampli move ideas to market",
-        "url": "https://openai.com/index/stampli",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b9b1ecfd122f",
-      "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-      "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+      "story_id": "story_8049599f3b1e",
+      "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+      "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+      "primary_url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+          "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
+          "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+          "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T17:52:38Z"
+          "published_at": "2026-08-20T23:29:34Z"
         }
       ],
       "source_count": 1,
@@ -290,26 +128,26 @@
       ],
       "items": [
         {
-          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+          "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
+          "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+          "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T17:52:38Z"
+          "published_at": "2026-08-20T23:29:34Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
+      "score": 0.8377,
+      "importance": 0.8377,
+      "importance_score": 0.8377,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9154,
+        "recency": 0.9649,
         "story_heat": 0.0
       },
       "category": "official",
@@ -318,74 +156,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T17:52:38Z",
-      "latest_at": "2026-08-20T17:52:38Z",
+      "earliest_at": "2026-08-20T23:29:34Z",
+      "latest_at": "2026-08-20T23:29:34Z",
       "primary_item": {
-        "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-        "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-        "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f67290731017",
-      "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
-      "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
-      "primary_url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-          "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
-          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T15:14:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-          "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
-          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T15:14:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8812,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T15:14:31Z",
-      "latest_at": "2026-08-20T15:14:31Z",
-      "primary_item": {
-        "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-        "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
-        "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+        "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
+        "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+        "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -425,15 +201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8128,
-      "importance": 0.8128,
-      "importance_score": 0.8128,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7823,
+        "recency": 0.7604,
         "story_heat": 0.0
       },
       "category": "official",
@@ -453,21 +229,21 @@
       }
     },
     {
-      "story_id": "story_c23e436699dc",
-      "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-      "primary_url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "story_id": "story_b9b1ecfd122f",
+      "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+      "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
+          "published_at": "2026-08-20T17:52:38Z"
         }
       ],
       "source_count": 1,
@@ -476,26 +252,26 @@
       ],
       "items": [
         {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
+          "published_at": "2026-08-20T17:52:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
+      "score": 0.8242,
+      "importance": 0.8242,
+      "importance_score": 0.8242,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8716,
+        "recency": 0.8898,
         "story_heat": 0.0
       },
       "category": "official",
@@ -504,37 +280,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T14:28:41Z",
-      "latest_at": "2026-08-20T14:28:41Z",
+      "earliest_at": "2026-08-20T17:52:38Z",
+      "latest_at": "2026-08-20T17:52:38Z",
       "primary_item": {
-        "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-        "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+        "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+        "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+        "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_ab4d6ad18fcb",
-      "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-      "url": "https://www.aibase.com/news/30503",
-      "primary_url": "https://www.aibase.com/news/30503",
+      "story_id": "story_882b6e804e53",
+      "title": "Mac版ChatGPT深度接管苹果信息，古尔曼直言将直接对标Siri生态优势",
+      "url": "https://www.aibase.com/news/30510",
+      "primary_url": "https://www.aibase.com/news/30510",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
-          "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-          "url": "https://www.aibase.com/news/30503",
+          "id": "48381bcbd179dc2dbcfd8c484f4dd443e20070e5",
+          "title": "Mac版ChatGPT深度接管苹果信息，古尔曼直言将直接对标Siri生态优势",
+          "url": "https://www.aibase.com/news/30510",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T08:18:27.862620Z"
+          "published_at": "2026-08-21T01:57:51.284082Z"
         },
         {
-          "id": "2a2baf88a41e40488bc13f03948d62d661bc5b7a",
-          "title": "MiniMax Design 发布：用自然语言「指挥」视频创作，告别逐帧编辑",
-          "url": "https://www.aibase.com/zh/news/30503",
+          "id": "199bca28ee8259042279f571c0b2b8954416702b",
+          "title": "Mac 版 ChatGPT 深度接管苹果信息，古尔曼称将直接对标 Siri 生态优势",
+          "url": "https://www.aibase.com/zh/news/30510",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -548,18 +324,18 @@
       ],
       "items": [
         {
-          "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
-          "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-          "url": "https://www.aibase.com/news/30503",
+          "id": "48381bcbd179dc2dbcfd8c484f4dd443e20070e5",
+          "title": "Mac版ChatGPT深度接管苹果信息，古尔曼直言将直接对标Siri生态优势",
+          "url": "https://www.aibase.com/news/30510",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T08:18:27.862620Z"
+          "published_at": "2026-08-21T01:57:51.284082Z"
         },
         {
-          "id": "2a2baf88a41e40488bc13f03948d62d661bc5b7a",
-          "title": "MiniMax Design 发布：用自然语言「指挥」视频创作，告别逐帧编辑",
-          "url": "https://www.aibase.com/zh/news/30503",
+          "id": "199bca28ee8259042279f571c0b2b8954416702b",
+          "title": "Mac 版 ChatGPT 深度接管苹果信息，古尔曼称将直接对标 Siri 生态优势",
+          "url": "https://www.aibase.com/zh/news/30510",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -568,15 +344,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7973,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -585,12 +361,236 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T08:18:27.862620Z",
-      "latest_at": "2026-08-20T09:17:29.187261Z",
+      "earliest_at": "2026-08-21T01:57:51.284082Z",
+      "latest_at": "2026-08-21T01:57:51.284082Z",
       "primary_item": {
-        "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
-        "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-        "url": "https://www.aibase.com/news/30503",
+        "id": "48381bcbd179dc2dbcfd8c484f4dd443e20070e5",
+        "title": "Mac版ChatGPT深度接管苹果信息，古尔曼直言将直接对标Siri生态优势",
+        "url": "https://www.aibase.com/news/30510",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3df49afa2df8",
+      "title": "宇树科技推进物理AI模型自进化，王兴兴披露最新预研方向",
+      "url": "https://www.aibase.com/news/30514",
+      "primary_url": "https://www.aibase.com/news/30514",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c679541739540c3db1348e87a78a9a8a47af187c",
+          "title": "宇树科技推进物理AI模型自进化，王兴兴披露最新预研方向",
+          "url": "https://www.aibase.com/news/30514",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T01:57:51.284082Z"
+        },
+        {
+          "id": "22ddb483628ad56b96215f093fa23d46e38d64a8",
+          "title": "宇树科技推进物理 AI 模型自进化，王兴兴披露最新预研方向",
+          "url": "https://www.aibase.com/zh/news/30514",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c679541739540c3db1348e87a78a9a8a47af187c",
+          "title": "宇树科技推进物理AI模型自进化，王兴兴披露最新预研方向",
+          "url": "https://www.aibase.com/news/30514",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T01:57:51.284082Z"
+        },
+        {
+          "id": "22ddb483628ad56b96215f093fa23d46e38d64a8",
+          "title": "宇树科技推进物理 AI 模型自进化，王兴兴披露最新预研方向",
+          "url": "https://www.aibase.com/zh/news/30514",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T01:57:51.284082Z",
+      "latest_at": "2026-08-21T01:57:51.284082Z",
+      "primary_item": {
+        "id": "c679541739540c3db1348e87a78a9a8a47af187c",
+        "title": "宇树科技推进物理AI模型自进化，王兴兴披露最新预研方向",
+        "url": "https://www.aibase.com/news/30514",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f67290731017",
+      "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
+      "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+      "primary_url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
+          "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
+          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T15:14:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
+          "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
+          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T15:14:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8566,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T15:14:31Z",
+      "latest_at": "2026-08-20T15:14:31Z",
+      "primary_item": {
+        "id": "f4c17395c04a766662eb04284b415ce431dd4390",
+        "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
+        "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1aec5ccab149",
+      "title": "腾讯新一代大模型Hy4将发布，将成WorkBuddy核心引擎",
+      "url": "https://www.aibase.com/news/30515",
+      "primary_url": "https://www.aibase.com/news/30515",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "254f028a48c8fd90f5475f94c828b9efa39589ea",
+          "title": "腾讯新一代大模型Hy4将发布，将成WorkBuddy核心引擎",
+          "url": "https://www.aibase.com/news/30515",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T01:57:51.284082Z"
+        },
+        {
+          "id": "b755f16c9dfb849f3cc919e14fc1cd31e26bd62f",
+          "title": "腾讯新一代大模型 Hy4 将发布，将成 WorkBuddy 核心引擎",
+          "url": "https://www.aibase.com/zh/news/30515",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "254f028a48c8fd90f5475f94c828b9efa39589ea",
+          "title": "腾讯新一代大模型Hy4将发布，将成WorkBuddy核心引擎",
+          "url": "https://www.aibase.com/news/30515",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T01:57:51.284082Z"
+        },
+        {
+          "id": "b755f16c9dfb849f3cc919e14fc1cd31e26bd62f",
+          "title": "腾讯新一代大模型 Hy4 将发布，将成 WorkBuddy 核心引擎",
+          "url": "https://www.aibase.com/zh/news/30515",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T01:57:51.284082Z",
+      "latest_at": "2026-08-21T01:57:51.284082Z",
+      "primary_item": {
+        "id": "254f028a48c8fd90f5475f94c828b9efa39589ea",
+        "title": "腾讯新一代大模型Hy4将发布，将成WorkBuddy核心引擎",
+        "url": "https://www.aibase.com/news/30515",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -630,15 +630,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7342,
-      "importance": 0.7342,
-      "importance_score": 0.7342,
+      "score": 0.7301,
+      "importance": 0.7301,
+      "importance_score": 0.7301,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8142,
+        "recency": 0.7914,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -690,15 +690,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.733,
-      "importance": 0.733,
-      "importance_score": 0.733,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8914,
+        "recency": 0.8664,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -750,15 +750,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
+      "score": 0.7268,
+      "importance": 0.7268,
+      "importance_score": 0.7268,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9501,
+        "recency": 0.9235,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -776,21 +776,21 @@
       }
     },
     {
-      "story_id": "story_db8a6edc5902",
-      "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-      "primary_url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+      "story_id": "story_c23e436699dc",
+      "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "primary_url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
+          "published_at": "2026-08-20T14:28:41Z"
         }
       ],
       "source_count": 1,
@@ -799,26 +799,26 @@
       ],
       "items": [
         {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
+          "published_at": "2026-08-20T14:28:41Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
+      "score": 0.8165,
+      "importance": 0.8165,
+      "importance_score": 0.8165,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8717,
+        "recency": 0.8472,
         "story_heat": 0.0
       },
       "category": "official",
@@ -827,12 +827,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T14:29:27Z",
-      "latest_at": "2026-08-20T14:29:27Z",
+      "earliest_at": "2026-08-20T14:28:41Z",
+      "latest_at": "2026-08-20T14:28:41Z",
       "primary_item": {
-        "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-        "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+        "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+        "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -872,15 +872,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.727,
-      "importance": 0.727,
-      "importance_score": 0.727,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.866,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -898,304 +898,124 @@
       }
     },
     {
-      "story_id": "story_999edccd4c84",
-      "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-      "url": "https://www.aibase.com/news/30501",
-      "primary_url": "https://www.aibase.com/news/30501",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_db8a6edc5902",
+      "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+      "primary_url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
-          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "url": "https://www.aibase.com/news/30501",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T07:27:31.182407Z"
-        },
-        {
-          "id": "5c9c0be1102794daca335f0c87841861f6873c4e",
-          "title": "IDC 发布《中国生成式 AI 安全评估平台报告》，蚂蚁数科位居领导者",
-          "url": "https://www.aibase.com/zh/news/30501",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
-          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "url": "https://www.aibase.com/news/30501",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T07:27:31.182407Z"
-        },
-        {
-          "id": "5c9c0be1102794daca335f0c87841861f6873c4e",
-          "title": "IDC 发布《中国生成式 AI 安全评估平台报告》，蚂蚁数科位居领导者",
-          "url": "https://www.aibase.com/zh/news/30501",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7875,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T07:27:31.182407Z",
-      "latest_at": "2026-08-20T07:27:31.182407Z",
-      "primary_item": {
-        "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
-        "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-        "url": "https://www.aibase.com/news/30501",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0de9a4eb9d97",
-      "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-      "url": "https://www.aibase.com/news/30500",
-      "primary_url": "https://www.aibase.com/news/30500",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "560b143c4b0862cd0742391b18c63b06ccf91667",
-          "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-          "url": "https://www.aibase.com/news/30500",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T07:27:31.182407Z"
-        },
-        {
-          "id": "e6e3f02b545c8ca76c2278dde3cda3c409e52e91",
-          "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-          "url": "https://www.aibase.com/zh/news/30500",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "560b143c4b0862cd0742391b18c63b06ccf91667",
-          "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-          "url": "https://www.aibase.com/news/30500",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T07:27:31.182407Z"
-        },
-        {
-          "id": "e6e3f02b545c8ca76c2278dde3cda3c409e52e91",
-          "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-          "url": "https://www.aibase.com/zh/news/30500",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7875,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T07:27:31.182407Z",
-      "latest_at": "2026-08-20T07:27:31.182407Z",
-      "primary_item": {
-        "id": "560b143c4b0862cd0742391b18c63b06ccf91667",
-        "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-        "url": "https://www.aibase.com/news/30500",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1dd95696a4fe",
-      "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
-      "url": "https://claude.com/blog/claude-code-guide-for-startups",
-      "primary_url": "https://claude.com/blog/claude-code-guide-for-startups",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6d1ec869caa4430d86f28505a4278b9a849b78b3",
-          "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
-          "url": "https://claude.com/blog/claude-code-guide-for-startups",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T13:26:53.704000Z"
+          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T14:29:27Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Claude：Blog（网页）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "6d1ec869caa4430d86f28505a4278b9a849b78b3",
-          "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
-          "url": "https://claude.com/blog/claude-code-guide-for-startups",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T13:26:53.704000Z"
+          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T14:29:27Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
-      "importance_label": "行业动态",
+      "score": 0.8165,
+      "importance": 0.8165,
+      "importance_score": 0.8165,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8587,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8473,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-20T13:26:53.704000Z",
-      "latest_at": "2026-08-20T13:26:53.704000Z",
+      "earliest_at": "2026-08-20T14:29:27Z",
+      "latest_at": "2026-08-20T14:29:27Z",
       "primary_item": {
-        "id": "6d1ec869caa4430d86f28505a4278b9a849b78b3",
-        "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
-        "url": "https://claude.com/blog/claude-code-guide-for-startups",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
+        "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+        "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_f7cd5a28f794",
-      "title": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-      "url": "https://www.aibase.com/news/30498",
-      "primary_url": "https://www.aibase.com/news/30498",
+      "story_id": "story_e405d8c17d04",
+      "title": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
+      "url": "https://www.aibase.com/news/30517",
+      "primary_url": "https://www.aibase.com/news/30517",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9e1f1cd0092d709665069ae91c1939f53ebdb5cd",
-          "title": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-          "url": "https://www.aibase.com/news/30498",
+          "id": "99715d53f41d612ccc7e6d8bbf3ed72883a8cd65",
+          "title": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
+          "url": "https://www.aibase.com/news/30517",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T06:17:55.212396Z"
-        },
-        {
-          "id": "c30e2fd957e4889888d12a02e5dba42558bf36db",
-          "title": "王兴兴：具身智能最快 2 至 3 年迎来「ChatGPT 时刻」",
-          "url": "https://www.aibase.com/zh/news/30498",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-08-21T01:57:51.284082Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "9e1f1cd0092d709665069ae91c1939f53ebdb5cd",
-          "title": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-          "url": "https://www.aibase.com/news/30498",
+          "id": "99715d53f41d612ccc7e6d8bbf3ed72883a8cd65",
+          "title": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
+          "url": "https://www.aibase.com/news/30517",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T06:17:55.212396Z"
-        },
-        {
-          "id": "c30e2fd957e4889888d12a02e5dba42558bf36db",
-          "title": "王兴兴：具身智能最快 2 至 3 年迎来「ChatGPT 时刻」",
-          "url": "https://www.aibase.com/zh/news/30498",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-08-21T01:57:51.284082Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7745,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T06:17:55.212396Z",
-      "latest_at": "2026-08-20T06:17:55.212396Z",
+      "earliest_at": "2026-08-21T01:57:51.284082Z",
+      "latest_at": "2026-08-21T01:57:51.284082Z",
       "primary_item": {
-        "id": "9e1f1cd0092d709665069ae91c1939f53ebdb5cd",
-        "title": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-        "url": "https://www.aibase.com/news/30498",
+        "id": "99715d53f41d612ccc7e6d8bbf3ed72883a8cd65",
+        "title": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
+        "url": "https://www.aibase.com/news/30517",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1307,15 +1127,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6549,
-      "importance": 0.6549,
-      "importance_score": 0.6549,
+      "score": 0.6502,
+      "importance": 0.6502,
+      "importance_score": 0.6502,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9203,
+        "recency": 0.8946,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1330,6 +1150,67 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-20",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_38df923a3c5f",
+      "title": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
+      "url": "https://www.aibase.com/news/30519",
+      "primary_url": "https://www.aibase.com/news/30519",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "24d9be228661134f28d9f0248f3f61d8a10b112e",
+          "title": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
+          "url": "https://www.aibase.com/news/30519",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T01:57:51.284082Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "24d9be228661134f28d9f0248f3f61d8a10b112e",
+          "title": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
+          "url": "https://www.aibase.com/news/30519",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T01:57:51.284082Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T01:57:51.284082Z",
+      "latest_at": "2026-08-21T01:57:51.284082Z",
+      "primary_item": {
+        "id": "24d9be228661134f28d9f0248f3f61d8a10b112e",
+        "title": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
+        "url": "https://www.aibase.com/news/30519",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1385,15 +1266,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6368,
-      "importance": 0.6368,
-      "importance_score": 0.6368,
+      "score": 0.6327,
+      "importance": 0.6327,
+      "importance_score": 0.6327,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.8179,
+        "recency": 0.795,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1412,83 +1293,199 @@
       }
     },
     {
-      "story_id": "story_c828ab67188c",
-      "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
-      "url": "https://www.aibase.com/news/30495",
-      "primary_url": "https://www.aibase.com/news/30495",
+      "story_id": "story_7f7cb191903b",
+      "title": "Grok出现异常故障，部分用户遭遇大段乱码回复",
+      "url": "https://www.aibase.com/news/30512",
+      "primary_url": "https://www.aibase.com/news/30512",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "651ff7fbcf2e21de28c647cf4af49aa3ade5a8c4",
-          "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
-          "url": "https://www.aibase.com/news/30495",
+          "id": "cf8dc0c651dd83ae8cab43e62745855f5cfb6038",
+          "title": "Grok出现异常故障，部分用户遭遇大段乱码回复",
+          "url": "https://www.aibase.com/news/30512",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T03:22:39.639336Z"
-        },
-        {
-          "id": "fedd87b14ce7af681d5eb4f5cb8280b227e88f4b",
-          "title": "OpenAI 升级 Codex 安全防护，新增危险操作拦截与权限控制",
-          "url": "https://www.aibase.com/zh/news/30495",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-08-21T01:57:51.284082Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "651ff7fbcf2e21de28c647cf4af49aa3ade5a8c4",
-          "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
-          "url": "https://www.aibase.com/news/30495",
+          "id": "cf8dc0c651dd83ae8cab43e62745855f5cfb6038",
+          "title": "Grok出现异常故障，部分用户遭遇大段乱码回复",
+          "url": "https://www.aibase.com/news/30512",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T03:22:39.639336Z"
-        },
-        {
-          "id": "fedd87b14ce7af681d5eb4f5cb8280b227e88f4b",
-          "title": "OpenAI 升级 Codex 安全防护，新增危险操作拦截与权限控制",
-          "url": "https://www.aibase.com/zh/news/30495",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-08-21T01:57:51.284082Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7425,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-20T03:22:39.639336Z",
-      "latest_at": "2026-08-20T03:59:12.826588Z",
+      "earliest_at": "2026-08-21T01:57:51.284082Z",
+      "latest_at": "2026-08-21T01:57:51.284082Z",
       "primary_item": {
-        "id": "651ff7fbcf2e21de28c647cf4af49aa3ade5a8c4",
-        "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
-        "url": "https://www.aibase.com/news/30495",
+        "id": "cf8dc0c651dd83ae8cab43e62745855f5cfb6038",
+        "title": "Grok出现异常故障，部分用户遭遇大段乱码回复",
+        "url": "https://www.aibase.com/news/30512",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0ac0123bfb33",
+      "title": "呕吐：用单独的 LLM 清理 Claude 5 的代币输出 / Vomit: Clean up Claude 5's token output with a separate LLM",
+      "url": "https://news.ycombinator.com/item?id=49375996",
+      "primary_url": "https://news.ycombinator.com/item?id=49375996",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "52e5af4a6ad035c97121c634cd363b7559ef0b0d",
+          "title": "呕吐：用单独的 LLM 清理 Claude 5 的代币输出 / Vomit: Clean up Claude 5's token output with a separate LLM",
+          "url": "https://news.ycombinator.com/item?id=49375996",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T21:15:02.304000Z"
+        },
+        {
+          "id": "c7897b8b9cbf7d2b9924bf8ce5b17399a9e7afba",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-20T18:30:20Z"
+        },
+        {
+          "id": "ae7fdf7294d9ba7423cf32a998ec3fd685f8a640",
+          "title": "用单独的法学硕士清理克劳德 5 的代币呕吐物 / Clean up Claude 5's token vomit with a separate LLM",
+          "url": "https://news.ycombinator.com/item?id=49375996",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T15:39:15.824000Z"
+        },
+        {
+          "id": "e3743d8cf6f6c66dfee49ff6cf94f03d4e92ecfd",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物 / Clean up Claude 5's token vomit with a separate LLM",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-20T15:26:02Z"
+        },
+        {
+          "id": "1bb37e1d486ff8bb13221ef61f464a4b85857866",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物 / Vomit: Clean up Claude 5's token output with a separate LLM",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-20T15:26:02Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "52e5af4a6ad035c97121c634cd363b7559ef0b0d",
+          "title": "呕吐：用单独的 LLM 清理 Claude 5 的代币输出 / Vomit: Clean up Claude 5's token output with a separate LLM",
+          "url": "https://news.ycombinator.com/item?id=49375996",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T21:15:02.304000Z"
+        },
+        {
+          "id": "c7897b8b9cbf7d2b9924bf8ce5b17399a9e7afba",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-20T18:30:20Z"
+        },
+        {
+          "id": "ae7fdf7294d9ba7423cf32a998ec3fd685f8a640",
+          "title": "用单独的法学硕士清理克劳德 5 的代币呕吐物 / Clean up Claude 5's token vomit with a separate LLM",
+          "url": "https://news.ycombinator.com/item?id=49375996",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T15:39:15.824000Z"
+        },
+        {
+          "id": "e3743d8cf6f6c66dfee49ff6cf94f03d4e92ecfd",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物 / Clean up Claude 5's token vomit with a separate LLM",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-20T15:26:02Z"
+        },
+        {
+          "id": "1bb37e1d486ff8bb13221ef61f464a4b85857866",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物 / Vomit: Clean up Claude 5's token output with a separate LLM",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-20T15:26:02Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.609,
+      "importance": 0.609,
+      "importance_score": 0.609,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9342,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-20T15:26:02Z",
+      "latest_at": "2026-08-20T21:15:02.304000Z",
+      "primary_item": {
+        "id": "52e5af4a6ad035c97121c634cd363b7559ef0b0d",
+        "title": "呕吐：用单独的 LLM 清理 Claude 5 的代币输出 / Vomit: Clean up Claude 5's token output with a separate LLM",
+        "url": "https://news.ycombinator.com/item?id=49375996",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
