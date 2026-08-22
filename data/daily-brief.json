@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T17:36:09.199530Z",
+  "generated_at": "2026-08-22T17:58:15.657256Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9525,
+        "recency": 0.9474,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -118,15 +118,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7076,
-      "importance": 0.7076,
-      "importance_score": 0.7076,
+      "score": 0.7069,
+      "importance": 0.7069,
+      "importance_score": 0.7069,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7109,
+        "recency": 0.7071,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -360,15 +360,15 @@
       ],
       "item_count": 11,
       "duplicate_count": 11,
-      "score": 0.6752,
-      "importance": 0.6752,
-      "importance_score": 0.6752,
+      "score": 0.6742,
+      "importance": 0.6742,
+      "importance_score": 0.6742,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.9869,
+        "recency": 0.9816,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -383,6 +383,104 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-22",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_80d4d98280b4",
+      "title": "新的MCP路线图",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+      "primary_url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+      "source": "blog.modelcontextprotocol.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
+          "title": "新的MCP路线图",
+          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+          "source": "blog.modelcontextprotocol.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T17:09:20.269000Z"
+        },
+        {
+          "id": "a35f67c1e673bf06079df9d1a4aac299036b2ebf",
+          "title": "新的MCP路线图 / New MCP Roadmap",
+          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T13:31:34Z"
+        },
+        {
+          "id": "9e684754ff065321bb00f0fbac4c424271f909be",
+          "title": "新的MCP路线图 / The New MCP Roadmap",
+          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T13:31:34Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "blog.modelcontextprotocol.io"
+      ],
+      "items": [
+        {
+          "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
+          "title": "新的MCP路线图",
+          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+          "source": "blog.modelcontextprotocol.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T17:09:20.269000Z"
+        },
+        {
+          "id": "a35f67c1e673bf06079df9d1a4aac299036b2ebf",
+          "title": "新的MCP路线图 / New MCP Roadmap",
+          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T13:31:34Z"
+        },
+        {
+          "id": "9e684754ff065321bb00f0fbac4c424271f909be",
+          "title": "新的MCP路线图 / The New MCP Roadmap",
+          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T13:31:34Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5687,
+      "importance": 0.5687,
+      "importance_score": 0.5687,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9883,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T13:31:34Z",
+      "latest_at": "2026-08-22T17:09:20.269000Z",
+      "primary_item": {
+        "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
+        "title": "新的MCP路线图",
+        "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+        "source": "blog.modelcontextprotocol.io",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -458,15 +556,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5622,
-      "importance": 0.5622,
-      "importance_score": 0.5622,
+      "score": 0.5613,
+      "importance": 0.5613,
+      "importance_score": 0.5613,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9523,
+        "recency": 0.9472,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -537,15 +635,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
+      "score": 0.5438,
+      "importance": 0.5438,
+      "importance_score": 0.5438,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.994,
+        "recency": 0.9887,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -560,85 +658,6 @@
         "url": "https://news.ycombinator.com/item?id=49401229",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_80d4d98280b4",
-      "title": "新的MCP路线图",
-      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-      "primary_url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-      "source": "blog.modelcontextprotocol.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
-          "title": "新的MCP路线图",
-          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "blog.modelcontextprotocol.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T17:09:20.269000Z"
-        },
-        {
-          "id": "9e684754ff065321bb00f0fbac4c424271f909be",
-          "title": "新的MCP路线图 / The New MCP Roadmap",
-          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T13:31:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "blog.modelcontextprotocol.io"
-      ],
-      "items": [
-        {
-          "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
-          "title": "新的MCP路线图",
-          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "blog.modelcontextprotocol.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T17:09:20.269000Z"
-        },
-        {
-          "id": "9e684754ff065321bb00f0fbac4c424271f909be",
-          "title": "新的MCP路线图 / The New MCP Roadmap",
-          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T13:31:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9936,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T13:31:34Z",
-      "latest_at": "2026-08-22T17:09:20.269000Z",
-      "primary_item": {
-        "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
-        "title": "新的MCP路线图",
-        "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-        "source": "blog.modelcontextprotocol.io",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -694,15 +713,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5443,
-      "importance": 0.5443,
-      "importance_score": 0.5443,
+      "score": 0.5434,
+      "importance": 0.5434,
+      "importance_score": 0.5434,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9918,
+        "recency": 0.9866,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -772,15 +791,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5442,
-      "importance": 0.5442,
-      "importance_score": 0.5442,
+      "score": 0.5433,
+      "importance": 0.5433,
+      "importance_score": 0.5433,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9913,
+        "recency": 0.9861,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -851,15 +870,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9822,
+        "recency": 0.977,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -930,15 +949,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5402,
-      "importance": 0.5402,
-      "importance_score": 0.5402,
+      "score": 0.5393,
+      "importance": 0.5393,
+      "importance_score": 0.5393,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9691,
+        "recency": 0.964,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1009,15 +1028,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
+      "score": 0.5352,
+      "importance": 0.5352,
+      "importance_score": 0.5352,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.946,
+        "recency": 0.9409,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1088,15 +1107,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5337,
-      "importance": 0.5337,
-      "importance_score": 0.5337,
+      "score": 0.5328,
+      "importance": 0.5328,
+      "importance_score": 0.5328,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9329,
+        "recency": 0.9279,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1114,30 +1133,30 @@
       }
     },
     {
-      "story_id": "story_9de8e8e603c4",
-      "title": "Z80 – 1970 年代的微处理器仍然活跃 (2021) / Z80 – The 1970s Microprocessor Still Alive (2021)",
-      "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-      "primary_url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+      "story_id": "story_c4b6f54aa6e7",
+      "title": "加拿大暂停与美国的贸易谈判，并采取“一比一”的对等关税措施 / Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+      "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+      "primary_url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "73a3b6e5d65b15e1d7866fa88a3b6e787e570d0d",
-          "title": "Z80 – 1970 年代的微处理器仍然活跃 (2021) / Z80 – The 1970s Microprocessor Still Alive (2021)",
-          "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+          "id": "2f02106dc8f140aeb5dc79e3c3cad7f9768249e5",
+          "title": "加拿大暂停与美国的贸易谈判，并采取“一比一”的对等关税措施 / Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+          "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-22T09:49:57Z"
+          "published_at": "2026-08-22T10:26:09Z"
         },
         {
-          "id": "308d117682d313457f5e94defbd66fe6a142f9b3",
-          "title": "Z80——20 世纪 70 年代的微处理器仍然活跃 / Z80–The 1970s Microprocessor Still Alive",
-          "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+          "id": "7e9bdcbd5036b83126e0913cc31b6fcd5506eda6",
+          "title": "加拿大暂停与美国的贸易谈判，并采取“一比一”的对等关税措施 / Statement by Prime Minister Carney on Canada-U.S. trade negotiations",
+          "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-22T09:49:57Z"
+          "published_at": "2026-08-22T10:26:09Z"
         }
       ],
       "source_count": 2,
@@ -1146,47 +1165,47 @@
       ],
       "items": [
         {
-          "id": "73a3b6e5d65b15e1d7866fa88a3b6e787e570d0d",
-          "title": "Z80 – 1970 年代的微处理器仍然活跃 (2021) / Z80 – The 1970s Microprocessor Still Alive (2021)",
-          "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+          "id": "2f02106dc8f140aeb5dc79e3c3cad7f9768249e5",
+          "title": "加拿大暂停与美国的贸易谈判，并采取“一比一”的对等关税措施 / Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+          "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-22T09:49:57Z"
+          "published_at": "2026-08-22T10:26:09Z"
         },
         {
-          "id": "308d117682d313457f5e94defbd66fe6a142f9b3",
-          "title": "Z80——20 世纪 70 年代的微处理器仍然活跃 / Z80–The 1970s Microprocessor Still Alive",
-          "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+          "id": "7e9bdcbd5036b83126e0913cc31b6fcd5506eda6",
+          "title": "加拿大暂停与美国的贸易谈判，并采取“一比一”的对等关税措施 / Statement by Prime Minister Carney on Canada-U.S. trade negotiations",
+          "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-22T09:49:57Z"
+          "published_at": "2026-08-22T10:26:09Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5267,
-      "importance": 0.5267,
-      "importance_score": 0.5267,
+      "score": 0.5272,
+      "importance": 0.5272,
+      "importance_score": 0.5272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8939,
+        "recency": 0.8969,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T09:49:57Z",
-      "latest_at": "2026-08-22T09:49:57Z",
+      "earliest_at": "2026-08-22T10:26:09Z",
+      "latest_at": "2026-08-22T10:26:09Z",
       "primary_item": {
-        "id": "73a3b6e5d65b15e1d7866fa88a3b6e787e570d0d",
-        "title": "Z80 – 1970 年代的微处理器仍然活跃 (2021) / Z80 – The 1970s Microprocessor Still Alive (2021)",
-        "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+        "id": "2f02106dc8f140aeb5dc79e3c3cad7f9768249e5",
+        "title": "加拿大暂停与美国的贸易谈判，并采取“一比一”的对等关税措施 / Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+        "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
@@ -1245,15 +1264,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5077,
-      "importance": 0.5077,
-      "importance_score": 0.5077,
+      "score": 0.507,
+      "importance": 0.507,
+      "importance_score": 0.507,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7886,
+        "recency": 0.7844,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1324,15 +1343,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
+      "score": 0.5352,
+      "importance": 0.5352,
+      "importance_score": 0.5352,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.946,
+        "recency": 0.9409,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1403,15 +1422,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4976,
-      "importance": 0.4976,
-      "importance_score": 0.4976,
+      "score": 0.4969,
+      "importance": 0.4969,
+      "importance_score": 0.4969,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.732,
+        "recency": 0.7281,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1426,6 +1445,84 @@
         "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
         "source": "Slashdot",
         "source_name": "TechURLs"
+      }
+    },
+    {
+      "story_id": "story_9de8e8e603c4",
+      "title": "Z80 – 1970 年代的微处理器仍然活跃 (2021) / Z80 – The 1970s Microprocessor Still Alive (2021)",
+      "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+      "primary_url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "73a3b6e5d65b15e1d7866fa88a3b6e787e570d0d",
+          "title": "Z80 – 1970 年代的微处理器仍然活跃 (2021) / Z80 – The 1970s Microprocessor Still Alive (2021)",
+          "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T09:49:57Z"
+        },
+        {
+          "id": "308d117682d313457f5e94defbd66fe6a142f9b3",
+          "title": "Z80——20 世纪 70 年代的微处理器仍然活跃 / Z80–The 1970s Microprocessor Still Alive",
+          "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T09:49:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "73a3b6e5d65b15e1d7866fa88a3b6e787e570d0d",
+          "title": "Z80 – 1970 年代的微处理器仍然活跃 (2021) / Z80 – The 1970s Microprocessor Still Alive (2021)",
+          "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T09:49:57Z"
+        },
+        {
+          "id": "308d117682d313457f5e94defbd66fe6a142f9b3",
+          "title": "Z80——20 世纪 70 年代的微处理器仍然活跃 / Z80–The 1970s Microprocessor Still Alive",
+          "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T09:49:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5258,
+      "importance": 0.5258,
+      "importance_score": 0.5258,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8891,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T09:49:57Z",
+      "latest_at": "2026-08-22T09:49:57Z",
+      "primary_item": {
+        "id": "73a3b6e5d65b15e1d7866fa88a3b6e787e570d0d",
+        "title": "Z80 – 1970 年代的微处理器仍然活跃 (2021) / Z80 – The 1970s Microprocessor Still Alive (2021)",
+        "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1482,15 +1579,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.522,
-      "importance": 0.522,
-      "importance_score": 0.522,
+      "score": 0.5211,
+      "importance": 0.5211,
+      "importance_score": 0.5211,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8675,
+        "recency": 0.8629,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1561,15 +1658,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5197,
-      "importance": 0.5197,
-      "importance_score": 0.5197,
+      "score": 0.5188,
+      "importance": 0.5188,
+      "importance_score": 0.5188,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8547,
+        "recency": 0.8502,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1640,15 +1737,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
+      "score": 0.5352,
+      "importance": 0.5352,
+      "importance_score": 0.5352,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.946,
+        "recency": 0.9409,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1663,85 +1760,6 @@
         "url": "https://github.com/anthropics/claude-code",
         "source": "github",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_7bdcf8563e0c",
-      "title": "优步如何利用人工智能向你收取更高费用",
-      "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-      "primary_url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b6f13e51fbc49f61a1eeb032c7c46de4215b1f97",
-          "title": "优步如何利用人工智能向你收取更高费用",
-          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T20:53:21.744000Z"
-        },
-        {
-          "id": "155a17bb46e6ca75c7f5810d7c71e16569f3e770",
-          "title": "优步如何利用人工智能向你收取更高费用 / How Uber uses AI to charge you more",
-          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-21T20:37:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "b6f13e51fbc49f61a1eeb032c7c46de4215b1f97",
-          "title": "优步如何利用人工智能向你收取更高费用",
-          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T20:53:21.744000Z"
-        },
-        {
-          "id": "155a17bb46e6ca75c7f5810d7c71e16569f3e770",
-          "title": "优步如何利用人工智能向你收取更高费用 / How Uber uses AI to charge you more",
-          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-21T20:37:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4993,
-      "importance": 0.4993,
-      "importance_score": 0.4993,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7415,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T20:37:42Z",
-      "latest_at": "2026-08-21T20:53:21.744000Z",
-      "primary_item": {
-        "id": "b6f13e51fbc49f61a1eeb032c7c46de4215b1f97",
-        "title": "优步如何利用人工智能向你收取更高费用",
-        "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
