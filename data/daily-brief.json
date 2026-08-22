@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T20:59:53.464887Z",
+  "generated_at": "2026-08-22T21:35:47.556859Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
+      "score": 0.7464,
+      "importance": 0.7464,
+      "importance_score": 0.7464,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9069,
+        "recency": 0.8991,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -170,15 +170,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6667,
-      "importance": 0.6667,
-      "importance_score": 0.6667,
+      "score": 0.6652,
+      "importance": 0.6652,
+      "importance_score": 0.6652,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.9396,
+        "recency": 0.9316,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -268,15 +268,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5611,
-      "importance": 0.5611,
-      "importance_score": 0.5611,
+      "score": 0.5596,
+      "importance": 0.5596,
+      "importance_score": 0.5596,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.946,
+        "recency": 0.9379,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -366,15 +366,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.554,
-      "importance": 0.554,
-      "importance_score": 0.554,
+      "score": 0.5526,
+      "importance": 0.5526,
+      "importance_score": 0.5526,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9067,
+        "recency": 0.8989,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -389,6 +389,85 @@
         "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_304760d42766",
+      "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+      "url": "https://twitter.com/argofowl/status/2091150597374537729",
+      "primary_url": "https://twitter.com/argofowl/status/2091150597374537729",
+      "source": "twitter.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "756cbab0cafb5cc40cb78549659cffae8f5b09fa",
+          "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+          "url": "https://twitter.com/argofowl/status/2091150597374537729",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T21:09:21.713000Z"
+        },
+        {
+          "id": "929739c0677411630477ec750d3d6e3b86b85881",
+          "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试 / Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+          "url": "https://twitter.com/argofowl/status/2091150597374537729",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-22T16:58:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "twitter.com"
+      ],
+      "items": [
+        {
+          "id": "756cbab0cafb5cc40cb78549659cffae8f5b09fa",
+          "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+          "url": "https://twitter.com/argofowl/status/2091150597374537729",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T21:09:21.713000Z"
+        },
+        {
+          "id": "929739c0677411630477ec750d3d6e3b86b85881",
+          "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试 / Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+          "url": "https://twitter.com/argofowl/status/2091150597374537729",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-22T16:58:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9937,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T16:58:49Z",
+      "latest_at": "2026-08-22T21:09:21.713000Z",
+      "primary_item": {
+        "id": "756cbab0cafb5cc40cb78549659cffae8f5b09fa",
+        "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+        "url": "https://twitter.com/argofowl/status/2091150597374537729",
+        "source": "twitter.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -445,15 +524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.5435,
+      "importance": 0.5435,
+      "importance_score": 0.5435,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9955,
+        "recency": 0.987,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -523,15 +602,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9444,
+        "recency": 0.9363,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -601,15 +680,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
+      "score": 0.5342,
+      "importance": 0.5342,
+      "importance_score": 0.5342,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9439,
+        "recency": 0.9358,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -680,15 +759,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5341,
-      "importance": 0.5341,
-      "importance_score": 0.5341,
+      "score": 0.5327,
+      "importance": 0.5327,
+      "importance_score": 0.5327,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9352,
+        "recency": 0.9271,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -759,15 +838,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5319,
-      "importance": 0.5319,
-      "importance_score": 0.5319,
+      "score": 0.5305,
+      "importance": 0.5305,
+      "importance_score": 0.5305,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9227,
+        "recency": 0.9148,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -838,15 +917,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
+      "score": 0.5265,
+      "importance": 0.5265,
+      "importance_score": 0.5265,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9007,
+        "recency": 0.8929,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -917,15 +996,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
+      "score": 0.5243,
+      "importance": 0.5243,
+      "importance_score": 0.5243,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8882,
+        "recency": 0.8806,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -995,15 +1074,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5203,
-      "importance": 0.5203,
-      "importance_score": 0.5203,
+      "score": 0.519,
+      "importance": 0.519,
+      "importance_score": 0.519,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8585,
+        "recency": 0.8511,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1073,15 +1152,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9659,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1152,15 +1231,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.501,
-      "importance": 0.501,
-      "importance_score": 0.501,
+      "score": 0.4998,
+      "importance": 0.4998,
+      "importance_score": 0.4998,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7509,
+        "recency": 0.7444,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1231,15 +1310,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
+      "score": 0.5265,
+      "importance": 0.5265,
+      "importance_score": 0.5265,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9007,
+        "recency": 0.8929,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1309,15 +1388,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.519,
-      "importance": 0.519,
-      "importance_score": 0.519,
+      "score": 0.5177,
+      "importance": 0.5177,
+      "importance_score": 0.5177,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8511,
+        "recency": 0.8438,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1388,15 +1467,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5145,
-      "importance": 0.5145,
-      "importance_score": 0.5145,
+      "score": 0.5132,
+      "importance": 0.5132,
+      "importance_score": 0.5132,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.826,
+        "recency": 0.8189,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1467,15 +1546,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5362,
-      "importance": 0.5362,
-      "importance_score": 0.5362,
+      "score": 0.5347,
+      "importance": 0.5347,
+      "importance_score": 0.5347,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9464,
+        "recency": 0.9383,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1546,15 +1625,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
+      "score": 0.5265,
+      "importance": 0.5265,
+      "importance_score": 0.5265,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9007,
+        "recency": 0.8929,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1569,84 +1648,6 @@
         "url": "https://github.com/anthropics/claude-code",
         "source": "github",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_58096ad1a5e9",
-      "title": "Jeff Dean 离职后首次公开访谈：锐评谷歌与 TensorFlow 失误",
-      "url": "https://hub.baai.ac.cn/view/57317",
-      "primary_url": "https://hub.baai.ac.cn/view/57317",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "ff5b07828336b3b5799dd16de08bb37476ccae4f",
-          "title": "Jeff Dean 离职后首次公开访谈：锐评谷歌与 TensorFlow 失误",
-          "url": "https://hub.baai.ac.cn/view/57317",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c3ae5cde6b8ae9e1e1040504024e40d8a8fcf1c8",
-          "title": "Jeff Dean 离职后首次公开访谈火力有点猛。。。",
-          "url": "https://hub.baai.ac.cn/view/57317",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ff5b07828336b3b5799dd16de08bb37476ccae4f",
-          "title": "Jeff Dean 离职后首次公开访谈：锐评谷歌与 TensorFlow 失误",
-          "url": "https://hub.baai.ac.cn/view/57317",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c3ae5cde6b8ae9e1e1040504024e40d8a8fcf1c8",
-          "title": "Jeff Dean 离职后首次公开访谈火力有点猛。。。",
-          "url": "https://hub.baai.ac.cn/view/57317",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5093,
-      "importance": 0.5093,
-      "importance_score": 0.5093,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7973,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T04:50:00.329118Z",
-      "latest_at": "2026-08-22T05:18:45.127525Z",
-      "primary_item": {
-        "id": "ff5b07828336b3b5799dd16de08bb37476ccae4f",
-        "title": "Jeff Dean 离职后首次公开访谈：锐评谷歌与 TensorFlow 失误",
-        "url": "https://hub.baai.ac.cn/view/57317",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
