@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T21:58:07.581822Z",
+  "generated_at": "2026-08-22T22:39:11.111877Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8943,
+        "recency": 0.8855,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -170,15 +170,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6643,
-      "importance": 0.6643,
-      "importance_score": 0.6643,
+      "score": 0.6627,
+      "importance": 0.6627,
+      "importance_score": 0.6627,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.9266,
+        "recency": 0.9175,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -193,6 +193,104 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-22",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_c0f9d10986f5",
+      "title": "为什么你身边的LLM看起来比实际更“笨”",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "primary_url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "source": "forum.level1techs.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3bdc741a631b5a9943ec9c441290a79bdf5e22e7",
+          "title": "为什么你身边的LLM看起来比实际更“笨”",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "source": "forum.level1techs.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T22:29:26.810000Z"
+        },
+        {
+          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
+          "title": "Why your local LLM feels dumber than it is",
+          "url": "https://news.ycombinator.com/item?id=49402232",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T20:41:12.979000Z"
+        },
+        {
+          "id": "b55232b916abe6ce04bd936a2b8bc550ab63e6e7",
+          "title": "为什么你身边的LLM看起来比实际更“笨” / Why your local LLM feels dumber than it is",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T18:14:16Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "forum.level1techs.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3bdc741a631b5a9943ec9c441290a79bdf5e22e7",
+          "title": "为什么你身边的LLM看起来比实际更“笨”",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "source": "forum.level1techs.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T22:29:26.810000Z"
+        },
+        {
+          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
+          "title": "Why your local LLM feels dumber than it is",
+          "url": "https://news.ycombinator.com/item?id=49402232",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T20:41:12.979000Z"
+        },
+        {
+          "id": "b55232b916abe6ce04bd936a2b8bc550ab63e6e7",
+          "title": "为什么你身边的LLM看起来比实际更“笨” / Why your local LLM feels dumber than it is",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T18:14:16Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5704,
+      "importance": 0.5704,
+      "importance_score": 0.5704,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9977,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T18:14:16Z",
+      "latest_at": "2026-08-22T22:29:26.810000Z",
+      "primary_item": {
+        "id": "3bdc741a631b5a9943ec9c441290a79bdf5e22e7",
+        "title": "为什么你身边的LLM看起来比实际更“笨”",
+        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+        "source": "forum.level1techs.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -268,15 +366,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5587,
-      "importance": 0.5587,
-      "importance_score": 0.5587,
+      "score": 0.5571,
+      "importance": 0.5571,
+      "importance_score": 0.5571,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9329,
+        "recency": 0.9237,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -366,15 +464,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5517,
-      "importance": 0.5517,
-      "importance_score": 0.5517,
+      "score": 0.5502,
+      "importance": 0.5502,
+      "importance_score": 0.5502,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8941,
+        "recency": 0.8853,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -445,15 +543,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5437,
-      "importance": 0.5437,
-      "importance_score": 0.5437,
+      "score": 0.542,
+      "importance": 0.542,
+      "importance_score": 0.542,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9883,
+        "recency": 0.9786,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -524,15 +622,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9845,
+        "recency": 0.9748,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -550,80 +648,79 @@
       }
     },
     {
-      "story_id": "story_c0f9d10986f5",
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://news.ycombinator.com/item?id=49402232",
-      "primary_url": "https://news.ycombinator.com/item?id=49402232",
+      "story_id": "story_99c051212fc4",
+      "title": "新 MCP 路线图 / New MCP Roadmap",
+      "url": "https://news.ycombinator.com/item?id=49399591",
+      "primary_url": "https://news.ycombinator.com/item?id=49399591",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
-          "title": "Why your local LLM feels dumber than it is",
-          "url": "https://news.ycombinator.com/item?id=49402232",
+          "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
+          "title": "新 MCP 路线图 / New MCP Roadmap",
+          "url": "https://news.ycombinator.com/item?id=49399591",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-22T20:41:12.979000Z"
+          "published_at": "2026-08-22T18:35:38.893000Z"
         },
         {
-          "id": "b55232b916abe6ce04bd936a2b8bc550ab63e6e7",
-          "title": "Why your local LLM feels dumber than it is",
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T18:14:16Z"
+          "id": "126ccb3ea5663b832f20fec048de1ac591d03ec8",
+          "title": "新 MCP 路线图 / The New MCP Roadmap",
+          "url": "https://news.ycombinator.com/item?id=49399591",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T14:40:36.571000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
-          "title": "Why your local LLM feels dumber than it is",
-          "url": "https://news.ycombinator.com/item?id=49402232",
+          "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
+          "title": "新 MCP 路线图 / New MCP Roadmap",
+          "url": "https://news.ycombinator.com/item?id=49399591",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-22T20:41:12.979000Z"
+          "published_at": "2026-08-22T18:35:38.893000Z"
         },
         {
-          "id": "b55232b916abe6ce04bd936a2b8bc550ab63e6e7",
-          "title": "Why your local LLM feels dumber than it is",
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T18:14:16Z"
+          "id": "126ccb3ea5663b832f20fec048de1ac591d03ec8",
+          "title": "新 MCP 路线图 / The New MCP Roadmap",
+          "url": "https://news.ycombinator.com/item?id=49399591",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T14:40:36.571000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
+      "score": 0.5356,
+      "importance": 0.5356,
+      "importance_score": 0.5356,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9817,
+        "recency": 0.9431,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T18:14:16Z",
-      "latest_at": "2026-08-22T20:41:12.979000Z",
+      "earliest_at": "2026-08-22T14:40:36.571000Z",
+      "latest_at": "2026-08-22T18:35:38.893000Z",
       "primary_item": {
-        "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
-        "title": "Why your local LLM feels dumber than it is",
-        "url": "https://news.ycombinator.com/item?id=49402232",
+        "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
+        "title": "新 MCP 路线图 / New MCP Roadmap",
+        "url": "https://news.ycombinator.com/item?id=49399591",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -681,15 +778,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5334,
-      "importance": 0.5334,
-      "importance_score": 0.5334,
+      "score": 0.5318,
+      "importance": 0.5318,
+      "importance_score": 0.5318,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9312,
+        "recency": 0.9221,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -759,15 +856,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5333,
-      "importance": 0.5333,
-      "importance_score": 0.5333,
+      "score": 0.5317,
+      "importance": 0.5317,
+      "importance_score": 0.5317,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9308,
+        "recency": 0.9216,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -838,15 +935,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5318,
-      "importance": 0.5318,
-      "importance_score": 0.5318,
+      "score": 0.5302,
+      "importance": 0.5302,
+      "importance_score": 0.5302,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9222,
+        "recency": 0.9131,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -917,15 +1014,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
+      "score": 0.5241,
+      "importance": 0.5241,
+      "importance_score": 0.5241,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8881,
+        "recency": 0.8794,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -996,15 +1093,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5235,
-      "importance": 0.5235,
-      "importance_score": 0.5235,
+      "score": 0.5219,
+      "importance": 0.5219,
+      "importance_score": 0.5219,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8759,
+        "recency": 0.8673,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1074,15 +1171,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5182,
-      "importance": 0.5182,
-      "importance_score": 0.5182,
+      "score": 0.5167,
+      "importance": 0.5167,
+      "importance_score": 0.5167,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8466,
+        "recency": 0.8383,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1100,79 +1197,80 @@
       }
     },
     {
-      "story_id": "story_99c051212fc4",
-      "title": "新 MCP 路线图 / New MCP Roadmap",
-      "url": "https://news.ycombinator.com/item?id=49399591",
-      "primary_url": "https://news.ycombinator.com/item?id=49399591",
+      "story_id": "story_45f68b1865d1",
+      "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "url": "https://news.ycombinator.com/item?id=49401229",
+      "primary_url": "https://news.ycombinator.com/item?id=49401229",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
-          "title": "新 MCP 路线图 / New MCP Roadmap",
-          "url": "https://news.ycombinator.com/item?id=49399591",
+          "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
+          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "url": "https://news.ycombinator.com/item?id=49401229",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-22T18:35:38.893000Z"
+          "published_at": "2026-08-22T17:11:08.754000Z"
         },
         {
-          "id": "126ccb3ea5663b832f20fec048de1ac591d03ec8",
-          "title": "新 MCP 路线图 / The New MCP Roadmap",
-          "url": "https://news.ycombinator.com/item?id=49399591",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T14:40:36.571000Z"
+          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
+          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T16:23:09Z"
         }
       ],
       "source_count": 2,
       "source_names": [
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
-          "title": "新 MCP 路线图 / New MCP Roadmap",
-          "url": "https://news.ycombinator.com/item?id=49399591",
+          "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
+          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "url": "https://news.ycombinator.com/item?id=49401229",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-22T18:35:38.893000Z"
+          "published_at": "2026-08-22T17:11:08.754000Z"
         },
         {
-          "id": "126ccb3ea5663b832f20fec048de1ac591d03ec8",
-          "title": "新 MCP 路线图 / The New MCP Roadmap",
-          "url": "https://news.ycombinator.com/item?id=49399591",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T14:40:36.571000Z"
+          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
+          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T16:23:09Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5372,
-      "importance": 0.5372,
-      "importance_score": 0.5372,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9524,
+        "recency": 0.9241,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T14:40:36.571000Z",
-      "latest_at": "2026-08-22T18:35:38.893000Z",
+      "earliest_at": "2026-08-22T16:23:09Z",
+      "latest_at": "2026-08-22T17:11:08.754000Z",
       "primary_item": {
-        "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
-        "title": "新 MCP 路线图 / New MCP Roadmap",
-        "url": "https://news.ycombinator.com/item?id=49399591",
+        "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
+        "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+        "url": "https://news.ycombinator.com/item?id=49401229",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1231,15 +1329,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5296,
-      "importance": 0.5296,
-      "importance_score": 0.5296,
+      "score": 0.528,
+      "importance": 0.528,
+      "importance_score": 0.528,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9099,
+        "recency": 0.901,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1310,15 +1408,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
+      "score": 0.5241,
+      "importance": 0.5241,
+      "importance_score": 0.5241,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8881,
+        "recency": 0.8794,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1388,15 +1486,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5169,
-      "importance": 0.5169,
-      "importance_score": 0.5169,
+      "score": 0.5154,
+      "importance": 0.5154,
+      "importance_score": 0.5154,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8392,
+        "recency": 0.831,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1467,15 +1565,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5124,
-      "importance": 0.5124,
-      "importance_score": 0.5124,
+      "score": 0.511,
+      "importance": 0.511,
+      "importance_score": 0.511,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8145,
+        "recency": 0.8065,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1490,85 +1588,6 @@
         "url": "https://news.pedaily.cn/202608/567987.shtml",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_45f68b1865d1",
-      "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-      "url": "https://news.ycombinator.com/item?id=49401229",
-      "primary_url": "https://news.ycombinator.com/item?id=49401229",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://news.ycombinator.com/item?id=49401229",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T17:11:08.754000Z"
-        },
-        {
-          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T16:23:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://news.ycombinator.com/item?id=49401229",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T17:11:08.754000Z"
-        },
-        {
-          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T16:23:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5338,
-      "importance": 0.5338,
-      "importance_score": 0.5338,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9333,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T16:23:09Z",
-      "latest_at": "2026-08-22T17:11:08.754000Z",
-      "primary_item": {
-        "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
-        "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-        "url": "https://news.ycombinator.com/item?id=49401229",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1625,15 +1644,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
+      "score": 0.5241,
+      "importance": 0.5241,
+      "importance_score": 0.5241,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8881,
+        "recency": 0.8794,
         "story_heat": 0.25
       },
       "category": "watch",
