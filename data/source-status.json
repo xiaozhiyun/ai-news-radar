@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-24T05:54:02.888023Z",
+  "generated_at": "2026-08-24T09:29:57.982064Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 168,
-      "duration_ms": 3032,
+      "item_count": 167,
+      "duration_ms": 2671,
       "error": null
     },
     {
       "site_id": "curated_media",
       "site_name": "Curated Media",
       "ok": true,
-      "item_count": 41,
-      "duration_ms": 3130,
+      "item_count": 28,
+      "duration_ms": 2606,
       "error": null
     },
     {
@@ -22,15 +22,15 @@
       "site_name": "AI Breakfast",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 28,
+      "duration_ms": 41,
       "error": "403 Client Error: Forbidden for url: https://r.jina.ai/https://aibreakfast.beehiiv.com/"
     },
     {
       "site_id": "followbuilders",
       "site_name": "Follow Builders",
       "ok": true,
-      "item_count": 20,
-      "duration_ms": 19,
+      "item_count": 18,
+      "duration_ms": 96,
       "error": null
     },
     {
@@ -38,7 +38,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 510,
+      "duration_ms": 389,
       "error": null
     },
     {
@@ -46,15 +46,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 332,
+      "duration_ms": 282,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 392,
-      "duration_ms": 14276,
+      "item_count": 411,
+      "duration_ms": 16000,
       "error": null
     },
     {
@@ -62,31 +62,31 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 31413,
+      "duration_ms": 1185,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3040,
-      "duration_ms": 1286,
+      "item_count": 3046,
+      "duration_ms": 1423,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 18,
-      "duration_ms": 665,
+      "item_count": 11,
+      "duration_ms": 551,
       "error": null
     },
     {
       "site_id": "hackernews",
       "site_name": "Hacker News",
       "ok": true,
-      "item_count": 1,
-      "duration_ms": 5616,
+      "item_count": 0,
+      "duration_ms": 7507,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 30,
-      "duration_ms": 321,
+      "duration_ms": 288,
       "error": null
     },
     {
@@ -102,15 +102,15 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1007,
+      "duration_ms": 1092,
       "error": null
     },
     {
       "site_id": "aihot",
       "site_name": "AI HOT",
       "ok": true,
-      "item_count": 44,
-      "duration_ms": 821,
+      "item_count": 43,
+      "duration_ms": 1187,
       "error": null
     },
     {
@@ -118,7 +118,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 128,
-      "duration_ms": 1378,
+      "duration_ms": 2472,
       "error": null
     },
     {
@@ -126,7 +126,7 @@
       "site_name": "WaytoAGI",
       "ok": true,
       "item_count": 7,
-      "duration_ms": 6971,
+      "duration_ms": 6141,
       "error": null
     }
   ],
@@ -134,11 +134,13 @@
   "failed_sites": [
     "aibreakfast"
   ],
-  "zero_item_sites": [],
+  "zero_item_sites": [
+    "hackernews"
+  ],
   "empty_advanced_sources": [],
   "fetched_raw_items": 5059,
-  "items_before_topic_filter": 5916,
-  "items_in_24h": 456,
+  "items_before_topic_filter": 5887,
+  "items_in_24h": 470,
   "rss_opml": {
     "enabled": false,
     "path": null,
