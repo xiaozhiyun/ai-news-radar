@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T15:19:57.012694Z",
+  "generated_at": "2026-08-29T18:52:40.066144Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8302,
-      "importance": 0.8302,
-      "importance_score": 0.8302,
+      "score": 0.8231,
+      "importance": 0.8231,
+      "importance_score": 0.8231,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8014,
+        "recency": 0.7614,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.809,
-      "importance": 0.809,
-      "importance_score": 0.809,
+      "score": 0.8021,
+      "importance": 0.8021,
+      "importance_score": 0.8021,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7609,
+        "recency": 0.7229,
         "story_heat": 0.0
       },
       "category": "official",
@@ -125,106 +125,6 @@
         "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fb769fc67e24",
-      "title": "开放世界多智能体环境中的自主数学发现",
-      "url": "https://arxiv.org/abs/2608.23691",
-      "primary_url": "https://arxiv.org/abs/2608.23691",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0c77a82075a7f7c8872fd8532664947c92702747",
-          "title": "开放世界多智能体环境中的自主数学发现",
-          "url": "https://arxiv.org/abs/2608.23691",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:32:16.981000Z"
-        },
-        {
-          "id": "6f65de3dbad3f26bc6abc21e18c575fe70ac867d",
-          "title": "开放世界多智能体环境中的自主数学发现 / Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-          "url": "https://news.ycombinator.com/item?id=49481455",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-28T21:03:48.128000Z"
-        },
-        {
-          "id": "ec34cc4668051b4baa12e3a7e12ec44d11669ed9",
-          "title": "开放世界多智能体环境中的自主数学发现 / Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-          "url": "https://arxiv.org/abs/2608.23691",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-28T17:01:12Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0c77a82075a7f7c8872fd8532664947c92702747",
-          "title": "开放世界多智能体环境中的自主数学发现",
-          "url": "https://arxiv.org/abs/2608.23691",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:32:16.981000Z"
-        },
-        {
-          "id": "6f65de3dbad3f26bc6abc21e18c575fe70ac867d",
-          "title": "开放世界多智能体环境中的自主数学发现 / Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-          "url": "https://news.ycombinator.com/item?id=49481455",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-28T21:03:48.128000Z"
-        },
-        {
-          "id": "ec34cc4668051b4baa12e3a7e12ec44d11669ed9",
-          "title": "开放世界多智能体环境中的自主数学发现 / Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-          "url": "https://arxiv.org/abs/2608.23691",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-28T17:01:12Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8044,
-      "importance": 0.8044,
-      "importance_score": 0.8044,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8935,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T17:01:12Z",
-      "latest_at": "2026-08-29T07:32:16.981000Z",
-      "primary_item": {
-        "id": "0c77a82075a7f7c8872fd8532664947c92702747",
-        "title": "开放世界多智能体环境中的自主数学发现",
-        "url": "https://arxiv.org/abs/2608.23691",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -262,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8086,
-      "importance": 0.8086,
-      "importance_score": 0.8086,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7588,
+        "recency": 0.721,
         "story_heat": 0.0
       },
       "category": "official",
@@ -290,102 +190,62 @@
       }
     },
     {
-      "story_id": "story_64c4f1514068",
-      "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-      "source": "Ars Technica：AI（RSS）",
+      "story_id": "story_7e896a4b3791",
+      "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+      "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+      "primary_url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "1b7e6beff75bfc07fe4acdb48cd49c9e9c350f2f",
-          "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-          "source": "Ars Technica：AI（RSS）",
+          "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
+          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-28T18:07:55Z"
-        },
-        {
-          "id": "814422473bd3deb9d5737b7f02378cdbd843a90b",
-          "title": "联邦法官裁定特朗普将“觉醒派”公司Anthropic列入黑名单的行为违法",
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T18:28:20.792000Z"
-        },
-        {
-          "id": "58701ed1715f680898f13672a8b2d9715dbf9775",
-          "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T18:07:55Z"
+          "published_at": "2026-08-29T07:00:22.003000Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Ars Technica",
-        "Ars Technica：AI（RSS）",
-        "arstechnica.com"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "1b7e6beff75bfc07fe4acdb48cd49c9e9c350f2f",
-          "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-          "source": "Ars Technica：AI（RSS）",
+          "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
+          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-28T18:07:55Z"
-        },
-        {
-          "id": "814422473bd3deb9d5737b7f02378cdbd843a90b",
-          "title": "联邦法官裁定特朗普将“觉醒派”公司Anthropic列入黑名单的行为违法",
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-28T18:28:20.792000Z"
-        },
-        {
-          "id": "58701ed1715f680898f13672a8b2d9715dbf9775",
-          "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T18:07:55Z"
+          "published_at": "2026-08-29T07:00:22.003000Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7671,
-      "importance": 0.7671,
-      "importance_score": 0.7671,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.71,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7363,
-        "story_heat": 0.5
+        "recency": 0.8425,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-28T18:07:55Z",
-      "latest_at": "2026-08-28T18:28:20.792000Z",
+      "earliest_at": "2026-08-29T07:00:22.003000Z",
+      "latest_at": "2026-08-29T07:00:22.003000Z",
       "primary_item": {
-        "id": "1b7e6beff75bfc07fe4acdb48cd49c9e9c350f2f",
-        "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
-        "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-        "source": "Ars Technica：AI（RSS）",
+        "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
+        "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+        "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -443,22 +303,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7443,
+      "importance": 0.7443,
+      "importance_score": 0.7443,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8224,
+        "recency": 0.7814,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-29T01:47:44Z",
       "latest_at": "2026-08-29T01:47:44Z",
@@ -467,87 +326,6 @@
         "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
         "url": "https://x.com/thsottiaux/status/2093515916076343774",
         "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7e896a4b3791",
-      "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-      "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-      "primary_url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
-          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:00:22.003000Z"
-        },
-        {
-          "id": "34efc253fd6a47c6ea1bab868e0ba5e08d60d2c2",
-          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据 / Run Qwen3.8 27B locally: real numbers from my Mac Studio",
-          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T15:24:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
-          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T07:00:22.003000Z"
-        },
-        {
-          "id": "34efc253fd6a47c6ea1bab868e0ba5e08d60d2c2",
-          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据 / Run Qwen3.8 27B locally: real numbers from my Mac Studio",
-          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T15:24:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7812,
-      "importance": 0.7812,
-      "importance_score": 0.7812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8867,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T15:24:44Z",
-      "latest_at": "2026-08-29T07:00:22.003000Z",
-      "primary_item": {
-        "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
-        "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-        "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -586,15 +364,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7339,
+      "importance": 0.7339,
+      "importance_score": 0.7339,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8555,
+        "recency": 0.8128,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -612,76 +390,236 @@
       }
     },
     {
-      "story_id": "story_293bd11dfc89",
-      "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
-      "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
-      "primary_url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
-      "source": "Anthropic：Research（发表成果 · 网页）",
+      "story_id": "story_fb769fc67e24",
+      "title": "开放世界多智能体环境中的自主数学发现",
+      "url": "https://arxiv.org/abs/2608.23691",
+      "primary_url": "https://arxiv.org/abs/2608.23691",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3180756dcf7c8ccdda42f621a241c4f46cf6f4ad",
-          "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
-          "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
-          "source": "Anthropic：Research（发表成果 · 网页）",
+          "id": "0c77a82075a7f7c8872fd8532664947c92702747",
+          "title": "开放世界多智能体环境中的自主数学发现",
+          "url": "https://arxiv.org/abs/2608.23691",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-28T17:25:56.912000Z"
+          "published_at": "2026-08-29T07:32:16.981000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "3180756dcf7c8ccdda42f621a241c4f46cf6f4ad",
-          "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
-          "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
-          "source": "Anthropic：Research（发表成果 · 网页）",
+          "id": "0c77a82075a7f7c8872fd8532664947c92702747",
+          "title": "开放世界多智能体环境中的自主数学发现",
+          "url": "https://arxiv.org/abs/2608.23691",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-28T17:25:56.912000Z"
+          "published_at": "2026-08-29T07:32:16.981000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.7464,
+      "importance": 0.7464,
+      "importance_score": 0.7464,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7289,
+        "recency": 0.849,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-28T17:25:56.912000Z",
-      "latest_at": "2026-08-28T17:25:56.912000Z",
+      "earliest_at": "2026-08-29T07:32:16.981000Z",
+      "latest_at": "2026-08-29T07:32:16.981000Z",
       "primary_item": {
-        "id": "3180756dcf7c8ccdda42f621a241c4f46cf6f4ad",
-        "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
-        "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
-        "source": "Anthropic：Research（发表成果 · 网页）",
+        "id": "0c77a82075a7f7c8872fd8532664947c92702747",
+        "title": "开放世界多智能体环境中的自主数学发现",
+        "url": "https://arxiv.org/abs/2608.23691",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_2ee04de9ee75",
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "url": "https://lwn.net/Articles/1091231",
-      "primary_url": "https://lwn.net/Articles/1091231",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
+      "story_id": "story_2df82173bb28",
+      "title": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-08-29",
+      "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "90705a9c14223b4d0ba1ee208f18fcdc439c9dce",
+          "title": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-29T18:52:40.066144Z"
+        },
+        {
+          "id": "10c296509aca8edfb056fdd6e24ecacc20809ca1",
+          "title": "很多人自己部署大模型时，最容易只盯参数量和显卡型号，结果发现：并发排队、长上下文掉速、成本也算不清。这篇文章把TTFT、TPOT、吞吐、KV Cache、P95/P99、量化、硬件选型讲得很清晰，或许对你有帮助！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-29T18:52:40.066144Z"
+        },
+        {
+          "id": "456fc774512850c937850d4b5103183c6427d68f",
+          "title": "谷歌和微软很少达成一致。但现在它们正在构建同样的东西来修复智能体访问网页的问题，这可能是多年来网络最大的变革。一起来看看！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-29T18:52:40.066144Z"
+        },
+        {
+          "id": "4e2eeb2fe6da4544a3fe6795b2399eaa4da2cd72",
+          "title": "过去十多年，吴恩达参与创建Google Brain、联合创办Coursera，并通过机器学习课程教过约800万名学习者。这其中的很多人对AI的注意力还停留在“岗位会不会被替代”、“AGI 会不会失控”这些大问题里。而在吴恩达看来，未来职场的核心竞争力，不在于谁会调用工具，更在于谁能发现问题、构建解决方案，并对结果负责。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-29T18:52:40.066144Z"
+        },
+        {
+          "id": "0d99cfdb667ab3efd97bb46ccc760c2ffd62aeb8",
+          "title": "Codex 适合处理有明确材料、具体步骤和可检查结果的任务。它可以读取文件、整理信息、运行命令、操作网页和软件，也可以把反复出现的要求保存成固定流程。下面十个场景按照普通人的实际使用顺序展开。每一节都会讲清任务为什么容易出错、怎样交给 Codex，以及完成以后检查什么。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-28",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-28T21:31:37.624257Z"
+        },
+        {
+          "id": "418ca7a981297b86518360283c5ea7cd5693855f",
+          "title": "内容分发工具Blotato的开发者Sabrina用一条30秒TikTok验证需求，把第一版砍到只剩一个功能，上线10天做到1万美元月度经常性收入，不到两年把业务做到了数百万美元年收入。AI帮她压缩执行成本，但产品判断、功能取舍和责任始终在人手里。想知道“一人公司”怎么少踩坑、先跑出确定性，可以认真看看她每一步的具体做法。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-28",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-28T21:31:37.624257Z"
+        }
+      ],
+      "source_count": 6,
+      "source_names": [
+        "社区更新 · 2026-08-28",
+        "社区更新 · 2026-08-29"
+      ],
+      "items": [
+        {
+          "id": "90705a9c14223b4d0ba1ee208f18fcdc439c9dce",
+          "title": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-29T18:52:40.066144Z"
+        },
+        {
+          "id": "10c296509aca8edfb056fdd6e24ecacc20809ca1",
+          "title": "很多人自己部署大模型时，最容易只盯参数量和显卡型号，结果发现：并发排队、长上下文掉速、成本也算不清。这篇文章把TTFT、TPOT、吞吐、KV Cache、P95/P99、量化、硬件选型讲得很清晰，或许对你有帮助！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-29T18:52:40.066144Z"
+        },
+        {
+          "id": "456fc774512850c937850d4b5103183c6427d68f",
+          "title": "谷歌和微软很少达成一致。但现在它们正在构建同样的东西来修复智能体访问网页的问题，这可能是多年来网络最大的变革。一起来看看！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-29T18:52:40.066144Z"
+        },
+        {
+          "id": "4e2eeb2fe6da4544a3fe6795b2399eaa4da2cd72",
+          "title": "过去十多年，吴恩达参与创建Google Brain、联合创办Coursera，并通过机器学习课程教过约800万名学习者。这其中的很多人对AI的注意力还停留在“岗位会不会被替代”、“AGI 会不会失控”这些大问题里。而在吴恩达看来，未来职场的核心竞争力，不在于谁会调用工具，更在于谁能发现问题、构建解决方案，并对结果负责。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-29T18:52:40.066144Z"
+        },
+        {
+          "id": "0d99cfdb667ab3efd97bb46ccc760c2ffd62aeb8",
+          "title": "Codex 适合处理有明确材料、具体步骤和可检查结果的任务。它可以读取文件、整理信息、运行命令、操作网页和软件，也可以把反复出现的要求保存成固定流程。下面十个场景按照普通人的实际使用顺序展开。每一节都会讲清任务为什么容易出错、怎样交给 Codex，以及完成以后检查什么。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-28",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-28T21:31:37.624257Z"
+        },
+        {
+          "id": "418ca7a981297b86518360283c5ea7cd5693855f",
+          "title": "内容分发工具Blotato的开发者Sabrina用一条30秒TikTok验证需求，把第一版砍到只剩一个功能，上线10天做到1万美元月度经常性收入，不到两年把业务做到了数百万美元年收入。AI帮她压缩执行成本，但产品判断、功能取舍和责任始终在人手里。想知道“一人公司”怎么少踩坑、先跑出确定性，可以认真看看她每一步的具体做法。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-28",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-28T21:31:37.624257Z"
+        }
+      ],
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-28T21:31:37.624257Z",
+      "latest_at": "2026-08-29T18:52:40.066144Z",
+      "primary_item": {
+        "id": "90705a9c14223b4d0ba1ee208f18fcdc439c9dce",
+        "title": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-08-29",
+        "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_2ee04de9ee75",
+      "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+      "url": "https://lwn.net/Articles/1091231",
+      "primary_url": "https://lwn.net/Articles/1091231",
+      "source": "lwn.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "lwn.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T15:16:20.593000Z"
+        },
+        {
           "id": "2a5b872c692789f050919e55f7152de4f368099b",
-          "title": "Debian votes to allow \"responsible use of generative AI\"",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
           "url": "https://lwn.net/Articles/1091231",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -707,16 +645,26 @@
           "published_at": "2026-08-29T08:19:22Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Hacker News",
         "Lobsters (技术社区)",
+        "lwn.net",
         "www.phoronix.com"
       ],
       "items": [
         {
+          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "lwn.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T15:16:20.593000Z"
+        },
+        {
           "id": "2a5b872c692789f050919e55f7152de4f368099b",
-          "title": "Debian votes to allow \"responsible use of generative AI\"",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
           "url": "https://lwn.net/Articles/1091231",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -742,283 +690,108 @@
           "published_at": "2026-08-29T08:19:22Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5675,
-      "importance": 0.5675,
-      "importance_score": 0.5675,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5867,
+      "importance": 0.5867,
+      "importance_score": 0.5867,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9815,
-        "story_heat": 0.5
+        "recency": 0.9493,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-08-29T08:19:22Z",
-      "latest_at": "2026-08-29T14:02:10Z",
+      "latest_at": "2026-08-29T15:16:20.593000Z",
       "primary_item": {
-        "id": "2a5b872c692789f050919e55f7152de4f368099b",
-        "title": "Debian votes to allow \"responsible use of generative AI\"",
+        "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
+        "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
         "url": "https://lwn.net/Articles/1091231",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
+        "source": "lwn.net",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_5513da078648",
-      "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-      "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-      "primary_url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "eba2f78095e53d4fc1cebf703aabe5ff08ff68fc",
-          "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-          "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-28T16:22:16Z"
-        },
-        {
-          "id": "5e932eb211351a5ce57df7c9803b9db5e2098556",
-          "title": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything",
-          "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T16:22:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "eba2f78095e53d4fc1cebf703aabe5ff08ff68fc",
-          "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-          "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-28T16:22:16Z"
-        },
-        {
-          "id": "5e932eb211351a5ce57df7c9803b9db5e2098556",
-          "title": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything",
-          "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T16:22:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5647,
-      "importance": 0.5647,
-      "importance_score": 0.5647,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.7178,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-28T16:22:16Z",
-      "latest_at": "2026-08-28T16:22:16Z",
-      "primary_item": {
-        "id": "eba2f78095e53d4fc1cebf703aabe5ff08ff68fc",
-        "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-        "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "Codex 适合处理有明确材料、具体步骤和可检查结果的任务。它可以读取文件、整理信息、运行命令、操作网页和软件，也可以把反复出现的要求保存成固定流程。下面十个场景按照普通人的实际使用顺序展开。每一节都会讲清任务为什么容易出错、怎样交给 Codex，以及完成以后检查什么。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-08-28",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "0d99cfdb667ab3efd97bb46ccc760c2ffd62aeb8",
-          "title": "Codex 适合处理有明确材料、具体步骤和可检查结果的任务。它可以读取文件、整理信息、运行命令、操作网页和软件，也可以把反复出现的要求保存成固定流程。下面十个场景按照普通人的实际使用顺序展开。每一节都会讲清任务为什么容易出错、怎样交给 Codex，以及完成以后检查什么。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-28",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-28T21:31:37.624257Z"
-        },
-        {
-          "id": "418ca7a981297b86518360283c5ea7cd5693855f",
-          "title": "内容分发工具Blotato的开发者Sabrina用一条30秒TikTok验证需求，把第一版砍到只剩一个功能，上线10天做到1万美元月度经常性收入，不到两年把业务做到了数百万美元年收入。AI帮她压缩执行成本，但产品判断、功能取舍和责任始终在人手里。想知道“一人公司”怎么少踩坑、先跑出确定性，可以认真看看她每一步的具体做法。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-28",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-28T21:31:37.624257Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "社区更新 · 2026-08-28"
-      ],
-      "items": [
-        {
-          "id": "0d99cfdb667ab3efd97bb46ccc760c2ffd62aeb8",
-          "title": "Codex 适合处理有明确材料、具体步骤和可检查结果的任务。它可以读取文件、整理信息、运行命令、操作网页和软件，也可以把反复出现的要求保存成固定流程。下面十个场景按照普通人的实际使用顺序展开。每一节都会讲清任务为什么容易出错、怎样交给 Codex，以及完成以后检查什么。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-28",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-28T21:31:37.624257Z"
-        },
-        {
-          "id": "418ca7a981297b86518360283c5ea7cd5693855f",
-          "title": "内容分发工具Blotato的开发者Sabrina用一条30秒TikTok验证需求，把第一版砍到只剩一个功能，上线10天做到1万美元月度经常性收入，不到两年把业务做到了数百万美元年收入。AI帮她压缩执行成本，但产品判断、功能取舍和责任始终在人手里。想知道“一人公司”怎么少踩坑、先跑出确定性，可以认真看看她每一步的具体做法。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-28",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-28T21:31:37.624257Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5534,
-      "importance": 0.5534,
-      "importance_score": 0.5534,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.7733,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-28T21:31:37.624257Z",
-      "latest_at": "2026-08-28T21:31:37.624257Z",
-      "primary_item": {
-        "id": "0d99cfdb667ab3efd97bb46ccc760c2ffd62aeb8",
-        "title": "Codex 适合处理有明确材料、具体步骤和可检查结果的任务。它可以读取文件、整理信息、运行命令、操作网页和软件，也可以把反复出现的要求保存成固定流程。下面十个场景按照普通人的实际使用顺序展开。每一节都会讲清任务为什么容易出错、怎样交给 Codex，以及完成以后检查什么。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-08-28",
-        "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_092c8de02e8b",
-      "title": "Cursor 被 SpaceX 收购后我们对 Cursor 的决定 / Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://news.ycombinator.com/item?id=49486172",
-      "primary_url": "https://news.ycombinator.com/item?id=49486172",
+      "story_id": "story_6472bbcb1287",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://news.ycombinator.com/item?id=49491568",
+      "primary_url": "https://news.ycombinator.com/item?id=49491568",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "51fc4d3ab169cb35a9e11f844415dff762bddac0",
-          "title": "Cursor 被 SpaceX 收购后我们对 Cursor 的决定 / Our decision on Cursor following its acquisition by SpaceX",
-          "url": "https://news.ycombinator.com/item?id=49486172",
+          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://news.ycombinator.com/item?id=49491568",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-29T07:35:16.030000Z"
+          "published_at": "2026-08-29T18:36:32.292000Z"
         },
         {
-          "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
-          "title": "关于Cursor被SpaceX收购后的决定",
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:16:20.612000Z"
-        },
-        {
-          "id": "0018dc991022e6b1db6860f42552c3e9931199b0",
-          "title": "关于Cursor被SpaceX收购后的决定 / Our decision on Cursor following its acquisition by SpaceX",
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T01:47:53Z"
+          "id": "f682623d1ee4bbf4153f5d322c9b9ac9ccbc0bc6",
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T17:19:47Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews",
-        "openai.com"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "51fc4d3ab169cb35a9e11f844415dff762bddac0",
-          "title": "Cursor 被 SpaceX 收购后我们对 Cursor 的决定 / Our decision on Cursor following its acquisition by SpaceX",
-          "url": "https://news.ycombinator.com/item?id=49486172",
+          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://news.ycombinator.com/item?id=49491568",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-29T07:35:16.030000Z"
+          "published_at": "2026-08-29T18:36:32.292000Z"
         },
         {
-          "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
-          "title": "关于Cursor被SpaceX收购后的决定",
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T03:16:20.612000Z"
-        },
-        {
-          "id": "0018dc991022e6b1db6860f42552c3e9931199b0",
-          "title": "关于Cursor被SpaceX收购后的决定 / Our decision on Cursor following its acquisition by SpaceX",
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T01:47:53Z"
+          "id": "f682623d1ee4bbf4153f5d322c9b9ac9ccbc0bc6",
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T17:19:47Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5518,
-      "importance": 0.5518,
-      "importance_score": 0.5518,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8942,
-        "story_heat": 0.5
+        "recency": 0.9961,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T01:47:53Z",
-      "latest_at": "2026-08-29T07:35:16.030000Z",
+      "earliest_at": "2026-08-29T17:19:47Z",
+      "latest_at": "2026-08-29T18:36:32.292000Z",
       "primary_item": {
-        "id": "51fc4d3ab169cb35a9e11f844415dff762bddac0",
-        "title": "Cursor 被 SpaceX 收购后我们对 Cursor 的决定 / Our decision on Cursor following its acquisition by SpaceX",
-        "url": "https://news.ycombinator.com/item?id=49486172",
+        "id": "892454d82b2918f8700f64eee688c8dd8757356e",
+        "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+        "url": "https://news.ycombinator.com/item?id=49491568",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1077,15 +850,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5368,
+      "importance": 0.5368,
+      "importance_score": 0.5368,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9501,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1100,102 +873,6 @@
         "url": "https://www.huxiu.com/article/4887054.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_7a769c91d345",
-      "title": "Twitterwebviewer.com 服务已停止 / Twitterwebviewer.com Service Discontinued",
-      "url": "https://twitterwebviewer.com",
-      "primary_url": "https://twitterwebviewer.com",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "254568d260b75a5abb580620d71db3d1d7283cad",
-          "title": "Twitterwebviewer.com 服务已停止 / Twitterwebviewer.com Service Discontinued",
-          "url": "https://twitterwebviewer.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T04:11:35Z"
-        },
-        {
-          "id": "b3a17123d30f6c5a416436b0c2902fee545f4526",
-          "title": "服务停止 / Service Discontinued",
-          "url": "https://twitterwebviewer.com/?rev=1",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T18:16:23Z"
-        },
-        {
-          "id": "fbdc7afff9c7a0b506d2864af5786879d1b019df",
-          "title": "TwitterWebViewer also no longer in operation, following a request from X Corp",
-          "url": "https://twitterwebviewer.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T16:36:17Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "254568d260b75a5abb580620d71db3d1d7283cad",
-          "title": "Twitterwebviewer.com 服务已停止 / Twitterwebviewer.com Service Discontinued",
-          "url": "https://twitterwebviewer.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T04:11:35Z"
-        },
-        {
-          "id": "b3a17123d30f6c5a416436b0c2902fee545f4526",
-          "title": "服务停止 / Service Discontinued",
-          "url": "https://twitterwebviewer.com/?rev=1",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T18:16:23Z"
-        },
-        {
-          "id": "fbdc7afff9c7a0b506d2864af5786879d1b019df",
-          "title": "TwitterWebViewer also no longer in operation, following a request from X Corp",
-          "url": "https://twitterwebviewer.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-28T16:36:17Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5441,
-      "importance": 0.5441,
-      "importance_score": 0.5441,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8514,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-28T16:36:17Z",
-      "latest_at": "2026-08-29T04:11:35Z",
-      "primary_item": {
-        "id": "254568d260b75a5abb580620d71db3d1d7283cad",
-        "title": "Twitterwebviewer.com 服务已停止 / Twitterwebviewer.com Service Discontinued",
-        "url": "https://twitterwebviewer.com",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1252,15 +929,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5409,
-      "importance": 0.5409,
-      "importance_score": 0.5409,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9726,
+        "recency": 0.9241,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1350,15 +1027,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
+      "score": 0.5276,
+      "importance": 0.5276,
+      "importance_score": 0.5276,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.32,
         "ai_relevance": 0.67,
-        "recency": 0.7515,
+        "recency": 0.714,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1428,15 +1105,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
+      "score": 0.5221,
+      "importance": 0.5221,
+      "importance_score": 0.5221,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9142,
+        "recency": 0.8685,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1451,6 +1128,163 @@
         "url": "https://www.huxiu.com/article/4887016.html?f=rss",
         "source": "虎嗅 (Huxiu)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_06365a62d120",
+      "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP）",
+      "url": "https://itsuki.app",
+      "primary_url": "https://itsuki.app",
+      "source": "itsuki.app",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a64a2b4973e04d2f1210e5f0c014d22c577162c7",
+          "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP）",
+          "url": "https://itsuki.app",
+          "source": "itsuki.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T08:04:13.465000Z"
+        },
+        {
+          "id": "966aedd9b5c769c46223068db4cea08c8247814d",
+          "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP） / Show HN: Itsuki – shared memory for Claude Code, Cursor and 24 other AI tools",
+          "url": "https://itsuki.app",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-29T07:50:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "itsuki.app"
+      ],
+      "items": [
+        {
+          "id": "a64a2b4973e04d2f1210e5f0c014d22c577162c7",
+          "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP）",
+          "url": "https://itsuki.app",
+          "source": "itsuki.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T08:04:13.465000Z"
+        },
+        {
+          "id": "966aedd9b5c769c46223068db4cea08c8247814d",
+          "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP） / Show HN: Itsuki – shared memory for Claude Code, Cursor and 24 other AI tools",
+          "url": "https://itsuki.app",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-29T07:50:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5198,
+      "importance": 0.5198,
+      "importance_score": 0.5198,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8555,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T07:50:32Z",
+      "latest_at": "2026-08-29T08:04:13.465000Z",
+      "primary_item": {
+        "id": "a64a2b4973e04d2f1210e5f0c014d22c577162c7",
+        "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP）",
+        "url": "https://itsuki.app",
+        "source": "itsuki.app",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_356cb5adee51",
+      "title": "Autistici/inventati：宣言 – 我们是谁以及我们想要什么 (2002) / Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+      "url": "https://www.inventati.org/who/manifesto",
+      "primary_url": "https://www.inventati.org/who/manifesto",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
+          "title": "Autistici/inventati：宣言 – 我们是谁以及我们想要什么 (2002) / Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+          "url": "https://www.inventati.org/who/manifesto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T07:38:31Z"
+        },
+        {
+          "id": "1b4538a74c8cc494e3074f226f077d120748ebca",
+          "title": "Manifesto – who we are and what do we want (2002)",
+          "url": "https://www.inventati.org/who/manifesto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T07:38:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
+          "title": "Autistici/inventati：宣言 – 我们是谁以及我们想要什么 (2002) / Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+          "url": "https://www.inventati.org/who/manifesto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T07:38:31Z"
+        },
+        {
+          "id": "1b4538a74c8cc494e3074f226f077d120748ebca",
+          "title": "Manifesto – who we are and what do we want (2002)",
+          "url": "https://www.inventati.org/who/manifesto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T07:38:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5188,
+      "importance": 0.5188,
+      "importance_score": 0.5188,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8502,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T07:38:31Z",
+      "latest_at": "2026-08-29T07:38:31Z",
+      "primary_item": {
+        "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
+        "title": "Autistici/inventati：宣言 – 我们是谁以及我们想要什么 (2002) / Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+        "url": "https://www.inventati.org/who/manifesto",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1471,18 +1305,18 @@
           "published_at": "2026-08-29T06:44:16.846000Z"
         },
         {
-          "id": "fd2b65633b91a63524f6b19eb80227d31ac475bc",
+          "id": "4b3dc26fa9059c335845e86833449b3453c388b4",
           "title": "我不小心把LLM内存变成了程序分析 / I accidentally turned LLM memory into program analysis",
           "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-28T23:27:45Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "pwning.systems"
       ],
       "items": [
@@ -1496,26 +1330,26 @@
           "published_at": "2026-08-29T06:44:16.846000Z"
         },
         {
-          "id": "fd2b65633b91a63524f6b19eb80227d31ac475bc",
+          "id": "4b3dc26fa9059c335845e86833449b3453c388b4",
           "title": "我不小心把LLM内存变成了程序分析 / I accidentally turned LLM memory into program analysis",
           "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-28T23:27:45Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5248,
-      "importance": 0.5248,
-      "importance_score": 0.5248,
+      "score": 0.5169,
+      "importance": 0.5169,
+      "importance_score": 0.5169,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8833,
+        "recency": 0.8392,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1586,15 +1420,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5236,
-      "importance": 0.5236,
-      "importance_score": 0.5236,
+      "score": 0.5157,
+      "importance": 0.5157,
+      "importance_score": 0.5157,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8765,
+        "recency": 0.8328,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1609,6 +1443,164 @@
         "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
         "source": "arbustoemchamas.substack.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6a55c76d0a2a",
+      "title": "The growing divide between AI hype and software engineering reality",
+      "url": "https://news.ycombinator.com/item?id=49491113",
+      "primary_url": "https://news.ycombinator.com/item?id=49491113",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://news.ycombinator.com/item?id=49491113",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T18:36:32.292000Z"
+        },
+        {
+          "id": "bea77a5d801861b7edff23b6feccf6aba8059d25",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T16:16:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://news.ycombinator.com/item?id=49491113",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T18:36:32.292000Z"
+        },
+        {
+          "id": "bea77a5d801861b7edff23b6feccf6aba8059d25",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T16:16:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9961,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T16:16:32Z",
+      "latest_at": "2026-08-29T18:36:32.292000Z",
+      "primary_item": {
+        "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+        "title": "The growing divide between AI hype and software engineering reality",
+        "url": "https://news.ycombinator.com/item?id=49491113",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_489c77d23af1",
+      "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。 / OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts",
+      "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
+      "primary_url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
+      "source": "Business Insider",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "a4b4d8727401183ff887b0b34b2925f2ec01d3d0",
+          "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。 / OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts",
+          "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T03:57:19Z"
+        },
+        {
+          "id": "9982751a938ffbcb907f2d93882d879f4ff7f497",
+          "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。",
+          "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T03:48:21.575000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "a4b4d8727401183ff887b0b34b2925f2ec01d3d0",
+          "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。 / OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts",
+          "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T03:57:19Z"
+        },
+        {
+          "id": "9982751a938ffbcb907f2d93882d879f4ff7f497",
+          "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。",
+          "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T03:48:21.575000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5109,
+      "importance": 0.5109,
+      "importance_score": 0.5109,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8061,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T03:48:21.575000Z",
+      "latest_at": "2026-08-29T03:57:19Z",
+      "primary_item": {
+        "id": "a4b4d8727401183ff887b0b34b2925f2ec01d3d0",
+        "title": "OpenAI表示，由于埃隆·马斯克旗下的公司违反合同，该公司将终止与Cursor的合作协议。 / OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts",
+        "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
+        "source": "Business Insider",
+        "source_name": "TechURLs"
       }
     }
   ]
