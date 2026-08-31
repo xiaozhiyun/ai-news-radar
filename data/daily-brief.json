@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T00:53:27.575537Z",
+  "generated_at": "2026-08-31T07:02:57.342762Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -21,19 +21,29 @@
           "published_at": "2026-08-30T23:59:47Z"
         },
         {
-          "id": "cf5d18aad59b28ed399a0bca47a096f06d86484e",
+          "id": "4a82cc3eadf8b53dea74654be42d7b4b4f17ed3a",
+          "title": "了解 ChatGPT 的工作原理",
+          "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+          "source": "simonwillison.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T05:07:13.656000Z"
+        },
+        {
+          "id": "b5777770c681a2069431862bc0e82f00e300f8f0",
           "title": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同 / Understanding ChatGPT Work",
           "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T01:28:22Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Readhub · AI",
-        "Simon Willison 博客"
+        "Hacker News",
+        "Simon Willison 博客",
+        "simonwillison.net"
       ],
       "items": [
         {
@@ -46,9 +56,99 @@
           "published_at": "2026-08-30T23:59:47Z"
         },
         {
-          "id": "cf5d18aad59b28ed399a0bca47a096f06d86484e",
+          "id": "4a82cc3eadf8b53dea74654be42d7b4b4f17ed3a",
+          "title": "了解 ChatGPT 的工作原理",
+          "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+          "source": "simonwillison.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T05:07:13.656000Z"
+        },
+        {
+          "id": "b5777770c681a2069431862bc0e82f00e300f8f0",
           "title": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同 / Understanding ChatGPT Work",
           "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T01:28:22Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8302,
+      "importance": 0.8302,
+      "importance_score": 0.8302,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9032,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-30T23:59:47Z",
+      "latest_at": "2026-08-31T05:07:13.656000Z",
+      "primary_item": {
+        "id": "f86ca557fb0453ee2854c6c5653ca834fe354259",
+        "title": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同",
+        "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8cbe0a78d38a",
+      "title": "丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕",
+      "url": "https://www.aibase.com/news/30704",
+      "primary_url": "https://www.aibase.com/news/30704",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "de4cc14373e937ad63e97b123c6c3ad856205fc6",
+          "title": "丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕",
+          "url": "https://www.aibase.com/news/30704",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T07:02:57.342762Z"
+        },
+        {
+          "id": "ede54cd19771b127595f7eef07d5aa7a6c0dfebc",
+          "title": "丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕",
+          "url": "https://www.aibase.com/zh/news/30704",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "de4cc14373e937ad63e97b123c6c3ad856205fc6",
+          "title": "丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕",
+          "url": "https://www.aibase.com/news/30704",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T07:02:57.342762Z"
+        },
+        {
+          "id": "ede54cd19771b127595f7eef07d5aa7a6c0dfebc",
+          "title": "丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕",
+          "url": "https://www.aibase.com/zh/news/30704",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -57,15 +157,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9872,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -74,14 +174,95 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-30T23:59:47Z",
-      "latest_at": "2026-08-31T00:53:27.575537Z",
+      "earliest_at": "2026-08-31T07:02:57.342762Z",
+      "latest_at": "2026-08-31T07:02:57.342762Z",
       "primary_item": {
-        "id": "f86ca557fb0453ee2854c6c5653ca834fe354259",
-        "title": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同",
-        "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
+        "id": "de4cc14373e937ad63e97b123c6c3ad856205fc6",
+        "title": "丹麦紧急出手整治 AI 作弊：加口头答辩、监控考试电脑屏幕",
+        "url": "https://www.aibase.com/news/30704",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f92eed3be72e",
+      "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
+      "url": "https://www.aibase.com/news/30714",
+      "primary_url": "https://www.aibase.com/news/30714",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5b2f31ad71724412d63e5465425b9ab32a3dccc7",
+          "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
+          "url": "https://www.aibase.com/news/30714",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T07:02:57.342762Z"
+        },
+        {
+          "id": "69b4ca1646320da67f7a3a7787da78c4216d79c5",
+          "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
+          "url": "https://www.aibase.com/zh/news/30714",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "5b2f31ad71724412d63e5465425b9ab32a3dccc7",
+          "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
+          "url": "https://www.aibase.com/news/30714",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T07:02:57.342762Z"
+        },
+        {
+          "id": "69b4ca1646320da67f7a3a7787da78c4216d79c5",
+          "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
+          "url": "https://www.aibase.com/zh/news/30714",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T07:02:57.342762Z",
+      "latest_at": "2026-08-31T07:02:57.342762Z",
+      "primary_item": {
+        "id": "5b2f31ad71724412d63e5465425b9ab32a3dccc7",
+        "title": "微软收紧员工 AI 预算：有人 28 天烧掉 2.8 万美元，编程转向 GPT-5.6 Sol",
+        "url": "https://www.aibase.com/news/30714",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -119,15 +300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9931,
+        "recency": 0.9086,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -143,67 +324,6 @@
         "url": "https://www.oneusefulthing.org/p/agency-and-agents",
         "source": "Ethan Mollick：One Useful Thing（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a47ffe082231",
-      "title": "国内首部全AI生成长剧《后西游记》今日开播，首创“边审边播”模式",
-      "url": "https://www.aibase.com/news/30701",
-      "primary_url": "https://www.aibase.com/news/30701",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3cfd7ffc58783b507f9680e56220e48617ed91b3",
-          "title": "国内首部全AI生成长剧《后西游记》今日开播，首创“边审边播”模式",
-          "url": "https://www.aibase.com/news/30701",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T00:53:27.575537Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3cfd7ffc58783b507f9680e56220e48617ed91b3",
-          "title": "国内首部全AI生成长剧《后西游记》今日开播，首创“边审边播”模式",
-          "url": "https://www.aibase.com/news/30701",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-31T00:53:27.575537Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-31T00:53:27.575537Z",
-      "latest_at": "2026-08-31T00:53:27.575537Z",
-      "primary_item": {
-        "id": "3cfd7ffc58783b507f9680e56220e48617ed91b3",
-        "title": "国内首部全AI生成长剧《后西游记》今日开播，首创“边审边播”模式",
-        "url": "https://www.aibase.com/news/30701",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -260,15 +380,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7674,
-      "importance": 0.7674,
-      "importance_score": 0.7674,
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7931,
+        "recency": 0.7256,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -322,21 +442,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9958,
+        "recency": 0.9111,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-31T00:36:00Z",
       "latest_at": "2026-08-31T00:36:00Z",
@@ -349,123 +468,165 @@
       }
     },
     {
-      "story_id": "story_dba8baf1aeeb",
-      "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-      "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
-      "primary_url": "https://x.com/AYi_AInotes/status/2093864816079208512",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
+      "story_id": "story_353a5f0cda51",
+      "title": "消息称字节加大AI核心团队激励力度，豆包股提价14.6%加码大模型战略",
+      "url": "https://www.aibase.com/news/30717",
+      "primary_url": "https://www.aibase.com/news/30717",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "b4cc051baae56ea92e59473009ca0d4364b0629a",
-          "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-          "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-30T00:54:08Z"
+          "id": "3d1e4f8f263e6c9726738bbc7e549c4ce16f8c8a",
+          "title": "消息称字节加大AI核心团队激励力度，豆包股提价14.6%加码大模型战略",
+          "url": "https://www.aibase.com/news/30717",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T07:02:57.342762Z"
+        },
+        {
+          "id": "d6aed377f187b89f7ba8ab0a836cf6b806a8b3dd",
+          "title": "消息称字节加大AI核心团队激励力度，豆包股提价14.6%加码大模型战略",
+          "url": "https://www.aibase.com/zh/news/30717",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "b4cc051baae56ea92e59473009ca0d4364b0629a",
-          "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-          "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-30T00:54:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7269,
-      "importance": 0.7269,
-      "importance_score": 0.7269,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7072,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-30T00:54:08Z",
-      "latest_at": "2026-08-30T00:54:08Z",
-      "primary_item": {
-        "id": "b4cc051baae56ea92e59473009ca0d4364b0629a",
-        "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-        "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c71bc92556e6",
-      "title": "何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
+          "id": "3d1e4f8f263e6c9726738bbc7e549c4ce16f8c8a",
+          "title": "消息称字节加大AI核心团队激励力度，豆包股提价14.6%加码大模型战略",
+          "url": "https://www.aibase.com/news/30717",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T07:02:57.342762Z"
+        },
         {
-          "id": "7ff7bf5d7d7068f4125735362fa01a896621d53d",
-          "title": "何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-30T04:21:04Z"
+          "id": "d6aed377f187b89f7ba8ab0a836cf6b806a8b3dd",
+          "title": "消息称字节加大AI核心团队激励力度，豆包股提价14.6%加码大模型战略",
+          "url": "https://www.aibase.com/zh/news/30717",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "7ff7bf5d7d7068f4125735362fa01a896621d53d",
-          "title": "何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-30T04:21:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7214,
-      "importance": 0.7214,
-      "importance_score": 0.7214,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7433,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-30T04:21:04Z",
-      "latest_at": "2026-08-30T04:21:04Z",
+      "earliest_at": "2026-08-31T07:02:57.342762Z",
+      "latest_at": "2026-08-31T07:02:57.342762Z",
       "primary_item": {
-        "id": "7ff7bf5d7d7068f4125735362fa01a896621d53d",
-        "title": "何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮",
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
+        "id": "3d1e4f8f263e6c9726738bbc7e549c4ce16f8c8a",
+        "title": "消息称字节加大AI核心团队激励力度，豆包股提价14.6%加码大模型战略",
+        "url": "https://www.aibase.com/news/30717",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1551b6469abf",
+      "title": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
+      "url": "https://www.aibase.com/news/30715",
+      "primary_url": "https://www.aibase.com/news/30715",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7e0120dbc2d2ebc39144d33d26b5acd367f2a65f",
+          "title": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
+          "url": "https://www.aibase.com/news/30715",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T07:02:57.342762Z"
+        },
+        {
+          "id": "2e3e02162ef23fd7dd2c4463f945d40b213e5023",
+          "title": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
+          "url": "https://www.aibase.com/zh/news/30715",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "7e0120dbc2d2ebc39144d33d26b5acd367f2a65f",
+          "title": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
+          "url": "https://www.aibase.com/news/30715",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T07:02:57.342762Z"
+        },
+        {
+          "id": "2e3e02162ef23fd7dd2c4463f945d40b213e5023",
+          "title": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
+          "url": "https://www.aibase.com/zh/news/30715",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T07:02:57.342762Z",
+      "latest_at": "2026-08-31T07:02:57.342762Z",
+      "primary_item": {
+        "id": "7e0120dbc2d2ebc39144d33d26b5acd367f2a65f",
+        "title": "苹果新 CEO 特努斯 9 月 1 日上任，AI 成为任期首要任务",
+        "url": "https://www.aibase.com/news/30715",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -575,15 +736,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6641,
-      "importance": 0.6641,
-      "importance_score": 0.6641,
+      "score": 0.6503,
+      "importance": 0.6503,
+      "importance_score": 0.6503,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.9023,
+        "recency": 0.8255,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -598,6 +759,329 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-30",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_675e64a2951a",
+      "title": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+      "url": "https://www.aibase.com/news/30719",
+      "primary_url": "https://www.aibase.com/news/30719",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "69fb80dff160c7af3f195cfa143907145a5bfe8f",
+          "title": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+          "url": "https://www.aibase.com/news/30719",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T07:02:57.342762Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "69fb80dff160c7af3f195cfa143907145a5bfe8f",
+          "title": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+          "url": "https://www.aibase.com/news/30719",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T07:02:57.342762Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T07:02:57.342762Z",
+      "latest_at": "2026-08-31T07:02:57.342762Z",
+      "primary_item": {
+        "id": "69fb80dff160c7af3f195cfa143907145a5bfe8f",
+        "title": "AI\"已读乱回\"要担责、外卖包装\"瘦身\"，一批新规 9 月起施行",
+        "url": "https://www.aibase.com/news/30719",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_71bb90baa1b8",
+      "title": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+      "url": "https://www.aibase.com/news/30709",
+      "primary_url": "https://www.aibase.com/news/30709",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5abea2f8291a52aaaffad2293d7cbad957291af6",
+          "title": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+          "url": "https://www.aibase.com/news/30709",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T07:02:57.342762Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5abea2f8291a52aaaffad2293d7cbad957291af6",
+          "title": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+          "url": "https://www.aibase.com/news/30709",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T07:02:57.342762Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T07:02:57.342762Z",
+      "latest_at": "2026-08-31T07:02:57.342762Z",
+      "primary_item": {
+        "id": "5abea2f8291a52aaaffad2293d7cbad957291af6",
+        "title": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
+        "url": "https://www.aibase.com/news/30709",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_986417388ff9",
+      "title": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+      "url": "https://www.aibase.com/news/30706",
+      "primary_url": "https://www.aibase.com/news/30706",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d79a55b0fc84af55ac2fa8f47d12efa61ba67b32",
+          "title": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+          "url": "https://www.aibase.com/news/30706",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T07:02:57.342762Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d79a55b0fc84af55ac2fa8f47d12efa61ba67b32",
+          "title": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+          "url": "https://www.aibase.com/news/30706",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T07:02:57.342762Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T07:02:57.342762Z",
+      "latest_at": "2026-08-31T07:02:57.342762Z",
+      "primary_item": {
+        "id": "d79a55b0fc84af55ac2fa8f47d12efa61ba67b32",
+        "title": "Glassdoor报告:美国员工AI好评率跌至43%，生成式AI引发职场不满情绪",
+        "url": "https://www.aibase.com/news/30706",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e7159af9e674",
+      "title": "OpenAI十万亿参数新模型Bel预训练完成",
+      "url": "https://www.aibase.com/news/30718",
+      "primary_url": "https://www.aibase.com/news/30718",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8225e4eeefa231b29afe8442b6400c3cd755d480",
+          "title": "OpenAI十万亿参数新模型Bel预训练完成",
+          "url": "https://www.aibase.com/news/30718",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T07:02:57.342762Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8225e4eeefa231b29afe8442b6400c3cd755d480",
+          "title": "OpenAI十万亿参数新模型Bel预训练完成",
+          "url": "https://www.aibase.com/news/30718",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T07:02:57.342762Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T07:02:57.342762Z",
+      "latest_at": "2026-08-31T07:02:57.342762Z",
+      "primary_item": {
+        "id": "8225e4eeefa231b29afe8442b6400c3cd755d480",
+        "title": "OpenAI十万亿参数新模型Bel预训练完成",
+        "url": "https://www.aibase.com/news/30718",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_43f5bd77eb52",
+      "title": "ChatGPT新模型Bel被曝预训练完成，参数高达10万亿",
+      "url": "https://www.36kr.com/p/3961814974282886",
+      "primary_url": "https://www.36kr.com/p/3961814974282886",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "9611e6885abd1f900e8a99411e9ebb9d5f5248ae",
+          "title": "ChatGPT新模型Bel被曝预训练完成，参数高达10万亿",
+          "url": "https://www.36kr.com/p/3961814974282886",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6849b73f90bd7864b7e2ef4390cc0820737b7012",
+          "title": "ChatGPT 新模型 Bel 被曝预训练完成，参数高达 10 万亿",
+          "url": "https://www.36kr.com/p/3961814974282886",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 · 24小时热榜",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "9611e6885abd1f900e8a99411e9ebb9d5f5248ae",
+          "title": "ChatGPT新模型Bel被曝预训练完成，参数高达10万亿",
+          "url": "https://www.36kr.com/p/3961814974282886",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6849b73f90bd7864b7e2ef4390cc0820737b7012",
+          "title": "ChatGPT 新模型 Bel 被曝预训练完成，参数高达 10 万亿",
+          "url": "https://www.36kr.com/p/3961814974282886",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-31T00:53:27.575537Z",
+      "latest_at": "2026-08-31T07:02:57.342762Z",
+      "primary_item": {
+        "id": "9611e6885abd1f900e8a99411e9ebb9d5f5248ae",
+        "title": "ChatGPT新模型Bel被曝预训练完成，参数高达10万亿",
+        "url": "https://www.36kr.com/p/3961814974282886",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
       }
     },
     {
@@ -627,18 +1111,18 @@
           "published_at": "2026-08-30T17:20:28.182000Z"
         },
         {
-          "id": "c2034b0c427915b5c115e8883fcee71c1884fd16",
+          "id": "a7fffb08da071e28071133c73fe15257acde9215",
           "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告 / METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
           "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-30T14:06:54Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews",
         "thezvi.wordpress.com"
       ],
@@ -662,26 +1146,26 @@
           "published_at": "2026-08-30T17:20:28.182000Z"
         },
         {
-          "id": "c2034b0c427915b5c115e8883fcee71c1884fd16",
+          "id": "a7fffb08da071e28071133c73fe15257acde9215",
           "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告 / METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
           "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-30T14:06:54Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5574,
-      "importance": 0.5574,
-      "importance_score": 0.5574,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9255,
+        "recency": 0.8467,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -771,15 +1255,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5505,
-      "importance": 0.5505,
-      "importance_score": 0.5505,
+      "score": 0.5369,
+      "importance": 0.5369,
+      "importance_score": 0.5369,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8871,
+        "recency": 0.8116,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -794,6 +1278,145 @@
         "url": "https://github.com/anthropics/claude-code/issues/66504",
         "source": "github.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ca3491ce1ac5",
+      "title": "我们测试了人工智能聊天机器人如何应对外国宣传。结果出人意料地好。 - NPR",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjLV9wM1lGbENCcndueTBnQ2JrTFNlc1VOQ3pybHl6eWppMzdYNTdrcEZtVmtHS1hPdmdCTVJRSktjcHotb2h1aFN0eHA4TzFaSEVrdEU1c21GNVRCOVAtTlFYN3g4X0NDNmJzRDAwR2J4ajhTdE9BNHFnSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjLV9wM1lGbENCcndueTBnQ2JrTFNlc1VOQ3pybHl6eWppMzdYNTdrcEZtVmtHS1hPdmdCTVJRSktjcHotb2h1aFN0eHA4TzFaSEVrdEU1c21GNVRCOVAtTlFYN3g4X0NDNmJzRDAwR2J4ajhTdE9BNHFnSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1faf31c56afdfe02a7dcc6e2743e80c19b8b937b",
+          "title": "我们测试了人工智能聊天机器人如何应对外国宣传。结果出人意料地好。 - NPR",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjLV9wM1lGbENCcndueTBnQ2JrTFNlc1VOQ3pybHl6eWppMzdYNTdrcEZtVmtHS1hPdmdCTVJRSktjcHotb2h1aFN0eHA4TzFaSEVrdEU1c21GNVRCOVAtTlFYN3g4X0NDNmJzRDAwR2J4ajhTdE9BNHFnSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T02:43:27.456000Z"
+        },
+        {
+          "id": "d7e5028c55fba5e0a248194ac64a54ca17a9807c",
+          "title": "在防范外国宣传方面，人工智能聊天机器人可能比搜索引擎更有效 - NPR",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjLV9wM1lGbENCcndueTBnQ2JrTFNlc1VOQ3pybHl6eWppMzdYNTdrcEZtVmtHS1hPdmdCTVJRSktjcHotb2h1aFN0eHA4TzFaSEVrdEU1c21GNVRCOVAtTlFYN3g4X0NDNmJzRDAwR2J4ajhTdE9BNHFnSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T13:08:13.086000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "1faf31c56afdfe02a7dcc6e2743e80c19b8b937b",
+          "title": "我们测试了人工智能聊天机器人如何应对外国宣传。结果出人意料地好。 - NPR",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjLV9wM1lGbENCcndueTBnQ2JrTFNlc1VOQ3pybHl6eWppMzdYNTdrcEZtVmtHS1hPdmdCTVJRSktjcHotb2h1aFN0eHA4TzFaSEVrdEU1c21GNVRCOVAtTlFYN3g4X0NDNmJzRDAwR2J4ajhTdE9BNHFnSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-31T02:43:27.456000Z"
+        },
+        {
+          "id": "d7e5028c55fba5e0a248194ac64a54ca17a9807c",
+          "title": "在防范外国宣传方面，人工智能聊天机器人可能比搜索引擎更有效 - NPR",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjLV9wM1lGbENCcndueTBnQ2JrTFNlc1VOQ3pybHl6eWppMzdYNTdrcEZtVmtHS1hPdmdCTVJRSktjcHotb2h1aFN0eHA4TzFaSEVrdEU1c21GNVRCOVAtTlFYN3g4X0NDNmJzRDAwR2J4ajhTdE9BNHFnSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T13:08:13.086000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5349,
+      "importance": 0.5349,
+      "importance_score": 0.5349,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9395,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T13:08:13.086000Z",
+      "latest_at": "2026-08-31T02:43:27.456000Z",
+      "primary_item": {
+        "id": "1faf31c56afdfe02a7dcc6e2743e80c19b8b937b",
+        "title": "我们测试了人工智能聊天机器人如何应对外国宣传。结果出人意料地好。 - NPR",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjLV9wM1lGbENCcndueTBnQ2JrTFNlc1VOQ3pybHl6eWppMzdYNTdrcEZtVmtHS1hPdmdCTVJRSktjcHotb2h1aFN0eHA4TzFaSEVrdEU1c21GNVRCOVAtTlFYN3g4X0NDNmJzRDAwR2J4ajhTdE9BNHFnSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_1a6ed0db4046",
+      "title": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
+      "url": "https://www.aibase.com/news/30720",
+      "primary_url": "https://www.aibase.com/news/30720",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4002cb2839ec1f2fd066b48899cde68d2aa06615",
+          "title": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
+          "url": "https://www.aibase.com/news/30720",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T07:02:57.342762Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4002cb2839ec1f2fd066b48899cde68d2aa06615",
+          "title": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
+          "url": "https://www.aibase.com/news/30720",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T07:02:57.342762Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T07:02:57.342762Z",
+      "latest_at": "2026-08-31T07:02:57.342762Z",
+      "primary_item": {
+        "id": "4002cb2839ec1f2fd066b48899cde68d2aa06615",
+        "title": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
+        "url": "https://www.aibase.com/news/30720",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -850,15 +1473,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5248,
+      "importance": 0.5248,
+      "importance_score": 0.5248,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9654,
+        "recency": 0.8833,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -929,15 +1552,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5393,
-      "importance": 0.5393,
-      "importance_score": 0.5393,
+      "score": 0.5246,
+      "importance": 0.5246,
+      "importance_score": 0.5246,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9641,
+        "recency": 0.8821,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -952,654 +1575,6 @@
         "url": "https://news.ycombinator.com/item?id=49502611",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_52f14478dab8",
-      "title": "Show HN: 技能 MCP",
-      "url": "https://news.ycombinator.com/item?id=49501178",
-      "primary_url": "https://news.ycombinator.com/item?id=49501178",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "11b49f6c7c21947619a00878b2d7d73425071b6f",
-          "title": "Show HN: 技能 MCP",
-          "url": "https://news.ycombinator.com/item?id=49501178",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-30T18:27:28.718000Z"
-        },
-        {
-          "id": "900e685fd5601e429bbbfbb2825e7b77df3ffb05",
-          "title": "技能 MCP",
-          "url": "https://news.ycombinator.com/item?id=49501178",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-30T18:11:14.552000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "11b49f6c7c21947619a00878b2d7d73425071b6f",
-          "title": "Show HN: 技能 MCP",
-          "url": "https://news.ycombinator.com/item?id=49501178",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-30T18:27:28.718000Z"
-        },
-        {
-          "id": "900e685fd5601e429bbbfbb2825e7b77df3ffb05",
-          "title": "技能 MCP",
-          "url": "https://news.ycombinator.com/item?id=49501178",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-30T18:11:14.552000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5298,
-      "importance": 0.5298,
-      "importance_score": 0.5298,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9113,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T18:11:14.552000Z",
-      "latest_at": "2026-08-30T18:27:28.718000Z",
-      "primary_item": {
-        "id": "11b49f6c7c21947619a00878b2d7d73425071b6f",
-        "title": "Show HN: 技能 MCP",
-        "url": "https://news.ycombinator.com/item?id=49501178",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0620f79b66d9",
-      "title": "在 Claude Code Opus 5 自动模式下进行提示注入",
-      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
-      "primary_url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
-      "source": "embracethered.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "dfae4803cb8a1f0780c014ad5f9402221d66fa17",
-          "title": "在 Claude Code Opus 5 自动模式下进行提示注入",
-          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
-          "source": "embracethered.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-30T05:40:15.465000Z"
-        },
-        {
-          "id": "3baed8be834f5e754243c916c038a85c5a2f18ce",
-          "title": "在 Claude Code Opus 5 自动模式下进行提示注入 / Prompt Injection in Claude Code Opus 5 Auto Mode",
-          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-30T05:36:51Z"
-        },
-        {
-          "id": "045debf55648e0f2ce4f45d070d1f967dbc4c6b2",
-          "title": "在 Claude Code Opus 5 自动模式下进行提示注入 / Breaking Claude Code Opus 5 Auto Mode",
-          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-30T05:04:10Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "Lobsters (技术社区)",
-        "embracethered.com"
-      ],
-      "items": [
-        {
-          "id": "dfae4803cb8a1f0780c014ad5f9402221d66fa17",
-          "title": "在 Claude Code Opus 5 自动模式下进行提示注入",
-          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
-          "source": "embracethered.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-30T05:40:15.465000Z"
-        },
-        {
-          "id": "3baed8be834f5e754243c916c038a85c5a2f18ce",
-          "title": "在 Claude Code Opus 5 自动模式下进行提示注入 / Prompt Injection in Claude Code Opus 5 Auto Mode",
-          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-30T05:36:51Z"
-        },
-        {
-          "id": "045debf55648e0f2ce4f45d070d1f967dbc4c6b2",
-          "title": "在 Claude Code Opus 5 自动模式下进行提示注入 / Breaking Claude Code Opus 5 Auto Mode",
-          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-30T05:04:10Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5272,
-      "importance": 0.5272,
-      "importance_score": 0.5272,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7576,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T05:04:10Z",
-      "latest_at": "2026-08-30T05:40:15.465000Z",
-      "primary_item": {
-        "id": "dfae4803cb8a1f0780c014ad5f9402221d66fa17",
-        "title": "在 Claude Code Opus 5 自动模式下进行提示注入",
-        "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
-        "source": "embracethered.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e87657446309",
-      "title": "“无AI星期五”",
-      "url": "https://noaifridays.com",
-      "primary_url": "https://noaifridays.com",
-      "source": "noaifridays.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "8208f10f261b860b152b622827844b09cfe8b276",
-          "title": "“无AI星期五”",
-          "url": "https://noaifridays.com",
-          "source": "noaifridays.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-30T15:15:25.717000Z"
-        },
-        {
-          "id": "99a31002fd80ab07b926e6f6a2a064b9ef9aaa60",
-          "title": "“无AI星期五” / No AI Fridays",
-          "url": "https://noaifridays.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T12:31:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "noaifridays.com"
-      ],
-      "items": [
-        {
-          "id": "8208f10f261b860b152b622827844b09cfe8b276",
-          "title": "“无AI星期五”",
-          "url": "https://noaifridays.com",
-          "source": "noaifridays.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-30T15:15:25.717000Z"
-        },
-        {
-          "id": "99a31002fd80ab07b926e6f6a2a064b9ef9aaa60",
-          "title": "“无AI星期五” / No AI Fridays",
-          "url": "https://noaifridays.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T12:31:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5224,
-      "importance": 0.5224,
-      "importance_score": 0.5224,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8701,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T12:31:05Z",
-      "latest_at": "2026-08-30T15:15:25.717000Z",
-      "primary_item": {
-        "id": "8208f10f261b860b152b622827844b09cfe8b276",
-        "title": "“无AI星期五”",
-        "url": "https://noaifridays.com",
-        "source": "noaifridays.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b1f15b8a23b7",
-      "title": "pollen-robotics / microduck_rl",
-      "url": "https://github.com/pollen-robotics/microduck_rl",
-      "primary_url": "https://github.com/pollen-robotics/microduck_rl",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "3dbde35b3d640487f63d2774fc0db0fe21bb9713",
-          "title": "pollen-robotics / microduck_rl",
-          "url": "https://github.com/pollen-robotics/microduck_rl",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ca3cdd670a243487039644b9926d0ad264c8cf86",
-          "title": "pollen-robotics /      microduck_rl",
-          "url": "https://github.com/pollen-robotics/microduck_rl",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-30T13:06:13.199000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "3dbde35b3d640487f63d2774fc0db0fe21bb9713",
-          "title": "pollen-robotics / microduck_rl",
-          "url": "https://github.com/pollen-robotics/microduck_rl",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ca3cdd670a243487039644b9926d0ad264c8cf86",
-          "title": "pollen-robotics /      microduck_rl",
-          "url": "https://github.com/pollen-robotics/microduck_rl",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-30T13:06:13.199000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5181,
-      "importance": 0.5181,
-      "importance_score": 0.5181,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8459,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T13:06:13.199000Z",
-      "latest_at": "2026-08-30T13:18:04.127775Z",
-      "primary_item": {
-        "id": "3dbde35b3d640487f63d2774fc0db0fe21bb9713",
-        "title": "pollen-robotics / microduck_rl",
-        "url": "https://github.com/pollen-robotics/microduck_rl",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_0b09c7b8916b",
-      "title": "华为云联合瑞金医院发布瑞智病理大模型 RuiPath 2.0",
-      "url": "https://www.ithome.com/0/996/195.htm",
-      "primary_url": "https://www.ithome.com/0/996/195.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "0e26fd95a93c9c63b9394bb50af86ec9fa5327e8",
-          "title": "华为云联合瑞金医院发布瑞智病理大模型 RuiPath 2.0",
-          "url": "https://www.ithome.com/0/996/195.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7d703b8ec17e4fee841f5c324e965d85affbddcb",
-          "title": "华为云联合瑞金医院发布瑞智病理大模型 RuiPath 2.0：7B 参数，覆盖 19 个常见癌种",
-          "url": "https://www.ithome.com/0/996/195.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-30T09:12:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0e26fd95a93c9c63b9394bb50af86ec9fa5327e8",
-          "title": "华为云联合瑞金医院发布瑞智病理大模型 RuiPath 2.0",
-          "url": "https://www.ithome.com/0/996/195.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7d703b8ec17e4fee841f5c324e965d85affbddcb",
-          "title": "华为云联合瑞金医院发布瑞智病理大模型 RuiPath 2.0：7B 参数，覆盖 19 个常见癌种",
-          "url": "https://www.ithome.com/0/996/195.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-30T09:12:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5181,
-      "importance": 0.5181,
-      "importance_score": 0.5181,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8459,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T09:12:57Z",
-      "latest_at": "2026-08-30T13:18:04.127775Z",
-      "primary_item": {
-        "id": "0e26fd95a93c9c63b9394bb50af86ec9fa5327e8",
-        "title": "华为云联合瑞金医院发布瑞智病理大模型 RuiPath 2.0",
-        "url": "https://www.ithome.com/0/996/195.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_7c0dc4c06e47",
-      "title": "Building my own network stack",
-      "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
-      "primary_url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "1264b8eb2935d276ad16c9b3b29b414756c4a1e0",
-          "title": "Building my own network stack",
-          "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T09:52:15Z"
-        },
-        {
-          "id": "bf984ad77648b488d62c13de21a5125c0688ecbd",
-          "title": "Everyone Should Build Their Own Network Stack",
-          "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T09:52:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "1264b8eb2935d276ad16c9b3b29b414756c4a1e0",
-          "title": "Building my own network stack",
-          "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T09:52:15Z"
-        },
-        {
-          "id": "bf984ad77648b488d62c13de21a5125c0688ecbd",
-          "title": "Everyone Should Build Their Own Network Stack",
-          "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T09:52:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5107,
-      "importance": 0.5107,
-      "importance_score": 0.5107,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.805,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T09:52:15Z",
-      "latest_at": "2026-08-30T09:52:15Z",
-      "primary_item": {
-        "id": "1264b8eb2935d276ad16c9b3b29b414756c4a1e0",
-        "title": "Building my own network stack",
-        "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_0e1e11daeab5",
-      "title": "“史上最大规模版权盗窃”：Anthropic 被指侵权训练 Claude AI，单曲最高索赔 15 万美元",
-      "url": "https://www.ithome.com/0/996/095.htm",
-      "primary_url": "https://www.ithome.com/0/996/095.htm",
-      "source": "IT之家 (ITHome)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "10fc7d4dcf4b979350aa03ee47506dae3e462bee",
-          "title": "“史上最大规模版权盗窃”：Anthropic 被指侵权训练 Claude AI，单曲最高索赔 15 万美元",
-          "url": "https://www.ithome.com/0/996/095.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-30T02:54:03Z"
-        },
-        {
-          "id": "176d796b45c930cc1f4d79234552757682dd369c",
-          "title": "“史上最大规模版权盗窃”：索尼与华纳联合起诉 Anthropic，指控其大规模盗用版权音乐训练 AI 模型",
-          "url": "https://www.ithome.com/0/996/095.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-30T02:54:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)"
-      ],
-      "items": [
-        {
-          "id": "10fc7d4dcf4b979350aa03ee47506dae3e462bee",
-          "title": "“史上最大规模版权盗窃”：Anthropic 被指侵权训练 Claude AI，单曲最高索赔 15 万美元",
-          "url": "https://www.ithome.com/0/996/095.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-30T02:54:03Z"
-        },
-        {
-          "id": "176d796b45c930cc1f4d79234552757682dd369c",
-          "title": "“史上最大规模版权盗窃”：索尼与华纳联合起诉 Anthropic，指控其大规模盗用版权音乐训练 AI 模型",
-          "url": "https://www.ithome.com/0/996/095.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-30T02:54:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4968,
-      "importance": 0.4968,
-      "importance_score": 0.4968,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7279,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T02:54:03Z",
-      "latest_at": "2026-08-30T02:54:03Z",
-      "primary_item": {
-        "id": "10fc7d4dcf4b979350aa03ee47506dae3e462bee",
-        "title": "“史上最大规模版权盗窃”：Anthropic 被指侵权训练 Claude AI，单曲最高索赔 15 万美元",
-        "url": "https://www.ithome.com/0/996/095.htm",
-        "source": "IT之家 (ITHome)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_1d4294770cc1",
-      "title": "Ask HN: 如何确保ChatGPT/Claude/Gemini忘记所有之前的对话？",
-      "url": "https://news.ycombinator.com/item?id=49498450",
-      "primary_url": "https://news.ycombinator.com/item?id=49498450",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1e0775fbac923f9ed39e841c9f90d88c5006a877",
-          "title": "Ask HN: 如何确保ChatGPT/Claude/Gemini忘记所有之前的对话？",
-          "url": "https://news.ycombinator.com/item?id=49498450",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-30T13:40:28.751000Z"
-        },
-        {
-          "id": "c531a80b572a5919ed03d6958346f043950d7034",
-          "title": "Ask HN: 如何确保ChatGPT/Claude/Gemini忘记所有之前的对话？ / Ask HN: How do I make sure ChatGPT/Claude/Gemini forget all prior conversations?",
-          "url": "https://news.ycombinator.com/item?id=49498450",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-30T13:25:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "1e0775fbac923f9ed39e841c9f90d88c5006a877",
-          "title": "Ask HN: 如何确保ChatGPT/Claude/Gemini忘记所有之前的对话？",
-          "url": "https://news.ycombinator.com/item?id=49498450",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-30T13:40:28.751000Z"
-        },
-        {
-          "id": "c531a80b572a5919ed03d6958346f043950d7034",
-          "title": "Ask HN: 如何确保ChatGPT/Claude/Gemini忘记所有之前的对话？ / Ask HN: How do I make sure ChatGPT/Claude/Gemini forget all prior conversations?",
-          "url": "https://news.ycombinator.com/item?id=49498450",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-30T13:25:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5189,
-      "importance": 0.5189,
-      "importance_score": 0.5189,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8505,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T13:25:22Z",
-      "latest_at": "2026-08-30T13:40:28.751000Z",
-      "primary_item": {
-        "id": "1e0775fbac923f9ed39e841c9f90d88c5006a877",
-        "title": "Ask HN: 如何确保ChatGPT/Claude/Gemini忘记所有之前的对话？",
-        "url": "https://news.ycombinator.com/item?id=49498450",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
       }
     }
   ]
