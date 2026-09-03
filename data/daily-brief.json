@@ -1,191 +1,90 @@
 {
-  "generated_at": "2026-09-02T05:48:00.403833Z",
+  "generated_at": "2026-09-03T05:45:47.519899Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_309be27bdcfe",
-      "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra: critical capabilities and frontier safeguards",
-      "url": "https://openai.com/index/path-to-astra",
-      "primary_url": "https://openai.com/index/path-to-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ea4f64c9f4b8d986df58ae876ff49af581f9f771",
-          "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra: critical capabilities and frontier safeguards",
-          "url": "https://openai.com/index/path-to-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T13:00:00Z"
-        },
-        {
-          "id": "d9f84a2ae027b4c6cfed4ef871b0f815d18800e8",
-          "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
-          "url": "https://openai.com/index/path-to-astra",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-01T13:00:00Z"
-        },
-        {
-          "id": "6290b3b635810208b5588f6fe8f8b81610a01adf",
-          "title": "通往“阿斯特拉”之路：关键能力与前沿保障措施",
-          "url": "https://openai.com/index/path-to-astra",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-02T03:13:14.351000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "ea4f64c9f4b8d986df58ae876ff49af581f9f771",
-          "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra: critical capabilities and frontier safeguards",
-          "url": "https://openai.com/index/path-to-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T13:00:00Z"
-        },
-        {
-          "id": "d9f84a2ae027b4c6cfed4ef871b0f815d18800e8",
-          "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
-          "url": "https://openai.com/index/path-to-astra",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-01T13:00:00Z"
-        },
-        {
-          "id": "6290b3b635810208b5588f6fe8f8b81610a01adf",
-          "title": "通往“阿斯特拉”之路：关键能力与前沿保障措施",
-          "url": "https://openai.com/index/path-to-astra",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-02T03:13:14.351000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8632,
-      "importance": 0.8632,
-      "importance_score": 0.8632,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7846,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T13:00:00Z",
-      "latest_at": "2026-09-02T03:13:14.351000Z",
-      "primary_item": {
-        "id": "ea4f64c9f4b8d986df58ae876ff49af581f9f771",
-        "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra: critical capabilities and frontier safeguards",
-        "url": "https://openai.com/index/path-to-astra",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3df5fbd9b803",
-      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "primary_url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "source": "Anthropic：Newsroom（网页）",
+      "story_id": "story_362ae46d9e3c",
+      "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+      "primary_url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ce63be131b37945285411d9f6a59acbd508fd131",
-          "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-          "source": "Anthropic：Newsroom（网页）",
+          "id": "9fe52d94d5189dd53e827e208467121ac63298a6",
+          "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-02T03:33:48.237000Z"
+          "published_at": "2026-09-03T04:49:35.840000Z"
         },
         {
-          "id": "6a3f79aae3b6d9e8943054897087b1fa6542c772",
-          "title": "Claude Fable 5.1 和 Claude Mythos 5.1",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-          "source": "www.anthropic.com",
+          "id": "c338a7bf29802a14025c81949bd12d16edac085f",
+          "title": "METR关于OpenAI/Hugging Face黑客攻击事件的报告",
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "metr.org",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-01T18:25:13.352000Z"
+          "published_at": "2026-09-03T04:49:35.840000Z"
         },
         {
-          "id": "e494a6f7f44047a0bd52f73c423f1ad7dc03f4f5",
-          "title": "Claude Fable 5.1 和 Claude Mythos 5.1 / Claude Fable 5.1 and Claude Mythos 5.1",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-01T17:53:53Z"
+          "id": "56d1a46beb49e63c8a6ca58942f3934b4b5f33d8",
+          "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告 / METR Report on OpenAI / Hugging Face Hacking Incident",
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-02T23:08:47Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Anthropic：Newsroom（网页）",
-        "Hacker News (黑客新闻)",
-        "www.anthropic.com"
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "metr.org"
       ],
       "items": [
         {
-          "id": "ce63be131b37945285411d9f6a59acbd508fd131",
-          "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-          "source": "Anthropic：Newsroom（网页）",
+          "id": "9fe52d94d5189dd53e827e208467121ac63298a6",
+          "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-02T03:33:48.237000Z"
+          "published_at": "2026-09-03T04:49:35.840000Z"
         },
         {
-          "id": "6a3f79aae3b6d9e8943054897087b1fa6542c772",
-          "title": "Claude Fable 5.1 和 Claude Mythos 5.1",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-          "source": "www.anthropic.com",
+          "id": "c338a7bf29802a14025c81949bd12d16edac085f",
+          "title": "METR关于OpenAI/Hugging Face黑客攻击事件的报告",
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "metr.org",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-01T18:25:13.352000Z"
+          "published_at": "2026-09-03T04:49:35.840000Z"
         },
         {
-          "id": "e494a6f7f44047a0bd52f73c423f1ad7dc03f4f5",
-          "title": "Claude Fable 5.1 和 Claude Mythos 5.1 / Claude Fable 5.1 and Claude Mythos 5.1",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-01T17:53:53Z"
+          "id": "56d1a46beb49e63c8a6ca58942f3934b4b5f33d8",
+          "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告 / METR Report on OpenAI / Hugging Face Hacking Incident",
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-02T23:08:47Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8569,
-      "importance": 0.8569,
-      "importance_score": 0.8569,
+      "score": 0.8572,
+      "importance": 0.8572,
+      "importance_score": 0.8572,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.87,
+        "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9682,
+        "recency": 0.9866,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -194,60 +93,60 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T17:53:53Z",
-      "latest_at": "2026-09-02T03:33:48.237000Z",
+      "earliest_at": "2026-09-02T23:08:47Z",
+      "latest_at": "2026-09-03T04:49:35.840000Z",
       "primary_item": {
-        "id": "ce63be131b37945285411d9f6a59acbd508fd131",
-        "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
-        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "source": "Anthropic：Newsroom（网页）",
+        "id": "9fe52d94d5189dd53e827e208467121ac63298a6",
+        "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+        "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_23bdbfdbd061",
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
-      "primary_url": "https://huggingface.co/blog/allenai/benchmirt",
-      "source": "Hugging Face Blog",
+      "story_id": "story_91992ed9f82d",
+      "title": "Codex CLI 0.153.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5809e369bec3fc7f3e3b41703ff07040bdd5bbe0",
-          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-          "url": "https://huggingface.co/blog/allenai/benchmirt",
-          "source": "Hugging Face Blog",
+          "id": "bb85c2474327fd3868ec4d226718a0570ac11485",
+          "title": "Codex CLI 0.153.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-01T21:39:07Z"
+          "published_at": "2026-09-03T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "OpenAI Codex Changelog"
       ],
       "items": [
         {
-          "id": "5809e369bec3fc7f3e3b41703ff07040bdd5bbe0",
-          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-          "url": "https://huggingface.co/blog/allenai/benchmirt",
-          "source": "Hugging Face Blog",
+          "id": "bb85c2474327fd3868ec4d226718a0570ac11485",
+          "title": "Codex CLI 0.153.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-01T21:39:07Z"
+          "published_at": "2026-09-03T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.85,
-      "importance": 0.85,
-      "importance_score": 0.85,
+      "score": 0.8516,
+      "importance": 0.8516,
+      "importance_score": 0.8516,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.889,
+        "ai_relevance": 0.98,
+        "recency": 0.9201,
         "story_heat": 0.0
       },
       "category": "official",
@@ -256,41 +155,41 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T21:39:07Z",
-      "latest_at": "2026-09-01T21:39:07Z",
+      "earliest_at": "2026-09-03T00:00:00Z",
+      "latest_at": "2026-09-03T00:00:00Z",
       "primary_item": {
-        "id": "5809e369bec3fc7f3e3b41703ff07040bdd5bbe0",
-        "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-        "url": "https://huggingface.co/blog/allenai/benchmirt",
-        "source": "Hugging Face Blog",
+        "id": "bb85c2474327fd3868ec4d226718a0570ac11485",
+        "title": "Codex CLI 0.153.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_9658836c8e4c",
-      "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
-      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
-      "primary_url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+      "story_id": "story_a9b9d17f3a5b",
+      "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型 / Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
+      "primary_url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
       "source": "Google DeepMind",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a6473259f31904c8b2a5ec6e629746de582bf604",
-          "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
-          "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+          "id": "bd563b2236eec5a4715fcd7bc0eeaccbb60fcc68",
+          "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型 / Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
           "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-01T17:08:51Z"
+          "published_at": "2026-09-02T16:18:31Z"
         },
         {
-          "id": "7b68d5b361c9f8da9cb21ef51bb8437e316b9d5f",
-          "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
-          "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+          "id": "17873415aba98e677f45c6fb031c445c0157b1ef",
+          "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
           "source": "Google DeepMind：Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-01T17:08:51Z"
+          "published_at": "2026-09-02T16:18:31Z"
         }
       ],
       "source_count": 2,
@@ -300,35 +199,35 @@
       ],
       "items": [
         {
-          "id": "a6473259f31904c8b2a5ec6e629746de582bf604",
-          "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
-          "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+          "id": "bd563b2236eec5a4715fcd7bc0eeaccbb60fcc68",
+          "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型 / Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
           "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-01T17:08:51Z"
+          "published_at": "2026-09-02T16:18:31Z"
         },
         {
-          "id": "7b68d5b361c9f8da9cb21ef51bb8437e316b9d5f",
-          "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
-          "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+          "id": "17873415aba98e677f45c6fb031c445c0157b1ef",
+          "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
           "source": "Google DeepMind：Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-01T17:08:51Z"
+          "published_at": "2026-09-02T16:18:31Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8469,
-      "importance": 0.8469,
-      "importance_score": 0.8469,
+      "score": 0.8452,
+      "importance": 0.8452,
+      "importance_score": 0.8452,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.833,
+        "recency": 0.8234,
         "story_heat": 0.25
       },
       "category": "official",
@@ -338,79 +237,79 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T17:08:51Z",
-      "latest_at": "2026-09-01T17:08:51Z",
+      "earliest_at": "2026-09-02T16:18:31Z",
+      "latest_at": "2026-09-02T16:18:31Z",
       "primary_item": {
-        "id": "a6473259f31904c8b2a5ec6e629746de582bf604",
-        "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
-        "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+        "id": "bd563b2236eec5a4715fcd7bc0eeaccbb60fcc68",
+        "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型 / Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+        "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
         "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_ab183206da80",
-      "title": "Google Workspace 推出图像创作编辑工具 Google Pics / Try Google Pics: Easy image creation and editing in Google Workspace",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
-      "primary_url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
-      "source": "Google AI Blog",
+      "story_id": "story_ef02e4b156ea",
+      "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
+      "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9487318cd0d300b1e4d0b70c73f8d5514b32b82c",
-          "title": "Google Workspace 推出图像创作编辑工具 Google Pics / Try Google Pics: Easy image creation and editing in Google Workspace",
-          "url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
-          "source": "Google AI Blog",
+          "id": "264bb763f013e5868a70b4c5afb1043560d1c225",
+          "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-01T16:00:00Z"
+          "published_at": "2026-09-02T18:00:00Z"
         },
         {
-          "id": "feecd8823ba28b6793ad879284c39fb7e38e6f50",
-          "title": "Google Workspace 推出图像创作编辑工具 Google Pics",
-          "url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
-          "source": "Google Blog：AI（RSS）",
+          "id": "7ef1a0850c49c5e081f7f6cb2be3988626111f6b",
+          "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
+          "source": "GitHub Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-01T16:00:00Z"
+          "published_at": "2026-09-02T18:00:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Google AI Blog",
-        "Google Blog：AI（RSS）"
+        "GitHub AI & ML",
+        "GitHub Blog"
       ],
       "items": [
         {
-          "id": "9487318cd0d300b1e4d0b70c73f8d5514b32b82c",
-          "title": "Google Workspace 推出图像创作编辑工具 Google Pics / Try Google Pics: Easy image creation and editing in Google Workspace",
-          "url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
-          "source": "Google AI Blog",
+          "id": "264bb763f013e5868a70b4c5afb1043560d1c225",
+          "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-01T16:00:00Z"
+          "published_at": "2026-09-02T18:00:00Z"
         },
         {
-          "id": "feecd8823ba28b6793ad879284c39fb7e38e6f50",
-          "title": "Google Workspace 推出图像创作编辑工具 Google Pics",
-          "url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
-          "source": "Google Blog：AI（RSS）",
+          "id": "7ef1a0850c49c5e081f7f6cb2be3988626111f6b",
+          "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
+          "source": "GitHub Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-01T16:00:00Z"
+          "published_at": "2026-09-02T18:00:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8365,
-      "importance": 0.8365,
-      "importance_score": 0.8365,
+      "score": 0.8409,
+      "importance": 0.8409,
+      "importance_score": 0.8409,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8193,
+        "recency": 0.8438,
         "story_heat": 0.25
       },
       "category": "official",
@@ -420,32 +319,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T16:00:00Z",
-      "latest_at": "2026-09-01T16:00:00Z",
+      "earliest_at": "2026-09-02T18:00:00Z",
+      "latest_at": "2026-09-02T18:00:00Z",
       "primary_item": {
-        "id": "9487318cd0d300b1e4d0b70c73f8d5514b32b82c",
-        "title": "Google Workspace 推出图像创作编辑工具 Google Pics / Try Google Pics: Easy image creation and editing in Google Workspace",
-        "url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
-        "source": "Google AI Blog",
+        "id": "264bb763f013e5868a70b4c5afb1043560d1c225",
+        "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_0c25a1726c5a",
-      "title": "Copilot code review can now approve pull requests",
-      "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
-      "primary_url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+      "story_id": "story_57ac748e3e56",
+      "title": "Content exclusions generally available in Copilot app and CLI",
+      "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
+      "primary_url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7fe026886f00f276068d47a924a9fa9f702a99cb",
-          "title": "Copilot code review can now approve pull requests",
-          "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+          "id": "f99c5aaf224a9ee03e3bf2a2c1a36c5765c17b7d",
+          "title": "Content exclusions generally available in Copilot app and CLI",
+          "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-01T19:25:57Z"
+          "published_at": "2026-09-02T18:14:23Z"
         }
       ],
       "source_count": 1,
@@ -454,26 +353,26 @@
       ],
       "items": [
         {
-          "id": "7fe026886f00f276068d47a924a9fa9f702a99cb",
-          "title": "Copilot code review can now approve pull requests",
-          "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+          "id": "f99c5aaf224a9ee03e3bf2a2c1a36c5765c17b7d",
+          "title": "Content exclusions generally available in Copilot app and CLI",
+          "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-01T19:25:57Z"
+          "published_at": "2026-09-02T18:14:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.861,
+        "recency": 0.8467,
         "story_heat": 0.0
       },
       "category": "official",
@@ -482,60 +381,184 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T19:25:57Z",
-      "latest_at": "2026-09-01T19:25:57Z",
+      "earliest_at": "2026-09-02T18:14:23Z",
+      "latest_at": "2026-09-02T18:14:23Z",
       "primary_item": {
-        "id": "7fe026886f00f276068d47a924a9fa9f702a99cb",
-        "title": "Copilot code review can now approve pull requests",
-        "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+        "id": "f99c5aaf224a9ee03e3bf2a2c1a36c5765c17b7d",
+        "title": "Content exclusions generally available in Copilot app and CLI",
+        "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_dee6f3cdf3d7",
-      "title": "Enterprise Live Migrations from GHES to ghe.com generally available",
-      "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
-      "source": "GitHub Changelog",
+      "story_id": "story_22915ca8a273",
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "primary_url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d4b637ff3e090a5f1708d7d65d68680df846162b",
-          "title": "Enterprise Live Migrations from GHES to ghe.com generally available",
-          "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
-          "source": "GitHub Changelog",
+          "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
+          "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-01T22:24:27Z"
+          "published_at": "2026-09-02T13:49:14Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "d4b637ff3e090a5f1708d7d65d68680df846162b",
-          "title": "Enterprise Live Migrations from GHES to ghe.com generally available",
-          "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
-          "source": "GitHub Changelog",
+          "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
+          "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-01T22:24:27Z"
+          "published_at": "2026-09-02T13:49:14Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8258,
-      "importance": 0.8258,
-      "importance_score": 0.8258,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7944,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T13:49:14Z",
+      "latest_at": "2026-09-02T13:49:14Z",
+      "primary_item": {
+        "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
+        "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+        "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b07b0b2b4d66",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "primary_url": "https://openai.com/index/atv-big-air-tour",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "16f498096a95b114de9ff4a9d3b4a452c37314db",
+          "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+          "url": "https://openai.com/index/atv-big-air-tour",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-02T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "16f498096a95b114de9ff4a9d3b4a452c37314db",
+          "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+          "url": "https://openai.com/index/atv-big-air-tour",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-02T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8193,
+      "importance": 0.8193,
+      "importance_score": 0.8193,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7737,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T12:00:00Z",
+      "latest_at": "2026-09-02T12:00:00Z",
+      "primary_item": {
+        "id": "16f498096a95b114de9ff4a9d3b4a452c37314db",
+        "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+        "url": "https://openai.com/index/atv-big-air-tour",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7f0cad5ff04b",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6a6e98d2615f2621f30dd301faf751798e988daa",
+          "title": "Proactive cyber defense for governments and enterprises",
+          "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-02T15:40:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "6a6e98d2615f2621f30dd301faf751798e988daa",
+          "title": "Proactive cyber defense for governments and enterprises",
+          "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-02T15:40:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8987,
+        "recency": 0.8158,
         "story_heat": 0.0
       },
       "category": "official",
@@ -544,37 +567,99 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T22:24:27Z",
-      "latest_at": "2026-09-01T22:24:27Z",
+      "earliest_at": "2026-09-02T15:40:00Z",
+      "latest_at": "2026-09-02T15:40:00Z",
       "primary_item": {
-        "id": "d4b637ff3e090a5f1708d7d65d68680df846162b",
-        "title": "Enterprise Live Migrations from GHES to ghe.com generally available",
-        "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
-        "source": "GitHub Changelog",
+        "id": "6a6e98d2615f2621f30dd301faf751798e988daa",
+        "title": "Proactive cyber defense for governments and enterprises",
+        "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
+        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_e9817b7fa884",
-      "title": "Perplexity 上线“混合计算”：敏感数据交给本地模型，隐私、成本由你说了算",
-      "url": "https://www.aibase.com/news/30768",
-      "primary_url": "https://www.aibase.com/news/30768",
+      "story_id": "story_87d57cde9876",
+      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+      "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
+      "primary_url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
+          "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+          "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-02T21:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
+          "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+          "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-02T21:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8811,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T21:00:00Z",
+      "latest_at": "2026-09-02T21:00:00Z",
+      "primary_item": {
+        "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
+        "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+        "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9aa760e75223",
+      "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
+      "url": "https://www.aibase.com/news/30793",
+      "primary_url": "https://www.aibase.com/news/30793",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "16e24df1699ed5e0c4713bd05d97e40999910ebd",
-          "title": "Perplexity 上线“混合计算”：敏感数据交给本地模型，隐私、成本由你说了算",
-          "url": "https://www.aibase.com/news/30768",
+          "id": "60a988249c7104fdebeba2f1847ff03797aa22e3",
+          "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
+          "url": "https://www.aibase.com/news/30793",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-02T05:48:00.403833Z"
+          "published_at": "2026-09-03T05:45:47.519899Z"
         },
         {
-          "id": "9836e885d82c1cdf9b6026cdc71cf862db14a038",
-          "title": "Perplexity 上线「混合计算」：敏感数据交给本地模型，隐私、成本由你说了算",
-          "url": "https://www.aibase.com/zh/news/30768",
+          "id": "208670c7f614f3fd5856328db68d157cab0df0e2",
+          "title": "AI 提前 9.24 小时「听见」太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
+          "url": "https://www.aibase.com/zh/news/30793",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -588,18 +673,18 @@
       ],
       "items": [
         {
-          "id": "16e24df1699ed5e0c4713bd05d97e40999910ebd",
-          "title": "Perplexity 上线“混合计算”：敏感数据交给本地模型，隐私、成本由你说了算",
-          "url": "https://www.aibase.com/news/30768",
+          "id": "60a988249c7104fdebeba2f1847ff03797aa22e3",
+          "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
+          "url": "https://www.aibase.com/news/30793",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-02T05:48:00.403833Z"
+          "published_at": "2026-09-03T05:45:47.519899Z"
         },
         {
-          "id": "9836e885d82c1cdf9b6026cdc71cf862db14a038",
-          "title": "Perplexity 上线「混合计算」：敏感数据交给本地模型，隐私、成本由你说了算",
-          "url": "https://www.aibase.com/zh/news/30768",
+          "id": "208670c7f614f3fd5856328db68d157cab0df0e2",
+          "title": "AI 提前 9.24 小时「听见」太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
+          "url": "https://www.aibase.com/zh/news/30793",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -625,298 +710,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-02T05:48:00.403833Z",
-      "latest_at": "2026-09-02T05:48:00.403833Z",
+      "earliest_at": "2026-09-03T05:45:47.519899Z",
+      "latest_at": "2026-09-03T05:45:47.519899Z",
       "primary_item": {
-        "id": "16e24df1699ed5e0c4713bd05d97e40999910ebd",
-        "title": "Perplexity 上线“混合计算”：敏感数据交给本地模型，隐私、成本由你说了算",
-        "url": "https://www.aibase.com/news/30768",
+        "id": "60a988249c7104fdebeba2f1847ff03797aa22e3",
+        "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
+        "url": "https://www.aibase.com/news/30793",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_4df22e291125",
-      "title": "The latest AI news we announced in August 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8c3ae7bc3606eddee7d89d3e842175c6be7981c1",
-          "title": "The latest AI news we announced in August 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T20:45:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "8c3ae7bc3606eddee7d89d3e842175c6be7981c1",
-          "title": "The latest AI news we announced in August 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T20:45:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8775,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T20:45:00Z",
-      "latest_at": "2026-09-01T20:45:00Z",
-      "primary_item": {
-        "id": "8c3ae7bc3606eddee7d89d3e842175c6be7981c1",
-        "title": "The latest AI news we announced in August 2026",
-        "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3b5f2688fec1",
-      "title": "How AI-native companies turn workflows into operating capability",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "primary_url": "https://openai.com/index/ai-native-company-workflows",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d2442e95c27315c0dc37c732237ceff1d778958a",
-          "title": "How AI-native companies turn workflows into operating capability",
-          "url": "https://openai.com/index/ai-native-company-workflows",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "d2442e95c27315c0dc37c732237ceff1d778958a",
-          "title": "How AI-native companies turn workflows into operating capability",
-          "url": "https://openai.com/index/ai-native-company-workflows",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8216,
-      "importance": 0.8216,
-      "importance_score": 0.8216,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8312,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T17:00:00Z",
-      "latest_at": "2026-09-01T17:00:00Z",
-      "primary_item": {
-        "id": "d2442e95c27315c0dc37c732237ceff1d778958a",
-        "title": "How AI-native companies turn workflows into operating capability",
-        "url": "https://openai.com/index/ai-native-company-workflows",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d025034dd254",
-      "title": "Nvidia 接近以 129 亿美元收购 Hugging Face",
-      "url": "https://x.com/rohanpaul_ai/status/2094975190468010368",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2094975190468010368",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "51993ab8eed7967ab126592d4b53090b364c16cf",
-          "title": "Nvidia 接近以 129 亿美元收购 Hugging Face",
-          "url": "https://x.com/rohanpaul_ai/status/2094975190468010368",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T02:26:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "51993ab8eed7967ab126592d4b53090b364c16cf",
-          "title": "Nvidia 接近以 129 亿美元收购 Hugging Face",
-          "url": "https://x.com/rohanpaul_ai/status/2094975190468010368",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T02:26:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7891,
-      "importance": 0.7891,
-      "importance_score": 0.7891,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9526,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T02:26:22Z",
-      "latest_at": "2026-09-02T02:26:22Z",
-      "primary_item": {
-        "id": "51993ab8eed7967ab126592d4b53090b364c16cf",
-        "title": "Nvidia 接近以 129 亿美元收购 Hugging Face",
-        "url": "https://x.com/rohanpaul_ai/status/2094975190468010368",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_863f41b4805d",
-      "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-      "url": "https://www.ithome.com/0/997/147.htm",
-      "primary_url": "https://www.ithome.com/0/997/147.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5185e25016efc4497b35a35d691c0680728e6658",
-          "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-          "url": "https://www.ithome.com/0/997/147.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-01T12:40:19Z"
-        },
-        {
-          "id": "7d77df56468582a12c16f118a1cb9a147d61870a",
-          "title": "美国 AI 数据中心现大量“幽灵用电需求”，多州出手整治",
-          "url": "https://www.ithome.com/0/997/147.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-01T12:40:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5185e25016efc4497b35a35d691c0680728e6658",
-          "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-          "url": "https://www.ithome.com/0/997/147.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-01T12:40:19Z"
-        },
-        {
-          "id": "7d77df56468582a12c16f118a1cb9a147d61870a",
-          "title": "美国 AI 数据中心现大量“幽灵用电需求”，多州出手整治",
-          "url": "https://www.ithome.com/0/997/147.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-01T12:40:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7809,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T12:40:19Z",
-      "latest_at": "2026-09-01T12:40:19Z",
-      "primary_item": {
-        "id": "5185e25016efc4497b35a35d691c0680728e6658",
-        "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
-        "url": "https://www.ithome.com/0/997/147.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7c7d6b4d3259",
-      "title": "Claude Fable 5.1 is generally available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot",
+      "story_id": "story_3e5f44485fb9",
+      "title": "Enterprise-managed settings support any default model",
+      "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+      "primary_url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5c39fd45760df276f4fece1ddc3c6292d6ec5949",
-          "title": "Claude Fable 5.1 is generally available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot",
+          "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
+          "title": "Enterprise-managed settings support any default model",
+          "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-01T14:29:23Z"
+          "published_at": "2026-09-02T18:51:12Z"
         }
       ],
       "source_count": 1,
@@ -925,26 +744,26 @@
       ],
       "items": [
         {
-          "id": "5c39fd45760df276f4fece1ddc3c6292d6ec5949",
-          "title": "Claude Fable 5.1 is generally available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot",
+          "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
+          "title": "Enterprise-managed settings support any default model",
+          "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-01T14:29:23Z"
+          "published_at": "2026-09-02T18:51:12Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8243,
-      "importance": 0.8243,
-      "importance_score": 0.8243,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8016,
+        "ai_relevance": 0.87,
+        "recency": 0.8542,
         "story_heat": 0.0
       },
       "category": "official",
@@ -953,60 +772,60 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T14:29:23Z",
-      "latest_at": "2026-09-01T14:29:23Z",
+      "earliest_at": "2026-09-02T18:51:12Z",
+      "latest_at": "2026-09-02T18:51:12Z",
       "primary_item": {
-        "id": "5c39fd45760df276f4fece1ddc3c6292d6ec5949",
-        "title": "Claude Fable 5.1 is generally available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot",
+        "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
+        "title": "Enterprise-managed settings support any default model",
+        "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_eca6b9ac014e",
-      "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%",
-      "url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "story_id": "story_63a7f1fab993",
+      "title": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
+      "url": "https://www.ithome.com/0/997/732.htm",
+      "primary_url": "https://www.ithome.com/0/997/732.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "209ff39986b35842ffbee982c003f215f2da4ae3",
-          "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%",
-          "url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "id": "fad2dfd74493c51695248651d542e181fd7d16ca",
+          "title": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
+          "url": "https://www.ithome.com/0/997/732.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-01T20:12:46Z"
+          "published_at": "2026-09-02T23:50:05Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "209ff39986b35842ffbee982c003f215f2da4ae3",
-          "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%",
-          "url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "id": "fad2dfd74493c51695248651d542e181fd7d16ca",
+          "title": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
+          "url": "https://www.ithome.com/0/997/732.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-01T20:12:46Z"
+          "published_at": "2026-09-02T23:50:05Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.7738,
+      "importance": 0.7738,
+      "importance_score": 0.7738,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8707,
+        "recency": 0.918,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1014,109 +833,189 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T20:12:46Z",
-      "latest_at": "2026-09-01T20:12:46Z",
+      "earliest_at": "2026-09-02T23:50:05Z",
+      "latest_at": "2026-09-02T23:50:05Z",
       "primary_item": {
-        "id": "209ff39986b35842ffbee982c003f215f2da4ae3",
-        "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%",
-        "url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "id": "fad2dfd74493c51695248651d542e181fd7d16ca",
+        "title": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
+        "url": "https://www.ithome.com/0/997/732.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_50e05f9b472e",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "primary_url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_bb8e9db98bdf",
+      "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
+      "url": "https://x.com/kimmonismus/status/2095265444999410146",
+      "primary_url": "https://x.com/kimmonismus/status/2095265444999410146",
+      "source": "X：Kim (@kimmonismus)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "7a67f17ba50439bcdd9c0e031cdf68e41a427274",
-          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T12:00:00Z"
+          "id": "8d54c9435dccfb28ee0d5c0b588314b1b4d4257d",
+          "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
+          "url": "https://x.com/kimmonismus/status/2095265444999410146",
+          "source": "X：Kim (@kimmonismus)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-02T21:39:44Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "X：Kim (@kimmonismus)"
       ],
       "items": [
         {
-          "id": "7a67f17ba50439bcdd9c0e031cdf68e41a427274",
-          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T12:00:00Z"
+          "id": "8d54c9435dccfb28ee0d5c0b588314b1b4d4257d",
+          "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
+          "url": "https://x.com/kimmonismus/status/2095265444999410146",
+          "source": "X：Kim (@kimmonismus)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-02T21:39:44Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.8192,
-      "importance_score": 0.8192,
-      "importance_label": "官方更新",
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7733,
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8896,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T12:00:00Z",
-      "latest_at": "2026-09-01T12:00:00Z",
+      "earliest_at": "2026-09-02T21:39:44Z",
+      "latest_at": "2026-09-02T21:39:44Z",
       "primary_item": {
-        "id": "7a67f17ba50439bcdd9c0e031cdf68e41a427274",
-        "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-        "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "8d54c9435dccfb28ee0d5c0b588314b1b4d4257d",
+        "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
+        "url": "https://x.com/kimmonismus/status/2095265444999410146",
+        "source": "X：Kim (@kimmonismus)",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_4f2f7c3bfee5",
-      "title": "Qwen3.8-Max-0902 登顶 Code Arena 并以 $5/MToken 领跑 Pareto 前沿",
-      "url": "https://x.com/Alibaba_Qwen/status/2094982928371794077",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2094982928371794077",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "story_id": "story_85df40f91850",
+      "title": "司法部首次就 AI 版权公开表态：力挺 OpenAI，主张 AI 训练属“合理使用”",
+      "url": "https://www.aibase.com/news/30798",
+      "primary_url": "https://www.aibase.com/news/30798",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "30d28e0602e9986ae6eca08670cf9b110958f47d",
+          "title": "司法部首次就 AI 版权公开表态：力挺 OpenAI，主张 AI 训练属“合理使用”",
+          "url": "https://www.aibase.com/news/30798",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T05:45:47.519899Z"
+        },
+        {
+          "id": "1c3adf99424141d25b617e77b54c49ab47d77bf8",
+          "title": "司法部首次就 AI 版权公开表态：力挺 OpenAI，主张 AI 训练属「合理使用」",
+          "url": "https://www.aibase.com/zh/news/30798",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "30d28e0602e9986ae6eca08670cf9b110958f47d",
+          "title": "司法部首次就 AI 版权公开表态：力挺 OpenAI，主张 AI 训练属“合理使用”",
+          "url": "https://www.aibase.com/news/30798",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T05:45:47.519899Z"
+        },
+        {
+          "id": "1c3adf99424141d25b617e77b54c49ab47d77bf8",
+          "title": "司法部首次就 AI 版权公开表态：力挺 OpenAI，主张 AI 训练属「合理使用」",
+          "url": "https://www.aibase.com/zh/news/30798",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T05:45:47.519899Z",
+      "latest_at": "2026-09-03T05:45:47.519899Z",
+      "primary_item": {
+        "id": "30d28e0602e9986ae6eca08670cf9b110958f47d",
+        "title": "司法部首次就 AI 版权公开表态：力挺 OpenAI，主张 AI 训练属“合理使用”",
+        "url": "https://www.aibase.com/news/30798",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dbc078d5a4e3",
+      "title": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升",
+      "url": "https://x.com/alexandr_wang/status/2095249704888197175",
+      "primary_url": "https://x.com/alexandr_wang/status/2095249704888197175",
+      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "bf7ff596b4fbf21fbc14f377b6d9a4d9b3375df1",
-          "title": "Qwen3.8-Max-0902 登顶 Code Arena 并以 $5/MToken 领跑 Pareto 前沿",
-          "url": "https://x.com/Alibaba_Qwen/status/2094982928371794077",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "id": "59310af844c3b24aaa4189d33f8e74b7fcb34dc8",
+          "title": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升",
+          "url": "https://x.com/alexandr_wang/status/2095249704888197175",
+          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-02T02:57:07Z"
+          "published_at": "2026-09-02T20:37:12Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+        "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)"
       ],
       "items": [
         {
-          "id": "bf7ff596b4fbf21fbc14f377b6d9a4d9b3375df1",
-          "title": "Qwen3.8-Max-0902 登顶 Code Arena 并以 $5/MToken 领跑 Pareto 前沿",
-          "url": "https://x.com/Alibaba_Qwen/status/2094982928371794077",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "id": "59310af844c3b24aaa4189d33f8e74b7fcb34dc8",
+          "title": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升",
+          "url": "https://x.com/alexandr_wang/status/2095249704888197175",
+          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-02T02:57:07Z"
+          "published_at": "2026-09-02T20:37:12Z"
         }
       ],
       "item_count": 1,
@@ -1126,265 +1025,344 @@
       "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.68,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9597,
+        "recency": 0.8763,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-02T02:57:07Z",
-      "latest_at": "2026-09-02T02:57:07Z",
+      "earliest_at": "2026-09-02T20:37:12Z",
+      "latest_at": "2026-09-02T20:37:12Z",
       "primary_item": {
-        "id": "bf7ff596b4fbf21fbc14f377b6d9a4d9b3375df1",
-        "title": "Qwen3.8-Max-0902 登顶 Code Arena 并以 $5/MToken 领跑 Pareto 前沿",
-        "url": "https://x.com/Alibaba_Qwen/status/2094982928371794077",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "id": "59310af844c3b24aaa4189d33f8e74b7fcb34dc8",
+        "title": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升",
+        "url": "https://x.com/alexandr_wang/status/2095249704888197175",
+        "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_343081151d8b",
-      "title": "美团 LongCat-2.0 上线 Cline 免费试用",
-      "url": "https://x.com/Meituan_LongCat/status/2094996391387111865",
-      "primary_url": "https://x.com/Meituan_LongCat/status/2094996391387111865",
-      "source": "X：美团 LongCat (@Meituan_LongCat)",
+      "story_id": "story_455599cea252",
+      "title": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+      "source": "The Verge：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4be9212e2c318fe38d9e6d53449ea140d17ececb",
-          "title": "美团 LongCat-2.0 上线 Cline 免费试用",
-          "url": "https://x.com/Meituan_LongCat/status/2094996391387111865",
-          "source": "X：美团 LongCat (@Meituan_LongCat)",
+          "id": "aa94a40b65d18b345f373bb35e8636a13f859fd9",
+          "title": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+          "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-02T03:50:37Z"
+          "published_at": "2026-09-02T14:35:03Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：美团 LongCat (@Meituan_LongCat)"
+        "The Verge：AI（RSS）"
       ],
       "items": [
         {
-          "id": "4be9212e2c318fe38d9e6d53449ea140d17ececb",
-          "title": "美团 LongCat-2.0 上线 Cline 免费试用",
-          "url": "https://x.com/Meituan_LongCat/status/2094996391387111865",
-          "source": "X：美团 LongCat (@Meituan_LongCat)",
+          "id": "aa94a40b65d18b345f373bb35e8636a13f859fd9",
+          "title": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+          "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-02T03:50:37Z"
+          "published_at": "2026-09-02T14:35:03Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.67,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9721,
+        "recency": 0.8032,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-02T03:50:37Z",
-      "latest_at": "2026-09-02T03:50:37Z",
+      "earliest_at": "2026-09-02T14:35:03Z",
+      "latest_at": "2026-09-02T14:35:03Z",
       "primary_item": {
-        "id": "4be9212e2c318fe38d9e6d53449ea140d17ececb",
-        "title": "美团 LongCat-2.0 上线 Cline 免费试用",
-        "url": "https://x.com/Meituan_LongCat/status/2094996391387111865",
-        "source": "X：美团 LongCat (@Meituan_LongCat)",
+        "id": "aa94a40b65d18b345f373bb35e8636a13f859fd9",
+        "title": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+        "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_6cbde97d8260",
-      "title": "UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685772&idx=1&sn=a073c30899a7f420147673def8209609",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685772&idx=1&sn=a073c30899a7f420147673def8209609",
-      "source": "公众号：数字生命卡兹克",
+      "story_id": "story_3e603eb7bfd7",
+      "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+      "url": "https://x.com/claudeai/status/2095226833293685100",
+      "primary_url": "https://x.com/claudeai/status/2095226833293685100",
+      "source": "X：Claude (@claudeai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9521b8f8095c91c3c9eb3086448b8696ec57c408",
-          "title": "UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685772&idx=1&sn=a073c30899a7f420147673def8209609",
-          "source": "公众号：数字生命卡兹克",
+          "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
+          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+          "url": "https://x.com/claudeai/status/2095226833293685100",
+          "source": "X：Claude (@claudeai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-02T03:32:20Z"
+          "published_at": "2026-09-02T19:06:19Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：数字生命卡兹克"
+        "X：Claude (@claudeai)"
       ],
       "items": [
         {
-          "id": "9521b8f8095c91c3c9eb3086448b8696ec57c408",
-          "title": "UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685772&idx=1&sn=a073c30899a7f420147673def8209609",
-          "source": "公众号：数字生命卡兹克",
+          "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
+          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+          "url": "https://x.com/claudeai/status/2095226833293685100",
+          "source": "X：Claude (@claudeai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-02T03:32:20Z"
+          "published_at": "2026-09-02T19:06:19Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7408,
-      "importance": 0.7408,
-      "importance_score": 0.7408,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.65,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9679,
+        "recency": 0.8574,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-02T03:32:20Z",
-      "latest_at": "2026-09-02T03:32:20Z",
+      "earliest_at": "2026-09-02T19:06:19Z",
+      "latest_at": "2026-09-02T19:06:19Z",
       "primary_item": {
-        "id": "9521b8f8095c91c3c9eb3086448b8696ec57c408",
-        "title": "UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685772&idx=1&sn=a073c30899a7f420147673def8209609",
-        "source": "公众号：数字生命卡兹克",
+        "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
+        "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+        "url": "https://x.com/claudeai/status/2095226833293685100",
+        "source": "X：Claude (@claudeai)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_a76c25d2df14",
-      "title": "Anthropic 双发 Claude Fable 5.1 与 Mythos 5.1：编程跑分翻倍，缓存读取费用直降 75%",
-      "url": "https://www.aibase.com/news/30767",
-      "primary_url": "https://www.aibase.com/news/30767",
+      "story_id": "story_4d906252e517",
+      "title": "月之暗面秘密递交港交所A1文件，开启IPO并以500亿美元估值寻融资",
+      "url": "https://www.aibase.com/news/30795",
+      "primary_url": "https://www.aibase.com/news/30795",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cfeb69d1071fa4c018fd94fe73ca802dafb80a87",
-          "title": "Anthropic 双发 Claude Fable 5.1 与 Mythos 5.1：编程跑分翻倍，缓存读取费用直降 75%",
-          "url": "https://www.aibase.com/news/30767",
+          "id": "60a404d9ec092757bbddfb5ba4c3b104c8ef44b3",
+          "title": "月之暗面秘密递交港交所A1文件，开启IPO并以500亿美元估值寻融资",
+          "url": "https://www.aibase.com/news/30795",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-02T05:48:00.403833Z"
+          "published_at": "2026-09-03T05:45:47.519899Z"
+        },
+        {
+          "id": "de7cd1d64abe4a7d598be5bd3ba16c7ae18d1483",
+          "title": "月之暗面秘密递交港交所 A1 文件，启动 IPO 并以 500 亿美元估值寻融资",
+          "url": "https://www.aibase.com/zh/news/30795",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "cfeb69d1071fa4c018fd94fe73ca802dafb80a87",
-          "title": "Anthropic 双发 Claude Fable 5.1 与 Mythos 5.1：编程跑分翻倍，缓存读取费用直降 75%",
-          "url": "https://www.aibase.com/news/30767",
+          "id": "60a404d9ec092757bbddfb5ba4c3b104c8ef44b3",
+          "title": "月之暗面秘密递交港交所A1文件，开启IPO并以500亿美元估值寻融资",
+          "url": "https://www.aibase.com/news/30795",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-02T05:48:00.403833Z"
+          "published_at": "2026-09-03T05:45:47.519899Z"
+        },
+        {
+          "id": "de7cd1d64abe4a7d598be5bd3ba16c7ae18d1483",
+          "title": "月之暗面秘密递交港交所 A1 文件，启动 IPO 并以 500 亿美元估值寻融资",
+          "url": "https://www.aibase.com/zh/news/30795",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-02T05:48:00.403833Z",
-      "latest_at": "2026-09-02T05:48:00.403833Z",
+      "earliest_at": "2026-09-03T05:45:47.519899Z",
+      "latest_at": "2026-09-03T05:45:47.519899Z",
       "primary_item": {
-        "id": "cfeb69d1071fa4c018fd94fe73ca802dafb80a87",
-        "title": "Anthropic 双发 Claude Fable 5.1 与 Mythos 5.1：编程跑分翻倍，缓存读取费用直降 75%",
-        "url": "https://www.aibase.com/news/30767",
+        "id": "60a404d9ec092757bbddfb5ba4c3b104c8ef44b3",
+        "title": "月之暗面秘密递交港交所A1文件，开启IPO并以500亿美元估值寻融资",
+        "url": "https://www.aibase.com/news/30795",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_ba1eceb0c7fc",
-      "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
-      "url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "story_id": "story_20f546620d3c",
+      "title": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环",
+      "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
+      "primary_url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
+      "source": "Google AI：DEV 作者专属（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "541ec9d2c0068956dc4cb240382160f9f8e409f3",
-          "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
-          "url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "id": "c2620b02650bc64857d143863c0b48e606b2625d",
+          "title": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环",
+          "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
+          "source": "Google AI：DEV 作者专属（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-01T19:43:09Z"
+          "published_at": "2026-09-02T15:28:05Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "Google AI：DEV 作者专属（RSS）"
       ],
       "items": [
         {
-          "id": "541ec9d2c0068956dc4cb240382160f9f8e409f3",
-          "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
-          "url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "id": "c2620b02650bc64857d143863c0b48e606b2625d",
+          "title": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环",
+          "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
+          "source": "Google AI：DEV 作者专属（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-01T19:43:09Z"
+          "published_at": "2026-09-02T15:28:05Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.725,
+      "importance": 0.725,
+      "importance_score": 0.725,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8645,
+        "recency": 0.8135,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-01T19:43:09Z",
-      "latest_at": "2026-09-01T19:43:09Z",
+      "earliest_at": "2026-09-02T15:28:05Z",
+      "latest_at": "2026-09-02T15:28:05Z",
       "primary_item": {
-        "id": "541ec9d2c0068956dc4cb240382160f9f8e409f3",
-        "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
-        "url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "id": "c2620b02650bc64857d143863c0b48e606b2625d",
+        "title": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环",
+        "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
+        "source": "Google AI：DEV 作者专属（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5a5e9897b557",
+      "title": "Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布",
+      "url": "https://x.com/alexandr_wang/status/2095318449602138577",
+      "primary_url": "https://x.com/alexandr_wang/status/2095318449602138577",
+      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6b548c700051f885f26fea09ea77a698537432d1",
+          "title": "Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布",
+          "url": "https://x.com/alexandr_wang/status/2095318449602138577",
+          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T01:10:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)"
+      ],
+      "items": [
+        {
+          "id": "6b548c700051f885f26fea09ea77a698537432d1",
+          "title": "Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布",
+          "url": "https://x.com/alexandr_wang/status/2095318449602138577",
+          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T01:10:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9359,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-03T01:10:22Z",
+      "latest_at": "2026-09-03T01:10:22Z",
+      "primary_item": {
+        "id": "6b548c700051f885f26fea09ea77a698537432d1",
+        "title": "Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布",
+        "url": "https://x.com/alexandr_wang/status/2095318449602138577",
+        "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
         "source_name": "AI HOT"
       }
     }
