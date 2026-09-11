@@ -21,7 +21,8 @@ on:
 
 concurrency:
   group: update-ai-news-${{ github.ref }}
-  cancel-in-progress: true
+  # Queue overlapping refreshes so a slow run cannot cancel its Feishu fallback.
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -138,6 +139,9 @@ jobs:
   send-daily-fallback:
     name: Send daily fallback after snapshot update
     needs: update
+    # Even if the refresh job times out or is cancelled, run the fallback
+    # against the latest committed snapshot and let the date guard deduplicate.
+    if: always()
     timeout-minutes: 10
     runs-on: ubuntu-latest
     steps:
