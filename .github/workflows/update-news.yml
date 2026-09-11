@@ -29,7 +29,7 @@ permissions:
 
 jobs:
   update:
-    timeout-minutes: 15
+    timeout-minutes: 30
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -170,6 +170,14 @@ jobs:
           fi
 
           git fetch origin "$branch"
+          snapshot_date=""
+          if [ -f data/latest-24h.json ]; then
+            if snapshot_date="$(python -c 'import json; from datetime import datetime; from zoneinfo import ZoneInfo; value=json.load(open("data/latest-24h.json", encoding="utf-8")).get("generated_at", ""); print(datetime.fromisoformat(value.replace("Z", "+00:00")).astimezone(ZoneInfo("Asia/Shanghai")).date().isoformat())' 2>/dev/null)"; then
+              :
+            else
+              snapshot_date=""
+            fi
+          fi
           sent_date=""
           if git cat-file -e "origin/$branch:data/feishu-daily-state.json" 2>/dev/null; then
             sent_date="$(git show "origin/$branch:data/feishu-daily-state.json" | python -c 'import json, sys; print((json.load(sys.stdin).get("last_sent_date") or ""))')"
@@ -177,6 +185,9 @@ jobs:
           if [ "$sent_date" = "$beijing_date" ]; then
             should_send="false"
             reason="already sent for $beijing_date"
+          elif [ "$snapshot_date" != "$beijing_date" ]; then
+            should_send="false"
+            reason="snapshot is stale or missing for $beijing_date (generated date: ${snapshot_date:-unknown})"
           fi
 
           echo "Beijing now: $beijing_now"
