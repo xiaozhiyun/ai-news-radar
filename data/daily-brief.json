@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T14:12:30.545869Z",
+  "generated_at": "2026-09-12T17:11:16.135123Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8243,
-      "importance": 0.8243,
-      "importance_score": 0.8243,
+      "score": 0.8186,
+      "importance": 0.8186,
+      "importance_score": 0.8186,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7516,
+        "recency": 0.72,
         "story_heat": 0.25
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
+      "score": 0.8075,
+      "importance": 0.8075,
+      "importance_score": 0.8075,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7857,
+        "recency": 0.7526,
         "story_heat": 0.0
       },
       "category": "official",
@@ -282,15 +282,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8121,
-      "importance": 0.8121,
-      "importance_score": 0.8121,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8193,
+        "recency": 0.7848,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -382,15 +382,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8067,
-      "importance": 0.8067,
-      "importance_score": 0.8067,
+      "score": 0.8005,
+      "importance": 0.8005,
+      "importance_score": 0.8005,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8229,
+        "recency": 0.7882,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -407,88 +407,6 @@
         "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems",
         "source": "Simon Willison 博客",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c3aa33826442",
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "primary_url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2342e4759b03bcc9e1fdc6ec2451a4a3e853fe0b",
-          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-          "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T16:00:00Z"
-        },
-        {
-          "id": "8ddd45f0abce9be41f59f44f4545c2ccdcd0b824",
-          "title": "Cognition helps Devin test its own work with GPT-6 Astra",
-          "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "2342e4759b03bcc9e1fdc6ec2451a4a3e853fe0b",
-          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-          "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T16:00:00Z"
-        },
-        {
-          "id": "8ddd45f0abce9be41f59f44f4545c2ccdcd0b824",
-          "title": "Cognition helps Devin test its own work with GPT-6 Astra",
-          "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8356,
-      "importance": 0.8356,
-      "importance_score": 0.8356,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7256,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-11T16:00:00Z",
-      "latest_at": "2026-09-12T01:34:26.253418Z",
-      "primary_item": {
-        "id": "2342e4759b03bcc9e1fdc6ec2451a4a3e853fe0b",
-        "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-        "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -564,15 +482,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.802,
-      "importance": 0.802,
-      "importance_score": 0.802,
+      "score": 0.7955,
+      "importance": 0.7955,
+      "importance_score": 0.7955,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8464,
+        "recency": 0.8108,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -626,15 +544,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8104,
-      "importance": 0.8104,
-      "importance_score": 0.8104,
+      "score": 0.8046,
+      "importance": 0.8046,
+      "importance_score": 0.8046,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7688,
+        "recency": 0.7364,
         "story_heat": 0.0
       },
       "category": "official",
@@ -651,6 +569,67 @@
         "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4e2dca866221",
+      "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+      "url": "https://x.com/sama/status/2098811563415150910",
+      "primary_url": "https://x.com/sama/status/2098811563415150910",
+      "source": "X：Sam Altman (@sama)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
+          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+          "url": "https://x.com/sama/status/2098811563415150910",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:30:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sam Altman (@sama)"
+      ],
+      "items": [
+        {
+          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
+          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+          "url": "https://x.com/sama/status/2098811563415150910",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:30:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7719,
+      "importance": 0.7719,
+      "importance_score": 0.7719,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9903,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T16:30:45Z",
+      "latest_at": "2026-09-12T16:30:45Z",
+      "primary_item": {
+        "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
+        "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+        "url": "https://x.com/sama/status/2098811563415150910",
+        "source": "X：Sam Altman (@sama)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -707,15 +686,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7729,
-      "importance": 0.7729,
-      "importance_score": 0.7729,
+      "score": 0.7668,
+      "importance": 0.7668,
+      "importance_score": 0.7668,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8072,
+        "recency": 0.7732,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -735,261 +714,222 @@
       }
     },
     {
-      "story_id": "story_8f24b4306d6a",
-      "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
-      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "primary_url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "story_id": "story_fc4b9c1c0950",
+      "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+      "url": "https://suno.com/blog/introducing-v6",
+      "primary_url": "https://suno.com/blog/introducing-v6",
+      "source": "Suno：Blog（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
-          "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
+          "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+          "url": "https://suno.com/blog/introducing-v6",
+          "source": "Suno：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-11T16:28:11Z"
-        },
-        {
-          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
-          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "www.dwarkesh.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T08:31:36.686000Z"
-        },
-        {
-          "id": "2ac0315c36a085ca73eff64770a1f3faa6b99045",
-          "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T21:35:29Z"
+          "published_at": "2026-09-12T16:39:24.855000Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "Hacker News · 24h最热",
-        "www.dwarkesh.com"
+        "Suno：Blog（网页）"
       ],
       "items": [
         {
-          "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
-          "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
+          "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+          "url": "https://suno.com/blog/introducing-v6",
+          "source": "Suno：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-11T16:28:11Z"
-        },
-        {
-          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
-          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "www.dwarkesh.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T08:31:36.686000Z"
-        },
-        {
-          "id": "2ac0315c36a085ca73eff64770a1f3faa6b99045",
-          "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T21:35:29Z"
+          "published_at": "2026-09-12T16:39:24.855000Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.66,
+        "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7306,
-        "story_heat": 0.5
+        "recency": 0.9924,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-11T16:28:11Z",
-      "latest_at": "2026-09-12T08:31:36.686000Z",
+      "earliest_at": "2026-09-12T16:39:24.855000Z",
+      "latest_at": "2026-09-12T16:39:24.855000Z",
       "primary_item": {
-        "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
-        "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
-        "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
+        "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+        "url": "https://suno.com/blog/introducing-v6",
+        "source": "Suno：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_00e01bcf1dac",
-      "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-      "url": "https://www.aibase.com/news/31002",
-      "primary_url": "https://www.aibase.com/news/31002",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_c63b548b0537",
+      "title": "英伟达是人工智能领域的“中央银行”",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "primary_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "source": "www.economist.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
-          "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-          "url": "https://www.aibase.com/news/31002",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T15:12:42.853729Z"
+          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
+          "title": "英伟达是人工智能领域的“中央银行”",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T16:37:21.932000Z"
         },
         {
-          "id": "a1f92dc8eed5a34798b580b3e9451105de3ebd48",
-          "title": "具身智能的「ChatGPT 时刻」何时到来？百亿具身 CEO 与青年创业者外滩大会热议",
-          "url": "https://www.aibase.com/zh/news/31002",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "b38f7ecb2413d96c0852ce698ff2298257602b73",
+          "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T15:08:27Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Hacker News",
+        "www.economist.com"
       ],
       "items": [
         {
-          "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
-          "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-          "url": "https://www.aibase.com/news/31002",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T15:12:42.853729Z"
+          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
+          "title": "英伟达是人工智能领域的“中央银行”",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T16:37:21.932000Z"
         },
         {
-          "id": "a1f92dc8eed5a34798b580b3e9451105de3ebd48",
-          "title": "具身智能的「ChatGPT 时刻」何时到来？百亿具身 CEO 与青年创业者外滩大会热议",
-          "url": "https://www.aibase.com/zh/news/31002",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "b38f7ecb2413d96c0852ce698ff2298257602b73",
+          "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T15:08:27Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7417,
-      "importance": 0.7417,
-      "importance_score": 0.7417,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7174,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T15:12:42.853729Z",
-      "latest_at": "2026-09-11T15:12:42.853729Z",
-      "primary_item": {
-        "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
-        "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-        "url": "https://www.aibase.com/news/31002",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_62d35db41d4e",
-      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "primary_url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "ee641a3edd208e4cd6878f246be1b8bb3a551d17",
-          "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-11T14:25:21Z"
-        },
-        {
-          "id": "bc2d26d53888fa61645b8177bb96977879220bc6",
-          "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
-          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T14:25:21Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "ee641a3edd208e4cd6878f246be1b8bb3a551d17",
-          "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-11T14:25:21Z"
-        },
-        {
-          "id": "bc2d26d53888fa61645b8177bb96977879220bc6",
-          "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
-          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T14:25:21Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5632,
-      "importance": 0.5632,
-      "importance_score": 0.5632,
+      "score": 0.5443,
+      "importance": 0.5443,
+      "importance_score": 0.5443,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.7093,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9919,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-11T14:25:21Z",
-      "latest_at": "2026-09-11T14:25:21Z",
+      "earliest_at": "2026-09-12T15:08:27Z",
+      "latest_at": "2026-09-12T16:37:21.932000Z",
       "primary_item": {
-        "id": "ee641a3edd208e4cd6878f246be1b8bb3a551d17",
-        "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-        "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
+        "title": "英伟达是人工智能领域的“中央银行”",
+        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+        "source": "www.economist.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_1a2fd94dab00",
+      "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步",
+      "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+      "primary_url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "51ead0f3a98a837f5e3ba5d407b049cae0579aa2",
+          "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步",
+          "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T15:02:47.803000Z"
+        },
+        {
+          "id": "d94a55ab93d0749a1e07b301e6fae5cafde53564",
+          "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步 / Dario Amodei says OpenAI's Hugging Face hack helped convince him AI needs to slow down",
+          "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T14:43:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "51ead0f3a98a837f5e3ba5d407b049cae0579aa2",
+          "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步",
+          "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T15:02:47.803000Z"
+        },
+        {
+          "id": "d94a55ab93d0749a1e07b301e6fae5cafde53564",
+          "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步 / Dario Amodei says OpenAI's Hugging Face hack helped convince him AI needs to slow down",
+          "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T14:43:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5403,
+      "importance": 0.5403,
+      "importance_score": 0.5403,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9696,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T14:43:11Z",
+      "latest_at": "2026-09-12T15:02:47.803000Z",
+      "primary_item": {
+        "id": "51ead0f3a98a837f5e3ba5d407b049cae0579aa2",
+        "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步",
+        "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1046,15 +986,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9579,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1069,6 +1009,84 @@
         "url": "https://www.ithome.com/1/001/633.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_3cd3d9534aef",
+      "title": "[OpenAI] 现在怎么买 chatgpt plus",
+      "url": "https://www.v2ex.com/t/1241593",
+      "primary_url": "https://www.v2ex.com/t/1241593",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "2b8b8b1915f3a6450afe146e79f0fcba83cd0c21",
+          "title": "[OpenAI] 现在怎么买 chatgpt plus",
+          "url": "https://www.v2ex.com/t/1241593",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T13:46:39Z"
+        },
+        {
+          "id": "c027aa2b9093818ecf44fe8bb4dd4af30bea919d",
+          "title": "[问与答] 现在怎么买 chatgpt plus",
+          "url": "https://www.v2ex.com/t/1241593",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T13:46:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "2b8b8b1915f3a6450afe146e79f0fcba83cd0c21",
+          "title": "[OpenAI] 现在怎么买 chatgpt plus",
+          "url": "https://www.v2ex.com/t/1241593",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T13:46:39Z"
+        },
+        {
+          "id": "c027aa2b9093818ecf44fe8bb4dd4af30bea919d",
+          "title": "[问与答] 现在怎么买 chatgpt plus",
+          "url": "https://www.v2ex.com/t/1241593",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T13:46:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5372,
+      "importance": 0.5372,
+      "importance_score": 0.5372,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9519,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T13:46:39Z",
+      "latest_at": "2026-09-12T13:46:39Z",
+      "primary_item": {
+        "id": "2b8b8b1915f3a6450afe146e79f0fcba83cd0c21",
+        "title": "[OpenAI] 现在怎么买 chatgpt plus",
+        "url": "https://www.v2ex.com/t/1241593",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1125,15 +1143,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9585,
+        "recency": 0.9181,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1151,81 +1169,81 @@
       }
     },
     {
-      "story_id": "story_5118cb370fdd",
-      "title": "一位开发者就AI代码中的粗制滥造问题给Claude Code的创建者发了一封邮件。鲍里斯·切尔尼回复了这封邮件。",
-      "url": "https://www.businessinsider.com/claude-codes-creator-email-ai-slop-reply-2026-9",
-      "primary_url": "https://www.businessinsider.com/claude-codes-creator-email-ai-slop-reply-2026-9",
-      "source": "www.businessinsider.com",
+      "story_id": "story_8f24b4306d6a",
+      "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "primary_url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "source": "www.dwarkesh.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "8f9145618878b734cd6a4c3c24c11c7a3d4c4da5",
-          "title": "一位开发者就AI代码中的粗制滥造问题给Claude Code的创建者发了一封邮件。鲍里斯·切尔尼回复了这封邮件。",
-          "url": "https://www.businessinsider.com/claude-codes-creator-email-ai-slop-reply-2026-9",
-          "source": "www.businessinsider.com",
+          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
+          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "www.dwarkesh.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-12T10:04:38.036000Z"
+          "published_at": "2026-09-12T08:31:36.686000Z"
         },
         {
-          "id": "05c025cbbb8091a08fe2eb14a7ee522f309c5e3c",
-          "title": "一位开发者就AI代码中的粗制滥造问题给Claude Code的创建者发了一封邮件。鲍里斯·切尔尼回复了这封邮件。 / A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back.",
-          "url": "https://www.businessinsider.com/claude-codes-creator-email-ai-slop-reply-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T09:47:01Z"
+          "id": "2ac0315c36a085ca73eff64770a1f3faa6b99045",
+          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论 / AI researchers debate how close we are to recursive self-improvement",
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T21:35:29Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Hacker News · 24h最热",
+        "www.dwarkesh.com"
       ],
       "items": [
         {
-          "id": "8f9145618878b734cd6a4c3c24c11c7a3d4c4da5",
-          "title": "一位开发者就AI代码中的粗制滥造问题给Claude Code的创建者发了一封邮件。鲍里斯·切尔尼回复了这封邮件。",
-          "url": "https://www.businessinsider.com/claude-codes-creator-email-ai-slop-reply-2026-9",
-          "source": "www.businessinsider.com",
+          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
+          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "www.dwarkesh.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-12T10:04:38.036000Z"
+          "published_at": "2026-09-12T08:31:36.686000Z"
         },
         {
-          "id": "05c025cbbb8091a08fe2eb14a7ee522f309c5e3c",
-          "title": "一位开发者就AI代码中的粗制滥造问题给Claude Code的创建者发了一封邮件。鲍里斯·切尔尼回复了这封邮件。 / A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back.",
-          "url": "https://www.businessinsider.com/claude-codes-creator-email-ai-slop-reply-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T09:47:01Z"
+          "id": "2ac0315c36a085ca73eff64770a1f3faa6b99045",
+          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论 / AI researchers debate how close we are to recursive self-improvement",
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T21:35:29Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5354,
-      "importance": 0.5354,
-      "importance_score": 0.5354,
+      "score": 0.5246,
+      "importance": 0.5246,
+      "importance_score": 0.5246,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9421,
+        "recency": 0.8824,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-12T09:47:01Z",
-      "latest_at": "2026-09-12T10:04:38.036000Z",
+      "earliest_at": "2026-09-11T21:35:29Z",
+      "latest_at": "2026-09-12T08:31:36.686000Z",
       "primary_item": {
-        "id": "8f9145618878b734cd6a4c3c24c11c7a3d4c4da5",
-        "title": "一位开发者就AI代码中的粗制滥造问题给Claude Code的创建者发了一封邮件。鲍里斯·切尔尼回复了这封邮件。",
-        "url": "https://www.businessinsider.com/claude-codes-creator-email-ai-slop-reply-2026-9",
-        "source": "www.businessinsider.com",
+        "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
+        "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+        "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+        "source": "www.dwarkesh.com",
         "source_name": "Buzzing"
       }
     },
@@ -1282,15 +1300,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5215,
-      "importance": 0.5215,
-      "importance_score": 0.5215,
+      "score": 0.5149,
+      "importance": 0.5149,
+      "importance_score": 0.5149,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.865,
+        "recency": 0.8285,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1361,15 +1379,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5184,
-      "importance": 0.5184,
-      "importance_score": 0.5184,
+      "score": 0.5119,
+      "importance": 0.5119,
+      "importance_score": 0.5119,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8476,
+        "recency": 0.8119,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1383,84 +1401,6 @@
         "title": "Litelm：精简版 LiteLLM，摒弃冗余",
         "url": "https://github.com/kennethwolters/litelm",
         "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5f5990c18b5b",
-      "title": "Anthropic称伊朗利用其美国人工智能模型针对美国海军军舰 - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2d8b12b34c83029b9dc360377a3cfcaec3aca798",
-          "title": "Anthropic称伊朗利用其美国人工智能模型针对美国海军军舰 - WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T23:06:07.428000Z"
-        },
-        {
-          "id": "a06e7f76ef96d9e0d14e359a3b4fcb6f4b99d78d",
-          "title": "Anthropic称伊朗利用其美国人工智能模型锁定美国海军军舰 - WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T14:36:58.950000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com"
-      ],
-      "items": [
-        {
-          "id": "2d8b12b34c83029b9dc360377a3cfcaec3aca798",
-          "title": "Anthropic称伊朗利用其美国人工智能模型针对美国海军军舰 - WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T23:06:07.428000Z"
-        },
-        {
-          "id": "a06e7f76ef96d9e0d14e359a3b4fcb6f4b99d78d",
-          "title": "Anthropic称伊朗利用其美国人工智能模型锁定美国海军军舰 - WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T14:36:58.950000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5105,
-      "importance": 0.5105,
-      "importance_score": 0.5105,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.804,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-11T14:36:58.950000Z",
-      "latest_at": "2026-09-11T23:06:07.428000Z",
-      "primary_item": {
-        "id": "2d8b12b34c83029b9dc360377a3cfcaec3aca798",
-        "title": "Anthropic称伊朗利用其美国人工智能模型针对美国海军军舰 - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
         "source_name": "Buzzing"
       }
     },
@@ -1517,15 +1457,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5089,
-      "importance": 0.5089,
-      "importance_score": 0.5089,
+      "score": 0.5028,
+      "importance": 0.5028,
+      "importance_score": 0.5028,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7948,
+        "recency": 0.7613,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1543,82 +1483,82 @@
       }
     },
     {
-      "story_id": "story_a699cca17620",
-      "title": "asgeirtj / system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "primary_url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
+      "story_id": "story_713fa14b50f5",
+      "title": "一名使用ChatGPT的律师因引用虚构证人的伪证而受到处罚",
+      "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "2fa4d188d72c83942d8eda61541a4bf7f9cd6c7d",
-          "title": "asgeirtj / system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "ed71e7b3f4fc0f8cae0533b48b8e7df90ccf0234",
+          "title": "一名使用ChatGPT的律师因引用虚构证人的伪证而受到处罚",
+          "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T22:02:29.814000Z"
         },
         {
-          "id": "baa9d03b16ed38aed33577d7ed876031205e6795",
-          "title": "asgeirtj /      system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-12T11:06:27.267000Z"
+          "id": "ceab2ecd5d593b06e7c7eaa8ecf418c40b0deef5",
+          "title": "一名使用ChatGPT的律师因引用虚构证人的伪证而受到处罚 / ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+          "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T19:34:09Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "GitHub · Trending Today",
-        "github"
+        "Ars Technica",
+        "arstechnica.com"
       ],
       "items": [
         {
-          "id": "2fa4d188d72c83942d8eda61541a4bf7f9cd6c7d",
-          "title": "asgeirtj / system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "ed71e7b3f4fc0f8cae0533b48b8e7df90ccf0234",
+          "title": "一名使用ChatGPT的律师因引用虚构证人的伪证而受到处罚",
+          "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T22:02:29.814000Z"
         },
         {
-          "id": "baa9d03b16ed38aed33577d7ed876031205e6795",
-          "title": "asgeirtj /      system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-12T11:06:27.267000Z"
+          "id": "ceab2ecd5d593b06e7c7eaa8ecf418c40b0deef5",
+          "title": "一名使用ChatGPT的律师因引用虚构证人的伪证而受到处罚 / ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+          "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T19:34:09Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
+      "score": 0.5023,
+      "importance": 0.5023,
+      "importance_score": 0.5023,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9585,
+        "recency": 0.7584,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-12T11:06:27.267000Z",
-      "latest_at": "2026-09-12T11:16:17.013419Z",
+      "earliest_at": "2026-09-11T19:34:09Z",
+      "latest_at": "2026-09-11T22:02:29.814000Z",
       "primary_item": {
-        "id": "2fa4d188d72c83942d8eda61541a4bf7f9cd6c7d",
-        "title": "asgeirtj / system_prompts_leaks",
-        "url": "https://github.com/asgeirtj/system_prompts_leaks",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
+        "id": "ed71e7b3f4fc0f8cae0533b48b8e7df90ccf0234",
+        "title": "一名使用ChatGPT的律师因引用虚构证人的伪证而受到处罚",
+        "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
       }
     }
   ]
