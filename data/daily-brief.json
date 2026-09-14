@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T06:07:43.466207Z",
+  "generated_at": "2026-09-14T07:07:32.576857Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8448,
-      "importance": 0.8448,
-      "importance_score": 0.8448,
+      "score": 0.8424,
+      "importance": 0.8424,
+      "importance_score": 0.8424,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9153,
+        "recency": 0.9022,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7947,
-      "importance": 0.7947,
-      "importance_score": 0.7947,
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7952,
+        "recency": 0.7839,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -144,6 +144,168 @@
         "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
         "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3befaa0ab2de",
+      "title": "百图生科牵手华大智造：联合构建专属细胞大模型，押注\"设备+模型+智能体\"一体化",
+      "url": "https://www.aibase.com/news/31027",
+      "primary_url": "https://www.aibase.com/news/31027",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cf66c680557c818a9cf364882f4eb2714970b81b",
+          "title": "百图生科牵手华大智造：联合构建专属细胞大模型，押注\"设备+模型+智能体\"一体化",
+          "url": "https://www.aibase.com/news/31027",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T07:07:32.576857Z"
+        },
+        {
+          "id": "5c28d0def784c0a3b4b92d684acdbe2e680283ee",
+          "title": "百图生科牵手华大智造：联合构建专属细胞大模型，押注「设备 + 模型 + 智能体」一体化",
+          "url": "https://www.aibase.com/zh/news/31027",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "cf66c680557c818a9cf364882f4eb2714970b81b",
+          "title": "百图生科牵手华大智造：联合构建专属细胞大模型，押注\"设备+模型+智能体\"一体化",
+          "url": "https://www.aibase.com/news/31027",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T07:07:32.576857Z"
+        },
+        {
+          "id": "5c28d0def784c0a3b4b92d684acdbe2e680283ee",
+          "title": "百图生科牵手华大智造：联合构建专属细胞大模型，押注「设备 + 模型 + 智能体」一体化",
+          "url": "https://www.aibase.com/zh/news/31027",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T07:07:32.576857Z",
+      "latest_at": "2026-09-14T07:07:32.576857Z",
+      "primary_item": {
+        "id": "cf66c680557c818a9cf364882f4eb2714970b81b",
+        "title": "百图生科牵手华大智造：联合构建专属细胞大模型，押注\"设备+模型+智能体\"一体化",
+        "url": "https://www.aibase.com/news/31027",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_74fa49b8c331",
+      "title": "OpenAI 推出 Agents API：把 Codex 拆成云端服务，\"造 Agent\" 变成一次 API 调用",
+      "url": "https://www.aibase.com/news/31025",
+      "primary_url": "https://www.aibase.com/news/31025",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8811fabcaec4719137fe03427f39243b127ec160",
+          "title": "OpenAI 推出 Agents API：把 Codex 拆成云端服务，\"造 Agent\" 变成一次 API 调用",
+          "url": "https://www.aibase.com/news/31025",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T06:07:43.466207Z"
+        },
+        {
+          "id": "95cd2e36e88a78c51eeef4b227d69623edb25e31",
+          "title": "OpenAI 推出 Agents API：把 Codex 拆成云端服务，「造 Agent」变成一次 API 调用",
+          "url": "https://www.aibase.com/zh/news/31025",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8811fabcaec4719137fe03427f39243b127ec160",
+          "title": "OpenAI 推出 Agents API：把 Codex 拆成云端服务，\"造 Agent\" 变成一次 API 调用",
+          "url": "https://www.aibase.com/news/31025",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T06:07:43.466207Z"
+        },
+        {
+          "id": "95cd2e36e88a78c51eeef4b227d69623edb25e31",
+          "title": "OpenAI 推出 Agents API：把 Codex 拆成云端服务，「造 Agent」变成一次 API 调用",
+          "url": "https://www.aibase.com/zh/news/31025",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9857,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T06:07:43.466207Z",
+      "latest_at": "2026-09-14T07:07:32.576857Z",
+      "primary_item": {
+        "id": "8811fabcaec4719137fe03427f39243b127ec160",
+        "title": "OpenAI 推出 Agents API：把 Codex 拆成云端服务，\"造 Agent\" 变成一次 API 调用",
+        "url": "https://www.aibase.com/news/31025",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -200,15 +362,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -281,15 +443,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -362,15 +524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -443,15 +605,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9381,
+        "recency": 0.9247,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -466,168 +628,6 @@
         "id": "da0bf8b28b3bc705e329dd4cd0fe10e2f79b8fbf",
         "title": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
         "url": "https://www.aibase.com/news/31005",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2858a717ecf6",
-      "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
-      "url": "https://www.aibase.com/news/31007",
-      "primary_url": "https://www.aibase.com/news/31007",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
-          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
-          "url": "https://www.aibase.com/news/31007",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T01:42:09.803066Z"
-        },
-        {
-          "id": "41f5e984d75194a3e846cfb6bab5fc8532381529",
-          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
-          "url": "https://www.aibase.com/zh/news/31007",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
-          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
-          "url": "https://www.aibase.com/news/31007",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T01:42:09.803066Z"
-        },
-        {
-          "id": "41f5e984d75194a3e846cfb6bab5fc8532381529",
-          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
-          "url": "https://www.aibase.com/zh/news/31007",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9381,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T01:42:09.803066Z",
-      "latest_at": "2026-09-14T01:42:09.803066Z",
-      "primary_item": {
-        "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
-        "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
-        "url": "https://www.aibase.com/news/31007",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_04f3bf49422f",
-      "title": "智谱获50亿美元新融资 全面加速下一代GLM递归自我改进",
-      "url": "https://www.aibase.com/news/31009",
-      "primary_url": "https://www.aibase.com/news/31009",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cd53cce9b0e6e633c63928af1396172c9ee9e472",
-          "title": "智谱获50亿美元新融资 全面加速下一代GLM递归自我改进",
-          "url": "https://www.aibase.com/news/31009",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T01:42:09.803066Z"
-        },
-        {
-          "id": "796910decc72edd100b8594ef7847c47fcfc704b",
-          "title": "智谱获 50 亿美元新融资，全面加速下一代 GLM 递归自我改进",
-          "url": "https://www.aibase.com/zh/news/31009",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "cd53cce9b0e6e633c63928af1396172c9ee9e472",
-          "title": "智谱获50亿美元新融资 全面加速下一代GLM递归自我改进",
-          "url": "https://www.aibase.com/news/31009",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T01:42:09.803066Z"
-        },
-        {
-          "id": "796910decc72edd100b8594ef7847c47fcfc704b",
-          "title": "智谱获 50 亿美元新融资，全面加速下一代 GLM 递归自我改进",
-          "url": "https://www.aibase.com/zh/news/31009",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9381,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T01:42:09.803066Z",
-      "latest_at": "2026-09-14T01:42:09.803066Z",
-      "primary_item": {
-        "id": "cd53cce9b0e6e633c63928af1396172c9ee9e472",
-        "title": "智谱获50亿美元新融资 全面加速下一代GLM递归自我改进",
-        "url": "https://www.aibase.com/news/31009",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -742,15 +742,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.62,
-      "importance": 0.62,
-      "importance_score": 0.62,
+      "score": 0.6174,
+      "importance": 0.6174,
+      "importance_score": 0.6174,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9953,
+        "recency": 0.9811,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -856,15 +856,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6174,
-      "importance": 0.6174,
-      "importance_score": 0.6174,
+      "score": 0.6152,
+      "importance": 0.6152,
+      "importance_score": 0.6152,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8512,
+        "recency": 0.8391,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -882,68 +882,68 @@
       }
     },
     {
-      "story_id": "story_f6ba130b7a70",
-      "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
-      "url": "https://www.aibase.com/news/31006",
-      "primary_url": "https://www.aibase.com/news/31006",
+      "story_id": "story_2858a717ecf6",
+      "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+      "url": "https://www.aibase.com/news/31007",
+      "primary_url": "https://www.aibase.com/news/31007",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7060d51fc7b9b40326efbae7897f69515cd76db8",
-          "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
-          "url": "https://www.aibase.com/news/31006",
+          "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
+          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "url": "https://www.aibase.com/news/31007",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-14T01:42:09.803066Z"
         },
         {
-          "id": "69e01ddd16073e68b006cd8197175a09829f6d69",
-          "title": "苹果新 CEO 特努斯谈 Meta“变态眼镜”风波：AI 智能设备需要让旁人安心",
-          "url": "https://www.ithome.com/1/001/906.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-14T00:36:02Z"
+          "id": "41f5e984d75194a3e846cfb6bab5fc8532381529",
+          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "url": "https://www.aibase.com/zh/news/31007",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
         "AIbase",
-        "IT之家 (ITHome)"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "7060d51fc7b9b40326efbae7897f69515cd76db8",
-          "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
-          "url": "https://www.aibase.com/news/31006",
+          "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
+          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "url": "https://www.aibase.com/news/31007",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-14T01:42:09.803066Z"
         },
         {
-          "id": "69e01ddd16073e68b006cd8197175a09829f6d69",
-          "title": "苹果新 CEO 特努斯谈 Meta“变态眼镜”风波：AI 智能设备需要让旁人安心",
-          "url": "https://www.ithome.com/1/001/906.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-14T00:36:02Z"
+          "id": "41f5e984d75194a3e846cfb6bab5fc8532381529",
+          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "url": "https://www.aibase.com/zh/news/31007",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9381,
+        "recency": 0.9247,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -952,73 +952,93 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-14T00:36:02Z",
+      "earliest_at": "2026-09-14T01:42:09.803066Z",
       "latest_at": "2026-09-14T01:42:09.803066Z",
       "primary_item": {
-        "id": "7060d51fc7b9b40326efbae7897f69515cd76db8",
-        "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
-        "url": "https://www.aibase.com/news/31006",
+        "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
+        "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+        "url": "https://www.aibase.com/news/31007",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_061c46f4d78b",
-      "title": "Anthropic 牵手 Rum Group 签下 137 亿美元算力大单，背后是特朗普关联的社交老玩家",
-      "url": "https://www.aibase.com/news/31019",
-      "primary_url": "https://www.aibase.com/news/31019",
+      "story_id": "story_04f3bf49422f",
+      "title": "智谱获50亿美元新融资 全面加速下一代GLM递归自我改进",
+      "url": "https://www.aibase.com/news/31009",
+      "primary_url": "https://www.aibase.com/news/31009",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2250cec3f8841cd321ff5e073a6989776485c372",
-          "title": "Anthropic 牵手 Rum Group 签下 137 亿美元算力大单，背后是特朗普关联的社交老玩家",
-          "url": "https://www.aibase.com/news/31019",
+          "id": "cd53cce9b0e6e633c63928af1396172c9ee9e472",
+          "title": "智谱获50亿美元新融资 全面加速下一代GLM递归自我改进",
+          "url": "https://www.aibase.com/news/31009",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-14T06:07:43.466207Z"
+          "published_at": "2026-09-14T01:42:09.803066Z"
+        },
+        {
+          "id": "796910decc72edd100b8594ef7847c47fcfc704b",
+          "title": "智谱获 50 亿美元新融资，全面加速下一代 GLM 递归自我改进",
+          "url": "https://www.aibase.com/zh/news/31009",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "2250cec3f8841cd321ff5e073a6989776485c372",
-          "title": "Anthropic 牵手 Rum Group 签下 137 亿美元算力大单，背后是特朗普关联的社交老玩家",
-          "url": "https://www.aibase.com/news/31019",
+          "id": "cd53cce9b0e6e633c63928af1396172c9ee9e472",
+          "title": "智谱获50亿美元新融资 全面加速下一代GLM递归自我改进",
+          "url": "https://www.aibase.com/news/31009",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-14T06:07:43.466207Z"
+          "published_at": "2026-09-14T01:42:09.803066Z"
+        },
+        {
+          "id": "796910decc72edd100b8594ef7847c47fcfc704b",
+          "title": "智谱获 50 亿美元新融资，全面加速下一代 GLM 递归自我改进",
+          "url": "https://www.aibase.com/zh/news/31009",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9247,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-14T06:07:43.466207Z",
-      "latest_at": "2026-09-14T06:07:43.466207Z",
+      "earliest_at": "2026-09-14T01:42:09.803066Z",
+      "latest_at": "2026-09-14T01:42:09.803066Z",
       "primary_item": {
-        "id": "2250cec3f8841cd321ff5e073a6989776485c372",
-        "title": "Anthropic 牵手 Rum Group 签下 137 亿美元算力大单，背后是特朗普关联的社交老玩家",
-        "url": "https://www.aibase.com/news/31019",
+        "id": "cd53cce9b0e6e633c63928af1396172c9ee9e472",
+        "title": "智谱获50亿美元新融资 全面加速下一代GLM递归自我改进",
+        "url": "https://www.aibase.com/news/31009",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1077,15 +1097,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5456,
-      "importance": 0.5456,
-      "importance_score": 0.5456,
+      "score": 0.543,
+      "importance": 0.543,
+      "importance_score": 0.543,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9989,
+        "recency": 0.9847,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1175,15 +1195,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5437,
-      "importance": 0.5437,
-      "importance_score": 0.5437,
+      "score": 0.5415,
+      "importance": 0.5415,
+      "importance_score": 0.5415,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8494,
+        "recency": 0.8373,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1254,15 +1274,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5416,
-      "importance": 0.5416,
-      "importance_score": 0.5416,
+      "score": 0.5391,
+      "importance": 0.5391,
+      "importance_score": 0.5391,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9766,
+        "recency": 0.9626,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1277,6 +1297,87 @@
         "url": "https://reut.rs/4gMT1rW",
         "source": "reut.rs",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_f6ba130b7a70",
+      "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+      "url": "https://www.aibase.com/news/31006",
+      "primary_url": "https://www.aibase.com/news/31006",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7060d51fc7b9b40326efbae7897f69515cd76db8",
+          "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+          "url": "https://www.aibase.com/news/31006",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:42:09.803066Z"
+        },
+        {
+          "id": "69e01ddd16073e68b006cd8197175a09829f6d69",
+          "title": "苹果新 CEO 特努斯谈 Meta“变态眼镜”风波：AI 智能设备需要让旁人安心",
+          "url": "https://www.ithome.com/1/001/906.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T00:36:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "7060d51fc7b9b40326efbae7897f69515cd76db8",
+          "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+          "url": "https://www.aibase.com/news/31006",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:42:09.803066Z"
+        },
+        {
+          "id": "69e01ddd16073e68b006cd8197175a09829f6d69",
+          "title": "苹果新 CEO 特努斯谈 Meta“变态眼镜”风波：AI 智能设备需要让旁人安心",
+          "url": "https://www.ithome.com/1/001/906.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T00:36:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9247,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T00:36:02Z",
+      "latest_at": "2026-09-14T01:42:09.803066Z",
+      "primary_item": {
+        "id": "7060d51fc7b9b40326efbae7897f69515cd76db8",
+        "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+        "url": "https://www.aibase.com/news/31006",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1352,15 +1453,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
+      "score": 0.5326,
+      "importance": 0.5326,
+      "importance_score": 0.5326,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7992,
+        "recency": 0.7878,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1430,15 +1531,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5331,
-      "importance": 0.5331,
-      "importance_score": 0.5331,
+      "score": 0.5307,
+      "importance": 0.5307,
+      "importance_score": 0.5307,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9294,
+        "recency": 0.9161,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1508,15 +1609,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5331,
-      "importance": 0.5331,
-      "importance_score": 0.5331,
+      "score": 0.5307,
+      "importance": 0.5307,
+      "importance_score": 0.5307,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9294,
+        "recency": 0.9161,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1534,161 +1635,82 @@
       }
     },
     {
-      "story_id": "story_cc0d45cace72",
-      "title": "AI行业最有权势的CEO们踩下刹车 / OpenAI and Anthropic Hit the Brakes",
-      "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
-      "primary_url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
-      "source": "HN Algolia · AI 24h",
-      "source_name": "Hacker News",
+      "story_id": "story_2f3b7aff8f27",
+      "title": "“令人不寒而栗”的警告还是反应过度？人工智能生物武器报告专家意见不一 / \"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+      "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+      "primary_url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
       "sources": [
         {
-          "id": "8bf801f6e2ddf03f4f3acb0a9d28a3e096437198",
-          "title": "AI行业最有权势的CEO们踩下刹车 / OpenAI and Anthropic Hit the Brakes",
-          "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-13T23:58:17Z"
-        },
-        {
-          "id": "ab907d0b50ee0d9ac90a41f8bd7a2e74adbea8f4",
-          "title": "AI行业最有权势的CEO们踩下刹车",
-          "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
-          "source": "www.axios.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T13:16:27.110000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "www.axios.com"
-      ],
-      "items": [
-        {
-          "id": "8bf801f6e2ddf03f4f3acb0a9d28a3e096437198",
-          "title": "AI行业最有权势的CEO们踩下刹车 / OpenAI and Anthropic Hit the Brakes",
-          "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-13T23:58:17Z"
-        },
-        {
-          "id": "ab907d0b50ee0d9ac90a41f8bd7a2e74adbea8f4",
-          "title": "AI行业最有权势的CEO们踩下刹车",
-          "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
-          "source": "www.axios.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T13:16:27.110000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5305,
-      "importance": 0.5305,
-      "importance_score": 0.5305,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9149,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T13:16:27.110000Z",
-      "latest_at": "2026-09-13T23:58:17Z",
-      "primary_item": {
-        "id": "8bf801f6e2ddf03f4f3acb0a9d28a3e096437198",
-        "title": "AI行业最有权势的CEO们踩下刹车 / OpenAI and Anthropic Hit the Brakes",
-        "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
-        "source": "HN Algolia · AI 24h",
-        "source_name": "Hacker News"
-      }
-    },
-    {
-      "story_id": "story_c121eaf78a25",
-      "title": "AI recursive self-improvement might not come so quickly after all",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
-      "primary_url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "59a37a7c608f31022bc13c35638f8340e893659b",
-          "title": "AI recursive self-improvement might not come so quickly after all",
-          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f94d2b63a95a1fa4ec4da18eafb9e90221965c6e",
-          "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
-          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+          "id": "9bd1166309d1300beea591375bdab38e9a938c52",
+          "title": "“令人不寒而栗”的警告还是反应过度？人工智能生物武器报告专家意见不一 / \"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+          "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-13T18:49:44Z"
+          "published_at": "2026-09-14T00:07:09Z"
+        },
+        {
+          "id": "d18752a532974f9cabbcddb719bca55c0e969903",
+          "title": "“令人不寒而栗”的警告还是反应过度？人工智能生物武器报告专家意见不一 / “Chilling” warning or overreaction? AI bioweapons report divides experts",
+          "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T00:07:09Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News",
-        "Readhub · AI"
+        "Hacker News (黑客新闻)"
       ],
       "items": [
         {
-          "id": "59a37a7c608f31022bc13c35638f8340e893659b",
-          "title": "AI recursive self-improvement might not come so quickly after all",
-          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f94d2b63a95a1fa4ec4da18eafb9e90221965c6e",
-          "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
-          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+          "id": "9bd1166309d1300beea591375bdab38e9a938c52",
+          "title": "“令人不寒而栗”的警告还是反应过度？人工智能生物武器报告专家意见不一 / \"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+          "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-13T18:49:44Z"
+          "published_at": "2026-09-14T00:07:09Z"
+        },
+        {
+          "id": "d18752a532974f9cabbcddb719bca55c0e969903",
+          "title": "“令人不寒而栗”的警告还是反应过度？人工智能生物武器报告专家意见不一 / “Chilling” warning or overreaction? AI bioweapons report divides experts",
+          "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T00:07:09Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5295,
-      "importance": 0.5295,
-      "importance_score": 0.5295,
+      "score": 0.5285,
+      "importance": 0.5285,
+      "importance_score": 0.5285,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9096,
+        "recency": 0.9038,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-13T18:49:44Z",
-      "latest_at": "2026-09-13T23:34:04.486126Z",
+      "earliest_at": "2026-09-14T00:07:09Z",
+      "latest_at": "2026-09-14T00:07:09Z",
       "primary_item": {
-        "id": "59a37a7c608f31022bc13c35638f8340e893659b",
-        "title": "AI recursive self-improvement might not come so quickly after all",
-        "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "9bd1166309d1300beea591375bdab38e9a938c52",
+        "title": "“令人不寒而栗”的警告还是反应过度？人工智能生物武器报告专家意见不一 / \"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+        "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
       }
     }
   ]
