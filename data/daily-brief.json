@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:18:10.550374Z",
+  "generated_at": "2026-09-16T15:10:16.156860Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -114,15 +114,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.9124,
-      "importance": 0.9124,
-      "importance_score": 0.9124,
+      "score": 0.9029,
+      "importance": 0.9029,
+      "importance_score": 0.9029,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.78,
+        "recency": 0.7271,
         "story_heat": 1.0
       },
       "category": "official",
@@ -139,6 +139,169 @@
         "title": "Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking / Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
         "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
         "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_52752974efc0",
+      "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "primary_url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1e1aa16f656edc3f5d9d467b70353312655c1c5a",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T13:00:00Z"
+        },
+        {
+          "id": "56d701c8ff45e67a3e15d6da12ea18be874c754f",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T13:00:00Z"
+        },
+        {
+          "id": "f8008f4078dcfae8553880f8d47c537c4f1159f1",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / OpenAI Expands ChatGPT Ads with Sponsored Agents",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T13:51:15Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "1e1aa16f656edc3f5d9d467b70353312655c1c5a",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T13:00:00Z"
+        },
+        {
+          "id": "56d701c8ff45e67a3e15d6da12ea18be874c754f",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T13:00:00Z"
+        },
+        {
+          "id": "f8008f4078dcfae8553880f8d47c537c4f1159f1",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / OpenAI Expands ChatGPT Ads with Sponsored Agents",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T13:51:15Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8964,
+      "importance": 0.8964,
+      "importance_score": 0.8964,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9691,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T13:00:00Z",
+      "latest_at": "2026-09-16T13:51:15Z",
+      "primary_item": {
+        "id": "1e1aa16f656edc3f5d9d467b70353312655c1c5a",
+        "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
+        "url": "https://openai.com/index/reimagining-advertising-with-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_892303a4f464",
+      "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+      "primary_url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+          "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T13:26:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+          "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T13:26:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8395,
+      "importance": 0.8395,
+      "importance_score": 0.8395,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9752,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T13:26:06Z",
+      "latest_at": "2026-09-16T13:26:06Z",
+      "primary_item": {
+        "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+        "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+        "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -196,15 +359,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8272,
-      "importance": 0.8272,
-      "importance_score": 0.8272,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7677,
+        "recency": 0.7156,
         "story_heat": 0.25
       },
       "category": "official",
@@ -259,15 +422,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
+      "score": 0.8088,
+      "importance": 0.8088,
+      "importance_score": 0.8088,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7679,
+        "recency": 0.7157,
         "story_heat": 0.0
       },
       "category": "official",
@@ -283,68 +446,6 @@
         "title": "Your Agent Aced the Task. Will It Do It Again?",
         "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e594f69ef387",
-      "title": "GitHub Copilot suggests custom properties definitions",
-      "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-      "primary_url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-          "title": "GitHub Copilot suggests custom properties definitions",
-          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T19:07:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-          "title": "GitHub Copilot suggests custom properties definitions",
-          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T19:07:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8166,
-      "importance": 0.8166,
-      "importance_score": 0.8166,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8032,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T19:07:47Z",
-      "latest_at": "2026-09-15T19:07:47Z",
-      "primary_item": {
-        "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-        "title": "GitHub Copilot suggests custom properties definitions",
-        "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -421,15 +522,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
+      "score": 0.7937,
+      "importance": 0.7937,
+      "importance_score": 0.7937,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.8673,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -449,21 +550,21 @@
       }
     },
     {
-      "story_id": "story_12ae08f337ea",
-      "title": "Enforce GitHub Advanced Security configurations",
-      "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
-      "primary_url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+      "story_id": "story_e594f69ef387",
+      "title": "GitHub Copilot suggests custom properties definitions",
+      "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+      "primary_url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
-          "title": "Enforce GitHub Advanced Security configurations",
-          "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
+          "title": "GitHub Copilot suggests custom properties definitions",
+          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T19:31:58Z"
+          "published_at": "2026-09-15T19:07:47Z"
         }
       ],
       "source_count": 1,
@@ -472,26 +573,26 @@
       ],
       "items": [
         {
-          "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
-          "title": "Enforce GitHub Advanced Security configurations",
-          "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
+          "title": "GitHub Copilot suggests custom properties definitions",
+          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T19:31:58Z"
+          "published_at": "2026-09-15T19:07:47Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8094,
-      "importance": 0.8094,
-      "importance_score": 0.8094,
+      "score": 0.8068,
+      "importance": 0.8068,
+      "importance_score": 0.8068,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8079,
+        "ai_relevance": 0.91,
+        "recency": 0.7487,
         "story_heat": 0.0
       },
       "category": "official",
@@ -500,14 +601,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T19:31:58Z",
-      "latest_at": "2026-09-15T19:31:58Z",
+      "earliest_at": "2026-09-15T19:07:47Z",
+      "latest_at": "2026-09-15T19:07:47Z",
       "primary_item": {
-        "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
-        "title": "Enforce GitHub Advanced Security configurations",
-        "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+        "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
+        "title": "GitHub Copilot suggests custom properties definitions",
+        "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9930cd9b8250",
+      "title": "何夕2077 AI 深度信号周报 2026 W37",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
+          "title": "何夕2077 AI 深度信号周报 2026 W37",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-16T13:29:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
+          "title": "何夕2077 AI 深度信号周报 2026 W37",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-16T13:29:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9761,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T13:29:54Z",
+      "latest_at": "2026-09-16T13:29:54Z",
+      "primary_item": {
+        "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
+        "title": "何夕2077 AI 深度信号周报 2026 W37",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
       }
     },
     {
@@ -545,15 +707,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7677,
+        "recency": 0.7156,
         "story_heat": 0.0
       },
       "category": "official",
@@ -570,6 +732,67 @@
         "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b70dd0029148",
+      "title": "微软 AI CEO 警告\"模型福利\"论调",
+      "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+      "primary_url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
+          "title": "微软 AI CEO 警告\"模型福利\"论调",
+          "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T14:01:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)"
+      ],
+      "items": [
+        {
+          "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
+          "title": "微软 AI CEO 警告\"模型福利\"论调",
+          "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T14:01:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9836,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T14:01:39Z",
+      "latest_at": "2026-09-16T14:01:39Z",
+      "primary_item": {
+        "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
+        "title": "微软 AI CEO 警告\"模型福利\"论调",
+        "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+        "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -626,15 +849,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9321,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -654,84 +877,65 @@
       }
     },
     {
-      "story_id": "story_28a1d8edd2b6",
-      "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
-      "url": "https://www.ithome.com/1/002/750.htm",
-      "primary_url": "https://www.ithome.com/1/002/750.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_12ae08f337ea",
+      "title": "Enforce GitHub Advanced Security configurations",
+      "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+      "primary_url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b3624dd22f5980553430ff5659a1f82487a46b32",
-          "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
-          "url": "https://www.ithome.com/1/002/750.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T11:48:13Z"
-        },
-        {
-          "id": "6805189c0bb937bd395856d788f52e87230264b1",
-          "title": "OpenAI 内部 Lily 项目曝光：人工审核 ChatGPT 用户聊天记录以优化大模型",
-          "url": "https://www.ithome.com/1/002/750.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-15T11:48:13Z"
+          "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
+          "title": "Enforce GitHub Advanced Security configurations",
+          "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T19:31:58Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "b3624dd22f5980553430ff5659a1f82487a46b32",
-          "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
-          "url": "https://www.ithome.com/1/002/750.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T11:48:13Z"
-        },
-        {
-          "id": "6805189c0bb937bd395856d788f52e87230264b1",
-          "title": "OpenAI 内部 Lily 项目曝光：人工审核 ChatGPT 用户聊天记录以优化大模型",
-          "url": "https://www.ithome.com/1/002/750.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-15T11:48:13Z"
+          "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
+          "title": "Enforce GitHub Advanced Security configurations",
+          "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T19:31:58Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
-      "importance_label": "行业动态",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7226,
-        "story_heat": 0.25
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7531,
+        "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T11:48:13Z",
-      "latest_at": "2026-09-15T11:48:13Z",
+      "earliest_at": "2026-09-15T19:31:58Z",
+      "latest_at": "2026-09-15T19:31:58Z",
       "primary_item": {
-        "id": "b3624dd22f5980553430ff5659a1f82487a46b32",
-        "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
-        "url": "https://www.ithome.com/1/002/750.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
+        "title": "Enforce GitHub Advanced Security configurations",
+        "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -769,15 +973,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7643,
+        "recency": 0.7124,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -792,68 +996,6 @@
         "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
         "source": "Pragmatic Engineer（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_10a67c97a758",
-      "title": "SHA-1 in HTTPS on GitHub sunset",
-      "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-      "primary_url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
-          "title": "SHA-1 in HTTPS on GitHub sunset",
-          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:47:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
-          "title": "SHA-1 in HTTPS on GitHub sunset",
-          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:47:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7765,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T16:47:20Z",
-      "latest_at": "2026-09-15T16:47:20Z",
-      "primary_item": {
-        "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
-        "title": "SHA-1 in HTTPS on GitHub sunset",
-        "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -891,15 +1033,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7677,
+        "recency": 0.7156,
         "story_heat": 0.0
       },
       "category": "official",
@@ -972,15 +1114,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9321,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1000,268 +1142,49 @@
       }
     },
     {
-      "story_id": "story_b934de795cb2",
-      "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
-      "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
-      "primary_url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
-      "source": "Trail of Bits：AI安全研究",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c2eca0fc661e7a16f7621f8b68754054535ce914",
-          "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
-          "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
-          "source": "Trail of Bits：AI安全研究",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T11:00:00Z"
-        },
-        {
-          "id": "205b55d784d5e0271cc12061c61f41aa4d6bb087",
-          "title": "1Password 的 AI 补丁基准测试具有误导性",
-          "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
-          "source": "blog.trailofbits.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-15T20:55:56.636000Z"
-        },
-        {
-          "id": "87de22ebe7a47c97bb20d5f7113d12bf8601abc5",
-          "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能 / 1Password's AI patching benchmark is misleading",
-          "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-15T20:03:12Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "Trail of Bits：AI安全研究",
-        "blog.trailofbits.com"
-      ],
-      "items": [
-        {
-          "id": "c2eca0fc661e7a16f7621f8b68754054535ce914",
-          "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
-          "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
-          "source": "Trail of Bits：AI安全研究",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T11:00:00Z"
-        },
-        {
-          "id": "205b55d784d5e0271cc12061c61f41aa4d6bb087",
-          "title": "1Password 的 AI 补丁基准测试具有误导性",
-          "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
-          "source": "blog.trailofbits.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-15T20:55:56.636000Z"
-        },
-        {
-          "id": "87de22ebe7a47c97bb20d5f7113d12bf8601abc5",
-          "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能 / 1Password's AI patching benchmark is misleading",
-          "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-15T20:03:12Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7302,
-      "importance": 0.7302,
-      "importance_score": 0.7302,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7143,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-15T11:00:00Z",
-      "latest_at": "2026-09-15T20:55:56.636000Z",
-      "primary_item": {
-        "id": "c2eca0fc661e7a16f7621f8b68754054535ce914",
-        "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
-        "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
-        "source": "Trail of Bits：AI安全研究",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b25ec880834a",
-      "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
-      "url": "https://x.com/arena/status/2099971741993050236",
-      "primary_url": "https://x.com/arena/status/2099971741993050236",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cdacdea8981dc2f68d230ebade00762b5ac59ed4",
-          "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
-          "url": "https://x.com/arena/status/2099971741993050236",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T21:20:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "cdacdea8981dc2f68d230ebade00762b5ac59ed4",
-          "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
-          "url": "https://x.com/arena/status/2099971741993050236",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T21:20:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7249,
-      "importance": 0.7249,
-      "importance_score": 0.7249,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8294,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-15T21:20:53Z",
-      "latest_at": "2026-09-15T21:20:53Z",
-      "primary_item": {
-        "id": "cdacdea8981dc2f68d230ebade00762b5ac59ed4",
-        "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
-        "url": "https://x.com/arena/status/2099971741993050236",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c8d222bf7d39",
-      "title": "Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元",
-      "url": "https://x.com/AravSrinivas/status/2099957318935028173",
-      "primary_url": "https://x.com/AravSrinivas/status/2099957318935028173",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "221ebd9826c4329ea766beb02d2c6824314439fc",
-          "title": "Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元",
-          "url": "https://x.com/AravSrinivas/status/2099957318935028173",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T20:23:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
-      ],
-      "items": [
-        {
-          "id": "221ebd9826c4329ea766beb02d2c6824314439fc",
-          "title": "Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元",
-          "url": "https://x.com/AravSrinivas/status/2099957318935028173",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T20:23:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7228,
-      "importance": 0.7228,
-      "importance_score": 0.7228,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.818,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-15T20:23:34Z",
-      "latest_at": "2026-09-15T20:23:34Z",
-      "primary_item": {
-        "id": "221ebd9826c4329ea766beb02d2c6824314439fc",
-        "title": "Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元",
-        "url": "https://x.com/AravSrinivas/status/2099957318935028173",
-        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_63b04c12395d",
-      "title": "New insights from Google’s AI & Economy ATLAS",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-      "source": "Google AI Blog",
+      "story_id": "story_10a67c97a758",
+      "title": "SHA-1 in HTTPS on GitHub sunset",
+      "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+      "primary_url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
-          "title": "New insights from Google’s AI & Economy ATLAS",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-          "source": "Google AI Blog",
+          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
+          "title": "SHA-1 in HTTPS on GitHub sunset",
+          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T13:00:00Z"
+          "published_at": "2026-09-15T16:47:20Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI Blog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
-          "title": "New insights from Google’s AI & Economy ATLAS",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-          "source": "Google AI Blog",
+          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
+          "title": "SHA-1 in HTTPS on GitHub sunset",
+          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T13:00:00Z"
+          "published_at": "2026-09-15T16:47:20Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7963,
-      "importance": 0.7963,
-      "importance_score": 0.7963,
+      "score": 0.7943,
+      "importance": 0.7943,
+      "importance_score": 0.7943,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7352,
+        "recency": 0.7238,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1270,13 +1193,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T13:00:00Z",
-      "latest_at": "2026-09-15T13:00:00Z",
+      "earliest_at": "2026-09-15T16:47:20Z",
+      "latest_at": "2026-09-15T16:47:20Z",
       "primary_item": {
-        "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
-        "title": "New insights from Google’s AI & Economy ATLAS",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-        "source": "Google AI Blog",
+        "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
+        "title": "SHA-1 in HTTPS on GitHub sunset",
+        "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -1334,15 +1257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9321,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1415,15 +1338,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.8673,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1549,15 +1472,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6405,
-      "importance": 0.6405,
-      "importance_score": 0.6405,
+      "score": 0.6302,
+      "importance": 0.6302,
+      "importance_score": 0.6302,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8405,
+        "recency": 0.7835,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1572,6 +1495,87 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-09-15",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_f78249361e7e",
+      "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+      "url": "https://www.aibase.com/news/31080",
+      "primary_url": "https://www.aibase.com/news/31080",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3967576bc89c06c8153c27b7e34b3ca3b9637d0d",
+          "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "url": "https://www.aibase.com/news/31080",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T05:18:37.466496Z"
+        },
+        {
+          "id": "c19dc6736729332ddd7e56a2871b8b05b46f5efb",
+          "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "url": "https://www.aibase.com/zh/news/31080",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3967576bc89c06c8153c27b7e34b3ca3b9637d0d",
+          "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "url": "https://www.aibase.com/news/31080",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T05:18:37.466496Z"
+        },
+        {
+          "id": "c19dc6736729332ddd7e56a2871b8b05b46f5efb",
+          "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "url": "https://www.aibase.com/zh/news/31080",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8673,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T05:18:37.466496Z",
+      "latest_at": "2026-09-16T05:18:37.466496Z",
+      "primary_item": {
+        "id": "3967576bc89c06c8153c27b7e34b3ca3b9637d0d",
+        "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+        "url": "https://www.aibase.com/news/31080",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
