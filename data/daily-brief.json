@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T22:10:45.264312Z",
+  "generated_at": "2026-09-17T00:33:02.693351Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9047,
-      "importance": 0.9047,
-      "importance_score": 0.9047,
+      "score": 0.8993,
+      "importance": 0.8993,
+      "importance_score": 0.8993,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8759,
+        "recency": 0.8464,
         "story_heat": 0.75
       },
       "category": "official",
@@ -120,6 +120,169 @@
         "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
         "url": "https://openai.com/index/reimagining-advertising-with-ai",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_bbe6c30a33c9",
+      "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "primary_url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T17:00:00Z"
+        },
+        {
+          "id": "b568a844303081c8d51ffebb6f966d3a359bb0e0",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T17:00:00Z"
+        },
+        {
+          "id": "f0912e37615be0fab9e9a51ba63763f8b2c711de",
+          "title": "OpenAI 发布模型失准报告框架",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T17:00:00Z"
+        },
+        {
+          "id": "b568a844303081c8d51ffebb6f966d3a359bb0e0",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T17:00:00Z"
+        },
+        {
+          "id": "f0912e37615be0fab9e9a51ba63763f8b2c711de",
+          "title": "OpenAI 发布模型失准报告框架",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8834,
+      "importance": 0.8834,
+      "importance_score": 0.8834,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8967,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T17:00:00Z",
+      "latest_at": "2026-09-17T00:33:02.693351Z",
+      "primary_item": {
+        "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+        "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+        "url": "https://openai.com/index/model-misalignment-reporting-framework",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6b8b0b6f48f2",
+      "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+      "primary_url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+          "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T00:26:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+          "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T00:26:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8517,
+      "importance": 0.8517,
+      "importance_score": 0.8517,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9985,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T00:26:43Z",
+      "latest_at": "2026-09-17T00:26:43Z",
+      "primary_item": {
+        "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+        "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
@@ -158,15 +321,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8472,
-      "importance": 0.8472,
-      "importance_score": 0.8472,
+      "score": 0.8413,
+      "importance": 0.8413,
+      "importance_score": 0.8413,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9731,
+        "recency": 0.9403,
         "story_heat": 0.0
       },
       "category": "official",
@@ -277,15 +440,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8443,
-      "importance": 0.8443,
-      "importance_score": 0.8443,
+      "score": 0.8387,
+      "importance": 0.8387,
+      "importance_score": 0.8387,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9261,
+        "recency": 0.8949,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -339,15 +502,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8393,
-      "importance": 0.8393,
-      "importance_score": 0.8393,
+      "score": 0.8334,
+      "importance": 0.8334,
+      "importance_score": 0.8334,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9738,
+        "recency": 0.941,
         "story_heat": 0.0
       },
       "category": "official",
@@ -367,127 +530,64 @@
       }
     },
     {
-      "story_id": "story_bbe6c30a33c9",
-      "title": "Our framework for reporting model misalignment",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "primary_url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_c4370d94e4d0",
+      "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+      "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+      "primary_url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+      "source": "X：AI Safety Memes (@AISafetyMemes)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
-          "title": "Our framework for reporting model misalignment",
-          "url": "https://openai.com/index/model-misalignment-reporting-framework",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T17:00:00Z"
+          "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
+          "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+          "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+          "source": "X：AI Safety Memes (@AISafetyMemes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T22:58:50Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "X：AI Safety Memes (@AISafetyMemes)"
       ],
       "items": [
         {
-          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
-          "title": "Our framework for reporting model misalignment",
-          "url": "https://openai.com/index/model-misalignment-reporting-framework",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T17:00:00Z"
+          "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
+          "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+          "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+          "source": "X：AI Safety Memes (@AISafetyMemes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T22:58:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.839,
-      "importance": 0.839,
-      "importance_score": 0.839,
-      "importance_label": "官方更新",
+      "score": 0.7966,
+      "importance": 0.7966,
+      "importance_score": 0.7966,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9279,
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9776,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T17:00:00Z",
-      "latest_at": "2026-09-16T17:00:00Z",
+      "earliest_at": "2026-09-16T22:58:50Z",
+      "latest_at": "2026-09-16T22:58:50Z",
       "primary_item": {
-        "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
-        "title": "Our framework for reporting model misalignment",
-        "url": "https://openai.com/index/model-misalignment-reporting-framework",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_4df4917d3964",
-      "title": "SCIM user responses now include a profileUrl attribute",
-      "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-      "primary_url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
-          "title": "SCIM user responses now include a profileUrl attribute",
-          "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T20:19:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
-          "title": "SCIM user responses now include a profileUrl attribute",
-          "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T20:19:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8393,
-      "importance": 0.8393,
-      "importance_score": 0.8393,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9737,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T20:19:58Z",
-      "latest_at": "2026-09-16T20:19:58Z",
-      "primary_item": {
-        "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
-        "title": "SCIM user responses now include a profileUrl attribute",
-        "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
+        "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+        "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+        "source": "X：AI Safety Memes (@AISafetyMemes)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -563,15 +663,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7787,
-      "importance": 0.7787,
-      "importance_score": 0.7787,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7838,
+        "recency": 0.7574,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -588,6 +688,68 @@
         "url": "https://www.aibase.com/news/31084",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4df4917d3964",
+      "title": "SCIM user responses now include a profileUrl attribute",
+      "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+      "primary_url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
+          "title": "SCIM user responses now include a profileUrl attribute",
+          "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T20:19:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
+          "title": "SCIM user responses now include a profileUrl attribute",
+          "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T20:19:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8334,
+      "importance": 0.8334,
+      "importance_score": 0.8334,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9409,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T20:19:58Z",
+      "latest_at": "2026-09-16T20:19:58Z",
+      "primary_item": {
+        "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
+        "title": "SCIM user responses now include a profileUrl attribute",
+        "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -625,15 +787,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8366,
-      "importance": 0.8366,
-      "importance_score": 0.8366,
+      "score": 0.8311,
+      "importance": 0.8311,
+      "importance_score": 0.8311,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9146,
+        "recency": 0.8838,
         "story_heat": 0.0
       },
       "category": "official",
@@ -650,6 +812,66 @@
         "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dee18d72420c66afd72b48c6263be57b51fcd9bb",
+          "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:09:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "dee18d72420c66afd72b48c6263be57b51fcd9bb",
+          "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:09:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9943,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-17T00:09:06Z",
+      "latest_at": "2026-09-17T00:09:06Z",
+      "primary_item": {
+        "id": "dee18d72420c66afd72b48c6263be57b51fcd9bb",
+        "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -687,15 +909,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8822,
+        "recency": 0.8525,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -747,15 +969,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
+      "score": 0.7388,
+      "importance": 0.7388,
+      "importance_score": 0.7388,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9209,
+        "recency": 0.8899,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -807,15 +1029,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8274,
-      "importance": 0.8274,
-      "importance_score": 0.8274,
+      "score": 0.8222,
+      "importance": 0.8222,
+      "importance_score": 0.8222,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8633,
+        "recency": 0.8342,
         "story_heat": 0.0
       },
       "category": "official",
@@ -869,15 +1091,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7356,
-      "importance": 0.7356,
-      "importance_score": 0.7356,
+      "score": 0.7302,
+      "importance": 0.7302,
+      "importance_score": 0.7302,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8889,
+        "recency": 0.859,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -948,15 +1170,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8424,
+        "recency": 0.814,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1010,15 +1232,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8814,
+        "recency": 0.8517,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1091,15 +1313,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8424,
+        "recency": 0.814,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1153,15 +1375,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8208,
-      "importance": 0.8208,
-      "importance_score": 0.8208,
+      "score": 0.8158,
+      "importance": 0.8158,
+      "importance_score": 0.8158,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8267,
+        "recency": 0.7989,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1234,15 +1456,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8424,
+        "recency": 0.814,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1257,355 +1479,6 @@
         "id": "7298f001a2d72a1c66c02501b670037a9bcacfa8",
         "title": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
         "url": "https://www.aibase.com/news/31102",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "作者按倒序捋了一遍AI短剧的制作链路——从最后的成片往前拆，看每一步用的素材是从哪一步来的：成片 → 剪辑 → 视频生成 → 分镜表 → 角色/场景设计 → 剧本。或许对你有帮助！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-09-16",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "2b6fa73db4929832ba37cdb22ff99755b619934c",
-          "title": "作者按倒序捋了一遍AI短剧的制作链路——从最后的成片往前拆，看每一步用的素材是从哪一步来的：成片 → 剪辑 → 视频生成 → 分镜表 → 角色/场景设计 → 剧本。或许对你有帮助！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T18:54:41.260496Z"
-        },
-        {
-          "id": "c6649e9e6a83972c2a8cec6b6c464114a7130934",
-          "title": "想把开源模型用起来，却卡在选模型、配环境，不知道第一步怎么走？《魔搭紫皮书》用约 40 万字、34 章内容串起了模型选择、部署、微调和效果评测，还提供了企业知识问答、语音助手、图像生成等实战案例。各部分都配有能一步步运行的代码笔记本。你也可以先挑一个感兴趣的案例，在电脑或云端跑通，再带着实际问题往下学。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T18:54:41.260496Z"
-        },
-        {
-          "id": "ba6c63a05c0dc5e3df5d9f907c02189e39a130e7",
-          "title": "每天重复查资料、整理信息，想交给 AI，又担心它擅自发消息、改文件？这份指南给出了一条从小任务走向自动化的完整路径。先选低风险的重复工作，用文字或录屏讲清流程，连接工具、设好权限；手动确认结果和审批机制可靠后，再安排定时运行、多个机器人分工。快来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T18:54:41.260496Z"
-        },
-        {
-          "id": "ced6919cc3a7a307f476d034949adc71ecd7d0ef",
-          "title": "网页动效词典下篇，拆解了弹窗、菜单、加载提示、布局变化和页面转场，还附有对应的提示词。下一次再向 AI 描述网页，你说的就不会只有“高级一点”“丝滑一点”。你能说清楚谁触发、什么东西动、怎样结束、需要照顾哪些用户，AI 才能把你脑子里的感觉做出来。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T18:54:41.260496Z"
-        },
-        {
-          "id": "2cbbdbf9da3e7389c19dcdd00c1c15aeace0d3da",
-          "title": "AI 生成的歌越来越好听，但能不能精细修改、怎样发行、收益如何分配，同样关系到创作者能否真正用起来。这期《AI 音乐周刊》把技术与产业变化放在一起：Suno v6 等模型升级、ElevenMusic 拆分人声与乐器的新功能，以及音乐分发合作、创作者扶持和版权分成争议。还有5篇研究，涵盖 MV 生成、实时伴奏与可控作曲。一起来看看！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-15T22:16:17.914660Z"
-        },
-        {
-          "id": "0fa18d0ee863d833b6274ae4f2d35acbf8e50b47",
-          "title": "Suno 迎来史诗级更新，全面下架 v2 至 v5.5 旧模型，推出 v6、v6-wild、v6-mini 三款全新模型，轻量版向所有用户免费开放。创作端新增 AI 聊天式 Simple 模式，支持图片、哼唱等多模态输入，搭配三大可调参数，实现局部改曲、素材融合等精细创作。平台同步落地下载额度、商用权限与 C2PA 音频溯源新规，只有官方扣额度下载的音频才具备商用资质，音乐创作者务必吃透这套新能力与合规边界。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-15T22:16:17.914660Z"
-        },
-        {
-          "id": "6a60fb4883c6c658ffdbfdcce921697acd9600ba",
-          "title": "作者整理了 20 种动效，从文字逐字出现、滚动时画面分层移动，到按钮随鼠标轻微靠近，都附有适用场景和可复制的提示词。正在用 AI 做官网、作品集或活动页的，可以按想要的效果查词，把“凭感觉修改”变成清楚的要求。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-15T22:16:17.914660Z"
-        },
-        {
-          "id": "83bb0fae3055964cfcca4b8fb127a8d80f5ec4ad",
-          "title": "第七期 AI 硬件训练营行程已然过半，不少零基础学员借助 AI，把开发板落地成各类硬件作品。有人打造互动桌宠、一键生成公众号素材的创作工作台，还有人做出简易钢琴、找猫小装置。你不需要深厚的代码功底，也能动手把脑海里的创意变成实体硬件，错过的小伙伴儿快来补课！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-15T22:16:17.914660Z"
-        }
-      ],
-      "source_count": 8,
-      "source_names": [
-        "社区更新 · 2026-09-15",
-        "社区更新 · 2026-09-16"
-      ],
-      "items": [
-        {
-          "id": "2b6fa73db4929832ba37cdb22ff99755b619934c",
-          "title": "作者按倒序捋了一遍AI短剧的制作链路——从最后的成片往前拆，看每一步用的素材是从哪一步来的：成片 → 剪辑 → 视频生成 → 分镜表 → 角色/场景设计 → 剧本。或许对你有帮助！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T18:54:41.260496Z"
-        },
-        {
-          "id": "c6649e9e6a83972c2a8cec6b6c464114a7130934",
-          "title": "想把开源模型用起来，却卡在选模型、配环境，不知道第一步怎么走？《魔搭紫皮书》用约 40 万字、34 章内容串起了模型选择、部署、微调和效果评测，还提供了企业知识问答、语音助手、图像生成等实战案例。各部分都配有能一步步运行的代码笔记本。你也可以先挑一个感兴趣的案例，在电脑或云端跑通，再带着实际问题往下学。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T18:54:41.260496Z"
-        },
-        {
-          "id": "ba6c63a05c0dc5e3df5d9f907c02189e39a130e7",
-          "title": "每天重复查资料、整理信息，想交给 AI，又担心它擅自发消息、改文件？这份指南给出了一条从小任务走向自动化的完整路径。先选低风险的重复工作，用文字或录屏讲清流程，连接工具、设好权限；手动确认结果和审批机制可靠后，再安排定时运行、多个机器人分工。快来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T18:54:41.260496Z"
-        },
-        {
-          "id": "ced6919cc3a7a307f476d034949adc71ecd7d0ef",
-          "title": "网页动效词典下篇，拆解了弹窗、菜单、加载提示、布局变化和页面转场，还附有对应的提示词。下一次再向 AI 描述网页，你说的就不会只有“高级一点”“丝滑一点”。你能说清楚谁触发、什么东西动、怎样结束、需要照顾哪些用户，AI 才能把你脑子里的感觉做出来。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T18:54:41.260496Z"
-        },
-        {
-          "id": "2cbbdbf9da3e7389c19dcdd00c1c15aeace0d3da",
-          "title": "AI 生成的歌越来越好听，但能不能精细修改、怎样发行、收益如何分配，同样关系到创作者能否真正用起来。这期《AI 音乐周刊》把技术与产业变化放在一起：Suno v6 等模型升级、ElevenMusic 拆分人声与乐器的新功能，以及音乐分发合作、创作者扶持和版权分成争议。还有5篇研究，涵盖 MV 生成、实时伴奏与可控作曲。一起来看看！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-15T22:16:17.914660Z"
-        },
-        {
-          "id": "0fa18d0ee863d833b6274ae4f2d35acbf8e50b47",
-          "title": "Suno 迎来史诗级更新，全面下架 v2 至 v5.5 旧模型，推出 v6、v6-wild、v6-mini 三款全新模型，轻量版向所有用户免费开放。创作端新增 AI 聊天式 Simple 模式，支持图片、哼唱等多模态输入，搭配三大可调参数，实现局部改曲、素材融合等精细创作。平台同步落地下载额度、商用权限与 C2PA 音频溯源新规，只有官方扣额度下载的音频才具备商用资质，音乐创作者务必吃透这套新能力与合规边界。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-15T22:16:17.914660Z"
-        },
-        {
-          "id": "6a60fb4883c6c658ffdbfdcce921697acd9600ba",
-          "title": "作者整理了 20 种动效，从文字逐字出现、滚动时画面分层移动，到按钮随鼠标轻微靠近，都附有适用场景和可复制的提示词。正在用 AI 做官网、作品集或活动页的，可以按想要的效果查词，把“凭感觉修改”变成清楚的要求。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-15T22:16:17.914660Z"
-        },
-        {
-          "id": "83bb0fae3055964cfcca4b8fb127a8d80f5ec4ad",
-          "title": "第七期 AI 硬件训练营行程已然过半，不少零基础学员借助 AI，把开发板落地成各类硬件作品。有人打造互动桌宠、一键生成公众号素材的创作工作台，还有人做出简易钢琴、找猫小装置。你不需要深厚的代码功底，也能动手把脑海里的创意变成实体硬件，错过的小伙伴儿快来补课！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-15T22:16:17.914660Z"
-        }
-      ],
-      "item_count": 8,
-      "duplicate_count": 8,
-      "score": 0.6609,
-      "importance": 0.6609,
-      "importance_score": 0.6609,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9539,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-15T22:16:17.914660Z",
-      "latest_at": "2026-09-16T18:54:41.260496Z",
-      "primary_item": {
-        "id": "2b6fa73db4929832ba37cdb22ff99755b619934c",
-        "title": "作者按倒序捋了一遍AI短剧的制作链路——从最后的成片往前拆，看每一步用的素材是从哪一步来的：成片 → 剪辑 → 视频生成 → 分镜表 → 角色/场景设计 → 剧本。或许对你有帮助！",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-09-16",
-        "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_7108d8f64fd4",
-      "title": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
-      "url": "https://www.aibase.com/news/31068",
-      "primary_url": "https://www.aibase.com/news/31068",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "33ee95b39ec920aa173bac762ec02e52efb29daa",
-          "title": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
-          "url": "https://www.aibase.com/news/31068",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T05:18:37.466496Z"
-        },
-        {
-          "id": "f276f9cc1795e4609698c6e9b7b2ed60e608036e",
-          "title": "Meta 推出 Meta One 订阅服务：最高 499 美元，覆盖 AI 与商业工具",
-          "url": "https://www.aibase.com/zh/news/31068",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "33ee95b39ec920aa173bac762ec02e52efb29daa",
-          "title": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
-          "url": "https://www.aibase.com/news/31068",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T05:18:37.466496Z"
-        },
-        {
-          "id": "f276f9cc1795e4609698c6e9b7b2ed60e608036e",
-          "title": "Meta 推出 Meta One 订阅服务：最高 499 美元，覆盖 AI 与商业工具",
-          "url": "https://www.aibase.com/zh/news/31068",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7838,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T05:18:37.466496Z",
-      "latest_at": "2026-09-16T05:18:37.466496Z",
-      "primary_item": {
-        "id": "33ee95b39ec920aa173bac762ec02e52efb29daa",
-        "title": "Meta推出Meta One订阅服务:最高499美元，覆盖AI与商业工具",
-        "url": "https://www.aibase.com/news/31068",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f78249361e7e",
-      "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
-      "url": "https://www.aibase.com/news/31080",
-      "primary_url": "https://www.aibase.com/news/31080",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3967576bc89c06c8153c27b7e34b3ca3b9637d0d",
-          "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
-          "url": "https://www.aibase.com/news/31080",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T05:18:37.466496Z"
-        },
-        {
-          "id": "c19dc6736729332ddd7e56a2871b8b05b46f5efb",
-          "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
-          "url": "https://www.aibase.com/zh/news/31080",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "3967576bc89c06c8153c27b7e34b3ca3b9637d0d",
-          "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
-          "url": "https://www.aibase.com/news/31080",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T05:18:37.466496Z"
-        },
-        {
-          "id": "c19dc6736729332ddd7e56a2871b8b05b46f5efb",
-          "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
-          "url": "https://www.aibase.com/zh/news/31080",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7838,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T05:18:37.466496Z",
-      "latest_at": "2026-09-16T05:18:37.466496Z",
-      "primary_item": {
-        "id": "3967576bc89c06c8153c27b7e34b3ca3b9637d0d",
-        "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
-        "url": "https://www.aibase.com/news/31080",
         "source": "AIbase",
         "source_name": "AIbase"
       }
