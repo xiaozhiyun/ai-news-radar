@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T10:26:40.325794Z",
+  "generated_at": "2026-09-17T15:19:05.307845Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8869,
-      "importance": 0.8869,
-      "importance_score": 0.8869,
+      "score": 0.8774,
+      "importance": 0.8774,
+      "importance_score": 0.8774,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7773,
+        "recency": 0.7245,
         "story_heat": 0.75
       },
       "category": "official",
@@ -177,15 +177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8528,
-      "importance": 0.8528,
-      "importance_score": 0.8528,
+      "score": 0.8422,
+      "importance": 0.8422,
+      "importance_score": 0.8422,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8655,
+        "recency": 0.8067,
         "story_heat": 0.25
       },
       "category": "official",
@@ -202,126 +202,6 @@
         "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
         "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_52752974efc0",
-      "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "primary_url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1e1aa16f656edc3f5d9d467b70353312655c1c5a",
-          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
-          "url": "https://openai.com/index/reimagining-advertising-with-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T13:00:00Z"
-        },
-        {
-          "id": "56d701c8ff45e67a3e15d6da12ea18be874c754f",
-          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
-          "url": "https://openai.com/index/reimagining-advertising-with-ai",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T13:00:00Z"
-        },
-        {
-          "id": "a4d2c1667014a737766721c70d32e2515d30a289",
-          "title": "OpenAI 通过“赞助代理”扩展 ChatGPT 广告业务",
-          "url": "https://openai.com/index/reimagining-advertising-with-ai",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T16:06:24.581000Z"
-        },
-        {
-          "id": "f8008f4078dcfae8553880f8d47c537c4f1159f1",
-          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / OpenAI Expands ChatGPT Ads with Sponsored Agents",
-          "url": "https://openai.com/index/reimagining-advertising-with-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T13:51:15Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "1e1aa16f656edc3f5d9d467b70353312655c1c5a",
-          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
-          "url": "https://openai.com/index/reimagining-advertising-with-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T13:00:00Z"
-        },
-        {
-          "id": "56d701c8ff45e67a3e15d6da12ea18be874c754f",
-          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
-          "url": "https://openai.com/index/reimagining-advertising-with-ai",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T13:00:00Z"
-        },
-        {
-          "id": "a4d2c1667014a737766721c70d32e2515d30a289",
-          "title": "OpenAI 通过“赞助代理”扩展 ChatGPT 广告业务",
-          "url": "https://openai.com/index/reimagining-advertising-with-ai",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T16:06:24.581000Z"
-        },
-        {
-          "id": "f8008f4078dcfae8553880f8d47c537c4f1159f1",
-          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / OpenAI Expands ChatGPT Ads with Sponsored Agents",
-          "url": "https://openai.com/index/reimagining-advertising-with-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T13:51:15Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8791,
-      "importance": 0.8791,
-      "importance_score": 0.8791,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7337,
-        "story_heat": 0.75
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T13:00:00Z",
-      "latest_at": "2026-09-16T16:06:24.581000Z",
-      "primary_item": {
-        "id": "1e1aa16f656edc3f5d9d467b70353312655c1c5a",
-        "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
-        "url": "https://openai.com/index/reimagining-advertising-with-ai",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -360,15 +240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8187,
-      "importance": 0.8187,
-      "importance_score": 0.8187,
+      "score": 0.8088,
+      "importance": 0.8088,
+      "importance_score": 0.8088,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8151,
+        "recency": 0.7597,
         "story_heat": 0.0
       },
       "category": "official",
@@ -479,15 +359,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8172,
-      "importance": 0.8172,
-      "importance_score": 0.8172,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7758,
+        "recency": 0.7231,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -560,15 +440,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.932,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -622,15 +502,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8108,
-      "importance": 0.8108,
-      "importance_score": 0.8108,
+      "score": 0.8008,
+      "importance": 0.8008,
+      "importance_score": 0.8008,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8157,
+        "recency": 0.7603,
         "story_heat": 0.0
       },
       "category": "official",
@@ -646,6 +526,68 @@
         "title": "Automate SSO authorization for classic PATs and SSH keys",
         "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_027811ca1632",
+      "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "primary_url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
+          "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
+          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
+          "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
+          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8005,
+      "importance": 0.8005,
+      "importance_score": 0.8005,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7141,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T16:00:00Z",
+      "latest_at": "2026-09-16T16:00:00Z",
+      "primary_item": {
+        "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
+        "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
+        "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -684,15 +626,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7731,
-      "importance": 0.7731,
-      "importance_score": 0.7731,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8474,
+        "recency": 0.7898,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -764,15 +706,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.932,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -826,15 +768,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8108,
-      "importance": 0.8108,
-      "importance_score": 0.8108,
+      "score": 0.8008,
+      "importance": 0.8008,
+      "importance_score": 0.8008,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8156,
+        "recency": 0.7602,
         "story_heat": 0.0
       },
       "category": "official",
@@ -850,68 +792,6 @@
         "title": "SCIM user responses now include a profileUrl attribute",
         "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_027811ca1632",
-      "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "primary_url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-          "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
-          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-          "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
-          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7662,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T16:00:00Z",
-      "latest_at": "2026-09-16T16:00:00Z",
-      "primary_item": {
-        "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-        "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
-        "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -969,15 +849,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.733,
+      "importance": 0.733,
+      "importance_score": 0.733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7714,
+        "recency": 0.719,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1049,15 +929,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.932,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1074,250 +954,6 @@
         "url": "https://www.aibase.com/news/31135",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dee18d72420c66afd72b48c6263be57b51fcd9bb",
-          "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T00:09:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "dee18d72420c66afd72b48c6263be57b51fcd9bb",
-          "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T00:09:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7217,
-      "importance": 0.7217,
-      "importance_score": 0.7217,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8619,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T00:09:06Z",
-      "latest_at": "2026-09-17T00:09:06Z",
-      "primary_item": {
-        "id": "dee18d72420c66afd72b48c6263be57b51fcd9bb",
-        "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9930cd9b8250",
-      "title": "何夕2077 AI 深度信号周报 2026 W37",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
-          "title": "何夕2077 AI 深度信号周报 2026 W37",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-09-16T13:29:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
-          "title": "何夕2077 AI 深度信号周报 2026 W37",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-09-16T13:29:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7206,
-      "importance": 0.7206,
-      "importance_score": 0.7206,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.739,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T13:29:54Z",
-      "latest_at": "2026-09-16T13:29:54Z",
-      "primary_item": {
-        "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
-        "title": "何夕2077 AI 深度信号周报 2026 W37",
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_5f7e182a53f2",
-      "title": "How to connect AI usage to business value",
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "primary_url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "240870ecd56cd902b085ad5440133358690656e0",
-          "title": "How to connect AI usage to business value",
-          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "240870ecd56cd902b085ad5440133358690656e0",
-          "title": "How to connect AI usage to business value",
-          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7232,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T12:00:00Z",
-      "latest_at": "2026-09-16T12:00:00Z",
-      "primary_item": {
-        "id": "240870ecd56cd902b085ad5440133358690656e0",
-        "title": "How to connect AI usage to business value",
-        "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_892303a4f464",
-      "title": "代码扫描 AI Scan 不再需要 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup",
-      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-      "primary_url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
-          "title": "代码扫描 AI Scan 不再需要 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup",
-          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T13:26:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
-          "title": "代码扫描 AI Scan 不再需要 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup",
-          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T13:26:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7969,
-      "importance": 0.7969,
-      "importance_score": 0.7969,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7383,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T13:26:06Z",
-      "latest_at": "2026-09-16T13:26:06Z",
-      "primary_item": {
-        "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
-        "title": "代码扫描 AI Scan 不再需要 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup",
-        "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1374,15 +1010,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.932,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1399,6 +1035,85 @@
         "url": "https://www.aibase.com/news/31126",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6bf22bb7c7b5",
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
+      "primary_url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "08a3486876684fc6dae9eff278a64cf2c6666095",
+          "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+          "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-17T13:38:33Z"
+        },
+        {
+          "id": "b98499d5c6492768d69c139cdd1019bad168d6b9",
+          "title": "Google, Nvidia and Anthropic want Emerald AI to find space on the grid for more data centers",
+          "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-17T13:38:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "08a3486876684fc6dae9eff278a64cf2c6666095",
+          "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+          "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-17T13:38:33Z"
+        },
+        {
+          "id": "b98499d5c6492768d69c139cdd1019bad168d6b9",
+          "title": "Google, Nvidia and Anthropic want Emerald AI to find space on the grid for more data centers",
+          "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-17T13:38:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6569,
+      "importance": 0.6569,
+      "importance_score": 0.6569,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.9761,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-17T13:38:33Z",
+      "latest_at": "2026-09-17T13:38:33Z",
+      "primary_item": {
+        "id": "08a3486876684fc6dae9eff278a64cf2c6666095",
+        "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+        "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -1455,15 +1170,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.8671,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1536,15 +1251,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.8671,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1561,6 +1276,358 @@
         "url": "https://www.aibase.com/news/31116",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c40093fb92f8",
+      "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
+      "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+      "primary_url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "1e2db0c4cd7646f7e6835b62fc2103c0d81d6757",
+          "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
+          "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-17T14:00:00Z"
+        },
+        {
+          "id": "19bbfc3e5f439b5fceda90c043bce0de2a22de4a",
+          "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plugins",
+          "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-17T14:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "1e2db0c4cd7646f7e6835b62fc2103c0d81d6757",
+          "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
+          "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-17T14:00:00Z"
+        },
+        {
+          "id": "19bbfc3e5f439b5fceda90c043bce0de2a22de4a",
+          "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plugins",
+          "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-17T14:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6121,
+      "importance": 0.6121,
+      "importance_score": 0.6121,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9811,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-17T14:00:00Z",
+      "latest_at": "2026-09-17T14:00:00Z",
+      "primary_item": {
+        "id": "1e2db0c4cd7646f7e6835b62fc2103c0d81d6757",
+        "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
+        "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "作者按倒序捋了一遍AI短剧的制作链路——从最后的成片往前拆，看每一步用的素材是从哪一步来的：成片 → 剪辑 → 视频生成 → 分镜表 → 角色/场景设计 → 剧本。或许对你有帮助！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-09-16",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "2b6fa73db4929832ba37cdb22ff99755b619934c",
+          "title": "作者按倒序捋了一遍AI短剧的制作链路——从最后的成片往前拆，看每一步用的素材是从哪一步来的：成片 → 剪辑 → 视频生成 → 分镜表 → 角色/场景设计 → 剧本。或许对你有帮助！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-16T18:54:41.260496Z"
+        },
+        {
+          "id": "c6649e9e6a83972c2a8cec6b6c464114a7130934",
+          "title": "想把开源模型用起来，却卡在选模型、配环境，不知道第一步怎么走？《魔搭紫皮书》用约 40 万字、34 章内容串起了模型选择、部署、微调和效果评测，还提供了企业知识问答、语音助手、图像生成等实战案例。各部分都配有能一步步运行的代码笔记本。你也可以先挑一个感兴趣的案例，在电脑或云端跑通，再带着实际问题往下学。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-16T18:54:41.260496Z"
+        },
+        {
+          "id": "ba6c63a05c0dc5e3df5d9f907c02189e39a130e7",
+          "title": "每天重复查资料、整理信息，想交给 AI，又担心它擅自发消息、改文件？这份指南给出了一条从小任务走向自动化的完整路径。先选低风险的重复工作，用文字或录屏讲清流程，连接工具、设好权限；手动确认结果和审批机制可靠后，再安排定时运行、多个机器人分工。快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-16T18:54:41.260496Z"
+        },
+        {
+          "id": "ced6919cc3a7a307f476d034949adc71ecd7d0ef",
+          "title": "网页动效词典下篇，拆解了弹窗、菜单、加载提示、布局变化和页面转场，还附有对应的提示词。下一次再向 AI 描述网页，你说的就不会只有“高级一点”“丝滑一点”。你能说清楚谁触发、什么东西动、怎样结束、需要照顾哪些用户，AI 才能把你脑子里的感觉做出来。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-16T18:54:41.260496Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "社区更新 · 2026-09-16"
+      ],
+      "items": [
+        {
+          "id": "2b6fa73db4929832ba37cdb22ff99755b619934c",
+          "title": "作者按倒序捋了一遍AI短剧的制作链路——从最后的成片往前拆，看每一步用的素材是从哪一步来的：成片 → 剪辑 → 视频生成 → 分镜表 → 角色/场景设计 → 剧本。或许对你有帮助！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-16T18:54:41.260496Z"
+        },
+        {
+          "id": "c6649e9e6a83972c2a8cec6b6c464114a7130934",
+          "title": "想把开源模型用起来，却卡在选模型、配环境，不知道第一步怎么走？《魔搭紫皮书》用约 40 万字、34 章内容串起了模型选择、部署、微调和效果评测，还提供了企业知识问答、语音助手、图像生成等实战案例。各部分都配有能一步步运行的代码笔记本。你也可以先挑一个感兴趣的案例，在电脑或云端跑通，再带着实际问题往下学。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-16T18:54:41.260496Z"
+        },
+        {
+          "id": "ba6c63a05c0dc5e3df5d9f907c02189e39a130e7",
+          "title": "每天重复查资料、整理信息，想交给 AI，又担心它擅自发消息、改文件？这份指南给出了一条从小任务走向自动化的完整路径。先选低风险的重复工作，用文字或录屏讲清流程，连接工具、设好权限；手动确认结果和审批机制可靠后，再安排定时运行、多个机器人分工。快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-16T18:54:41.260496Z"
+        },
+        {
+          "id": "ced6919cc3a7a307f476d034949adc71ecd7d0ef",
+          "title": "网页动效词典下篇，拆解了弹窗、菜单、加载提示、布局变化和页面转场，还附有对应的提示词。下一次再向 AI 描述网页，你说的就不会只有“高级一点”“丝滑一点”。你能说清楚谁触发、什么东西动、怎样结束、需要照顾哪些用户，AI 才能把你脑子里的感觉做出来。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-16T18:54:41.260496Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5983,
+      "importance": 0.5983,
+      "importance_score": 0.5983,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.7448,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-16T18:54:41.260496Z",
+      "latest_at": "2026-09-16T18:54:41.260496Z",
+      "primary_item": {
+        "id": "2b6fa73db4929832ba37cdb22ff99755b619934c",
+        "title": "作者按倒序捋了一遍AI短剧的制作链路——从最后的成片往前拆，看每一步用的素材是从哪一步来的：成片 → 剪辑 → 视频生成 → 分镜表 → 角色/场景设计 → 剧本。或许对你有帮助！",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-09-16",
+        "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_925e1ce3135c",
+      "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+      "url": "https://www.aibase.com/news/31106",
+      "primary_url": "https://www.aibase.com/news/31106",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e427042515a287d551be8dd06efd671d331d825e",
+          "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+          "url": "https://www.aibase.com/news/31106",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T05:26:46.938473Z"
+        },
+        {
+          "id": "f5921e221468eca820b1a5202c6327be2072b0b4",
+          "title": "Anthropic 合并 Claude Cowork 与 Chat，统一 AI 任务工作空间",
+          "url": "https://www.aibase.com/zh/news/31106",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e427042515a287d551be8dd06efd671d331d825e",
+          "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+          "url": "https://www.aibase.com/news/31106",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T05:26:46.938473Z"
+        },
+        {
+          "id": "f5921e221468eca820b1a5202c6327be2072b0b4",
+          "title": "Anthropic 合并 Claude Cowork 与 Chat，统一 AI 任务工作空间",
+          "url": "https://www.aibase.com/zh/news/31106",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8671,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T05:26:46.938473Z",
+      "latest_at": "2026-09-17T05:26:46.938473Z",
+      "primary_item": {
+        "id": "e427042515a287d551be8dd06efd671d331d825e",
+        "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+        "url": "https://www.aibase.com/news/31106",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a08dafeb17b5",
+      "title": "Al Gore says the real AI risk isn’t data centers",
+      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+      "primary_url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "e2205118655d631738ba15442ea29f3f1b26e044",
+          "title": "Al Gore says the real AI risk isn’t data centers",
+          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-16T23:43:09Z"
+        },
+        {
+          "id": "a0cdba227f6a242c580f26a9dbc6d4142d3964b8",
+          "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
+          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T23:43:09Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "e2205118655d631738ba15442ea29f3f1b26e044",
+          "title": "Al Gore says the real AI risk isn’t data centers",
+          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-16T23:43:09Z"
+        },
+        {
+          "id": "a0cdba227f6a242c580f26a9dbc6d4142d3964b8",
+          "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
+          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T23:43:09Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6125,
+      "importance": 0.6125,
+      "importance_score": 0.6125,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.7983,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-16T23:43:09Z",
+      "latest_at": "2026-09-16T23:43:09Z",
+      "primary_item": {
+        "id": "e2205118655d631738ba15442ea29f3f1b26e044",
+        "title": "Al Gore says the real AI risk isn’t data centers",
+        "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       }
     }
   ]
