@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T20:41:19.062972Z",
+  "generated_at": "2026-09-19T22:30:02.522973Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
+      "score": 0.7682,
+      "importance": 0.7682,
+      "importance_score": 0.7682,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7331,
+        "recency": 0.7142,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.807,
+        "recency": 0.7861,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -180,15 +180,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7396,
+        "recency": 0.7205,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -259,15 +259,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7613,
-      "importance": 0.7613,
-      "importance_score": 0.7613,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.743,
+        "recency": 0.7238,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -340,15 +340,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7566,
-      "importance": 0.7566,
-      "importance_score": 0.7566,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7334,
+        "recency": 0.7145,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -419,56 +419,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-09-19T20:41:19.062972Z"
-        },
-        {
-          "id": "34856c66078466a9487e94d37975a18fdb413b59",
-          "title": "很多 Agent 跑起来慢、成本高，问题常出在每个小判断都让大模型重新想一遍：工单急不急、该用哪个模型、工具调用有没有风险，都要走完整 LLM 调用。这篇用最近爆火的模型 Jev 讲了一种更轻的拆法，适合做 Agent、客服工单和自动化流程的人看。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-18T21:16:06.244743Z"
-        },
-        {
-          "id": "42dc95839e7d8dbc703fc9a2ec3b1314d5267cd3",
-          "title": "很多人看 MoE 模型，会被“总参数很大、激活参数很小”绕晕：以为计算少了，部署就轻了，真上线才发现显存、KV 缓存、GPU 通信和专家负载不均都在拖速度。想搞定 MoE 大模型推理部署，这篇干货值得细读。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-18T21:16:06.244743Z"
-        },
-        {
-          "id": "be632572a4c5d2d78627c4a1680964a8c6af3f33",
-          "title": "很多人给 Agent 加记忆，一上来就想到向量数据库，结果反而没弄清楚：到底该记什么、什么时候取、怎么塞回上下文。这篇文章从零带你手搓一个本地记忆系统，不用 LangChain/LangGraph，只用 Python、Ollama、SQLite、嵌入模型和 LLM。读完你会更清楚“记住”背后到底发生了什么。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-18T21:16:06.244743Z"
-        },
-        {
-          "id": "5a6b96eada3a5cd6b2c83d6150bca5b3afa22cfc",
-          "title": "洛小山结合 Alice 的实践，提出了“关系型生产力 Agent”：用实际交付提供每天打开的理由，在长期协作中记住习惯、理解没写进提示词的需求，让任务完成得更贴合用户。文章也给出了具体的检验方法：换模型后风格是否稳定、旧习惯能否准确调用、没有任务时用户是否愿意打开。做 AI 产品和运营的，可以对照这些标准，看看自己积累的是短期吸引力，还是持续协作的信任。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-18T21:16:06.244743Z"
-        },
-        {
-          "id": "45bd9984d2ba9231e104d056fcd36ae455ee47a6",
-          "title": "给邮件分类、判断工单该交给谁，这些小任务也反复调用大模型，成本和等待都会累积。TypeSafe 的 Jev 模型专门处理这类判断：根据预设选项返回分类、评分和概率，再由程序决定下一步。文章附有接入代码，还讲清了如何一次提出多个问题、用真实样本验证效果，以及在模型没把握时转交人工。快来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-18T21:16:06.244743Z"
         }
       ],
-      "source_count": 10,
+      "source_count": 5,
       "source_names": [
-        "社区更新 · 2026-09-18",
         "社区更新 · 2026-09-19"
       ],
       "items": [
@@ -516,71 +470,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-09-19T20:41:19.062972Z"
-        },
-        {
-          "id": "34856c66078466a9487e94d37975a18fdb413b59",
-          "title": "很多 Agent 跑起来慢、成本高，问题常出在每个小判断都让大模型重新想一遍：工单急不急、该用哪个模型、工具调用有没有风险，都要走完整 LLM 调用。这篇用最近爆火的模型 Jev 讲了一种更轻的拆法，适合做 Agent、客服工单和自动化流程的人看。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-18T21:16:06.244743Z"
-        },
-        {
-          "id": "42dc95839e7d8dbc703fc9a2ec3b1314d5267cd3",
-          "title": "很多人看 MoE 模型，会被“总参数很大、激活参数很小”绕晕：以为计算少了，部署就轻了，真上线才发现显存、KV 缓存、GPU 通信和专家负载不均都在拖速度。想搞定 MoE 大模型推理部署，这篇干货值得细读。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-18T21:16:06.244743Z"
-        },
-        {
-          "id": "be632572a4c5d2d78627c4a1680964a8c6af3f33",
-          "title": "很多人给 Agent 加记忆，一上来就想到向量数据库，结果反而没弄清楚：到底该记什么、什么时候取、怎么塞回上下文。这篇文章从零带你手搓一个本地记忆系统，不用 LangChain/LangGraph，只用 Python、Ollama、SQLite、嵌入模型和 LLM。读完你会更清楚“记住”背后到底发生了什么。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-18T21:16:06.244743Z"
-        },
-        {
-          "id": "5a6b96eada3a5cd6b2c83d6150bca5b3afa22cfc",
-          "title": "洛小山结合 Alice 的实践，提出了“关系型生产力 Agent”：用实际交付提供每天打开的理由，在长期协作中记住习惯、理解没写进提示词的需求，让任务完成得更贴合用户。文章也给出了具体的检验方法：换模型后风格是否稳定、旧习惯能否准确调用、没有任务时用户是否愿意打开。做 AI 产品和运营的，可以对照这些标准，看看自己积累的是短期吸引力，还是持续协作的信任。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-18T21:16:06.244743Z"
-        },
-        {
-          "id": "45bd9984d2ba9231e104d056fcd36ae455ee47a6",
-          "title": "给邮件分类、判断工单该交给谁，这些小任务也反复调用大模型，成本和等待都会累积。TypeSafe 的 Jev 模型专门处理这类判断：根据预设选项返回分类、评分和概率，再由程序决定下一步。文章附有接入代码，还讲清了如何一次提出多个问题、用真实样本验证效果，以及在模型没把握时转交人工。快来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-18T21:16:06.244743Z"
         }
       ],
-      "item_count": 10,
-      "duplicate_count": 10,
-      "score": 0.6858,
-      "importance": 0.6858,
-      "importance_score": 0.6858,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6812,
+      "importance": 0.6812,
+      "importance_score": 0.6812,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4968,
         "source_tier": 0.54,
         "ai_relevance": 0.69,
-        "recency": 1.0,
+        "recency": 0.9742,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-18T21:16:06.244743Z",
+      "earliest_at": "2026-09-19T20:41:19.062972Z",
       "latest_at": "2026-09-19T20:41:19.062972Z",
       "primary_item": {
         "id": "2d0e779ffecc5ef99e1dabba68b5a764caf73983",
@@ -591,82 +500,216 @@
       }
     },
     {
-      "story_id": "story_6b49f5c4d6de",
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
-      "primary_url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+      "story_id": "story_6cd029fa2ffe",
+      "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
+      "primary_url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
       "source": "TechCrunch AI",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "8fb96c5aa872c03a63d4033a2296c538b3a4cab4",
-          "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+          "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
+          "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
           "source": "TechCrunch AI",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-18T23:25:01Z"
+          "published_at": "2026-09-19T19:57:47Z"
         },
         {
-          "id": "a380f5c6a222e5ce80bf5a5294a4cb5b7743e6f8",
-          "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
-          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-18T23:25:01Z"
+          "id": "4783e76d24987cf348629c542859cf3d9e83d801",
+          "title": "特朗普建议用新名称重新命名人工智能，并表示他还将创建一支人工智能部队 / Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-19T19:57:47Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "TechCrunch",
         "TechCrunch AI"
       ],
       "items": [
         {
-          "id": "8fb96c5aa872c03a63d4033a2296c538b3a4cab4",
-          "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+          "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
+          "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
           "source": "TechCrunch AI",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-18T23:25:01Z"
+          "published_at": "2026-09-19T19:57:47Z"
         },
         {
-          "id": "a380f5c6a222e5ce80bf5a5294a4cb5b7743e6f8",
-          "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
-          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-18T23:25:01Z"
+          "id": "4783e76d24987cf348629c542859cf3d9e83d801",
+          "title": "特朗普建议用新名称重新命名人工智能，并表示他还将创建一支人工智能部队 / Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-19T19:57:47Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6012,
-      "importance": 0.6012,
-      "importance_score": 0.6012,
+      "score": 0.6423,
+      "importance": 0.6423,
+      "importance_score": 0.6423,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7355,
+        "recency": 0.964,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-18T23:25:01Z",
-      "latest_at": "2026-09-18T23:25:01Z",
+      "earliest_at": "2026-09-19T19:57:47Z",
+      "latest_at": "2026-09-19T19:57:47Z",
       "primary_item": {
-        "id": "8fb96c5aa872c03a63d4033a2296c538b3a4cab4",
-        "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-        "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+        "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
+        "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+        "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_35721eb82dbc",
+      "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "primary_url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "source": "erichgrunewald.substack.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "erichgrunewald.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T20:03:34.007000Z"
+        },
+        {
+          "id": "e21393f34078af0dc888cc86e01b6ce1c76f351d",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / Almost Never Use AI to Write Anything Substantive",
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T16:35:24Z"
+        },
+        {
+          "id": "64208bebb47b90cbd92cbffca6ca90c40f961090",
+          "title": "几乎从不使用人工智能来写任何实质性内容 / Almost Never Use AI to Write Anything Substantive",
+          "url": "https://news.ycombinator.com/item?id=49767937",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T16:35:24Z"
+        },
+        {
+          "id": "83b84e1c6c188985bb4faaf82b087dc51c256d9a",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / I think you should almost never use AI to write",
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-19T16:35:24Z"
+        },
+        {
+          "id": "5d45c92dc71485d90d52b9061db048d83ee84937",
+          "title": "我认为你几乎不应该使用人工智能来写作 / I think you should almost never use AI to write",
+          "url": "https://news.ycombinator.com/item?id=49767937",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T16:35:24Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "erichgrunewald.substack.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "erichgrunewald.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T20:03:34.007000Z"
+        },
+        {
+          "id": "e21393f34078af0dc888cc86e01b6ce1c76f351d",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / Almost Never Use AI to Write Anything Substantive",
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T16:35:24Z"
+        },
+        {
+          "id": "64208bebb47b90cbd92cbffca6ca90c40f961090",
+          "title": "几乎从不使用人工智能来写任何实质性内容 / Almost Never Use AI to Write Anything Substantive",
+          "url": "https://news.ycombinator.com/item?id=49767937",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T16:35:24Z"
+        },
+        {
+          "id": "83b84e1c6c188985bb4faaf82b087dc51c256d9a",
+          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / I think you should almost never use AI to write",
+          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-19T16:35:24Z"
+        },
+        {
+          "id": "5d45c92dc71485d90d52b9061db048d83ee84937",
+          "title": "我认为你几乎不应该使用人工智能来写作 / I think you should almost never use AI to write",
+          "url": "https://news.ycombinator.com/item?id=49767937",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T16:35:24Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6146,
+      "importance": 0.6146,
+      "importance_score": 0.6146,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9654,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T16:35:24Z",
+      "latest_at": "2026-09-19T20:03:34.007000Z",
+      "primary_item": {
+        "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
+        "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+        "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+        "source": "erichgrunewald.substack.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -761,15 +804,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5796,
-      "importance": 0.5796,
-      "importance_score": 0.5796,
+      "score": 0.5754,
+      "importance": 0.5754,
+      "importance_score": 0.5754,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9101,
+        "recency": 0.8866,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -787,101 +830,82 @@
       }
     },
     {
-      "story_id": "story_35721eb82dbc",
-      "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
-      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "primary_url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "source": "erichgrunewald.substack.com",
-      "source_name": "Buzzing",
+      "story_id": "story_6b49f5c4d6de",
+      "title": "一家创建其他初创公司的初创公司筹集了 1 亿美元，并全力投入物理人工智能 / A startup that builds other startups raised $100M and is all-in on physical AI",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+      "primary_url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
-          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "source": "erichgrunewald.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T20:03:34.007000Z"
+          "id": "8fb96c5aa872c03a63d4033a2296c538b3a4cab4",
+          "title": "一家创建其他初创公司的初创公司筹集了 1 亿美元，并全力投入物理人工智能 / A startup that builds other startups raised $100M and is all-in on physical AI",
+          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-18T23:25:01Z"
         },
         {
-          "id": "e21393f34078af0dc888cc86e01b6ce1c76f351d",
-          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / Almost Never Use AI to Write Anything Substantive",
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "source": "Hacker News",
+          "id": "a380f5c6a222e5ce80bf5a5294a4cb5b7743e6f8",
+          "title": "一家创建其他初创公司的初创公司筹集了 1 亿美元，并全力投入物理人工智能 / A startup that builds other startups raised $100M, and is all-in on physical AI",
+          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+          "source": "TechCrunch",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-19T16:35:24Z"
-        },
-        {
-          "id": "64208bebb47b90cbd92cbffca6ca90c40f961090",
-          "title": "几乎从不使用人工智能来写任何实质性内容 / Almost Never Use AI to Write Anything Substantive",
-          "url": "https://news.ycombinator.com/item?id=49767937",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T16:35:24Z"
+          "published_at": "2026-09-18T23:25:01Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "erichgrunewald.substack.com",
-        "hackernews"
+        "TechCrunch",
+        "TechCrunch AI"
       ],
       "items": [
         {
-          "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
-          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "source": "erichgrunewald.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T20:03:34.007000Z"
+          "id": "8fb96c5aa872c03a63d4033a2296c538b3a4cab4",
+          "title": "一家创建其他初创公司的初创公司筹集了 1 亿美元，并全力投入物理人工智能 / A startup that builds other startups raised $100M and is all-in on physical AI",
+          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-18T23:25:01Z"
         },
         {
-          "id": "e21393f34078af0dc888cc86e01b6ce1c76f351d",
-          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / Almost Never Use AI to Write Anything Substantive",
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "source": "Hacker News",
+          "id": "a380f5c6a222e5ce80bf5a5294a4cb5b7743e6f8",
+          "title": "一家创建其他初创公司的初创公司筹集了 1 亿美元，并全力投入物理人工智能 / A startup that builds other startups raised $100M, and is all-in on physical AI",
+          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+          "source": "TechCrunch",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-19T16:35:24Z"
-        },
-        {
-          "id": "64208bebb47b90cbd92cbffca6ca90c40f961090",
-          "title": "几乎从不使用人工智能来写任何实质性内容 / Almost Never Use AI to Write Anything Substantive",
-          "url": "https://news.ycombinator.com/item?id=49767937",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T16:35:24Z"
+          "published_at": "2026-09-18T23:25:01Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5692,
-      "importance": 0.5692,
-      "importance_score": 0.5692,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5977,
+      "importance": 0.5977,
+      "importance_score": 0.5977,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.991,
-        "story_heat": 0.5
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.7165,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-19T16:35:24Z",
-      "latest_at": "2026-09-19T20:03:34.007000Z",
+      "earliest_at": "2026-09-18T23:25:01Z",
+      "latest_at": "2026-09-18T23:25:01Z",
       "primary_item": {
-        "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
-        "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
-        "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-        "source": "erichgrunewald.substack.com",
-        "source_name": "Buzzing"
+        "id": "8fb96c5aa872c03a63d4033a2296c538b3a4cab4",
+        "title": "一家创建其他初创公司的初创公司筹集了 1 亿美元，并全力投入物理人工智能 / A startup that builds other startups raised $100M and is all-in on physical AI",
+        "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -975,15 +999,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5691,
-      "importance": 0.5691,
-      "importance_score": 0.5691,
+      "score": 0.5652,
+      "importance": 0.5652,
+      "importance_score": 0.5652,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8519,
+        "recency": 0.8299,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -997,6 +1021,85 @@
         "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
         "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
         "source": "www.prinzai.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_95d2a0c94c5e",
+      "title": "特朗普表示，美国将组建“人工智能部队”并任命一名人工智能沙皇",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "source": "www.bbc.co.uk",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "882e31a649b6b57672f194a338a5cf8159d16ac5",
+          "title": "特朗普表示，美国将组建“人工智能部队”并任命一名人工智能沙皇",
+          "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T21:53:28.879000Z"
+        },
+        {
+          "id": "266d9bcc6a57dc33f7d720a5a09293e3005b6364",
+          "title": "特朗普表示，美国将组建“人工智能部队”并任命一名人工智能沙皇 / Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+          "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-19T21:01:56Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News (世界新闻)",
+        "www.bbc.co.uk"
+      ],
+      "items": [
+        {
+          "id": "882e31a649b6b57672f194a338a5cf8159d16ac5",
+          "title": "特朗普表示，美国将组建“人工智能部队”并任命一名人工智能沙皇",
+          "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T21:53:28.879000Z"
+        },
+        {
+          "id": "266d9bcc6a57dc33f7d720a5a09293e3005b6364",
+          "title": "特朗普表示，美国将组建“人工智能部队”并任命一名人工智能沙皇 / Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+          "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-19T21:01:56Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5442,
+      "importance": 0.5442,
+      "importance_score": 0.5442,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9912,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T21:01:56Z",
+      "latest_at": "2026-09-19T21:53:28.879000Z",
+      "primary_item": {
+        "id": "882e31a649b6b57672f194a338a5cf8159d16ac5",
+        "title": "特朗普表示，美国将组建“人工智能部队”并任命一名人工智能沙皇",
+        "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+        "source": "www.bbc.co.uk",
         "source_name": "Buzzing"
       }
     },
@@ -1073,15 +1176,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.547,
-      "importance": 0.547,
-      "importance_score": 0.547,
+      "score": 0.543,
+      "importance": 0.543,
+      "importance_score": 0.543,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.868,
+        "recency": 0.8456,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1152,15 +1255,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.544,
-      "importance": 0.544,
-      "importance_score": 0.544,
+      "score": 0.5394,
+      "importance": 0.5394,
+      "importance_score": 0.5394,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.99,
+        "recency": 0.9644,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1231,15 +1334,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5422,
-      "importance": 0.5422,
-      "importance_score": 0.5422,
+      "score": 0.5376,
+      "importance": 0.5376,
+      "importance_score": 0.5376,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.98,
+        "recency": 0.9547,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1309,15 +1412,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5409,
-      "importance": 0.5409,
-      "importance_score": 0.5409,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9726,
+        "recency": 0.9474,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1332,6 +1435,85 @@
         "url": "https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19",
         "source": "www.reuters.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_dc8b1f74b838",
+      "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "e8dd20c7dfb45d17eedd35942de8d87216aba70a",
+          "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T18:21:30Z"
+        },
+        {
+          "id": "9b707e023bfb6980eadf5a2eba935d9f3c00ede9",
+          "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "url": "https://news.ycombinator.com/item?id=49768921",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T18:21:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e8dd20c7dfb45d17eedd35942de8d87216aba70a",
+          "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T18:21:30Z"
+        },
+        {
+          "id": "9b707e023bfb6980eadf5a2eba935d9f3c00ede9",
+          "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "url": "https://news.ycombinator.com/item?id=49768921",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T18:21:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5353,
+      "importance": 0.5353,
+      "importance_score": 0.5353,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9419,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T18:21:30Z",
+      "latest_at": "2026-09-19T18:21:30Z",
+      "primary_item": {
+        "id": "e8dd20c7dfb45d17eedd35942de8d87216aba70a",
+        "title": "微软总监：人工智能铲除“人类历史上最大的劳动力盗窃案” / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
       }
     },
     {
@@ -1362,7 +1544,7 @@
         },
         {
           "id": "c8517d3426bba4b5cbc81e0ec690088f127fcbd1",
-          "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+          "title": "阿里巴巴开源AI模型可检测癌症及近150种病症 / Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
           "url": "https://news.ycombinator.com/item?id=49761840",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -1397,7 +1579,7 @@
         },
         {
           "id": "c8517d3426bba4b5cbc81e0ec690088f127fcbd1",
-          "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+          "title": "阿里巴巴开源AI模型可检测癌症及近150种病症 / Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
           "url": "https://news.ycombinator.com/item?id=49761840",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -1407,15 +1589,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5373,
-      "importance": 0.5373,
-      "importance_score": 0.5373,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8142,
+        "recency": 0.7931,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1486,15 +1668,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5337,
-      "importance": 0.5337,
-      "importance_score": 0.5337,
+      "score": 0.5294,
+      "importance": 0.5294,
+      "importance_score": 0.5294,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9329,
+        "recency": 0.9088,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1509,104 +1691,6 @@
         "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
         "source": "www.thebignewsletter.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6a21ca84e1e0",
-      "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
-      "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies",
-      "primary_url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "8db67508b5f32e6da5b51925bbb0e590063962a6",
-          "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
-          "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "a9605f48985cce7effa736572178da8f2f62251e",
-          "title": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
-          "url": "https://www.reddit.com/r/news/comments/1wk5kv1/gemini_hacked_three_companies_in_first_known",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-18T23:13:52Z"
-        },
-        {
-          "id": "61645a226635386454db02a4cf3a3af3fc422d82",
-          "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
-          "url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-18T22:17:19Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Readhub · AI",
-        "Reddit (热门)"
-      ],
-      "items": [
-        {
-          "id": "8db67508b5f32e6da5b51925bbb0e590063962a6",
-          "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
-          "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "a9605f48985cce7effa736572178da8f2f62251e",
-          "title": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
-          "url": "https://www.reddit.com/r/news/comments/1wk5kv1/gemini_hacked_three_companies_in_first_known",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-18T23:13:52Z"
-        },
-        {
-          "id": "61645a226635386454db02a4cf3a3af3fc422d82",
-          "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
-          "url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-18T22:17:19Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5275,
-      "importance": 0.5275,
-      "importance_score": 0.5275,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7594,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-18T22:17:19Z",
-      "latest_at": "2026-09-19T01:37:41.050328Z",
-      "primary_item": {
-        "id": "8db67508b5f32e6da5b51925bbb0e590063962a6",
-        "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
-        "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1662,15 +1746,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5242,
-      "importance": 0.5242,
-      "importance_score": 0.5242,
+      "score": 0.5201,
+      "importance": 0.5201,
+      "importance_score": 0.5201,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.88,
+        "recency": 0.8573,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1685,164 +1769,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC News (世界新闻)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_64adcb8eecb3",
-      "title": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片 / How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design",
-      "primary_url": "https://spectrum.ieee.org/llms-for-chip-design",
-      "source": "Lobsters (技术社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "c93e067370ac9a9253c255989bb3faa2fccc12c3",
-          "title": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片 / How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-          "url": "https://spectrum.ieee.org/llms-for-chip-design",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T09:52:30Z"
-        },
-        {
-          "id": "fe052442e362153ef8ecd4939e82ae1ffb002eb6",
-          "title": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片",
-          "url": "https://spectrum.ieee.org/llms-for-chip-design",
-          "source": "spectrum.ieee.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T06:27:05.170000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "spectrum.ieee.org"
-      ],
-      "items": [
-        {
-          "id": "c93e067370ac9a9253c255989bb3faa2fccc12c3",
-          "title": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片 / How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-          "url": "https://spectrum.ieee.org/llms-for-chip-design",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T09:52:30Z"
-        },
-        {
-          "id": "fe052442e362153ef8ecd4939e82ae1ffb002eb6",
-          "title": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片",
-          "url": "https://spectrum.ieee.org/llms-for-chip-design",
-          "source": "spectrum.ieee.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T06:27:05.170000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4752,
-        "source_tier": 0.32,
-        "ai_relevance": 0.66,
-        "recency": 0.8554,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T06:27:05.170000Z",
-      "latest_at": "2026-09-19T09:52:30Z",
-      "primary_item": {
-        "id": "c93e067370ac9a9253c255989bb3faa2fccc12c3",
-        "title": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片 / How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-        "url": "https://spectrum.ieee.org/llms-for-chip-design",
-        "source": "Lobsters (技术社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_37bc23116d40",
-      "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
-      "url": "https://www.qbitai.com/2026/09/492429.html",
-      "primary_url": "https://www.qbitai.com/2026/09/492429.html",
-      "source": "量子位 · 每日最新",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "3d59718e631cf96f9e4c623caf6837f9e945cc20",
-          "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
-          "url": "https://www.qbitai.com/2026/09/492429.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1c7803b3c13dc3507007b17a84584a320ada79bd",
-          "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
-          "url": "https://www.huxiu.com/article/4892463.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T06:43:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "虎嗅 (Huxiu)",
-        "量子位 · 每日最新"
-      ],
-      "items": [
-        {
-          "id": "3d59718e631cf96f9e4c623caf6837f9e945cc20",
-          "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
-          "url": "https://www.qbitai.com/2026/09/492429.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1c7803b3c13dc3507007b17a84584a320ada79bd",
-          "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
-          "url": "https://www.huxiu.com/article/4892463.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T06:43:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5236,
-      "importance": 0.5236,
-      "importance_score": 0.5236,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8767,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T06:43:23Z",
-      "latest_at": "2026-09-19T11:34:28.122768Z",
-      "primary_item": {
-        "id": "3d59718e631cf96f9e4c623caf6837f9e945cc20",
-        "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
-        "url": "https://www.qbitai.com/2026/09/492429.html",
-        "source": "量子位 · 每日最新",
-        "source_name": "TopHub"
       }
     }
   ]
