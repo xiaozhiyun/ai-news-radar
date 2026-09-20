@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:06:47.356766Z",
+  "generated_at": "2026-09-20T14:14:04.510814Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8331,
-      "importance": 0.8331,
-      "importance_score": 0.8331,
+      "score": 0.8241,
+      "importance": 0.8241,
+      "importance_score": 0.8241,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8638,
+        "recency": 0.8139,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -119,6 +119,87 @@
         "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
         "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fc9a8f12e485",
+      "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "primary_url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "source": "Qwen：Blog Retrieval（API）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T12:00:00Z"
+        },
+        {
+          "id": "01966d29e917cd153e00cd550d8728eb60f8fe1e",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1: Compact, efficient, and unified image creation",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T13:09:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Qwen：Blog Retrieval（API）"
+      ],
+      "items": [
+        {
+          "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T12:00:00Z"
+        },
+        {
+          "id": "01966d29e917cd153e00cd550d8728eb60f8fe1e",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1: Compact, efficient, and unified image creation",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T13:09:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7869,
+      "importance": 0.7869,
+      "importance_score": 0.7869,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9682,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T12:00:00Z",
+      "latest_at": "2026-09-20T13:09:25Z",
+      "primary_item": {
+        "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
+        "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+        "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+        "source": "Qwen：Blog Retrieval（API）",
         "source_name": "AI HOT"
       }
     },
@@ -176,15 +257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7822,
+      "importance": 0.7822,
+      "importance_score": 0.7822,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9422,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -257,15 +338,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7822,
+      "importance": 0.7822,
+      "importance_score": 0.7822,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9422,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -338,15 +419,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7822,
+      "importance": 0.7822,
+      "importance_score": 0.7822,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9422,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -400,15 +481,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7297,
-      "importance": 0.7297,
-      "importance_score": 0.7297,
+      "score": 0.7204,
+      "importance": 0.7204,
+      "importance_score": 0.7204,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8894,
+        "recency": 0.8381,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -479,15 +560,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9346,
+        "recency": 0.8806,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -560,15 +641,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9346,
+        "recency": 0.8806,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -694,15 +775,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6541,
-      "importance": 0.6541,
-      "importance_score": 0.6541,
+      "score": 0.6456,
+      "importance": 0.6456,
+      "importance_score": 0.6456,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4968,
         "source_tier": 0.54,
         "ai_relevance": 0.69,
-        "recency": 0.8238,
+        "recency": 0.7762,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -773,15 +854,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9346,
+        "recency": 0.8806,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -853,15 +934,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6155,
-      "importance": 0.6155,
-      "importance_score": 0.6155,
+      "score": 0.607,
+      "importance": 0.607,
+      "importance_score": 0.607,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8152,
+        "recency": 0.7681,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -932,15 +1013,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9346,
+        "recency": 0.8806,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1069,15 +1150,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5877,
-      "importance": 0.5877,
-      "importance_score": 0.5877,
+      "score": 0.5792,
+      "importance": 0.5792,
+      "importance_score": 0.5792,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8163,
+        "recency": 0.7692,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1091,6 +1172,104 @@
         "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
         "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
         "source": "erichgrunewald.substack.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5d316fdb66cf",
+      "title": "人工智能与“知识共享”的瓦解",
+      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+      "primary_url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+      "source": "www.chesterwisniewski.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1479d0bb44615475dc260d7847b1ebe331ca711e",
+          "title": "人工智能与“知识共享”的瓦解",
+          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+          "source": "www.chesterwisniewski.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T12:50:12.972000Z"
+        },
+        {
+          "id": "510bc5f41a64af0dcb1125f4de5b403c68eed0c3",
+          "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
+          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T10:07:51Z"
+        },
+        {
+          "id": "2f14c09bbcc2c0bbbcc43982591753c4c9f214b9",
+          "title": "人工智能与知识共享的破坏 / AI and the Destruction of the Creative Commons",
+          "url": "https://news.ycombinator.com/item?id=49774329",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T10:07:51Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "www.chesterwisniewski.com"
+      ],
+      "items": [
+        {
+          "id": "1479d0bb44615475dc260d7847b1ebe331ca711e",
+          "title": "人工智能与“知识共享”的瓦解",
+          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+          "source": "www.chesterwisniewski.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T12:50:12.972000Z"
+        },
+        {
+          "id": "510bc5f41a64af0dcb1125f4de5b403c68eed0c3",
+          "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
+          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T10:07:51Z"
+        },
+        {
+          "id": "2f14c09bbcc2c0bbbcc43982591753c4c9f214b9",
+          "title": "人工智能与知识共享的破坏 / AI and the Destruction of the Creative Commons",
+          "url": "https://news.ycombinator.com/item?id=49774329",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T10:07:51Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5672,
+      "importance": 0.5672,
+      "importance_score": 0.5672,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.98,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T10:07:51Z",
+      "latest_at": "2026-09-20T12:50:12.972000Z",
+      "primary_item": {
+        "id": "1479d0bb44615475dc260d7847b1ebe331ca711e",
+        "title": "人工智能与“知识共享”的瓦解",
+        "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+        "source": "www.chesterwisniewski.com",
         "source_name": "Buzzing"
       }
     },
@@ -1148,15 +1327,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9346,
+        "recency": 0.8806,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1173,6 +1352,163 @@
         "url": "https://www.aibase.com/news/31177",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6e9a00bdff8c",
+      "title": "人类学/金融服务 / anthropics / financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "primary_url": "https://github.com/anthropics/financial-services",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "a81c4ba315c0731bb4afdb4c8f9bffac26d8c349",
+          "title": "人类学/金融服务 / anthropics / financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c4d0dbdf230889f7d8c7162f0145632c019b0eec",
+          "title": "人类学/金融服务 / anthropics /      financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T14:01:22.428000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "a81c4ba315c0731bb4afdb4c8f9bffac26d8c349",
+          "title": "人类学/金融服务 / anthropics / financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c4d0dbdf230889f7d8c7162f0145632c019b0eec",
+          "title": "人类学/金融服务 / anthropics /      financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T14:01:22.428000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T14:01:22.428000Z",
+      "latest_at": "2026-09-20T14:14:04.510814Z",
+      "primary_item": {
+        "id": "a81c4ba315c0731bb4afdb4c8f9bffac26d8c349",
+        "title": "人类学/金融服务 / anthropics / financial-services",
+        "url": "https://github.com/anthropics/financial-services",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_26586092ac59",
+      "title": "诉讼称，Anthropic、OpenAI、SpaceXAI和谷歌就放缓人工智能发展达成非法协议 - PBS",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM004SUlSWllLZDZJYVJFUnpDek0tb25KZ2I3S0UtRWl0NXRIeHpWblkxakRuT2ZOV1llSGEwNHNmQm5jSGZHbjZYd0V4OFNCMmZNSzMxck5tbUV6Wm4wM1lGeFVIZVhleHFWWWpCWUtGOUtqdVFKYVlYcHFlQWk4a3pPNEtWVHNia1VJNzZOMFlTdHE1QnpVSE5rQVNFSmpFelhBeExDRFZFMjVQUEdOS2VoZ3U4U1hwM0FqQzE1bjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM004SUlSWllLZDZJYVJFUnpDek0tb25KZ2I3S0UtRWl0NXRIeHpWblkxakRuT2ZOV1llSGEwNHNmQm5jSGZHbjZYd0V4OFNCMmZNSzMxck5tbUV6Wm4wM1lGeFVIZVhleHFWWWpCWUtGOUtqdVFKYVlYcHFlQWk4a3pPNEtWVHNia1VJNzZOMFlTdHE1QnpVSE5rQVNFSmpFelhBeExDRFZFMjVQUEdOS2VoZ3U4U1hwM0FqQzE1bjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9837404c625ca16399a2264d0df4ae1cb15c0d4c",
+          "title": "诉讼称，Anthropic、OpenAI、SpaceXAI和谷歌就放缓人工智能发展达成非法协议 - PBS",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM004SUlSWllLZDZJYVJFUnpDek0tb25KZ2I3S0UtRWl0NXRIeHpWblkxakRuT2ZOV1llSGEwNHNmQm5jSGZHbjZYd0V4OFNCMmZNSzMxck5tbUV6Wm4wM1lGeFVIZVhleHFWWWpCWUtGOUtqdVFKYVlYcHFlQWk4a3pPNEtWVHNia1VJNzZOMFlTdHE1QnpVSE5rQVNFSmpFelhBeExDRFZFMjVQUEdOS2VoZ3U4U1hwM0FqQzE1bjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T12:19:27.784000Z"
+        },
+        {
+          "id": "26789a19bbadd03679aa2221861335892c3282a5",
+          "title": "诉讼称，Anthropic、OpenAI、SpaceXAI和谷歌就放缓人工智能发展达成了非法协议 - abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUQ2b2EtNnVIUWU5YlJwMEVkXzBHQzZJaTZvN2wzQ3kwMDVnQlpjd1VDY2xPLWFBV1JURFNFV29ZQTU1WWhaZ0Y1UzBTYW1yb2RsZXhQaTd6cmhQWk5OeWdNSjc3ekZYaDBCT3hwM0VrZ1Z2Wm9VdktYUUU4azExWmR4OE1NRXBoUkxiUkZ4MXdOOU9iZllxM1k5N3RBTW0wWk9DRnNOa2Ywc0dmWWgtalNudTDSAboBQVVfeXFMTTRMWDkydU5KWmppbDJDckFmQmdHSkdWXy1LRjZtX0ZKTmNfWmVvSDhXQmgyV1h1WDFLR0g4emVRcXp2ODdRTnk3VTNUREo5aHd4M0pTdnVMSUlFOVBBOVJ2aGlmV1RxX1FHem1SS291MDFET0NaM3NDeWtrYURoOTkyNUx4SU5rU3c2cjk0Slc2Z2NiYlJEOWc0UE9DWVI0VnZONjB3WEhxVFNpT1ZIQTRlSk5Yd2lDN2ZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T07:19:35.279000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "9837404c625ca16399a2264d0df4ae1cb15c0d4c",
+          "title": "诉讼称，Anthropic、OpenAI、SpaceXAI和谷歌就放缓人工智能发展达成非法协议 - PBS",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM004SUlSWllLZDZJYVJFUnpDek0tb25KZ2I3S0UtRWl0NXRIeHpWblkxakRuT2ZOV1llSGEwNHNmQm5jSGZHbjZYd0V4OFNCMmZNSzMxck5tbUV6Wm4wM1lGeFVIZVhleHFWWWpCWUtGOUtqdVFKYVlYcHFlQWk4a3pPNEtWVHNia1VJNzZOMFlTdHE1QnpVSE5rQVNFSmpFelhBeExDRFZFMjVQUEdOS2VoZ3U4U1hwM0FqQzE1bjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T12:19:27.784000Z"
+        },
+        {
+          "id": "26789a19bbadd03679aa2221861335892c3282a5",
+          "title": "诉讼称，Anthropic、OpenAI、SpaceXAI和谷歌就放缓人工智能发展达成了非法协议 - abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUQ2b2EtNnVIUWU5YlJwMEVkXzBHQzZJaTZvN2wzQ3kwMDVnQlpjd1VDY2xPLWFBV1JURFNFV29ZQTU1WWhaZ0Y1UzBTYW1yb2RsZXhQaTd6cmhQWk5OeWdNSjc3ekZYaDBCT3hwM0VrZ1Z2Wm9VdktYUUU4azExWmR4OE1NRXBoUkxiUkZ4MXdOOU9iZllxM1k5N3RBTW0wWk9DRnNOa2Ywc0dmWWgtalNudTDSAboBQVVfeXFMTTRMWDkydU5KWmppbDJDckFmQmdHSkdWXy1LRjZtX0ZKTmNfWmVvSDhXQmgyV1h1WDFLR0g4emVRcXp2ODdRTnk3VTNUREo5aHd4M0pTdnVMSUlFOVBBOVJ2aGlmV1RxX1FHem1SS291MDFET0NaM3NDeWtrYURoOTkyNUx4SU5rU3c2cjk0Slc2Z2NiYlJEOWc0UE9DWVI0VnZONjB3WEhxVFNpT1ZIQTRlSk5Yd2lDN2ZB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T07:19:35.279000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9728,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T07:19:35.279000Z",
+      "latest_at": "2026-09-20T12:19:27.784000Z",
+      "primary_item": {
+        "id": "9837404c625ca16399a2264d0df4ae1cb15c0d4c",
+        "title": "诉讼称，Anthropic、OpenAI、SpaceXAI和谷歌就放缓人工智能发展达成非法协议 - PBS",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM004SUlSWllLZDZJYVJFUnpDek0tb25KZ2I3S0UtRWl0NXRIeHpWblkxakRuT2ZOV1llSGEwNHNmQm5jSGZHbjZYd0V4OFNCMmZNSzMxck5tbUV6Wm4wM1lGeFVIZVhleHFWWWpCWUtGOUtqdVFKYVlYcHFlQWk4a3pPNEtWVHNia1VJNzZOMFlTdHE1QnpVSE5rQVNFSmpFelhBeExDRFZFMjVQUEdOS2VoZ3U4U1hwM0FqQzE1bjg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1248,15 +1584,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5463,
-      "importance": 0.5463,
-      "importance_score": 0.5463,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8638,
+        "recency": 0.8139,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1327,15 +1663,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
+      "score": 0.5344,
+      "importance": 0.5344,
+      "importance_score": 0.5344,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9944,
+        "recency": 0.9369,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1353,400 +1689,82 @@
       }
     },
     {
-      "story_id": "story_f7177d685fe6",
-      "title": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
-      "url": "https://www.aibase.com/news/31182",
-      "primary_url": "https://www.aibase.com/news/31182",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_c70d1bc1bd08",
+      "title": "Show HN: 与人类偏好相契合的AI面部吸引力模型",
+      "url": "https://faceanalysisai.com",
+      "primary_url": "https://faceanalysisai.com",
+      "source": "faceanalysisai.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "6e8643c6fccd0cb00474e606fd42a6f6069d9b68",
-          "title": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
-          "url": "https://www.aibase.com/news/31182",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T05:25:58.818656Z"
+          "id": "df19611d6c26a3d8b4d0f0e5928044717e3b06fa",
+          "title": "Show HN: 与人类偏好相契合的AI面部吸引力模型",
+          "url": "https://faceanalysisai.com",
+          "source": "faceanalysisai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T08:55:15.986000Z"
         },
         {
-          "id": "483fbe07cf358fb92441765aaf08e7a56f248ee8",
-          "title": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
-          "url": "https://www.aibase.com/zh/news/31182",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "6e8643c6fccd0cb00474e606fd42a6f6069d9b68",
-          "title": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
-          "url": "https://www.aibase.com/news/31182",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T05:25:58.818656Z"
-        },
-        {
-          "id": "483fbe07cf358fb92441765aaf08e7a56f248ee8",
-          "title": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
-          "url": "https://www.aibase.com/zh/news/31182",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9346,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T05:25:58.818656Z",
-      "latest_at": "2026-09-20T05:25:58.818656Z",
-      "primary_item": {
-        "id": "6e8643c6fccd0cb00474e606fd42a6f6069d9b68",
-        "title": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
-        "url": "https://www.aibase.com/news/31182",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b22a3ce2165b",
-      "title": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
-      "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-      "primary_url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "00cfbfd1df3d0c8f23a73ce6cc21dfd6d0e3f7b6",
-          "title": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+          "id": "955e9b60839a5e3ac354ff7d02276001f53a935a",
+          "title": "Show HN: 与人类偏好相契合的AI面部吸引力模型 / Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
+          "url": "https://faceanalysisai.com",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-20T07:38:37Z"
-        },
-        {
-          "id": "bc21a632a40e1f97e732039b46c29ee009726253",
-          "title": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "url": "https://news.ycombinator.com/item?id=49773439",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T07:38:37Z"
+          "published_at": "2026-09-20T08:48:35Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News",
-        "hackernews"
+        "faceanalysisai.com"
       ],
       "items": [
         {
-          "id": "00cfbfd1df3d0c8f23a73ce6cc21dfd6d0e3f7b6",
-          "title": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+          "id": "df19611d6c26a3d8b4d0f0e5928044717e3b06fa",
+          "title": "Show HN: 与人类偏好相契合的AI面部吸引力模型",
+          "url": "https://faceanalysisai.com",
+          "source": "faceanalysisai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T08:55:15.986000Z"
+        },
+        {
+          "id": "955e9b60839a5e3ac354ff7d02276001f53a935a",
+          "title": "Show HN: 与人类偏好相契合的AI面部吸引力模型 / Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
+          "url": "https://faceanalysisai.com",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-20T07:38:37Z"
-        },
-        {
-          "id": "bc21a632a40e1f97e732039b46c29ee009726253",
-          "title": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "url": "https://news.ycombinator.com/item?id=49773439",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T07:38:37Z"
+          "published_at": "2026-09-20T08:48:35Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5395,
-      "importance": 0.5395,
-      "importance_score": 0.5395,
+      "score": 0.5325,
+      "importance": 0.5325,
+      "importance_score": 0.5325,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.965,
+        "recency": 0.9261,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-20T07:38:37Z",
-      "latest_at": "2026-09-20T07:38:37Z",
+      "earliest_at": "2026-09-20T08:48:35Z",
+      "latest_at": "2026-09-20T08:55:15.986000Z",
       "primary_item": {
-        "id": "00cfbfd1df3d0c8f23a73ce6cc21dfd6d0e3f7b6",
-        "title": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
-        "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "比亚迪大幅降低电动汽车价格，成为澳大利亚最便宜的汽车[视频] / BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
-      "url": "https://www.youtube.com/watch?v=IQrnGK5FZXI",
-      "primary_url": "https://www.youtube.com/watch?v=IQrnGK5FZXI",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "27b952bed470e590361211f95fe267238ccb5220",
-          "title": "比亚迪大幅降低电动汽车价格，成为澳大利亚最便宜的汽车[视频] / BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
-          "url": "https://www.youtube.com/watch?v=IQrnGK5FZXI",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T04:46:34Z"
-        },
-        {
-          "id": "3b7e8fa322752fa8252be48aa6dc55ca90f7c09e",
-          "title": "人工智能与科学的核心悖论 陶哲轩",
-          "url": "https://www.youtube.com/watch?v=svl_1upFpQo",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T17:10:46.255000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.youtube.com"
-      ],
-      "items": [
-        {
-          "id": "27b952bed470e590361211f95fe267238ccb5220",
-          "title": "比亚迪大幅降低电动汽车价格，成为澳大利亚最便宜的汽车[视频] / BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
-          "url": "https://www.youtube.com/watch?v=IQrnGK5FZXI",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T04:46:34Z"
-        },
-        {
-          "id": "3b7e8fa322752fa8252be48aa6dc55ca90f7c09e",
-          "title": "人工智能与科学的核心悖论 陶哲轩",
-          "url": "https://www.youtube.com/watch?v=svl_1upFpQo",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T17:10:46.255000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5324,
-      "importance": 0.5324,
-      "importance_score": 0.5324,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9258,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T17:10:46.255000Z",
-      "latest_at": "2026-09-20T04:46:34Z",
-      "primary_item": {
-        "id": "27b952bed470e590361211f95fe267238ccb5220",
-        "title": "比亚迪大幅降低电动汽车价格，成为澳大利亚最便宜的汽车[视频] / BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
-        "url": "https://www.youtube.com/watch?v=IQrnGK5FZXI",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_ef8f2d6389be",
-      "title": "并非所有人工智能从业者都认为这项技术会杀光所有人",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "99ef320373730c06fda5667e3e96624a657efbe3",
-          "title": "并非所有人工智能从业者都认为这项技术会杀光所有人",
-          "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T23:11:32.379000Z"
-        },
-        {
-          "id": "c9d54d07408385f94c522f9f57541bdf9a55c39b",
-          "title": "并非所有人工智能从业者都认为这项技术会杀光所有人 / Not all AI workers think the tech could kill everyone",
-          "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T23:01:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "99ef320373730c06fda5667e3e96624a657efbe3",
-          "title": "并非所有人工智能从业者都认为这项技术会杀光所有人",
-          "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T23:11:32.379000Z"
-        },
-        {
-          "id": "c9d54d07408385f94c522f9f57541bdf9a55c39b",
-          "title": "并非所有人工智能从业者都认为这项技术会杀光所有人 / Not all AI workers think the tech could kill everyone",
-          "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T23:01:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5195,
-      "importance": 0.5195,
-      "importance_score": 0.5195,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8541,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T23:01:57Z",
-      "latest_at": "2026-09-19T23:11:32.379000Z",
-      "primary_item": {
-        "id": "99ef320373730c06fda5667e3e96624a657efbe3",
-        "title": "并非所有人工智能从业者都认为这项技术会杀光所有人",
-        "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
+        "id": "df19611d6c26a3d8b4d0f0e5928044717e3b06fa",
+        "title": "Show HN: 与人类偏好相契合的AI面部吸引力模型",
+        "url": "https://faceanalysisai.com",
+        "source": "faceanalysisai.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_016f2baab96f",
-      "title": "Claudecookie – 从 cookie 转换、检查和创建 Claude Code 凭证 / Claudecookie – convert, check, and mint Claude Code credentials from a cookie",
-      "url": "https://claudecookie.com",
-      "primary_url": "https://claudecookie.com",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "1a1de5f183f192765074e9d0e11f0047c20c74a4",
-          "title": "Claudecookie – 从 cookie 转换、检查和创建 Claude Code 凭证 / Claudecookie – convert, check, and mint Claude Code credentials from a cookie",
-          "url": "https://claudecookie.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T23:03:55Z"
-        },
-        {
-          "id": "ddf6303e499c2fbae96860e85cebf1a90bded0df",
-          "title": "Claudecookie – 从 cookie 转换、检查和创建 Claude Code 凭证 / Claudecookie – convert, check, and mint Claude Code credentials from a cookie",
-          "url": "https://news.ycombinator.com/item?id=49770860",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T23:03:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1a1de5f183f192765074e9d0e11f0047c20c74a4",
-          "title": "Claudecookie – 从 cookie 转换、检查和创建 Claude Code 凭证 / Claudecookie – convert, check, and mint Claude Code credentials from a cookie",
-          "url": "https://claudecookie.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-19T23:03:55Z"
-        },
-        {
-          "id": "ddf6303e499c2fbae96860e85cebf1a90bded0df",
-          "title": "Claudecookie – 从 cookie 转换、检查和创建 Claude Code 凭证 / Claudecookie – convert, check, and mint Claude Code credentials from a cookie",
-          "url": "https://news.ycombinator.com/item?id=49770860",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T23:03:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5193,
-      "importance": 0.5193,
-      "importance_score": 0.5193,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8525,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T23:03:55Z",
-      "latest_at": "2026-09-19T23:03:55Z",
-      "primary_item": {
-        "id": "1a1de5f183f192765074e9d0e11f0047c20c74a4",
-        "title": "Claudecookie – 从 cookie 转换、检查和创建 Claude Code 凭证 / Claudecookie – convert, check, and mint Claude Code credentials from a cookie",
-        "url": "https://claudecookie.com",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     }
   ]
