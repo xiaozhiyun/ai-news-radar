@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T23:16:42.186492Z",
+  "generated_at": "2026-09-23T01:32:26.443077Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9218,
-      "importance": 0.9218,
-      "importance_score": 0.9218,
+      "score": 0.9164,
+      "importance": 0.9164,
+      "importance_score": 0.9164,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9266,
+        "recency": 0.8968,
         "story_heat": 0.75
       },
       "category": "official",
@@ -234,15 +234,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.899,
-      "importance": 0.899,
-      "importance_score": 0.899,
+      "score": 0.8935,
+      "importance": 0.8935,
+      "importance_score": 0.8935,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9409,
+        "recency": 0.9107,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -315,15 +315,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8872,
-      "importance": 0.8872,
-      "importance_score": 0.8872,
+      "score": 0.8816,
+      "importance": 0.8816,
+      "importance_score": 0.8816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9676,
+        "recency": 0.9365,
         "story_heat": 0.25
       },
       "category": "official",
@@ -340,6 +340,68 @@
         "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
         "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_907491f6b86b",
+      "title": "Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
+      "primary_url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1b42bc87cecf6157669d6957a2452c4f102295c0",
+          "title": "Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains",
+          "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T00:34:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1b42bc87cecf6157669d6957a2452c4f102295c0",
+          "title": "Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains",
+          "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T00:34:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8495,
+      "importance": 0.8495,
+      "importance_score": 0.8495,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9861,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T00:34:18Z",
+      "latest_at": "2026-09-23T00:34:18Z",
+      "primary_item": {
+        "id": "1b42bc87cecf6157669d6957a2452c4f102295c0",
+        "title": "Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains",
+        "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -435,15 +497,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.854,
-      "importance": 0.854,
-      "importance_score": 0.854,
+      "score": 0.8486,
+      "importance": 0.8486,
+      "importance_score": 0.8486,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9469,
+        "recency": 0.9164,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -460,68 +522,6 @@
         "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_da8711b734f6",
-      "title": "Claude Opus 5.5 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
-          "title": "Claude Opus 5.5 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T17:10:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
-          "title": "Claude Opus 5.5 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T17:10:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8448,
-      "importance": 0.8448,
-      "importance_score": 0.8448,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9156,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T17:10:23Z",
-      "latest_at": "2026-09-22T17:10:23Z",
-      "primary_item": {
-        "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
-        "title": "Claude Opus 5.5 is now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -551,19 +551,19 @@
           "published_at": "2026-09-22T16:51:25.134000Z"
         },
         {
-          "id": "7a1fbce1ee059d26946f834e682e7bce779b1eb6",
+          "id": "cd5547068fd6105b5559404bf52b81bb857f3b81",
           "title": "克劳德 作品5.5 / Claude Opus 5.5",
           "url": "https://www.anthropic.com/claude-opus-5-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-22T16:29:05Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Anthropic：Newsroom（网页）",
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "www.anthropic.com"
       ],
       "items": [
@@ -586,26 +586,26 @@
           "published_at": "2026-09-22T16:51:25.134000Z"
         },
         {
-          "id": "7a1fbce1ee059d26946f834e682e7bce779b1eb6",
+          "id": "cd5547068fd6105b5559404bf52b81bb857f3b81",
           "title": "克劳德 作品5.5 / Claude Opus 5.5",
           "url": "https://www.anthropic.com/claude-opus-5-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-22T16:29:05Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
+      "score": 0.8385,
+      "importance": 0.8385,
+      "importance_score": 0.8385,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9119,
+        "recency": 0.8826,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -622,169 +622,6 @@
         "url": "https://www.anthropic.com/claude-opus-5-5",
         "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "acbcbb1c55302ea2fb0cca047c430138e142a311",
-          "title": "Codex CLI 0.156.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        },
-        {
-          "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
-          "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "acbcbb1c55302ea2fb0cca047c430138e142a311",
-          "title": "Codex CLI 0.156.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        },
-        {
-          "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
-          "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8436,
-      "importance": 0.8436,
-      "importance_score": 0.8436,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7145,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T00:00:00Z",
-      "latest_at": "2026-09-22T00:00:00Z",
-      "primary_item": {
-        "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
-        "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_98acfe91fd30",
-      "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "primary_url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3c1fc65cfd298780f4b01ac4d6f9d748cc450289",
-          "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants",
-          "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        },
-        {
-          "id": "bdfcbd36b2a4a5b02666684c5e4d7a68864a5bc5",
-          "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp",
-          "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "3c1fc65cfd298780f4b01ac4d6f9d748cc450289",
-          "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants",
-          "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
-        },
-        {
-          "id": "bdfcbd36b2a4a5b02666684c5e4d7a68864a5bc5",
-          "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp",
-          "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8416,
-      "importance": 0.8416,
-      "importance_score": 0.8416,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7145,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T00:00:00Z",
-      "latest_at": "2026-09-22T00:00:00Z",
-      "primary_item": {
-        "id": "3c1fc65cfd298780f4b01ac4d6f9d748cc450289",
-        "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants",
-        "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -841,15 +678,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8178,
-      "importance": 0.8178,
-      "importance_score": 0.8178,
+      "score": 0.8124,
+      "importance": 0.8124,
+      "importance_score": 0.8124,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.94,
+        "recency": 0.9098,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -869,21 +706,21 @@
       }
     },
     {
-      "story_id": "story_9b1fa73218f4",
-      "title": "OpenAI’s GPT-6 Sol and GPT-6 Luna now available",
-      "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
-      "primary_url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
+      "story_id": "story_da8711b734f6",
+      "title": "Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6618d310ad4a80bde18060bf0f9772360a6176e3",
-          "title": "OpenAI’s GPT-6 Sol and GPT-6 Luna now available",
-          "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
+          "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
+          "title": "Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-22T17:00:14Z"
+          "published_at": "2026-09-22T17:10:23Z"
         }
       ],
       "source_count": 1,
@@ -892,26 +729,26 @@
       ],
       "items": [
         {
-          "id": "6618d310ad4a80bde18060bf0f9772360a6176e3",
-          "title": "OpenAI’s GPT-6 Sol and GPT-6 Luna now available",
-          "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
+          "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
+          "title": "Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-22T17:00:14Z"
+          "published_at": "2026-09-22T17:10:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8444,
-      "importance": 0.8444,
-      "importance_score": 0.8444,
+      "score": 0.8395,
+      "importance": 0.8395,
+      "importance_score": 0.8395,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9134,
+        "recency": 0.8862,
         "story_heat": 0.0
       },
       "category": "official",
@@ -920,14 +757,156 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-22T17:00:14Z",
-      "latest_at": "2026-09-22T17:00:14Z",
+      "earliest_at": "2026-09-22T17:10:23Z",
+      "latest_at": "2026-09-22T17:10:23Z",
       "primary_item": {
-        "id": "6618d310ad4a80bde18060bf0f9772360a6176e3",
-        "title": "OpenAI’s GPT-6 Sol and GPT-6 Luna now available",
-        "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
+        "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
+        "title": "Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_49639f27ea04",
+      "title": "AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻",
+      "url": "https://www.aibase.com/news/31279",
+      "primary_url": "https://www.aibase.com/news/31279",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5bb5aeb9b9e703d8de2913f250d6a4550fb0f74e",
+          "title": "AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻",
+          "url": "https://www.aibase.com/news/31279",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T01:32:26.443077Z"
+        },
+        {
+          "id": "0e0f895bf17d2f400fa5f43159449c39d1288c09",
+          "title": "AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻",
+          "url": "https://www.aibase.com/zh/news/31279",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "5bb5aeb9b9e703d8de2913f250d6a4550fb0f74e",
+          "title": "AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻",
+          "url": "https://www.aibase.com/news/31279",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T01:32:26.443077Z"
+        },
+        {
+          "id": "0e0f895bf17d2f400fa5f43159449c39d1288c09",
+          "title": "AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻",
+          "url": "https://www.aibase.com/zh/news/31279",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T01:32:26.443077Z",
+      "latest_at": "2026-09-23T01:32:26.443077Z",
+      "primary_item": {
+        "id": "5bb5aeb9b9e703d8de2913f250d6a4550fb0f74e",
+        "title": "AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻",
+        "url": "https://www.aibase.com/news/31279",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4a34b417a079",
+      "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
+      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
+      "primary_url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9204435b1d9bad52b3dc5a56fedd93081b256c33",
+          "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
+          "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T23:46:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Simon Willison 博客"
+      ],
+      "items": [
+        {
+          "id": "9204435b1d9bad52b3dc5a56fedd93081b256c33",
+          "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
+          "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T23:46:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7901,
+      "importance": 0.7901,
+      "importance_score": 0.7901,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9749,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T23:46:41Z",
+      "latest_at": "2026-09-22T23:46:41Z",
+      "primary_item": {
+        "id": "9204435b1d9bad52b3dc5a56fedd93081b256c33",
+        "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
+        "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -965,15 +944,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7927,
-      "importance": 0.7927,
-      "importance_score": 0.7927,
+      "score": 0.7873,
+      "importance": 0.7873,
+      "importance_score": 0.7873,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9225,
+        "recency": 0.8929,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1026,15 +1005,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7912,
-      "importance": 0.7912,
-      "importance_score": 0.7912,
+      "score": 0.7858,
+      "importance": 0.7858,
+      "importance_score": 0.7858,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9311,
+        "recency": 0.9012,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1053,49 +1032,49 @@
       }
     },
     {
-      "story_id": "story_2960c64a019e",
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "primary_url": "https://huggingface.co/blog/evaleval-aisi",
-      "source": "Hugging Face Blog",
+      "story_id": "story_9b1fa73218f4",
+      "title": "OpenAI’s GPT-6 Sol and GPT-6 Luna now available",
+      "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
+      "primary_url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e7d08f8f91948d2957feff7eb391f84b3727aa4a",
-          "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-          "url": "https://huggingface.co/blog/evaleval-aisi",
-          "source": "Hugging Face Blog",
+          "id": "6618d310ad4a80bde18060bf0f9772360a6176e3",
+          "title": "OpenAI’s GPT-6 Sol and GPT-6 Luna now available",
+          "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
+          "published_at": "2026-09-22T17:00:14Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "e7d08f8f91948d2957feff7eb391f84b3727aa4a",
-          "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-          "url": "https://huggingface.co/blog/evaleval-aisi",
-          "source": "Hugging Face Blog",
+          "id": "6618d310ad4a80bde18060bf0f9772360a6176e3",
+          "title": "OpenAI’s GPT-6 Sol and GPT-6 Luna now available",
+          "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-22T00:00:00Z"
+          "published_at": "2026-09-22T17:00:14Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8186,
-      "importance": 0.8186,
-      "importance_score": 0.8186,
+      "score": 0.8391,
+      "importance": 0.8391,
+      "importance_score": 0.8391,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7145,
+        "ai_relevance": 0.95,
+        "recency": 0.884,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1104,13 +1083,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-22T00:00:00Z",
-      "latest_at": "2026-09-22T00:00:00Z",
+      "earliest_at": "2026-09-22T17:00:14Z",
+      "latest_at": "2026-09-22T17:00:14Z",
       "primary_item": {
-        "id": "e7d08f8f91948d2957feff7eb391f84b3727aa4a",
-        "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-        "url": "https://huggingface.co/blog/evaleval-aisi",
-        "source": "Hugging Face Blog",
+        "id": "6618d310ad4a80bde18060bf0f9772360a6176e3",
+        "title": "OpenAI’s GPT-6 Sol and GPT-6 Luna now available",
+        "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -1149,15 +1128,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7842,
-      "importance": 0.7842,
-      "importance_score": 0.7842,
+      "score": 0.7789,
+      "importance": 0.7789,
+      "importance_score": 0.7789,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9087,
+        "recency": 0.8795,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1173,68 +1152,6 @@
         "url": "https://x.com/mark_k/status/2102437510731219218",
         "source": "@mark_k",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_39381ffc41aa",
-      "title": "Faster C++ code intelligence with whole codebase indexing",
-      "url": "https://github.blog/changelog/2026-09-22-faster-c-code-intelligence-with-whole-codebase-indexing",
-      "primary_url": "https://github.blog/changelog/2026-09-22-faster-c-code-intelligence-with-whole-codebase-indexing",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "94aa85a4ffcee947b773ed704cd816388e28578d",
-          "title": "Faster C++ code intelligence with whole codebase indexing",
-          "url": "https://github.blog/changelog/2026-09-22-faster-c-code-intelligence-with-whole-codebase-indexing",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T22:24:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "94aa85a4ffcee947b773ed704cd816388e28578d",
-          "title": "Faster C++ code intelligence with whole codebase indexing",
-          "url": "https://github.blog/changelog/2026-09-22-faster-c-code-intelligence-with-whole-codebase-indexing",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T22:24:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8418,
-      "importance": 0.8418,
-      "importance_score": 0.8418,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9876,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T22:24:48Z",
-      "latest_at": "2026-09-22T22:24:48Z",
-      "primary_item": {
-        "id": "94aa85a4ffcee947b773ed704cd816388e28578d",
-        "title": "Faster C++ code intelligence with whole codebase indexing",
-        "url": "https://github.blog/changelog/2026-09-22-faster-c-code-intelligence-with-whole-codebase-indexing",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1272,15 +1189,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
+      "score": 0.7693,
+      "importance": 0.7693,
+      "importance_score": 0.7693,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9566,
+        "recency": 0.9259,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1300,7 +1217,7 @@
     },
     {
       "story_id": "story_ce45d8dc0f6c",
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "title": "使用 GPT-6 Astra 并行将研究时间和成本减少一半 / Parallel cut research time and cost in half with GPT‑6 Astra",
       "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
       "primary_url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
       "source": "OpenAI News",
@@ -1308,7 +1225,7 @@
       "sources": [
         {
           "id": "ceaf306e00250c6865fbfd0093a3e558a36e3749",
-          "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+          "title": "使用 GPT-6 Astra 并行将研究时间和成本减少一半 / Parallel cut research time and cost in half with GPT‑6 Astra",
           "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -1323,7 +1240,7 @@
       "items": [
         {
           "id": "ceaf306e00250c6865fbfd0093a3e558a36e3749",
-          "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+          "title": "使用 GPT-6 Astra 并行将研究时间和成本减少一半 / Parallel cut research time and cost in half with GPT‑6 Astra",
           "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -1333,15 +1250,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.828,
+      "importance": 0.828,
+      "importance_score": 0.828,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8497,
+        "recency": 0.8224,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1354,7 +1271,7 @@
       "latest_at": "2026-09-22T12:00:00Z",
       "primary_item": {
         "id": "ceaf306e00250c6865fbfd0093a3e558a36e3749",
-        "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+        "title": "使用 GPT-6 Astra 并行将研究时间和成本减少一半 / Parallel cut research time and cost in half with GPT‑6 Astra",
         "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
@@ -1395,15 +1312,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9319,
+        "recency": 0.9019,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1456,15 +1373,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7702,
-      "importance": 0.7702,
-      "importance_score": 0.7702,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9309,
+        "recency": 0.901,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1517,15 +1434,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.77,
-      "importance": 0.77,
-      "importance_score": 0.77,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.9004,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1540,6 +1457,67 @@
         "title": "GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送",
         "url": "https://x.com/ChatGPT/status/2102462020339613966",
         "source": "X：ChatGPT (@ChatGPT)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9aa9494b7672",
+      "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
+      "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
+      "primary_url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5503f54f6e0d17bf05ddac161e7b35568bf21675",
+          "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
+          "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T19:03:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News：AI 热帖"
+      ],
+      "items": [
+        {
+          "id": "5503f54f6e0d17bf05ddac161e7b35568bf21675",
+          "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
+          "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T19:03:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7935,
+      "importance": 0.7935,
+      "importance_score": 0.7935,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9107,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T19:03:38Z",
+      "latest_at": "2026-09-22T19:03:38Z",
+      "primary_item": {
+        "id": "5503f54f6e0d17bf05ddac161e7b35568bf21675",
+        "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
+        "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
+        "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
       }
     }
