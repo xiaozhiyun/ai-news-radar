@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-09-25T06:06:16.167934Z",
+  "generated_at": "2026-09-25T10:12:33.283869Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
   "total_events": 42,
   "events": [
-    {
-      "story_id": "story_1839decb65bd",
-      "item_id": "6993f4b8da36d1cbf3bc319d4fe69280f3b7fd2d",
-      "merged_into": "story_1839decb65bd",
-      "reason": "title_similarity",
-      "similarity": 0.9494
-    },
-    {
-      "story_id": "story_2091cb5ac2f2",
-      "item_id": "481fd96c44a499063c7afea0db38a34441976807",
-      "merged_into": "story_2091cb5ac2f2",
-      "reason": "title_similarity",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_2091cb5ac2f2",
-      "item_id": "d05b82956c43b41976648677458299b70ad7fd72",
-      "merged_into": "story_2091cb5ac2f2",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
     {
       "story_id": "story_39c292bb0072",
       "item_id": "ae688c265f1ebee00e975e618708c977aa7d38ef",
@@ -263,6 +242,13 @@
       "similarity": 1.0
     },
     {
+      "story_id": "story_2864986cc604",
+      "item_id": "a290ea504d78b6a1fda3e7c18a7ba8908aa84a90",
+      "merged_into": "story_2864986cc604",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
       "story_id": "story_b28faeb337e6",
       "item_id": "291aee02d708cf20cf415f64342ca18541b89481",
       "merged_into": "story_b28faeb337e6",
@@ -295,6 +281,20 @@
       "item_id": "a82146ad69fd3d84e50391323ff95517d59ae118",
       "merged_into": "story_c867454c7440",
       "reason": "title_similarity",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_442c7a3ebd3e",
+      "item_id": "a6bf2010d20c39b1cf6434f709d0a8bc13ae4508",
+      "merged_into": "story_442c7a3ebd3e",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_96765b5316ee",
+      "item_id": "0aa9bf48f215f0cc87358d34425b81d01d29683d",
+      "merged_into": "story_96765b5316ee",
+      "reason": "canonical_url",
       "similarity": 1.0
     }
   ]
