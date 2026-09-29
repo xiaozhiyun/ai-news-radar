@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-09-28T22:01:45.015984Z",
+  "generated_at": "2026-09-29T01:58:07.065609Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_cfe8e900401f",
+      "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "primary_url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fe0a8a71338d71eb6a8ab393365bb8993319c9b3",
+          "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia",
+          "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T01:00:00Z"
+        },
+        {
+          "id": "b4460e4623f48639fbd8bd2364e8b15ab5fd0cae",
+          "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施",
+          "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T01:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "fe0a8a71338d71eb6a8ab393365bb8993319c9b3",
+          "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia",
+          "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T01:00:00Z"
+        },
+        {
+          "id": "b4460e4623f48639fbd8bd2364e8b15ab5fd0cae",
+          "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施",
+          "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T01:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8745,
+      "importance": 0.8745,
+      "importance_score": 0.8745,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9861,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T01:00:00Z",
+      "latest_at": "2026-09-29T01:00:00Z",
+      "primary_item": {
+        "id": "fe0a8a71338d71eb6a8ab393365bb8993319c9b3",
+        "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia",
+        "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_50e18c541984",
       "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30%",
@@ -95,15 +177,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8744,
-      "importance": 0.8744,
-      "importance_score": 0.8744,
+      "score": 0.865,
+      "importance": 0.865,
+      "importance_score": 0.865,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9431,
+        "recency": 0.8909,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -176,15 +258,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8557,
-      "importance": 0.8557,
-      "importance_score": 0.8557,
+      "score": 0.8474,
+      "importance": 0.8474,
+      "importance_score": 0.8474,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8373,
+        "recency": 0.791,
         "story_heat": 0.25
       },
       "category": "official",
@@ -239,15 +321,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.85,
-      "importance": 0.85,
-      "importance_score": 0.85,
+      "score": 0.8406,
+      "importance": 0.8406,
+      "importance_score": 0.8406,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9444,
+        "recency": 0.8922,
         "story_heat": 0.0
       },
       "category": "official",
@@ -264,6 +346,125 @@
         "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4d987bc13622",
+      "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+      "primary_url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T17:09:02Z"
+        },
+        {
+          "id": "b87a6cba950200715e49e25edf4a1148e9a6bba2",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-28T17:09:02Z"
+        },
+        {
+          "id": "3a467d1e38166c5c48b06046924a1291c0490419",
+          "title": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T23:56:18.714000Z"
+        },
+        {
+          "id": "fc7867808731988abf48c62ad212309149c37749",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-28T17:33:34Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）",
+        "techcrunch.com"
+      ],
+      "items": [
+        {
+          "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T17:09:02Z"
+        },
+        {
+          "id": "b87a6cba950200715e49e25edf4a1148e9a6bba2",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-28T17:09:02Z"
+        },
+        {
+          "id": "3a467d1e38166c5c48b06046924a1291c0490419",
+          "title": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T23:56:18.714000Z"
+        },
+        {
+          "id": "fc7867808731988abf48c62ad212309149c37749",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-28T17:33:34Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8331,
+      "importance": 0.8331,
+      "importance_score": 0.8331,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8804,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T17:09:02Z",
+      "latest_at": "2026-09-28T23:56:18.714000Z",
+      "primary_item": {
+        "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
+        "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
+        "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -301,15 +502,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8423,
-      "importance": 0.8423,
-      "importance_score": 0.8423,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.9572,
+        "recency": 0.9043,
         "story_heat": 0.0
       },
       "category": "official",
@@ -329,68 +530,68 @@
       }
     },
     {
-      "story_id": "story_4b4cfee992d3",
-      "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
-      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-      "primary_url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-      "source": "TechCrunch：AI（RSS）",
+      "story_id": "story_0483fe5c4cc6",
+      "title": "Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元，估值有望突破 2 万亿美元",
+      "url": "https://www.ithome.com/1/008/082.htm",
+      "primary_url": "https://www.ithome.com/1/008/082.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "bdd7bc28505792431b1428622a88a476b358f177",
-          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
-          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "0724006b212a0c31928122f761f870166f2a0407",
+          "title": "Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元，估值有望突破 2 万亿美元",
+          "url": "https://www.ithome.com/1/008/082.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T20:39:33Z"
+          "published_at": "2026-09-28T23:40:42Z"
         },
         {
-          "id": "a01680d2b7928d9bd0faff13e805824b90de9560",
-          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs / AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-28T20:39:33Z"
+          "id": "ba46870f42ea3e2ac3add548887823f21fb2ea57",
+          "title": "Anthropic IPO 招股书曝光，巨额算力投入与安全隐忧并存",
+          "url": "https://www.ithome.com/1/008/082.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-28T23:40:42Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "bdd7bc28505792431b1428622a88a476b358f177",
-          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
-          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "0724006b212a0c31928122f761f870166f2a0407",
+          "title": "Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元，估值有望突破 2 万亿美元",
+          "url": "https://www.ithome.com/1/008/082.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T20:39:33Z"
+          "published_at": "2026-09-28T23:40:42Z"
         },
         {
-          "id": "a01680d2b7928d9bd0faff13e805824b90de9560",
-          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs / AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-28T20:39:33Z"
+          "id": "ba46870f42ea3e2ac3add548887823f21fb2ea57",
+          "title": "Anthropic IPO 招股书曝光，巨额算力投入与安全隐忧并存",
+          "url": "https://www.ithome.com/1/008/082.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-28T23:40:42Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8251,
-      "importance": 0.8251,
-      "importance_score": 0.8251,
+      "score": 0.8287,
+      "importance": 0.8287,
+      "importance_score": 0.8287,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.84,
+        "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9804,
+        "recency": 0.9675,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -399,13 +600,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T20:39:33Z",
-      "latest_at": "2026-09-28T20:39:33Z",
+      "earliest_at": "2026-09-28T23:40:42Z",
+      "latest_at": "2026-09-28T23:40:42Z",
       "primary_item": {
-        "id": "bdd7bc28505792431b1428622a88a476b358f177",
-        "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
-        "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-        "source": "TechCrunch：AI（RSS）",
+        "id": "0724006b212a0c31928122f761f870166f2a0407",
+        "title": "Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元，估值有望突破 2 万亿美元",
+        "url": "https://www.ithome.com/1/008/082.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -482,15 +683,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8223,
-      "importance": 0.8223,
-      "importance_score": 0.8223,
+      "score": 0.8131,
+      "importance": 0.8131,
+      "importance_score": 0.8131,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9262,
+        "recency": 0.875,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -506,6 +707,106 @@
         "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件",
         "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
         "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a7a3b674e644",
+      "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
+      "url": "https://www.worldlabs.ai/blog/amd-announcement",
+      "primary_url": "https://www.worldlabs.ai/blog/amd-announcement",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "89bb4ee9363c43dc8f9f5df4059e0b04ade055fe",
+          "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
+          "url": "https://www.worldlabs.ai/blog/amd-announcement",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:18:05Z"
+        },
+        {
+          "id": "60cddb973f9a6dc85895d36376743355c29e4fc7",
+          "title": "World Labs 将加入 AMD",
+          "url": "https://www.worldlabs.ai/blog/amd-announcement",
+          "source": "www.worldlabs.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T22:08:12.115000Z"
+        },
+        {
+          "id": "b445dac6300d7a5282e2e28c2eff2b29c78e08a1",
+          "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家 / World Labs Is Joining AMD",
+          "url": "https://www.worldlabs.ai/blog/amd-announcement",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-28T20:18:05Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News：AI 热帖",
+        "www.worldlabs.ai"
+      ],
+      "items": [
+        {
+          "id": "89bb4ee9363c43dc8f9f5df4059e0b04ade055fe",
+          "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
+          "url": "https://www.worldlabs.ai/blog/amd-announcement",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:18:05Z"
+        },
+        {
+          "id": "60cddb973f9a6dc85895d36376743355c29e4fc7",
+          "title": "World Labs 将加入 AMD",
+          "url": "https://www.worldlabs.ai/blog/amd-announcement",
+          "source": "www.worldlabs.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T22:08:12.115000Z"
+        },
+        {
+          "id": "b445dac6300d7a5282e2e28c2eff2b29c78e08a1",
+          "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家 / World Labs Is Joining AMD",
+          "url": "https://www.worldlabs.ai/blog/amd-announcement",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-28T20:18:05Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8425,
+      "importance": 0.8425,
+      "importance_score": 0.8425,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9214,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T20:18:05Z",
+      "latest_at": "2026-09-28T22:08:12.115000Z",
+      "primary_item": {
+        "id": "89bb4ee9363c43dc8f9f5df4059e0b04ade055fe",
+        "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
+        "url": "https://www.worldlabs.ai/blog/amd-announcement",
+        "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
       }
     },
@@ -563,15 +864,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
+      "score": 0.8114,
+      "importance": 0.8114,
+      "importance_score": 0.8114,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9928,
+        "recency": 0.9379,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -588,130 +889,6 @@
         "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "Codex CLI 0.158.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d335426ee6fafb3346edeaac8ded779bf6d829be",
-          "title": "Codex CLI 0.158.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "d335426ee6fafb3346edeaac8ded779bf6d829be",
-          "title": "Codex CLI 0.158.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.817,
-      "importance": 0.817,
-      "importance_score": 0.817,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7275,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T00:00:00Z",
-      "latest_at": "2026-09-28T00:00:00Z",
-      "primary_item": {
-        "id": "d335426ee6fafb3346edeaac8ded779bf6d829be",
-        "title": "Codex CLI 0.158.0",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_216d56bba26c",
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "primary_url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
-          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
-          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8169,
-      "importance": 0.8169,
-      "importance_score": 0.8169,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8049,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T07:00:00Z",
-      "latest_at": "2026-09-28T07:00:00Z",
-      "primary_item": {
-        "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
-        "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-        "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -768,15 +945,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8095,
-      "importance": 0.8095,
-      "importance_score": 0.8095,
+      "score": 0.8001,
+      "importance": 0.8001,
+      "importance_score": 0.8001,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.944,
+        "recency": 0.8918,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -830,15 +1007,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8372,
-      "importance": 0.8372,
-      "importance_score": 0.8372,
+      "score": 0.8277,
+      "importance": 0.8277,
+      "importance_score": 0.8277,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9625,
+        "recency": 0.9092,
         "story_heat": 0.0
       },
       "category": "official",
@@ -911,15 +1088,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8049,
-      "importance": 0.8049,
-      "importance_score": 0.8049,
+      "score": 0.7954,
+      "importance": 0.7954,
+      "importance_score": 0.7954,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9517,
+        "recency": 0.8991,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -939,68 +1116,68 @@
       }
     },
     {
-      "story_id": "story_a7a3b674e644",
-      "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
-      "url": "https://www.worldlabs.ai/blog/amd-announcement",
-      "primary_url": "https://www.worldlabs.ai/blog/amd-announcement",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
+      "story_id": "story_0823a355696d",
+      "title": "FF拟以2亿美元估值拆分机器人业务独立上市，全面转向Physical AI与无人出行",
+      "url": "https://www.aibase.com/news/31393",
+      "primary_url": "https://www.aibase.com/news/31393",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "89bb4ee9363c43dc8f9f5df4059e0b04ade055fe",
-          "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
-          "url": "https://www.worldlabs.ai/blog/amd-announcement",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:18:05Z"
+          "id": "48bef12505e0cd679e6dc530ae42b5691969cdef",
+          "title": "FF拟以2亿美元估值拆分机器人业务独立上市，全面转向Physical AI与无人出行",
+          "url": "https://www.aibase.com/news/31393",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-29T01:58:07.065609Z"
         },
         {
-          "id": "b445dac6300d7a5282e2e28c2eff2b29c78e08a1",
-          "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家 / World Labs Is Joining AMD",
-          "url": "https://www.worldlabs.ai/blog/amd-announcement",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T20:18:05Z"
+          "id": "a26430d2300feb0aceef580b107fbfc1fdbe6559",
+          "title": "FF 拟以 2 亿美元估值拆分机器人业务独立上市，全面转向 Physical AI 与无人出行",
+          "url": "https://www.aibase.com/zh/news/31393",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "Hacker News：AI 热帖"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "89bb4ee9363c43dc8f9f5df4059e0b04ade055fe",
-          "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
-          "url": "https://www.worldlabs.ai/blog/amd-announcement",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:18:05Z"
+          "id": "48bef12505e0cd679e6dc530ae42b5691969cdef",
+          "title": "FF拟以2亿美元估值拆分机器人业务独立上市，全面转向Physical AI与无人出行",
+          "url": "https://www.aibase.com/news/31393",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-29T01:58:07.065609Z"
         },
         {
-          "id": "b445dac6300d7a5282e2e28c2eff2b29c78e08a1",
-          "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家 / World Labs Is Joining AMD",
-          "url": "https://www.worldlabs.ai/blog/amd-announcement",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T20:18:05Z"
+          "id": "a26430d2300feb0aceef580b107fbfc1fdbe6559",
+          "title": "FF 拟以 2 亿美元估值拆分机器人业务独立上市，全面转向 Physical AI 与无人出行",
+          "url": "https://www.aibase.com/zh/news/31393",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8272,
-      "importance": 0.8272,
-      "importance_score": 0.8272,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.85,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9754,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1009,13 +1186,94 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T20:18:05Z",
-      "latest_at": "2026-09-28T20:18:05Z",
+      "earliest_at": "2026-09-29T01:58:07.065609Z",
+      "latest_at": "2026-09-29T01:58:07.065609Z",
       "primary_item": {
-        "id": "89bb4ee9363c43dc8f9f5df4059e0b04ade055fe",
-        "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
-        "url": "https://www.worldlabs.ai/blog/amd-announcement",
-        "source": "Hacker News：AI 热帖",
+        "id": "48bef12505e0cd679e6dc530ae42b5691969cdef",
+        "title": "FF拟以2亿美元估值拆分机器人业务独立上市，全面转向Physical AI与无人出行",
+        "url": "https://www.aibase.com/news/31393",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4b4cfee992d3",
+      "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+      "primary_url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bdd7bc28505792431b1428622a88a476b358f177",
+          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
+          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:39:33Z"
+        },
+        {
+          "id": "a01680d2b7928d9bd0faff13e805824b90de9560",
+          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs / AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-28T20:39:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "bdd7bc28505792431b1428622a88a476b358f177",
+          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
+          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:39:33Z"
+        },
+        {
+          "id": "a01680d2b7928d9bd0faff13e805824b90de9560",
+          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs / AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-28T20:39:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9262,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T20:39:33Z",
+      "latest_at": "2026-09-28T20:39:33Z",
+      "primary_item": {
+        "id": "bdd7bc28505792431b1428622a88a476b358f177",
+        "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
+        "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1073,15 +1331,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7948,
-      "importance": 0.7948,
-      "importance_score": 0.7948,
+      "score": 0.7853,
+      "importance": 0.7853,
+      "importance_score": 0.7853,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9453,
+        "recency": 0.893,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1135,15 +1393,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7932,
-      "importance": 0.7932,
-      "importance_score": 0.7932,
+      "score": 0.7837,
+      "importance": 0.7837,
+      "importance_score": 0.7837,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9591,
+        "recency": 0.9061,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1158,6 +1416,87 @@
         "title": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变",
         "url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1e513fc9899e",
+      "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
+      "url": "https://www.ithome.com/1/008/099.htm",
+      "primary_url": "https://www.ithome.com/1/008/099.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "55cbd42c93cc30ddfcd3c58bcac7e5712d321219",
+          "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
+          "url": "https://www.ithome.com/1/008/099.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T00:58:38Z"
+        },
+        {
+          "id": "0240efd270e342068e00c730b17ac43be23ab27e",
+          "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址，擅自约买家上门交易",
+          "url": "https://www.ithome.com/1/008/099.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-29T00:58:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "55cbd42c93cc30ddfcd3c58bcac7e5712d321219",
+          "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
+          "url": "https://www.ithome.com/1/008/099.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T00:58:38Z"
+        },
+        {
+          "id": "0240efd270e342068e00c730b17ac43be23ab27e",
+          "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址，擅自约买家上门交易",
+          "url": "https://www.ithome.com/1/008/099.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-29T00:58:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.811,
+      "importance": 0.811,
+      "importance_score": 0.811,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9858,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T00:58:38Z",
+      "latest_at": "2026-09-29T00:58:38Z",
+      "primary_item": {
+        "id": "55cbd42c93cc30ddfcd3c58bcac7e5712d321219",
+        "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
+        "url": "https://www.ithome.com/1/008/099.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1196,15 +1535,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9507,
+        "recency": 0.8981,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1223,182 +1562,21 @@
       }
     },
     {
-      "story_id": "story_4d987bc13622",
-      "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-      "primary_url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:09:02Z"
-        },
-        {
-          "id": "b87a6cba950200715e49e25edf4a1148e9a6bba2",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-28T17:09:02Z"
-        },
-        {
-          "id": "fc7867808731988abf48c62ad212309149c37749",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-28T17:33:34Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:09:02Z"
-        },
-        {
-          "id": "b87a6cba950200715e49e25edf4a1148e9a6bba2",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-28T17:09:02Z"
-        },
-        {
-          "id": "fc7867808731988abf48c62ad212309149c37749",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-28T17:33:34Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.932,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T17:09:02Z",
-      "latest_at": "2026-09-28T17:33:34Z",
-      "primary_item": {
-        "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
-        "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-        "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9aceb85fa24f",
-      "title": "英伟达联合超100家伙伴推出开放代理安全平台",
-      "url": "https://x.com/JensenHuang/status/2104499465055023424",
-      "primary_url": "https://x.com/JensenHuang/status/2104499465055023424",
-      "source": "X：Jensen Huang (@JensenHuang)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "313d612771791ee3e9d2f3e1eb7618cb5ea71fc5",
-          "title": "英伟达联合超100家伙伴推出开放代理安全平台",
-          "url": "https://x.com/JensenHuang/status/2104499465055023424",
-          "source": "X：Jensen Huang (@JensenHuang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T09:12:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Jensen Huang (@JensenHuang)"
-      ],
-      "items": [
-        {
-          "id": "313d612771791ee3e9d2f3e1eb7618cb5ea71fc5",
-          "title": "英伟达联合超100家伙伴推出开放代理安全平台",
-          "url": "https://x.com/JensenHuang/status/2104499465055023424",
-          "source": "X：Jensen Huang (@JensenHuang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T09:12:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7852,
-      "importance": 0.7852,
-      "importance_score": 0.7852,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.88,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.831,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T09:12:26Z",
-      "latest_at": "2026-09-28T09:12:26Z",
-      "primary_item": {
-        "id": "313d612771791ee3e9d2f3e1eb7618cb5ea71fc5",
-        "title": "英伟达联合超100家伙伴推出开放代理安全平台",
-        "url": "https://x.com/JensenHuang/status/2104499465055023424",
-        "source": "X：Jensen Huang (@JensenHuang)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_914f14710638",
-      "title": "Are you a Codex Original?",
-      "url": "https://openai.com/form/codex-originals",
-      "primary_url": "https://openai.com/form/codex-originals",
+      "story_id": "story_216d56bba26c",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "primary_url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0ff235db84b405680be876c8ddb0cc6476859248",
-          "title": "Are you a Codex Original?",
-          "url": "https://openai.com/form/codex-originals",
+          "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
+          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-28T00:00:00Z"
+          "published_at": "2026-09-28T07:00:00Z"
         }
       ],
       "source_count": 1,
@@ -1407,26 +1585,26 @@
       ],
       "items": [
         {
-          "id": "0ff235db84b405680be876c8ddb0cc6476859248",
-          "title": "Are you a Codex Original?",
-          "url": "https://openai.com/form/codex-originals",
+          "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
+          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-28T00:00:00Z"
+          "published_at": "2026-09-28T07:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.811,
-      "importance": 0.811,
-      "importance_score": 0.811,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7275,
+        "ai_relevance": 0.91,
+        "recency": 0.7604,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1435,75 +1613,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T00:00:00Z",
-      "latest_at": "2026-09-28T00:00:00Z",
+      "earliest_at": "2026-09-28T07:00:00Z",
+      "latest_at": "2026-09-28T07:00:00Z",
       "primary_item": {
-        "id": "0ff235db84b405680be876c8ddb0cc6476859248",
-        "title": "Are you a Codex Original?",
-        "url": "https://openai.com/form/codex-originals",
+        "id": "50d63bee6d4ab735cbcfc2d701e4b8b70f5bc300",
+        "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+        "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b6f0f1c676aa",
-      "title": "Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05",
-      "url": "https://x.com/arena/status/2104673568776990762",
-      "primary_url": "https://x.com/arena/status/2104673568776990762",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "56cb1946536e946a70052496cff84ef5826f7037",
-          "title": "Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05",
-          "url": "https://x.com/arena/status/2104673568776990762",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:44:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "56cb1946536e946a70052496cff84ef5826f7037",
-          "title": "Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05",
-          "url": "https://x.com/arena/status/2104673568776990762",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:44:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7793,
-      "importance": 0.7793,
-      "importance_score": 0.7793,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9815,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T20:44:16Z",
-      "latest_at": "2026-09-28T20:44:16Z",
-      "primary_item": {
-        "id": "56cb1946536e946a70052496cff84ef5826f7037",
-        "title": "Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05",
-        "url": "https://x.com/arena/status/2104673568776990762",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
       }
     }
   ]
