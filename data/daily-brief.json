@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-09-29T08:31:57.403477Z",
+  "generated_at": "2026-09-29T15:06:05.202300Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_984223f109f3",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9baf50548a49a1286d6439cae3f912053b8f9914",
+          "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T13:07:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "9baf50548a49a1286d6439cae3f912053b8f9914",
+          "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T13:07:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8629,
+      "importance": 0.8629,
+      "importance_score": 0.8629,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.9717,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T13:07:00Z",
+      "latest_at": "2026-09-29T13:07:00Z",
+      "primary_item": {
+        "id": "9baf50548a49a1286d6439cae3f912053b8f9914",
+        "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_cfe8e900401f",
       "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia",
@@ -57,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8584,
-      "importance": 0.8584,
-      "importance_score": 0.8584,
+      "score": 0.8438,
+      "importance": 0.8438,
+      "importance_score": 0.8438,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8969,
+        "recency": 0.8158,
         "story_heat": 0.25
       },
       "category": "official",
@@ -177,15 +239,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8505,
-      "importance": 0.8505,
-      "importance_score": 0.8505,
+      "score": 0.8373,
+      "importance": 0.8373,
+      "importance_score": 0.8373,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8103,
+        "recency": 0.737,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -205,90 +267,8 @@
       }
     },
     {
-      "story_id": "story_9552195c964d",
-      "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "primary_url": "https://huggingface.co/blog/Hcompany/holo4",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d71f45cd9039539f9fe378c80828a34f54cedaf4",
-          "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
-          "url": "https://huggingface.co/blog/Hcompany/holo4",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T09:44:05Z"
-        },
-        {
-          "id": "0d6001e5b47158eac2111e56ff978269ce38ca40",
-          "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本",
-          "url": "https://huggingface.co/blog/Hcompany/holo4",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T09:44:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d71f45cd9039539f9fe378c80828a34f54cedaf4",
-          "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
-          "url": "https://huggingface.co/blog/Hcompany/holo4",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T09:44:05Z"
-        },
-        {
-          "id": "0d6001e5b47158eac2111e56ff978269ce38ca40",
-          "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本",
-          "url": "https://huggingface.co/blog/Hcompany/holo4",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T09:44:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8345,
-      "importance": 0.8345,
-      "importance_score": 0.8345,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7195,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T09:44:05Z",
-      "latest_at": "2026-09-28T09:44:05Z",
-      "primary_item": {
-        "id": "d71f45cd9039539f9fe378c80828a34f54cedaf4",
-        "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
-        "url": "https://huggingface.co/blog/Hcompany/holo4",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
       "story_id": "story_c579283ea8d7",
-      "title": "Claude Sonnet 5.5 in GitHub Copilot",
+      "title": "GitHub Copilot 中的克劳德十四行诗 5.5 / Claude Sonnet 5.5 in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
       "primary_url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
       "source": "GitHub Changelog",
@@ -296,7 +276,7 @@
       "sources": [
         {
           "id": "6ca7b84b71814e47e7dcc1f8dcf148c56a3b433e",
-          "title": "Claude Sonnet 5.5 in GitHub Copilot",
+          "title": "GitHub Copilot 中的克劳德十四行诗 5.5 / Claude Sonnet 5.5 in GitHub Copilot",
           "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -311,7 +291,7 @@
       "items": [
         {
           "id": "6ca7b84b71814e47e7dcc1f8dcf148c56a3b433e",
-          "title": "Claude Sonnet 5.5 in GitHub Copilot",
+          "title": "GitHub Copilot 中的克劳德十四行诗 5.5 / Claude Sonnet 5.5 in GitHub Copilot",
           "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -321,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8261,
-      "importance": 0.8261,
-      "importance_score": 0.8261,
+      "score": 0.8128,
+      "importance": 0.8128,
+      "importance_score": 0.8128,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8115,
+        "recency": 0.738,
         "story_heat": 0.0
       },
       "category": "official",
@@ -342,7 +322,7 @@
       "latest_at": "2026-09-28T18:03:57Z",
       "primary_item": {
         "id": "6ca7b84b71814e47e7dcc1f8dcf148c56a3b433e",
-        "title": "Claude Sonnet 5.5 in GitHub Copilot",
+        "title": "GitHub Copilot 中的克劳德十四行诗 5.5 / Claude Sonnet 5.5 in GitHub Copilot",
         "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
@@ -440,15 +420,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8187,
-      "importance": 0.8187,
-      "importance_score": 0.8187,
+      "score": 0.8057,
+      "importance": 0.8057,
+      "importance_score": 0.8057,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8008,
+        "recency": 0.7283,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -502,15 +482,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.818,
-      "importance": 0.818,
-      "importance_score": 0.818,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8225,
+        "recency": 0.7481,
         "story_heat": 0.0
       },
       "category": "official",
@@ -583,15 +563,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.813,
-      "importance": 0.813,
-      "importance_score": 0.813,
+      "score": 0.7987,
+      "importance": 0.7987,
+      "importance_score": 0.7987,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.88,
+        "recency": 0.8003,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -607,6 +587,87 @@
         "title": "Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元，估值有望突破 2 万亿美元",
         "url": "https://www.ithome.com/1/008/082.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_90ce2d26c785",
+      "title": "OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布",
+      "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet",
+      "primary_url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0a791fa1cf3f088b80d71cfff074637794d2c64a",
+          "title": "OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布",
+          "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T08:26:38Z"
+        },
+        {
+          "id": "71c45771d87671bbab6ce7b11263d5ccdc76c412",
+          "title": "OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布 / GPT-6.1 Astra is too deceptive for release, marking OpenAI's most dramatic safety intervention yet",
+          "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-29T08:26:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "0a791fa1cf3f088b80d71cfff074637794d2c64a",
+          "title": "OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布",
+          "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T08:26:38Z"
+        },
+        {
+          "id": "71c45771d87671bbab6ce7b11263d5ccdc76c412",
+          "title": "OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布 / GPT-6.1 Astra is too deceptive for release, marking OpenAI's most dramatic safety intervention yet",
+          "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-29T08:26:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7971,
+      "importance": 0.7971,
+      "importance_score": 0.7971,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9083,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T08:26:38Z",
+      "latest_at": "2026-09-29T08:26:38Z",
+      "primary_item": {
+        "id": "0a791fa1cf3f088b80d71cfff074637794d2c64a",
+        "title": "OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布",
+        "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -683,15 +744,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8058,
-      "importance": 0.8058,
-      "importance_score": 0.8058,
+      "score": 0.7925,
+      "importance": 0.7925,
+      "importance_score": 0.7925,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8178,
+        "recency": 0.7438,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -707,6 +768,106 @@
         "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
         "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
         "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c92e39202c4c",
+      "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "primary_url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "88391ae44bf63c40d50021f02a4e5a84f6a43b73",
+          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T09:03:41Z"
+        },
+        {
+          "id": "d3b39233e64c02e402639ed208e37dde93ae87a7",
+          "title": "人工智能公司向广告商泄露数据 [pdf]",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "jorgegarciaherrero.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-29T11:32:02.125000Z"
+        },
+        {
+          "id": "576b3216894b66cfea5852d425eaf9175b538262",
+          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T09:03:41Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News：AI 热帖",
+        "jorgegarciaherrero.com"
+      ],
+      "items": [
+        {
+          "id": "88391ae44bf63c40d50021f02a4e5a84f6a43b73",
+          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T09:03:41Z"
+        },
+        {
+          "id": "d3b39233e64c02e402639ed208e37dde93ae87a7",
+          "title": "人工智能公司向广告商泄露数据 [pdf]",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "jorgegarciaherrero.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-29T11:32:02.125000Z"
+        },
+        {
+          "id": "576b3216894b66cfea5852d425eaf9175b538262",
+          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-29T09:03:41Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8176,
+      "importance": 0.8176,
+      "importance_score": 0.8176,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9165,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T09:03:41Z",
+      "latest_at": "2026-09-29T11:32:02.125000Z",
+      "primary_item": {
+        "id": "88391ae44bf63c40d50021f02a4e5a84f6a43b73",
+        "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+        "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+        "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
       }
     },
@@ -783,15 +944,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7989,
-      "importance": 0.7989,
-      "importance_score": 0.7989,
+      "score": 0.7859,
+      "importance": 0.7859,
+      "importance_score": 0.7859,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7959,
+        "recency": 0.7238,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -807,6 +968,515 @@
         "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件",
         "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
         "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_227c6ab55934",
+      "title": "AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs",
+      "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+      "primary_url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "62adec61bd5c606e3b4df429e0f3442a04389cfa",
+          "title": "AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs",
+          "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T21:31:35Z"
+        },
+        {
+          "id": "74847a86f1fd6ad4fb1f19b0856aab1ad17d4ed7",
+          "title": "AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs / AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+          "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-28T21:31:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "62adec61bd5c606e3b4df429e0f3442a04389cfa",
+          "title": "AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs",
+          "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T21:31:35Z"
+        },
+        {
+          "id": "74847a86f1fd6ad4fb1f19b0856aab1ad17d4ed7",
+          "title": "AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs / AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+          "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-28T21:31:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7823,
+      "importance": 0.7823,
+      "importance_score": 0.7823,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7759,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T21:31:35Z",
+      "latest_at": "2026-09-28T21:31:35Z",
+      "primary_item": {
+        "id": "62adec61bd5c606e3b4df429e0f3442a04389cfa",
+        "title": "AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs",
+        "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5df2e2a85b6f",
+      "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
+      "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b6f3ba127f914db468cfcce760e4e719c98d7942",
+          "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
+          "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T02:21:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "b6f3ba127f914db468cfcce760e4e719c98d7942",
+          "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
+          "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T02:21:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7823,
+      "importance": 0.7823,
+      "importance_score": 0.7823,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.87,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8319,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T02:21:20Z",
+      "latest_at": "2026-09-29T02:21:20Z",
+      "primary_item": {
+        "id": "b6f3ba127f914db468cfcce760e4e719c98d7942",
+        "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
+        "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cf468ec39dd6",
+      "title": "前沿人工智能训练的安全案例 / Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "primary_url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c1f808e273524bad08492a038dae36a455e222a3",
+          "title": "前沿人工智能训练的安全案例 / Towards safety cases for frontier AI training",
+          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c1f808e273524bad08492a038dae36a455e222a3",
+          "title": "前沿人工智能训练的安全案例 / Towards safety cases for frontier AI training",
+          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8067,
+      "importance": 0.8067,
+      "importance_score": 0.8067,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7481,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T19:00:00Z",
+      "latest_at": "2026-09-28T19:00:00Z",
+      "primary_item": {
+        "id": "c1f808e273524bad08492a038dae36a455e222a3",
+        "title": "前沿人工智能训练的安全案例 / Towards safety cases for frontier AI training",
+        "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_cb99c0ccf8f3",
+      "title": "央视揭网贷诈骗新套路：AI 一天狂拨 20 万通，两月坑了上千人",
+      "url": "https://www.aibase.com/news/31416",
+      "primary_url": "https://www.aibase.com/news/31416",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "148d8ceb671733ed81bcccc802b207692a821491",
+          "title": "央视揭网贷诈骗新套路：AI 一天狂拨 20 万通，两月坑了上千人",
+          "url": "https://www.aibase.com/news/31416",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-29T08:31:57.403477Z"
+        },
+        {
+          "id": "15fab888a9e58a533b019282c50591ea1a0ec1b5",
+          "title": "央视揭网贷诈骗新套路：AI 一天狂拨 20 万通，两月坑了上千人",
+          "url": "https://www.aibase.com/zh/news/31416",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "148d8ceb671733ed81bcccc802b207692a821491",
+          "title": "央视揭网贷诈骗新套路：AI 一天狂拨 20 万通，两月坑了上千人",
+          "url": "https://www.aibase.com/news/31416",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-29T08:31:57.403477Z"
+        },
+        {
+          "id": "15fab888a9e58a533b019282c50591ea1a0ec1b5",
+          "title": "央视揭网贷诈骗新套路：AI 一天狂拨 20 万通，两月坑了上千人",
+          "url": "https://www.aibase.com/zh/news/31416",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7763,
+      "importance": 0.7763,
+      "importance_score": 0.7763,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9095,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T08:31:57.403477Z",
+      "latest_at": "2026-09-29T08:31:57.403477Z",
+      "primary_item": {
+        "id": "148d8ceb671733ed81bcccc802b207692a821491",
+        "title": "央视揭网贷诈骗新套路：AI 一天狂拨 20 万通，两月坑了上千人",
+        "url": "https://www.aibase.com/news/31416",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ace69cc3aaa0",
+      "title": "Self-hosted runner version enforcement date has moved",
+      "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+      "primary_url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
+          "title": "Self-hosted runner version enforcement date has moved",
+          "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T19:22:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
+          "title": "Self-hosted runner version enforcement date has moved",
+          "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T19:22:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7994,
+      "importance": 0.7994,
+      "importance_score": 0.7994,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7522,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T19:22:46Z",
+      "latest_at": "2026-09-28T19:22:46Z",
+      "primary_item": {
+        "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
+        "title": "Self-hosted runner version enforcement date has moved",
+        "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_93c35a6c2a7e",
+      "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
+      "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
+      "primary_url": "https://x.com/dongxi_nlp/status/2104634260934054237",
+      "source": "X：马东锡 NLP (@dongxi_nlp)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "96722744e37e42d234a3ebce1480e63a7325506e",
+          "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
+          "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
+          "source": "X：马东锡 NLP (@dongxi_nlp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:08:04Z"
+        },
+        {
+          "id": "28c51564d01537f0b3ae0aa8adc42896a54998c6",
+          "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快超 30%",
+          "url": "https://www.youtube.com/shorts/u-3cPWPvRUE",
+          "source": "Claude：YouTube（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:04:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Claude：YouTube（RSS）",
+        "X：马东锡 NLP (@dongxi_nlp)"
+      ],
+      "items": [
+        {
+          "id": "96722744e37e42d234a3ebce1480e63a7325506e",
+          "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
+          "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
+          "source": "X：马东锡 NLP (@dongxi_nlp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:08:04Z"
+        },
+        {
+          "id": "28c51564d01537f0b3ae0aa8adc42896a54998c6",
+          "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快超 30%",
+          "url": "https://www.youtube.com/shorts/u-3cPWPvRUE",
+          "source": "Claude：YouTube（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:04:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7388,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T18:04:08Z",
+      "latest_at": "2026-09-28T18:08:04Z",
+      "primary_item": {
+        "id": "96722744e37e42d234a3ebce1480e63a7325506e",
+        "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
+        "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
+        "source": "X：马东锡 NLP (@dongxi_nlp)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4b4cfee992d3",
+      "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+      "primary_url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bdd7bc28505792431b1428622a88a476b358f177",
+          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
+          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:39:33Z"
+        },
+        {
+          "id": "a01680d2b7928d9bd0faff13e805824b90de9560",
+          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs / AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-28T20:39:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "bdd7bc28505792431b1428622a88a476b358f177",
+          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
+          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:39:33Z"
+        },
+        {
+          "id": "a01680d2b7928d9bd0faff13e805824b90de9560",
+          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs / AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-28T20:39:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7865,
+      "importance": 0.7865,
+      "importance_score": 0.7865,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7662,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T20:39:33Z",
+      "latest_at": "2026-09-28T20:39:33Z",
+      "primary_item": {
+        "id": "bdd7bc28505792431b1428622a88a476b358f177",
+        "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
+        "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -883,15 +1553,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8275,
-      "importance": 0.8275,
-      "importance_score": 0.8275,
+      "score": 0.8138,
+      "importance": 0.8138,
+      "importance_score": 0.8138,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8381,
+        "recency": 0.7622,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -907,677 +1577,6 @@
         "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
         "url": "https://www.worldlabs.ai/blog/amd-announcement",
         "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5df2e2a85b6f",
-      "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
-      "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b6f3ba127f914db468cfcce760e4e719c98d7942",
-          "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
-          "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T02:21:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "b6f3ba127f914db468cfcce760e4e719c98d7942",
-          "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
-          "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T02:21:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7972,
-      "importance": 0.7972,
-      "importance_score": 0.7972,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.87,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9147,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T02:21:20Z",
-      "latest_at": "2026-09-29T02:21:20Z",
-      "primary_item": {
-        "id": "b6f3ba127f914db468cfcce760e4e719c98d7942",
-        "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
-        "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_227c6ab55934",
-      "title": "AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs",
-      "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-      "primary_url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "62adec61bd5c606e3b4df429e0f3442a04389cfa",
-          "title": "AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs",
-          "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T21:31:35Z"
-        },
-        {
-          "id": "74847a86f1fd6ad4fb1f19b0856aab1ad17d4ed7",
-          "title": "AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs / AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-          "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-28T21:31:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "62adec61bd5c606e3b4df429e0f3442a04389cfa",
-          "title": "AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs",
-          "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T21:31:35Z"
-        },
-        {
-          "id": "74847a86f1fd6ad4fb1f19b0856aab1ad17d4ed7",
-          "title": "AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs / AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-          "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-28T21:31:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7961,
-      "importance": 0.7961,
-      "importance_score": 0.7961,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8531,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T21:31:35Z",
-      "latest_at": "2026-09-28T21:31:35Z",
-      "primary_item": {
-        "id": "62adec61bd5c606e3b4df429e0f3442a04389cfa",
-        "title": "AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs",
-        "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cb99c0ccf8f3",
-      "title": "央视揭网贷诈骗新套路：AI 一天狂拨 20 万通，两月坑了上千人",
-      "url": "https://www.aibase.com/news/31416",
-      "primary_url": "https://www.aibase.com/news/31416",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "148d8ceb671733ed81bcccc802b207692a821491",
-          "title": "央视揭网贷诈骗新套路：AI 一天狂拨 20 万通，两月坑了上千人",
-          "url": "https://www.aibase.com/news/31416",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T08:31:57.403477Z"
-        },
-        {
-          "id": "15fab888a9e58a533b019282c50591ea1a0ec1b5",
-          "title": "央视揭网贷诈骗新套路：AI 一天狂拨 20 万通，两月坑了上千人",
-          "url": "https://www.aibase.com/zh/news/31416",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "148d8ceb671733ed81bcccc802b207692a821491",
-          "title": "央视揭网贷诈骗新套路：AI 一天狂拨 20 万通，两月坑了上千人",
-          "url": "https://www.aibase.com/news/31416",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T08:31:57.403477Z"
-        },
-        {
-          "id": "15fab888a9e58a533b019282c50591ea1a0ec1b5",
-          "title": "央视揭网贷诈骗新套路：AI 一天狂拨 20 万通，两月坑了上千人",
-          "url": "https://www.aibase.com/zh/news/31416",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T08:31:57.403477Z",
-      "latest_at": "2026-09-29T08:31:57.403477Z",
-      "primary_item": {
-        "id": "148d8ceb671733ed81bcccc802b207692a821491",
-        "title": "央视揭网贷诈骗新套路：AI 一天狂拨 20 万通，两月坑了上千人",
-        "url": "https://www.aibase.com/news/31416",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cf468ec39dd6",
-      "title": "Towards safety cases for frontier AI training",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "primary_url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c1f808e273524bad08492a038dae36a455e222a3",
-          "title": "Towards safety cases for frontier AI training",
-          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c1f808e273524bad08492a038dae36a455e222a3",
-          "title": "Towards safety cases for frontier AI training",
-          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.82,
-      "importance": 0.82,
-      "importance_score": 0.82,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8225,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T19:00:00Z",
-      "latest_at": "2026-09-28T19:00:00Z",
-      "primary_item": {
-        "id": "c1f808e273524bad08492a038dae36a455e222a3",
-        "title": "Towards safety cases for frontier AI training",
-        "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_65a1a7f184ca",
-      "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
-      "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-      "primary_url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d7a0e355965d8e4311112be246758dfe00a3051a",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
-          "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:02:10Z"
-        },
-        {
-          "id": "3687aad78aeb3ed0ba6b5eb99a34b5312c86bf4f",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30% / Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
-          "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-28T18:02:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d7a0e355965d8e4311112be246758dfe00a3051a",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
-          "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:02:10Z"
-        },
-        {
-          "id": "3687aad78aeb3ed0ba6b5eb99a34b5312c86bf4f",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30% / Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
-          "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-28T18:02:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8111,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T18:02:10Z",
-      "latest_at": "2026-09-28T18:02:10Z",
-      "primary_item": {
-        "id": "d7a0e355965d8e4311112be246758dfe00a3051a",
-        "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
-        "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ace69cc3aaa0",
-      "title": "Self-hosted runner version enforcement date has moved",
-      "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
-      "primary_url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
-          "title": "Self-hosted runner version enforcement date has moved",
-          "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T19:22:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
-          "title": "Self-hosted runner version enforcement date has moved",
-          "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T19:22:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8129,
-      "importance": 0.8129,
-      "importance_score": 0.8129,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.827,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T19:22:46Z",
-      "latest_at": "2026-09-28T19:22:46Z",
-      "primary_item": {
-        "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
-        "title": "Self-hosted runner version enforcement date has moved",
-        "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_93c35a6c2a7e",
-      "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-      "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
-      "primary_url": "https://x.com/dongxi_nlp/status/2104634260934054237",
-      "source": "X：马东锡 NLP (@dongxi_nlp)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "96722744e37e42d234a3ebce1480e63a7325506e",
-          "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-          "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
-          "source": "X：马东锡 NLP (@dongxi_nlp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:08:04Z"
-        },
-        {
-          "id": "28c51564d01537f0b3ae0aa8adc42896a54998c6",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快超 30%",
-          "url": "https://www.youtube.com/shorts/u-3cPWPvRUE",
-          "source": "Claude：YouTube（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:04:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Claude：YouTube（RSS）",
-        "X：马东锡 NLP (@dongxi_nlp)"
-      ],
-      "items": [
-        {
-          "id": "96722744e37e42d234a3ebce1480e63a7325506e",
-          "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-          "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
-          "source": "X：马东锡 NLP (@dongxi_nlp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:08:04Z"
-        },
-        {
-          "id": "28c51564d01537f0b3ae0aa8adc42896a54998c6",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快超 30%",
-          "url": "https://www.youtube.com/shorts/u-3cPWPvRUE",
-          "source": "Claude：YouTube（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:04:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8123,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T18:04:08Z",
-      "latest_at": "2026-09-28T18:08:04Z",
-      "primary_item": {
-        "id": "96722744e37e42d234a3ebce1480e63a7325506e",
-        "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-        "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
-        "source": "X：马东锡 NLP (@dongxi_nlp)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4b4cfee992d3",
-      "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
-      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-      "primary_url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bdd7bc28505792431b1428622a88a476b358f177",
-          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
-          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:39:33Z"
-        },
-        {
-          "id": "a01680d2b7928d9bd0faff13e805824b90de9560",
-          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs / AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-28T20:39:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "bdd7bc28505792431b1428622a88a476b358f177",
-          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
-          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T20:39:33Z"
-        },
-        {
-          "id": "a01680d2b7928d9bd0faff13e805824b90de9560",
-          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs / AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-28T20:39:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8424,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T20:39:33Z",
-      "latest_at": "2026-09-28T20:39:33Z",
-      "primary_item": {
-        "id": "bdd7bc28505792431b1428622a88a476b358f177",
-        "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
-        "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1e513fc9899e",
-      "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
-      "url": "https://www.ithome.com/1/008/099.htm",
-      "primary_url": "https://www.ithome.com/1/008/099.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "55cbd42c93cc30ddfcd3c58bcac7e5712d321219",
-          "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
-          "url": "https://www.ithome.com/1/008/099.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T00:58:38Z"
-        },
-        {
-          "id": "0240efd270e342068e00c730b17ac43be23ab27e",
-          "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址，擅自约买家上门交易",
-          "url": "https://www.ithome.com/1/008/099.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-29T00:58:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "55cbd42c93cc30ddfcd3c58bcac7e5712d321219",
-          "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
-          "url": "https://www.ithome.com/1/008/099.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T00:58:38Z"
-        },
-        {
-          "id": "0240efd270e342068e00c730b17ac43be23ab27e",
-          "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址，擅自约买家上门交易",
-          "url": "https://www.ithome.com/1/008/099.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-29T00:58:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.795,
-      "importance": 0.795,
-      "importance_score": 0.795,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8966,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T00:58:38Z",
-      "latest_at": "2026-09-29T00:58:38Z",
-      "primary_item": {
-        "id": "55cbd42c93cc30ddfcd3c58bcac7e5712d321219",
-        "title": "Meta AI 智能体 Muse 被指未经许可泄露用户住址并擅自约买家上门",
-        "url": "https://www.ithome.com/1/008/099.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1616,15 +1615,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7646,
-      "importance": 0.7646,
-      "importance_score": 0.7646,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8169,
+        "recency": 0.7429,
         "story_heat": 0.0
       },
       "category": "industry",
