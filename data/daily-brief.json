@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T17:35:16.074422Z",
+  "generated_at": "2026-10-04T20:28:18.688818Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8425,
-      "importance": 0.8425,
-      "importance_score": 0.8425,
+      "score": 0.8369,
+      "importance": 0.8369,
+      "importance_score": 0.8369,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.764,
+        "recency": 0.7328,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7522,
+        "recency": 0.7215,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -146,63 +146,178 @@
       }
     },
     {
-      "story_id": "story_a754eea0186f",
-      "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
-      "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
-      "primary_url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
+      "story_id": "story_cb4cee0e9eb9",
+      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "source": "The Verge",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "7654202328494479b00a63601dedf32af4a164cb",
-          "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
-          "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
+          "id": "af0d9658ed88e51ee495bd2337dcf600e6d4510d",
+          "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-04T16:16:04Z"
+        },
+        {
+          "id": "110f82ef94d838cd086197b4d34da1c1c6a1890b",
+          "title": "NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-04T16:16:04Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
+        "The Verge"
       ],
       "items": [
         {
-          "id": "7654202328494479b00a63601dedf32af4a164cb",
-          "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
-          "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
+          "id": "af0d9658ed88e51ee495bd2337dcf600e6d4510d",
+          "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-04T16:16:04Z"
+        },
+        {
+          "id": "110f82ef94d838cd086197b4d34da1c1c6a1890b",
+          "title": "NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-04T16:16:04Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6049,
+      "importance": 0.6049,
+      "importance_score": 0.6049,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7184,
-        "story_heat": 0.0
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9411,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-03T18:41:04.183866Z",
-      "latest_at": "2026-10-03T18:41:04.183866Z",
+      "earliest_at": "2026-10-04T16:16:04Z",
+      "latest_at": "2026-10-04T16:16:04Z",
       "primary_item": {
-        "id": "7654202328494479b00a63601dedf32af4a164cb",
-        "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
-        "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
+        "id": "af0d9658ed88e51ee495bd2337dcf600e6d4510d",
+        "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "Homa: The End of TCP for AI Clusters [video]",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "primary_url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "4084e57646c8b4382ebc30583895f0e1139c7cc1",
+          "title": "Homa: The End of TCP for AI Clusters [video]",
+          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T19:42:25Z"
+        },
+        {
+          "id": "c8b21868e621212f71e6f8cca3645de5bfc49add",
+          "title": "How to scale intent, quality, and artistry with AI [video]",
+          "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T08:41:58Z"
+        },
+        {
+          "id": "fa300572c7d49ccf86ce50c455d9d890c8ce828b",
+          "title": "How to scale intent, quality, and artistry with AI [video]",
+          "url": "https://news.ycombinator.com/item?id=49951891",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T08:41:58Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "4084e57646c8b4382ebc30583895f0e1139c7cc1",
+          "title": "Homa: The End of TCP for AI Clusters [video]",
+          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T19:42:25Z"
+        },
+        {
+          "id": "c8b21868e621212f71e6f8cca3645de5bfc49add",
+          "title": "How to scale intent, quality, and artistry with AI [video]",
+          "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T08:41:58Z"
+        },
+        {
+          "id": "fa300572c7d49ccf86ce50c455d9d890c8ce828b",
+          "title": "How to scale intent, quality, and artistry with AI [video]",
+          "url": "https://news.ycombinator.com/item?id=49951891",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T08:41:58Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5688,
+      "importance": 0.5688,
+      "importance_score": 0.5688,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.989,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T08:41:58Z",
+      "latest_at": "2026-10-04T19:42:25Z",
+      "primary_item": {
+        "id": "4084e57646c8b4382ebc30583895f0e1139c7cc1",
+        "title": "Homa: The End of TCP for AI Clusters [video]",
+        "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -276,15 +391,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5623,
-      "importance": 0.5623,
-      "importance_score": 0.5623,
+      "score": 0.5553,
+      "importance": 0.5553,
+      "importance_score": 0.5553,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9529,
+        "recency": 0.9141,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -374,15 +489,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5591,
-      "importance": 0.5591,
-      "importance_score": 0.5591,
+      "score": 0.5523,
+      "importance": 0.5523,
+      "importance_score": 0.5523,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9353,
+        "recency": 0.8971,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -400,101 +515,82 @@
       }
     },
     {
-      "story_id": "story_8b1e323a2293",
-      "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-      "primary_url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-      "source": "fortune.com",
-      "source_name": "Buzzing",
+      "story_id": "story_45fceba848ec",
+      "title": "AI data center costs are doubling every 12 months — industry needs $6 trillion in annual revenue to avoid a major collapse",
+      "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+      "primary_url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "06f280d3a3d0ed5d8e8167d0587b4474792660ae",
-          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
-          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-          "source": "fortune.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T09:46:05.311000Z"
+          "id": "e0cb8c31c3d3d8e1896f6afbce4723e7329866d6",
+          "title": "AI data center costs are doubling every 12 months — industry needs $6 trillion in annual revenue to avoid a major collapse",
+          "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "24b8aa8c0897da384ed00bb0969528ba0abc8b55",
-          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T17:44:29Z"
-        },
-        {
-          "id": "49c7d33077fcebced13fae6cfa16face2db9e9b4",
-          "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "url": "https://news.ycombinator.com/item?id=49946228",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T17:44:29Z"
+          "id": "2e5e04c3ce70912147666339342f07dcd66078fe",
+          "title": "Generate $6 trillion in annual revenue or face a major collapse — AI data center costs are doubling every 12 months",
+          "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-04T18:05:00Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "fortune.com",
-        "hackernews"
+        "Readhub · AI",
+        "TechRadar"
       ],
       "items": [
         {
-          "id": "06f280d3a3d0ed5d8e8167d0587b4474792660ae",
-          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
-          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-          "source": "fortune.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T09:46:05.311000Z"
+          "id": "e0cb8c31c3d3d8e1896f6afbce4723e7329866d6",
+          "title": "AI data center costs are doubling every 12 months — industry needs $6 trillion in annual revenue to avoid a major collapse",
+          "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "24b8aa8c0897da384ed00bb0969528ba0abc8b55",
-          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T17:44:29Z"
-        },
-        {
-          "id": "49c7d33077fcebced13fae6cfa16face2db9e9b4",
-          "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "url": "https://news.ycombinator.com/item?id=49946228",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T17:44:29Z"
+          "id": "2e5e04c3ce70912147666339342f07dcd66078fe",
+          "title": "Generate $6 trillion in annual revenue or face a major collapse — AI data center costs are doubling every 12 months",
+          "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-04T18:05:00Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5516,
-      "importance": 0.5516,
-      "importance_score": 0.5516,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8932,
-        "story_heat": 0.5
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-03T17:44:29Z",
-      "latest_at": "2026-10-04T09:46:05.311000Z",
+      "earliest_at": "2026-10-04T18:05:00Z",
+      "latest_at": "2026-10-04T20:28:18.688818Z",
       "primary_item": {
-        "id": "06f280d3a3d0ed5d8e8167d0587b4474792660ae",
-        "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
-        "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-        "source": "fortune.com",
-        "source_name": "Buzzing"
+        "id": "e0cb8c31c3d3d8e1896f6afbce4723e7329866d6",
+        "title": "AI data center costs are doubling every 12 months — industry needs $6 trillion in annual revenue to avoid a major collapse",
+        "url": "https://www.techradar.com/pro/generate-usd6-trillion-in-annual-revenue-or-face-a-major-collapse-ai-data-center-costs-are-doubling-every-12-months",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -570,15 +666,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5516,
-      "importance": 0.5516,
-      "importance_score": 0.5516,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8932,
+        "recency": 0.8568,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -593,6 +689,497 @@
         "url": "https://github.com/allenv0/SCM",
         "source": "github.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9e41744d0e37",
+      "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路",
+      "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
+      "primary_url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "da6f1529917d43e3fe8371c082528a865ee39522",
+          "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路",
+          "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T18:24:00.451000Z"
+        },
+        {
+          "id": "2d35945f6b3b2d3bf8e7321c21c04d518885a96a",
+          "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路 / Lina Khan says AI companies are following the same playbook that got Big Tech into trouble",
+          "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-04T18:03:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "da6f1529917d43e3fe8371c082528a865ee39522",
+          "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路",
+          "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T18:24:00.451000Z"
+        },
+        {
+          "id": "2d35945f6b3b2d3bf8e7321c21c04d518885a96a",
+          "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路 / Lina Khan says AI companies are following the same playbook that got Big Tech into trouble",
+          "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-04T18:03:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5405,
+      "importance": 0.5405,
+      "importance_score": 0.5405,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9705,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T18:03:27Z",
+      "latest_at": "2026-10-04T18:24:00.451000Z",
+      "primary_item": {
+        "id": "da6f1529917d43e3fe8371c082528a865ee39522",
+        "title": "莉娜·汗表示，人工智能公司正在遵循与当年让科技巨头陷入困境的同一套套路",
+        "url": "https://www.businessinsider.com/lina-khan-says-ai-companies-shouldnt-follow-big-tech-playbook-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_36feaf92c0da",
+      "title": "OpenAI“12朝元老”辞职死谏：试错的时代已崩坏",
+      "url": "https://www.36kr.com/p/4010851865857925",
+      "primary_url": "https://www.36kr.com/p/4010851865857925",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "9a4acaedf2842d387c2b1dec8d0527ca026d20ed",
+          "title": "OpenAI“12朝元老”辞职死谏：试错的时代已崩坏",
+          "url": "https://www.36kr.com/p/4010851865857925",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "66cbac70d2f3fcd3c533e3f360492174cfa1e2eb",
+          "title": "OpenAI「12朝元老」辞职死谏：试错的时代已崩坏！",
+          "url": "https://www.36kr.com/p/4010851865857925",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 · 24小时热榜"
+      ],
+      "items": [
+        {
+          "id": "9a4acaedf2842d387c2b1dec8d0527ca026d20ed",
+          "title": "OpenAI“12朝元老”辞职死谏：试错的时代已崩坏",
+          "url": "https://www.36kr.com/p/4010851865857925",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "66cbac70d2f3fcd3c533e3f360492174cfa1e2eb",
+          "title": "OpenAI「12朝元老」辞职死谏：试错的时代已崩坏！",
+          "url": "https://www.36kr.com/p/4010851865857925",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5271,
+      "importance": 0.5271,
+      "importance_score": 0.5271,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.896,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T06:22:23.818557Z",
+      "latest_at": "2026-10-04T12:52:07.868624Z",
+      "primary_item": {
+        "id": "9a4acaedf2842d387c2b1dec8d0527ca026d20ed",
+        "title": "OpenAI“12朝元老”辞职死谏：试错的时代已崩坏",
+        "url": "https://www.36kr.com/p/4010851865857925",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_83913d49e914",
+      "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "primary_url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "source": "www.theguardian.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ee467b2fa351b77dc7419b4393ad6b93fb06e9b2",
+          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T01:08:53.967000Z"
+        },
+        {
+          "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
+          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T22:18:13Z"
+        },
+        {
+          "id": "8debf926b3b3f1dd774c687f2db0ccde0b18fb36",
+          "title": "OpenAI 安全负责人辞职，警告人工智能公司文化“破碎” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
+          "url": "https://news.ycombinator.com/item?id=49948332",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T22:18:13Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.theguardian.com"
+      ],
+      "items": [
+        {
+          "id": "ee467b2fa351b77dc7419b4393ad6b93fb06e9b2",
+          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T01:08:53.967000Z"
+        },
+        {
+          "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
+          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T22:18:13Z"
+        },
+        {
+          "id": "8debf926b3b3f1dd774c687f2db0ccde0b18fb36",
+          "title": "OpenAI 安全负责人辞职，警告人工智能公司文化“破碎” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
+          "url": "https://news.ycombinator.com/item?id=49948332",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T22:18:13Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.527,
+      "importance": 0.527,
+      "importance_score": 0.527,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7565,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T22:18:13Z",
+      "latest_at": "2026-10-04T01:08:53.967000Z",
+      "primary_item": {
+        "id": "ee467b2fa351b77dc7419b4393ad6b93fb06e9b2",
+        "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
+        "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+        "source": "www.theguardian.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_66ec11703fff",
+      "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？",
+      "url": "https://news.ycombinator.com/item?id=49951356",
+      "primary_url": "https://news.ycombinator.com/item?id=49951356",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "71665ad9624ebbb6caa2be460b4b8df55fbdba79",
+          "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？",
+          "url": "https://news.ycombinator.com/item?id=49951356",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:05.387000Z"
+        },
+        {
+          "id": "ec0a2bd5d3587daf5f2a77878cf18afafbf4bf61",
+          "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？ / Ask HN: Where can a solo dev still find a moat in LLM inference?",
+          "url": "https://news.ycombinator.com/item?id=49951356",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T06:56:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "71665ad9624ebbb6caa2be460b4b8df55fbdba79",
+          "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？",
+          "url": "https://news.ycombinator.com/item?id=49951356",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:05.387000Z"
+        },
+        {
+          "id": "ec0a2bd5d3587daf5f2a77878cf18afafbf4bf61",
+          "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？ / Ask HN: Where can a solo dev still find a moat in LLM inference?",
+          "url": "https://news.ycombinator.com/item?id=49951356",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T06:56:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.52,
+      "importance": 0.52,
+      "importance_score": 0.52,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8568,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T06:56:40Z",
+      "latest_at": "2026-10-04T09:46:05.387000Z",
+      "primary_item": {
+        "id": "71665ad9624ebbb6caa2be460b4b8df55fbdba79",
+        "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？",
+        "url": "https://news.ycombinator.com/item?id=49951356",
+        "source": "news.ycombinator.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_eed7ab4cd749",
+      "title": "'This can't go on': thousands protest against housing crisis in Spain",
+      "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+      "primary_url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "275f6ca7f90769a6d12c9f92c270312ae4c44288",
+          "title": "'This can't go on': thousands protest against housing crisis in Spain",
+          "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T08:56:08Z"
+        },
+        {
+          "id": "203808b456a5e82d3d33f71a3f47d26616186349",
+          "title": "Protest against housing crisis in Spain",
+          "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T08:56:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "275f6ca7f90769a6d12c9f92c270312ae4c44288",
+          "title": "'This can't go on': thousands protest against housing crisis in Spain",
+          "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T08:56:08Z"
+        },
+        {
+          "id": "203808b456a5e82d3d33f71a3f47d26616186349",
+          "title": "Protest against housing crisis in Spain",
+          "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T08:56:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5182,
+      "importance": 0.5182,
+      "importance_score": 0.5182,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8465,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T08:56:08Z",
+      "latest_at": "2026-10-04T08:56:08Z",
+      "primary_item": {
+        "id": "275f6ca7f90769a6d12c9f92c270312ae4c44288",
+        "title": "'This can't go on': thousands protest against housing crisis in Spain",
+        "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_f869cda199ac",
+      "title": "最火AI岗位FDE：月薪5万，都干这些…",
+      "url": "https://www.qbitai.com/2026/10/501506.html",
+      "primary_url": "https://www.qbitai.com/2026/10/501506.html",
+      "source": "量子位 · 每日最新",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "5abd3de7133ab0d4bbec56a36ae7ba2fd8d6096a",
+          "title": "最火AI岗位FDE：月薪5万，都干这些…",
+          "url": "https://www.qbitai.com/2026/10/501506.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "26b47d462b926a1ab027984e69d0fdb0ac3ea896",
+          "title": "最火AI岗位FDE：月薪5万，都干这些…",
+          "url": "https://www.huxiu.com/article/4895334.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T04:11:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "虎嗅 (Huxiu)",
+        "量子位 · 每日最新"
+      ],
+      "items": [
+        {
+          "id": "5abd3de7133ab0d4bbec56a36ae7ba2fd8d6096a",
+          "title": "最火AI岗位FDE：月薪5万，都干这些…",
+          "url": "https://www.qbitai.com/2026/10/501506.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "26b47d462b926a1ab027984e69d0fdb0ac3ea896",
+          "title": "最火AI岗位FDE：月薪5万，都干这些…",
+          "url": "https://www.huxiu.com/article/4895334.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T04:11:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5126,
+      "importance": 0.5126,
+      "importance_score": 0.5126,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8158,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T04:11:20Z",
+      "latest_at": "2026-10-04T06:22:23.818557Z",
+      "primary_item": {
+        "id": "5abd3de7133ab0d4bbec56a36ae7ba2fd8d6096a",
+        "title": "最火AI岗位FDE：月薪5万，都干这些…",
+        "url": "https://www.qbitai.com/2026/10/501506.html",
+        "source": "量子位 · 每日最新",
+        "source_name": "TopHub"
       }
     },
     {
@@ -649,15 +1236,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9592,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -728,15 +1315,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5404,
-      "importance": 0.5404,
-      "importance_score": 0.5404,
+      "score": 0.5333,
+      "importance": 0.5333,
+      "importance_score": 0.5333,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9701,
+        "recency": 0.9305,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -754,178 +1341,81 @@
       }
     },
     {
-      "story_id": "story_36feaf92c0da",
-      "title": "OpenAI“12朝元老”辞职死谏：试错的时代已崩坏",
-      "url": "https://www.36kr.com/p/4010851865857925",
-      "primary_url": "https://www.36kr.com/p/4010851865857925",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
+      "story_id": "story_9dd1927e63f0",
+      "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
+      "url": "https://getjpm.sh",
+      "primary_url": "https://getjpm.sh",
+      "source": "getjpm.sh",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "9a4acaedf2842d387c2b1dec8d0527ca026d20ed",
-          "title": "OpenAI“12朝元老”辞职死谏：试错的时代已崩坏",
-          "url": "https://www.36kr.com/p/4010851865857925",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
+          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
+          "url": "https://getjpm.sh",
+          "source": "getjpm.sh",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T00:36:52.982000Z"
         },
         {
-          "id": "66cbac70d2f3fcd3c533e3f360492174cfa1e2eb",
-          "title": "OpenAI「12朝元老」辞职死谏：试错的时代已崩坏！",
-          "url": "https://www.36kr.com/p/4010851865857925",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "add12be6da1864ce4936e3937a27451d8330d778",
+          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写 / Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
+          "url": "https://getjpm.sh",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T00:11:58Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "36氪 · 24小时热榜"
+        "HN Algolia · AI 24h",
+        "getjpm.sh"
       ],
       "items": [
         {
-          "id": "9a4acaedf2842d387c2b1dec8d0527ca026d20ed",
-          "title": "OpenAI“12朝元老”辞职死谏：试错的时代已崩坏",
-          "url": "https://www.36kr.com/p/4010851865857925",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
+          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
+          "url": "https://getjpm.sh",
+          "source": "getjpm.sh",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T00:36:52.982000Z"
         },
         {
-          "id": "66cbac70d2f3fcd3c533e3f360492174cfa1e2eb",
-          "title": "OpenAI「12朝元老」辞职死谏：试错的时代已崩坏！",
-          "url": "https://www.36kr.com/p/4010851865857925",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "add12be6da1864ce4936e3937a27451d8330d778",
+          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写 / Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
+          "url": "https://getjpm.sh",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T00:11:58Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5339,
-      "importance": 0.5339,
-      "importance_score": 0.5339,
+      "score": 0.5009,
+      "importance": 0.5009,
+      "importance_score": 0.5009,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9341,
+        "recency": 0.7507,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T06:22:23.818557Z",
-      "latest_at": "2026-10-04T12:52:07.868624Z",
+      "earliest_at": "2026-10-04T00:11:58Z",
+      "latest_at": "2026-10-04T00:36:52.982000Z",
       "primary_item": {
-        "id": "9a4acaedf2842d387c2b1dec8d0527ca026d20ed",
-        "title": "OpenAI“12朝元老”辞职死谏：试错的时代已崩坏",
-        "url": "https://www.36kr.com/p/4010851865857925",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_fc994d69ad09",
-      "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-      "primary_url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-      "source": "claude.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0c957a85bf822cec39d103d7ccabfb9776cd15ce",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "claude.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T22:31:58.644000Z"
-        },
-        {
-          "id": "a6ebe19ce64fac6dad1acfb7519ab11a6823e313",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T18:29:30Z"
-        },
-        {
-          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "url": "https://news.ycombinator.com/item?id=49946567",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T18:29:30Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "claude.dev",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0c957a85bf822cec39d103d7ccabfb9776cd15ce",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "claude.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T22:31:58.644000Z"
-        },
-        {
-          "id": "a6ebe19ce64fac6dad1acfb7519ab11a6823e313",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T18:29:30Z"
-        },
-        {
-          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "url": "https://news.ycombinator.com/item?id=49946567",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T18:29:30Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5275,
-      "importance": 0.5275,
-      "importance_score": 0.5275,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7594,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T18:29:30Z",
-      "latest_at": "2026-10-03T22:31:58.644000Z",
-      "primary_item": {
-        "id": "0c957a85bf822cec39d103d7ccabfb9776cd15ce",
-        "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-        "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-        "source": "claude.dev",
+        "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
+        "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
+        "url": "https://getjpm.sh",
+        "source": "getjpm.sh",
         "source_name": "Buzzing"
       }
     },
@@ -983,15 +1473,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5271,
-      "importance": 0.5271,
-      "importance_score": 0.5271,
+      "score": 0.5205,
+      "importance": 0.5205,
+      "importance_score": 0.5205,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8962,
+        "recency": 0.8596,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1006,243 +1496,6 @@
         "url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_66ec11703fff",
-      "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？",
-      "url": "https://news.ycombinator.com/item?id=49951356",
-      "primary_url": "https://news.ycombinator.com/item?id=49951356",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "71665ad9624ebbb6caa2be460b4b8df55fbdba79",
-          "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？",
-          "url": "https://news.ycombinator.com/item?id=49951356",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T09:46:05.387000Z"
-        },
-        {
-          "id": "ec0a2bd5d3587daf5f2a77878cf18afafbf4bf61",
-          "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？ / Ask HN: Where can a solo dev still find a moat in LLM inference?",
-          "url": "https://news.ycombinator.com/item?id=49951356",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T06:56:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "71665ad9624ebbb6caa2be460b4b8df55fbdba79",
-          "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？",
-          "url": "https://news.ycombinator.com/item?id=49951356",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T09:46:05.387000Z"
-        },
-        {
-          "id": "ec0a2bd5d3587daf5f2a77878cf18afafbf4bf61",
-          "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？ / Ask HN: Where can a solo dev still find a moat in LLM inference?",
-          "url": "https://news.ycombinator.com/item?id=49951356",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T06:56:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5266,
-      "importance": 0.5266,
-      "importance_score": 0.5266,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8932,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T06:56:40Z",
-      "latest_at": "2026-10-04T09:46:05.387000Z",
-      "primary_item": {
-        "id": "71665ad9624ebbb6caa2be460b4b8df55fbdba79",
-        "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？",
-        "url": "https://news.ycombinator.com/item?id=49951356",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_810f091c82ef",
-      "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
-      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-      "primary_url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-      "source": "www.neowin.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "71d962531003070bc0b40a780ef1e5181b7ab33a",
-          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
-          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-          "source": "www.neowin.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T09:46:05.315000Z"
-        },
-        {
-          "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
-          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T17:57:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.neowin.net"
-      ],
-      "items": [
-        {
-          "id": "71d962531003070bc0b40a780ef1e5181b7ab33a",
-          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
-          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-          "source": "www.neowin.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T09:46:05.315000Z"
-        },
-        {
-          "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
-          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T17:57:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5266,
-      "importance": 0.5266,
-      "importance_score": 0.5266,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8932,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T17:57:03Z",
-      "latest_at": "2026-10-04T09:46:05.315000Z",
-      "primary_item": {
-        "id": "71d962531003070bc0b40a780ef1e5181b7ab33a",
-        "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
-        "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-        "source": "www.neowin.net",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_f869cda199ac",
-      "title": "最火AI岗位FDE：月薪5万，都干这些…",
-      "url": "https://www.qbitai.com/2026/10/501506.html",
-      "primary_url": "https://www.qbitai.com/2026/10/501506.html",
-      "source": "量子位 · 每日最新",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "5abd3de7133ab0d4bbec56a36ae7ba2fd8d6096a",
-          "title": "最火AI岗位FDE：月薪5万，都干这些…",
-          "url": "https://www.qbitai.com/2026/10/501506.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "26b47d462b926a1ab027984e69d0fdb0ac3ea896",
-          "title": "最火AI岗位FDE：月薪5万，都干这些…",
-          "url": "https://www.huxiu.com/article/4895334.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T04:11:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "虎嗅 (Huxiu)",
-        "量子位 · 每日最新"
-      ],
-      "items": [
-        {
-          "id": "5abd3de7133ab0d4bbec56a36ae7ba2fd8d6096a",
-          "title": "最火AI岗位FDE：月薪5万，都干这些…",
-          "url": "https://www.qbitai.com/2026/10/501506.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "26b47d462b926a1ab027984e69d0fdb0ac3ea896",
-          "title": "最火AI岗位FDE：月薪5万，都干这些…",
-          "url": "https://www.huxiu.com/article/4895334.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T04:11:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5189,
-      "importance": 0.5189,
-      "importance_score": 0.5189,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8505,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T04:11:20Z",
-      "latest_at": "2026-10-04T06:22:23.818557Z",
-      "primary_item": {
-        "id": "5abd3de7133ab0d4bbec56a36ae7ba2fd8d6096a",
-        "title": "最火AI岗位FDE：月薪5万，都干这些…",
-        "url": "https://www.qbitai.com/2026/10/501506.html",
-        "source": "量子位 · 每日最新",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1299,15 +1552,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9592,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1322,164 +1575,6 @@
         "url": "https://www.ithome.com/1/009/701.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9dd1927e63f0",
-      "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
-      "url": "https://getjpm.sh",
-      "primary_url": "https://getjpm.sh",
-      "source": "getjpm.sh",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
-          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
-          "url": "https://getjpm.sh",
-          "source": "getjpm.sh",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T00:36:52.982000Z"
-        },
-        {
-          "id": "add12be6da1864ce4936e3937a27451d8330d778",
-          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写 / Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
-          "url": "https://getjpm.sh",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T00:11:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "getjpm.sh"
-      ],
-      "items": [
-        {
-          "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
-          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
-          "url": "https://getjpm.sh",
-          "source": "getjpm.sh",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T00:36:52.982000Z"
-        },
-        {
-          "id": "add12be6da1864ce4936e3937a27451d8330d778",
-          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写 / Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
-          "url": "https://getjpm.sh",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T00:11:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5067,
-      "importance": 0.5067,
-      "importance_score": 0.5067,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7826,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T00:11:58Z",
-      "latest_at": "2026-10-04T00:36:52.982000Z",
-      "primary_item": {
-        "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
-        "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
-        "url": "https://getjpm.sh",
-        "source": "getjpm.sh",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_83913d49e914",
-      "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "primary_url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
-          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T22:18:13Z"
-        },
-        {
-          "id": "9c76212040bfb9302bd27231c6f65a445bcc8b95",
-          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范”",
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T19:57:53.505000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
-          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T22:18:13Z"
-        },
-        {
-          "id": "9c76212040bfb9302bd27231c6f65a445bcc8b95",
-          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范”",
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T19:57:53.505000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.502,
-      "importance": 0.502,
-      "importance_score": 0.502,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7569,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T19:57:53.505000Z",
-      "latest_at": "2026-10-03T22:18:13Z",
-      "primary_item": {
-        "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
-        "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
-        "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1536,15 +1631,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5266,
-      "importance": 0.5266,
-      "importance_score": 0.5266,
+      "score": 0.52,
+      "importance": 0.52,
+      "importance_score": 0.52,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8933,
+        "recency": 0.8568,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1559,85 +1654,6 @@
         "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e6dc84249acd",
-      "title": "What's the Future for Pure Math Research in the Age of AI?",
-      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-      "primary_url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
-          "title": "What's the Future for Pure Math Research in the Age of AI?",
-          "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T07:53:45Z"
-        },
-        {
-          "id": "e0107a07192b52e623f73e779a90b98fe272f119",
-          "title": "What's the Future for Pure Math Research in the Age of AI?",
-          "url": "https://news.ycombinator.com/item?id=49951641",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T07:53:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
-          "title": "What's the Future for Pure Math Research in the Age of AI?",
-          "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T07:53:45Z"
-        },
-        {
-          "id": "e0107a07192b52e623f73e779a90b98fe272f119",
-          "title": "What's the Future for Pure Math Research in the Age of AI?",
-          "url": "https://news.ycombinator.com/item?id=49951641",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T07:53:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8694,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T07:53:45Z",
-      "latest_at": "2026-10-04T07:53:45Z",
-      "primary_item": {
-        "id": "dce04fec2f6c811d724bcd24120df19aa3fb1ba3",
-        "title": "What's the Future for Pure Math Research in the Age of AI?",
-        "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     }
   ]
