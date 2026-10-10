@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T02:24:18.537103Z",
+  "generated_at": "2026-10-10T06:58:29.397120Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8433,
-      "importance": 0.8433,
-      "importance_score": 0.8433,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9516,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8394,
-      "importance": 0.8394,
-      "importance_score": 0.8394,
+      "score": 0.8296,
+      "importance": 0.8296,
+      "importance_score": 0.8296,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8523,
+        "recency": 0.7979,
         "story_heat": 0.0
       },
       "category": "official",
@@ -125,6 +125,206 @@
         "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b72411781b2c",
+      "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
+      "url": "https://www.ithome.com/1/011/194.htm",
+      "primary_url": "https://www.ithome.com/1/011/194.htm",
+      "source": "IT之家·人工智能",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f36e9bf68dc7f97be7c9efe59d13a75c4dcfcddd",
+          "title": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯入多个美国政府网站",
+          "url": "https://www.aibase.com/news/31525",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T06:58:29.397120Z"
+        },
+        {
+          "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
+          "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
+          "url": "https://www.ithome.com/1/011/194.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T01:07:47.053000Z"
+        },
+        {
+          "id": "34149b0245337600fd2da8699290eb8392646bca",
+          "title": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯进多个美国政府网站",
+          "url": "https://www.ithome.com/1/011/194.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-10T01:07:47Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "AIbase",
+        "IT之家 (ITHome)",
+        "IT之家·人工智能"
+      ],
+      "items": [
+        {
+          "id": "f36e9bf68dc7f97be7c9efe59d13a75c4dcfcddd",
+          "title": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯入多个美国政府网站",
+          "url": "https://www.aibase.com/news/31525",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T06:58:29.397120Z"
+        },
+        {
+          "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
+          "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
+          "url": "https://www.ithome.com/1/011/194.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T01:07:47.053000Z"
+        },
+        {
+          "id": "34149b0245337600fd2da8699290eb8392646bca",
+          "title": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯进多个美国政府网站",
+          "url": "https://www.ithome.com/1/011/194.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-10T01:07:47Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9191,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-10T01:07:47Z",
+      "latest_at": "2026-10-10T06:58:29.397120Z",
+      "primary_item": {
+        "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
+        "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
+        "url": "https://www.ithome.com/1/011/194.htm",
+        "source": "IT之家·人工智能",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a53e1f4f22c4",
+      "title": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+      "url": "https://www.aibase.com/news/31528",
+      "primary_url": "https://www.aibase.com/news/31528",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d056ed50f7b9fe24806965df151422ab78e7c665",
+          "title": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+          "url": "https://www.aibase.com/news/31528",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T06:58:29.397120Z"
+        },
+        {
+          "id": "77226a2abc47542114f5a9e1145619d48911b576",
+          "title": "Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+          "url": "https://www.aibase.com/zh/news/31528",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "baf6b76c82e25201875a15e3c7fc24d09ad6f20f",
+          "title": "Claude 管理智能体新增动态工作流，单次最多并行调度 1000 个 AI Agents",
+          "url": "https://www.ithome.com/1/011/329.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-10T05:38:05Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "AIbase",
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d056ed50f7b9fe24806965df151422ab78e7c665",
+          "title": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+          "url": "https://www.aibase.com/news/31528",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T06:58:29.397120Z"
+        },
+        {
+          "id": "77226a2abc47542114f5a9e1145619d48911b576",
+          "title": "Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+          "url": "https://www.aibase.com/zh/news/31528",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "baf6b76c82e25201875a15e3c7fc24d09ad6f20f",
+          "title": "Claude 管理智能体新增动态工作流，单次最多并行调度 1000 个 AI Agents",
+          "url": "https://www.ithome.com/1/011/329.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-10T05:38:05Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8176,
+      "importance": 0.8176,
+      "importance_score": 0.8176,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-10T05:38:05Z",
+      "latest_at": "2026-10-10T06:58:29.397120Z",
+      "primary_item": {
+        "id": "d056ed50f7b9fe24806965df151422ab78e7c665",
+        "title": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+        "url": "https://www.aibase.com/news/31528",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -162,15 +362,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.816,
-      "importance": 0.816,
-      "importance_score": 0.816,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7556,
+        "recency": 0.7074,
         "story_heat": 0.0
       },
       "category": "official",
@@ -243,15 +443,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8112,
-      "importance": 0.8112,
-      "importance_score": 0.8112,
+      "score": 0.8001,
+      "importance": 0.8001,
+      "importance_score": 0.8001,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9702,
+        "recency": 0.9082,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -267,87 +467,6 @@
         "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
         "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
         "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b72411781b2c",
-      "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-      "url": "https://www.ithome.com/1/011/194.htm",
-      "primary_url": "https://www.ithome.com/1/011/194.htm",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
-          "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-          "url": "https://www.ithome.com/1/011/194.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T01:07:47.053000Z"
-        },
-        {
-          "id": "34149b0245337600fd2da8699290eb8392646bca",
-          "title": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯进多个美国政府网站",
-          "url": "https://www.ithome.com/1/011/194.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-10T01:07:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家·人工智能"
-      ],
-      "items": [
-        {
-          "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
-          "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-          "url": "https://www.ithome.com/1/011/194.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T01:07:47.053000Z"
-        },
-        {
-          "id": "34149b0245337600fd2da8699290eb8392646bca",
-          "title": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯进多个美国政府网站",
-          "url": "https://www.ithome.com/1/011/194.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-10T01:07:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9818,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T01:07:47Z",
-      "latest_at": "2026-10-10T01:07:47.053000Z",
-      "primary_item": {
-        "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
-        "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-        "url": "https://www.ithome.com/1/011/194.htm",
-        "source": "IT之家·人工智能",
         "source_name": "AI HOT"
       }
     },
@@ -386,15 +505,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8318,
-      "importance": 0.8318,
-      "importance_score": 0.8318,
+      "score": 0.8211,
+      "importance": 0.8211,
+      "importance_score": 0.8211,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9323,
+        "recency": 0.8727,
         "story_heat": 0.0
       },
       "category": "official",
@@ -411,6 +530,67 @@
         "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_83a5417202a3",
+      "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
+      "url": "https://x.com/indigox/status/2108791275914993998",
+      "primary_url": "https://x.com/indigox/status/2108791275914993998",
+      "source": "X：indigo (@indigox)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
+          "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
+          "url": "https://x.com/indigox/status/2108791275914993998",
+          "source": "X：indigo (@indigox)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T05:26:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：indigo (@indigox)"
+      ],
+      "items": [
+        {
+          "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
+          "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
+          "url": "https://x.com/indigox/status/2108791275914993998",
+          "source": "X：indigo (@indigox)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T05:26:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7907,
+      "importance": 0.7907,
+      "importance_score": 0.7907,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9781,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-10T05:26:34Z",
+      "latest_at": "2026-10-10T05:26:34Z",
+      "primary_item": {
+        "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
+        "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
+        "url": "https://x.com/indigox/status/2108791275914993998",
+        "source": "X：indigo (@indigox)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -467,15 +647,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
+      "score": 0.7904,
+      "importance": 0.7904,
+      "importance_score": 0.7904,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8773,
+        "recency": 0.8213,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -495,84 +675,164 @@
       }
     },
     {
-      "story_id": "story_0d814b3775c3",
-      "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-      "url": "https://www.aibase.com/news/31519",
-      "primary_url": "https://www.aibase.com/news/31519",
+      "story_id": "story_ab7fc3435c96",
+      "title": "微软发布 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
+      "url": "https://www.aibase.com/news/31527",
+      "primary_url": "https://www.aibase.com/news/31527",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ee3ceba98d5760cd254480dcb3cfc38a78d6d6a1",
-          "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-          "url": "https://www.aibase.com/news/31519",
+          "id": "b9d7cd38e7e5bf29886f014adbaa8cb36087619a",
+          "title": "微软发布 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
+          "url": "https://www.aibase.com/news/31527",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:24:18.537103Z"
+          "published_at": "2026-10-10T06:58:29.397120Z"
         },
         {
-          "id": "e687541cb336449e82667e2921c2bddd9b38cd3b",
-          "title": "Anthropic 无法可靠控制 AI 代理：宣布切断内部评估的实时互联网访问权限",
-          "url": "https://www.aibase.com/zh/news/31519",
+          "id": "8a9d5971f6d89ebe6aba685c07c895d9a5d4b451",
+          "title": "微软发布 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
+          "url": "https://www.aibase.com/zh/news/31527",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "b669c8b52d3c66ffa4479b54bab3b4f35ff5b8a0",
+          "title": "微软推出 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
+          "url": "https://www.ithome.com/1/011/264.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-10T02:48:54Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "AIbase",
+        "IT之家 (ITHome)",
         "Readhub · AI"
       ],
       "items": [
         {
-          "id": "ee3ceba98d5760cd254480dcb3cfc38a78d6d6a1",
-          "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-          "url": "https://www.aibase.com/news/31519",
+          "id": "b9d7cd38e7e5bf29886f014adbaa8cb36087619a",
+          "title": "微软发布 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
+          "url": "https://www.aibase.com/news/31527",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:24:18.537103Z"
+          "published_at": "2026-10-10T06:58:29.397120Z"
         },
         {
-          "id": "e687541cb336449e82667e2921c2bddd9b38cd3b",
-          "title": "Anthropic 无法可靠控制 AI 代理：宣布切断内部评估的实时互联网访问权限",
-          "url": "https://www.aibase.com/zh/news/31519",
+          "id": "8a9d5971f6d89ebe6aba685c07c895d9a5d4b451",
+          "title": "微软发布 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
+          "url": "https://www.aibase.com/zh/news/31527",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "b669c8b52d3c66ffa4479b54bab3b4f35ff5b8a0",
+          "title": "微软推出 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
+          "url": "https://www.ithome.com/1/011/264.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-10T02:48:54Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8176,
+      "importance": 0.8176,
+      "importance_score": 0.8176,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T02:24:18.537103Z",
-      "latest_at": "2026-10-10T02:24:18.537103Z",
+      "earliest_at": "2026-10-10T02:48:54Z",
+      "latest_at": "2026-10-10T06:58:29.397120Z",
       "primary_item": {
-        "id": "ee3ceba98d5760cd254480dcb3cfc38a78d6d6a1",
-        "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-        "url": "https://www.aibase.com/news/31519",
+        "id": "b9d7cd38e7e5bf29886f014adbaa8cb36087619a",
+        "title": "微软发布 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
+        "url": "https://www.aibase.com/news/31527",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_98538a79e69e",
+      "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
+      "url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9f87a0f945cc58c8a9fa6838aebd33c32f81f476",
+          "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
+          "url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T02:08:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "9f87a0f945cc58c8a9fa6838aebd33c32f81f476",
+          "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
+          "url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T02:08:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7705,
+      "importance": 0.7705,
+      "importance_score": 0.7705,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9325,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-10T02:08:10Z",
+      "latest_at": "2026-10-10T02:08:10Z",
+      "primary_item": {
+        "id": "9f87a0f945cc58c8a9fa6838aebd33c32f81f476",
+        "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
+        "url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -610,15 +870,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.808,
-      "importance": 0.808,
-      "importance_score": 0.808,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7556,
+        "recency": 0.7074,
         "story_heat": 0.0
       },
       "category": "official",
@@ -635,148 +895,6 @@
         "url": "https://openai.com/index/sophos",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_702ec1f96a32",
-      "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
-      "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
-          "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
-          "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T22:11:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
-          "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
-          "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T22:11:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9409,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T22:11:18Z",
-      "latest_at": "2026-10-09T22:11:18Z",
-      "primary_item": {
-        "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
-        "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
-        "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d93460fa3bb0",
-      "title": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-      "url": "https://www.aibase.com/news/31515",
-      "primary_url": "https://www.aibase.com/news/31515",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c3870c8520141a099b9c664e7e2118d8857b8e2c",
-          "title": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-          "url": "https://www.aibase.com/news/31515",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T02:24:18.537103Z"
-        },
-        {
-          "id": "d9f41ae4222c4c496d93c426d89e66251f9b43a9",
-          "title": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-          "url": "https://www.aibase.com/zh/news/31515",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c3870c8520141a099b9c664e7e2118d8857b8e2c",
-          "title": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-          "url": "https://www.aibase.com/news/31515",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T02:24:18.537103Z"
-        },
-        {
-          "id": "d9f41ae4222c4c496d93c426d89e66251f9b43a9",
-          "title": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-          "url": "https://www.aibase.com/zh/news/31515",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T02:24:18.537103Z",
-      "latest_at": "2026-10-10T02:24:18.537103Z",
-      "primary_item": {
-        "id": "c3870c8520141a099b9c664e7e2118d8857b8e2c",
-        "title": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-        "url": "https://www.aibase.com/news/31515",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -814,21 +932,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8521,
+        "recency": 0.7977,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-09T15:19:27Z",
       "latest_at": "2026-10-09T15:19:27Z",
@@ -841,55 +958,55 @@
       }
     },
     {
-      "story_id": "story_6ac04ef034c4",
-      "title": "有道龙虾发布迁移助手:争夺腾讯QClaw关停用户，实现一键“搬家”",
-      "url": "https://www.aibase.com/news/31523",
-      "primary_url": "https://www.aibase.com/news/31523",
+      "story_id": "story_59ad74610b3e",
+      "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+      "url": "https://www.aibase.com/news/31534",
+      "primary_url": "https://www.aibase.com/news/31534",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "633a907fe5f78e04b0ba4ec4c4d3cc84ae591183",
-          "title": "有道龙虾发布迁移助手:争夺腾讯QClaw关停用户，实现一键“搬家”",
-          "url": "https://www.aibase.com/news/31523",
+          "id": "78b39ac81f7167b2adbe2d33511fd5536c1e472e",
+          "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+          "url": "https://www.aibase.com/news/31534",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:24:18.537103Z"
+          "published_at": "2026-10-10T06:58:29.397120Z"
         },
         {
-          "id": "807c740a5490b21d3611416c088e833f0743af98",
-          "title": "有道龙虾发布迁移助手：争夺腾讯 QClaw 关停用户，实现一键「搬家」",
-          "url": "https://www.aibase.com/zh/news/31523",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "6d3b1626c1e81535e9dd1700fad4e61e30a39210",
+          "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+          "url": "https://www.ithome.com/1/011/325.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-10T05:10:05Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "AIbase",
-        "Readhub · AI"
+        "IT之家 (ITHome)"
       ],
       "items": [
         {
-          "id": "633a907fe5f78e04b0ba4ec4c4d3cc84ae591183",
-          "title": "有道龙虾发布迁移助手:争夺腾讯QClaw关停用户，实现一键“搬家”",
-          "url": "https://www.aibase.com/news/31523",
+          "id": "78b39ac81f7167b2adbe2d33511fd5536c1e472e",
+          "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+          "url": "https://www.aibase.com/news/31534",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:24:18.537103Z"
+          "published_at": "2026-10-10T06:58:29.397120Z"
         },
         {
-          "id": "807c740a5490b21d3611416c088e833f0743af98",
-          "title": "有道龙虾发布迁移助手：争夺腾讯 QClaw 关停用户，实现一键「搬家」",
-          "url": "https://www.aibase.com/zh/news/31523",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "6d3b1626c1e81535e9dd1700fad4e61e30a39210",
+          "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+          "url": "https://www.ithome.com/1/011/325.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-10T05:10:05Z"
         }
       ],
       "item_count": 2,
@@ -911,14 +1028,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T02:24:18.537103Z",
-      "latest_at": "2026-10-10T02:24:18.537103Z",
+      "earliest_at": "2026-10-10T05:10:05Z",
+      "latest_at": "2026-10-10T06:58:29.397120Z",
       "primary_item": {
-        "id": "633a907fe5f78e04b0ba4ec4c4d3cc84ae591183",
-        "title": "有道龙虾发布迁移助手:争夺腾讯QClaw关停用户，实现一键“搬家”",
-        "url": "https://www.aibase.com/news/31523",
+        "id": "78b39ac81f7167b2adbe2d33511fd5536c1e472e",
+        "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+        "url": "https://www.aibase.com/news/31534",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_702ec1f96a32",
+      "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
+      "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
+          "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
+          "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T22:11:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
+          "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
+          "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T22:11:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8808,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T22:11:18Z",
+      "latest_at": "2026-10-09T22:11:18Z",
+      "primary_item": {
+        "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
+        "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
+        "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -956,15 +1134,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7201,
+      "importance": 0.7201,
+      "importance_score": 0.7201,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9108,
+        "recency": 0.8526,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -982,86 +1160,26 @@
       }
     },
     {
-      "story_id": "story_98153a63a36e",
-      "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
-      "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-      "primary_url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-      "source": "Redwood Research：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0c3712ba797602e9ce592e277869e8eef9b19cbf",
-          "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
-          "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-          "source": "Redwood Research：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T22:06:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Redwood Research：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "0c3712ba797602e9ce592e277869e8eef9b19cbf",
-          "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
-          "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-          "source": "Redwood Research：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T22:06:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7298,
-      "importance": 0.7298,
-      "importance_score": 0.7298,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9399,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-09T22:06:51Z",
-      "latest_at": "2026-10-09T22:06:51Z",
-      "primary_item": {
-        "id": "0c3712ba797602e9ce592e277869e8eef9b19cbf",
-        "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
-        "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-        "source": "Redwood Research：Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_61ef190ce761",
-      "title": "生数科技发布视频生成模型 Vidu Q4 Preview，支持 4K 输出与多图多音频参考",
-      "url": "https://www.aibase.com/news/31521",
-      "primary_url": "https://www.aibase.com/news/31521",
+      "story_id": "story_6f8e66cbc841",
+      "title": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
+      "url": "https://www.aibase.com/news/31531",
+      "primary_url": "https://www.aibase.com/news/31531",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "58f16a039c95b4a5045d3dad788284f17638cf8c",
-          "title": "生数科技发布视频生成模型 Vidu Q4 Preview，支持 4K 输出与多图多音频参考",
-          "url": "https://www.aibase.com/news/31521",
+          "id": "5e0bb1110da0e76362771a7ad7c9cdbf248779f0",
+          "title": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
+          "url": "https://www.aibase.com/news/31531",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:24:18.537103Z"
+          "published_at": "2026-10-10T06:58:29.397120Z"
         },
         {
-          "id": "f2835c793753665d216ac78bca38227f82fac92d",
-          "title": "生数科技发布视频生成模型 Vidu Q4 Preview，支持 4K 输出与多图多音频参考",
-          "url": "https://www.aibase.com/zh/news/31521",
+          "id": "d140d1acbbd77ac7ac65b24b03d734a35e7988a1",
+          "title": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
+          "url": "https://www.aibase.com/zh/news/31531",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1075,18 +1193,18 @@
       ],
       "items": [
         {
-          "id": "58f16a039c95b4a5045d3dad788284f17638cf8c",
-          "title": "生数科技发布视频生成模型 Vidu Q4 Preview，支持 4K 输出与多图多音频参考",
-          "url": "https://www.aibase.com/news/31521",
+          "id": "5e0bb1110da0e76362771a7ad7c9cdbf248779f0",
+          "title": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
+          "url": "https://www.aibase.com/news/31531",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:24:18.537103Z"
+          "published_at": "2026-10-10T06:58:29.397120Z"
         },
         {
-          "id": "f2835c793753665d216ac78bca38227f82fac92d",
-          "title": "生数科技发布视频生成模型 Vidu Q4 Preview，支持 4K 输出与多图多音频参考",
-          "url": "https://www.aibase.com/zh/news/31521",
+          "id": "d140d1acbbd77ac7ac65b24b03d734a35e7988a1",
+          "title": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
+          "url": "https://www.aibase.com/zh/news/31531",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1112,37 +1230,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T02:24:18.537103Z",
-      "latest_at": "2026-10-10T02:24:18.537103Z",
+      "earliest_at": "2026-10-10T06:58:29.397120Z",
+      "latest_at": "2026-10-10T06:58:29.397120Z",
       "primary_item": {
-        "id": "58f16a039c95b4a5045d3dad788284f17638cf8c",
-        "title": "生数科技发布视频生成模型 Vidu Q4 Preview，支持 4K 输出与多图多音频参考",
-        "url": "https://www.aibase.com/news/31521",
+        "id": "5e0bb1110da0e76362771a7ad7c9cdbf248779f0",
+        "title": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
+        "url": "https://www.aibase.com/news/31531",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_a4daff9075ef",
-      "title": "白宫发布AI强制令:发生安全事件须立即上报并补救",
-      "url": "https://www.aibase.com/news/31522",
-      "primary_url": "https://www.aibase.com/news/31522",
+      "story_id": "story_ae172dfe00a9",
+      "title": "腾讯元宝上线桌宠:PC端 v2.87.10开启，全天陪伴+拖拽文件摘要",
+      "url": "https://www.aibase.com/news/31530",
+      "primary_url": "https://www.aibase.com/news/31530",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "58e9c28ec6c8acdef27f2b92bb125da786e37d5d",
-          "title": "白宫发布AI强制令:发生安全事件须立即上报并补救",
-          "url": "https://www.aibase.com/news/31522",
+          "id": "7e99154fb33346b1a65adb31640433c349988a60",
+          "title": "腾讯元宝上线桌宠:PC端 v2.87.10开启，全天陪伴+拖拽文件摘要",
+          "url": "https://www.aibase.com/news/31530",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:24:18.537103Z"
+          "published_at": "2026-10-10T06:58:29.397120Z"
         },
         {
-          "id": "3b7fab180fbab5ca2300113a692772108a56309e",
-          "title": "白宫发布 AI 强制令：发生安全事件须立即上报并补救",
-          "url": "https://www.aibase.com/zh/news/31522",
+          "id": "473109eeb92a25f663b77966715a23c16ba2be4c",
+          "title": "腾讯元宝上线桌宠：PC 端 v2.87.10 开启，全天陪伴 + 拖拽文件摘要",
+          "url": "https://www.aibase.com/zh/news/31530",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1156,18 +1274,18 @@
       ],
       "items": [
         {
-          "id": "58e9c28ec6c8acdef27f2b92bb125da786e37d5d",
-          "title": "白宫发布AI强制令:发生安全事件须立即上报并补救",
-          "url": "https://www.aibase.com/news/31522",
+          "id": "7e99154fb33346b1a65adb31640433c349988a60",
+          "title": "腾讯元宝上线桌宠:PC端 v2.87.10开启，全天陪伴+拖拽文件摘要",
+          "url": "https://www.aibase.com/news/31530",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:24:18.537103Z"
+          "published_at": "2026-10-10T06:58:29.397120Z"
         },
         {
-          "id": "3b7fab180fbab5ca2300113a692772108a56309e",
-          "title": "白宫发布 AI 强制令：发生安全事件须立即上报并补救",
-          "url": "https://www.aibase.com/zh/news/31522",
+          "id": "473109eeb92a25f663b77966715a23c16ba2be4c",
+          "title": "腾讯元宝上线桌宠：PC 端 v2.87.10 开启，全天陪伴 + 拖拽文件摘要",
+          "url": "https://www.aibase.com/zh/news/31530",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1193,12 +1311,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T02:24:18.537103Z",
-      "latest_at": "2026-10-10T02:24:18.537103Z",
+      "earliest_at": "2026-10-10T06:58:29.397120Z",
+      "latest_at": "2026-10-10T06:58:29.397120Z",
       "primary_item": {
-        "id": "58e9c28ec6c8acdef27f2b92bb125da786e37d5d",
-        "title": "白宫发布AI强制令:发生安全事件须立即上报并补救",
-        "url": "https://www.aibase.com/news/31522",
+        "id": "7e99154fb33346b1a65adb31640433c349988a60",
+        "title": "腾讯元宝上线桌宠:PC端 v2.87.10开启，全天陪伴+拖拽文件摘要",
+        "url": "https://www.aibase.com/news/31530",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1276,15 +1394,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6694,
-      "importance": 0.6694,
-      "importance_score": 0.6694,
+      "score": 0.659,
+      "importance": 0.659,
+      "importance_score": 0.659,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.9066,
+        "recency": 0.8487,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1302,26 +1420,26 @@
       }
     },
     {
-      "story_id": "story_7cef1302f71c",
-      "title": "谷歌测试新一代 Gemini 4 Carbon 版本，代码能力对标顶尖竞品",
-      "url": "https://www.aibase.com/news/31517",
-      "primary_url": "https://www.aibase.com/news/31517",
+      "story_id": "story_0d814b3775c3",
+      "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
+      "url": "https://www.aibase.com/news/31519",
+      "primary_url": "https://www.aibase.com/news/31519",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "35364fa564f03d01125ec53a267edd33b9556cc6",
-          "title": "谷歌测试新一代 Gemini 4 Carbon 版本，代码能力对标顶尖竞品",
-          "url": "https://www.aibase.com/news/31517",
+          "id": "ee3ceba98d5760cd254480dcb3cfc38a78d6d6a1",
+          "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
+          "url": "https://www.aibase.com/news/31519",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-10-10T02:24:18.537103Z"
         },
         {
-          "id": "0f4f5a4c790046a9c69f60cb11674920641fb97b",
-          "title": "谷歌测试新一代 Gemini 4 Carbon 版本，代码能力对标顶尖竞品",
-          "url": "https://www.aibase.com/zh/news/31517",
+          "id": "e687541cb336449e82667e2921c2bddd9b38cd3b",
+          "title": "Anthropic 无法可靠控制 AI 代理：宣布切断内部评估的实时互联网访问权限",
+          "url": "https://www.aibase.com/zh/news/31519",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1335,18 +1453,18 @@
       ],
       "items": [
         {
-          "id": "35364fa564f03d01125ec53a267edd33b9556cc6",
-          "title": "谷歌测试新一代 Gemini 4 Carbon 版本，代码能力对标顶尖竞品",
-          "url": "https://www.aibase.com/news/31517",
+          "id": "ee3ceba98d5760cd254480dcb3cfc38a78d6d6a1",
+          "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
+          "url": "https://www.aibase.com/news/31519",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-10-10T02:24:18.537103Z"
         },
         {
-          "id": "0f4f5a4c790046a9c69f60cb11674920641fb97b",
-          "title": "谷歌测试新一代 Gemini 4 Carbon 版本，代码能力对标顶尖竞品",
-          "url": "https://www.aibase.com/zh/news/31517",
+          "id": "e687541cb336449e82667e2921c2bddd9b38cd3b",
+          "title": "Anthropic 无法可靠控制 AI 代理：宣布切断内部评估的实时互联网访问权限",
+          "url": "https://www.aibase.com/zh/news/31519",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1355,15 +1473,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7811,
+      "importance": 0.7811,
+      "importance_score": 0.7811,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9361,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1375,125 +1493,11 @@
       "earliest_at": "2026-10-10T02:24:18.537103Z",
       "latest_at": "2026-10-10T02:24:18.537103Z",
       "primary_item": {
-        "id": "35364fa564f03d01125ec53a267edd33b9556cc6",
-        "title": "谷歌测试新一代 Gemini 4 Carbon 版本，代码能力对标顶尖竞品",
-        "url": "https://www.aibase.com/news/31517",
+        "id": "ee3ceba98d5760cd254480dcb3cfc38a78d6d6a1",
+        "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
+        "url": "https://www.aibase.com/news/31519",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "别急着让 AI 接管业务，很多公司真正卡住的地方，是客户资料散在聊天里、进度表口径混乱、报销凭证反复手工整理。底账没理顺，再强模型进来也只会跟着乱。这篇文章用客户管理和费用报销两个真实场景，把 AI 落地前的“数字底座”拆得很细，能帮你从一件麻烦事开始，把流程整理到 AI 真能接手。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-10-09",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "a9fdb8fd65198cc8a85ca78262c20b8227e7f72d",
-          "title": "别急着让 AI 接管业务，很多公司真正卡住的地方，是客户资料散在聊天里、进度表口径混乱、报销凭证反复手工整理。底账没理顺，再强模型进来也只会跟着乱。这篇文章用客户管理和费用报销两个真实场景，把 AI 落地前的“数字底座”拆得很细，能帮你从一件麻烦事开始，把流程整理到 AI 真能接手。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T19:00:49.327235Z"
-        },
-        {
-          "id": "789a8c4aa8a56782c6f7aa4b8536f9178a647f62",
-          "title": "想读懂Opus 5.5掀起的行业变革？词元之外的第五期播客深度拆解了AI对游戏、软件、硬件领域的冲击。借助模型强大的代码能力，快速开发游戏Demo、复刻游戏、仿制软件、编写硬件固件都不再困难，传统技术壁垒正在被快速瓦解，法律也难以跟上技术发展；IP共识、硬件入口与开放生态，或将成为未来突围的核心抓手。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T19:00:49.327235Z"
-        },
-        {
-          "id": "9b3dc06d2297bc47d785c8f421176e626bc4e6c9",
-          "title": "最近个人 Agent 突然火了。Google、SpaceXAI、Meta、Manus、OpenAI 五家前后发了自己的个人 Agent。那么，谁最适合当你的助理呢？一起来看看作者的这份对比分析报告！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T19:00:49.327235Z"
-        },
-        {
-          "id": "5d9b00eb1ca1bcca5bfe387a7dbcadf37d11e110",
-          "title": "现在人们谈论智能体时，会用到五个词：上下文工程、循环工程、Jev 工程、harness工程、评估工程。这篇文章带你详细拆解下它们到底是什么关系。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T19:00:49.327235Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "社区更新 · 2026-10-09"
-      ],
-      "items": [
-        {
-          "id": "a9fdb8fd65198cc8a85ca78262c20b8227e7f72d",
-          "title": "别急着让 AI 接管业务，很多公司真正卡住的地方，是客户资料散在聊天里、进度表口径混乱、报销凭证反复手工整理。底账没理顺，再强模型进来也只会跟着乱。这篇文章用客户管理和费用报销两个真实场景，把 AI 落地前的“数字底座”拆得很细，能帮你从一件麻烦事开始，把流程整理到 AI 真能接手。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T19:00:49.327235Z"
-        },
-        {
-          "id": "789a8c4aa8a56782c6f7aa4b8536f9178a647f62",
-          "title": "想读懂Opus 5.5掀起的行业变革？词元之外的第五期播客深度拆解了AI对游戏、软件、硬件领域的冲击。借助模型强大的代码能力，快速开发游戏Demo、复刻游戏、仿制软件、编写硬件固件都不再困难，传统技术壁垒正在被快速瓦解，法律也难以跟上技术发展；IP共识、硬件入口与开放生态，或将成为未来突围的核心抓手。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T19:00:49.327235Z"
-        },
-        {
-          "id": "9b3dc06d2297bc47d785c8f421176e626bc4e6c9",
-          "title": "最近个人 Agent 突然火了。Google、SpaceXAI、Meta、Manus、OpenAI 五家前后发了自己的个人 Agent。那么，谁最适合当你的助理呢？一起来看看作者的这份对比分析报告！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T19:00:49.327235Z"
-        },
-        {
-          "id": "5d9b00eb1ca1bcca5bfe387a7dbcadf37d11e110",
-          "title": "现在人们谈论智能体时，会用到五个词：上下文工程、循环工程、Jev 工程、harness工程、评估工程。这篇文章带你详细拆解下它们到底是什么关系。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T19:00:49.327235Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.626,
-      "importance": 0.626,
-      "importance_score": 0.626,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.8988,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-09T19:00:49.327235Z",
-      "latest_at": "2026-10-09T19:00:49.327235Z",
-      "primary_item": {
-        "id": "a9fdb8fd65198cc8a85ca78262c20b8227e7f72d",
-        "title": "别急着让 AI 接管业务，很多公司真正卡住的地方，是客户资料散在聊天里、进度表口径混乱、报销凭证反复手工整理。底账没理顺，再强模型进来也只会跟着乱。这篇文章用客户管理和费用报销两个真实场景，把 AI 落地前的“数字底座”拆得很细，能帮你从一件麻烦事开始，把流程整理到 AI 真能接手。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-10-09",
-        "source_name": "WaytoAGI"
       }
     }
   ]
