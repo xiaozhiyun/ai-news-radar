@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T01:37:44.605695Z",
+  "generated_at": "2026-10-13T07:38:50.007680Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.843,
-      "importance": 0.843,
-      "importance_score": 0.843,
+      "score": 0.8289,
+      "importance": 0.8289,
+      "importance_score": 0.8289,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9353,
+        "recency": 0.8575,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -120,6 +120,68 @@
         "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
         "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c1d34165b490",
+      "title": "Client telemetry user attribution and configurable capture",
+      "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+      "primary_url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "896121d98ef8227ad431f910e0a960594c422738",
+          "title": "Client telemetry user attribution and configurable capture",
+          "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T22:38:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "896121d98ef8227ad431f910e0a960594c422738",
+          "title": "Client telemetry user attribution and configurable capture",
+          "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T22:38:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.822,
+      "importance": 0.822,
+      "importance_score": 0.822,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8779,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-12T22:38:00Z",
+      "latest_at": "2026-10-12T22:38:00Z",
+      "primary_item": {
+        "id": "896121d98ef8227ad431f910e0a960594c422738",
+        "title": "Client telemetry user attribution and configurable capture",
+        "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -157,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8922,
+        "recency": 0.818,
         "story_heat": 0.0
       },
       "category": "official",
@@ -181,68 +243,6 @@
         "title": "适合初学者的 GitHub Copilot 应用程序：如何向 Copilot 教授您的代码库 / GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
         "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_39f26c94dad3",
-      "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
-      "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4e074d6e65757c2e5a30537f520bca332288c848",
-          "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
-          "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-12T16:30:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4e074d6e65757c2e5a30537f520bca332288c848",
-          "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
-          "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-12T16:30:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8218,
-      "importance": 0.8218,
-      "importance_score": 0.8218,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8765,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-12T16:30:11Z",
-      "latest_at": "2026-10-12T16:30:11Z",
-      "primary_item": {
-        "id": "4e074d6e65757c2e5a30537f520bca332288c848",
-        "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
-        "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -337,15 +337,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8211,
-      "importance": 0.8211,
-      "importance_score": 0.8211,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8139,
+        "recency": 0.7462,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -437,15 +437,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8188,
-      "importance": 0.8188,
-      "importance_score": 0.8188,
+      "score": 0.8055,
+      "importance": 0.8055,
+      "importance_score": 0.8055,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8901,
+        "recency": 0.816,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -556,15 +556,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
+      "score": 0.7955,
+      "importance": 0.7955,
+      "importance_score": 0.7955,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9144,
+        "recency": 0.8383,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -584,26 +584,26 @@
       }
     },
     {
-      "story_id": "story_17b1db8a127a",
-      "title": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
-      "url": "https://www.aibase.com/news/31576",
-      "primary_url": "https://www.aibase.com/news/31576",
+      "story_id": "story_562768f8f042",
+      "title": "Epic押注AI优先开发：迪士尼射击游戏代码交给Claude写，美术全走AI工作流",
+      "url": "https://www.aibase.com/news/31595",
+      "primary_url": "https://www.aibase.com/news/31595",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8ba66a77df54223e00f2f0816a98fd7f54b88573",
-          "title": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
-          "url": "https://www.aibase.com/news/31576",
+          "id": "37c94774ec43febc09c8a964159c20b3a141124c",
+          "title": "Epic押注AI优先开发：迪士尼射击游戏代码交给Claude写，美术全走AI工作流",
+          "url": "https://www.aibase.com/news/31595",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-13T01:37:44.605695Z"
+          "published_at": "2026-10-13T07:38:50.007680Z"
         },
         {
-          "id": "0d55295560e1042e7d0197b102432e7dbb1931a6",
-          "title": "3个月烧掉5000亿Token，AI把《现代战争2》源代码「复刻」了83%",
-          "url": "https://www.aibase.com/zh/news/31576",
+          "id": "04a2f01f61c7e2de5e6333ee4aa2381cfa0375da",
+          "title": "Epic 押注 AI 优先开发：迪士尼射击游戏代码交给 Claude 写，美术全走 AI 工作流",
+          "url": "https://www.aibase.com/zh/news/31595",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -617,18 +617,18 @@
       ],
       "items": [
         {
-          "id": "8ba66a77df54223e00f2f0816a98fd7f54b88573",
-          "title": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
-          "url": "https://www.aibase.com/news/31576",
+          "id": "37c94774ec43febc09c8a964159c20b3a141124c",
+          "title": "Epic押注AI优先开发：迪士尼射击游戏代码交给Claude写，美术全走AI工作流",
+          "url": "https://www.aibase.com/news/31595",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-13T01:37:44.605695Z"
+          "published_at": "2026-10-13T07:38:50.007680Z"
         },
         {
-          "id": "0d55295560e1042e7d0197b102432e7dbb1931a6",
-          "title": "3个月烧掉5000亿Token，AI把《现代战争2》源代码「复刻」了83%",
-          "url": "https://www.aibase.com/zh/news/31576",
+          "id": "04a2f01f61c7e2de5e6333ee4aa2381cfa0375da",
+          "title": "Epic 押注 AI 优先开发：迪士尼射击游戏代码交给 Claude 写，美术全走 AI 工作流",
+          "url": "https://www.aibase.com/zh/news/31595",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -654,14 +654,76 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-13T01:37:44.605695Z",
-      "latest_at": "2026-10-13T01:37:44.605695Z",
+      "earliest_at": "2026-10-13T07:38:50.007680Z",
+      "latest_at": "2026-10-13T07:38:50.007680Z",
       "primary_item": {
-        "id": "8ba66a77df54223e00f2f0816a98fd7f54b88573",
-        "title": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
-        "url": "https://www.aibase.com/news/31576",
+        "id": "37c94774ec43febc09c8a964159c20b3a141124c",
+        "title": "Epic押注AI优先开发：迪士尼射击游戏代码交给Claude写，美术全走AI工作流",
+        "url": "https://www.aibase.com/news/31595",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_39f26c94dad3",
+      "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
+      "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4e074d6e65757c2e5a30537f520bca332288c848",
+          "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
+          "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T16:30:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4e074d6e65757c2e5a30537f520bca332288c848",
+          "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
+          "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T16:30:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8036,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-12T16:30:11Z",
+      "latest_at": "2026-10-12T16:30:11Z",
+      "primary_item": {
+        "id": "4e074d6e65757c2e5a30537f520bca332288c848",
+        "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
+        "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -737,15 +799,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
+      "score": 0.8042,
+      "importance": 0.8042,
+      "importance_score": 0.8042,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9004,
+        "recency": 0.8254,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -765,65 +827,84 @@
       }
     },
     {
-      "story_id": "story_1ac16a9fa078",
-      "title": "Anonymous organization-level registries for Dependabot",
-      "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
-      "primary_url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_9eb4b9312783",
+      "title": "字节跳动Seed单拆安全对齐部门，严林挂帅专防智能体越界与CBRN风险",
+      "url": "https://www.aibase.com/news/31593",
+      "primary_url": "https://www.aibase.com/news/31593",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "089955f40de8038c107a9911361603ae50607306",
-          "title": "Anonymous organization-level registries for Dependabot",
-          "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-12T14:04:16Z"
+          "id": "00cb7847c91605612bcf927c5d19db8b37f84478",
+          "title": "字节跳动Seed单拆安全对齐部门，严林挂帅专防智能体越界与CBRN风险",
+          "url": "https://www.aibase.com/news/31593",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T07:38:50.007680Z"
+        },
+        {
+          "id": "12ac1823eeb755fa45905d30ab78c241b9d132a5",
+          "title": "字节跳动 Seed 单拆安全对齐部门，严林挂帅专防智能体越界与 CBRN 风险",
+          "url": "https://www.aibase.com/zh/news/31593",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "089955f40de8038c107a9911361603ae50607306",
-          "title": "Anonymous organization-level registries for Dependabot",
-          "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-12T14:04:16Z"
+          "id": "00cb7847c91605612bcf927c5d19db8b37f84478",
+          "title": "字节跳动Seed单拆安全对齐部门，严林挂帅专防智能体越界与CBRN风险",
+          "url": "https://www.aibase.com/news/31593",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T07:38:50.007680Z"
+        },
+        {
+          "id": "12ac1823eeb755fa45905d30ab78c241b9d132a5",
+          "title": "字节跳动 Seed 单拆安全对齐部门，严林挂帅专防智能体越界与 CBRN 风险",
+          "url": "https://www.aibase.com/zh/news/31593",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8463,
-        "story_heat": 0.0
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-12T14:04:16Z",
-      "latest_at": "2026-10-12T14:04:16Z",
+      "earliest_at": "2026-10-13T07:38:50.007680Z",
+      "latest_at": "2026-10-13T07:38:50.007680Z",
       "primary_item": {
-        "id": "089955f40de8038c107a9911361603ae50607306",
-        "title": "Anonymous organization-level registries for Dependabot",
-        "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "00cb7847c91605612bcf927c5d19db8b37f84478",
+        "title": "字节跳动Seed单拆安全对齐部门，严林挂帅专防智能体越界与CBRN风险",
+        "url": "https://www.aibase.com/news/31593",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -880,15 +961,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7674,
-      "importance": 0.7674,
-      "importance_score": 0.7674,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7933,
+        "recency": 0.7273,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -942,15 +1023,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.767,
-      "importance": 0.767,
-      "importance_score": 0.767,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8967,
+        "recency": 0.8221,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -966,6 +1047,209 @@
         "url": "https://x.com/arena/status/2109706854700044523",
         "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1ac16a9fa078",
+      "title": "Anonymous organization-level registries for Dependabot",
+      "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+      "primary_url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "089955f40de8038c107a9911361603ae50607306",
+          "title": "Anonymous organization-level registries for Dependabot",
+          "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T14:04:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "089955f40de8038c107a9911361603ae50607306",
+          "title": "Anonymous organization-level registries for Dependabot",
+          "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T14:04:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7758,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-12T14:04:16Z",
+      "latest_at": "2026-10-12T14:04:16Z",
+      "primary_item": {
+        "id": "089955f40de8038c107a9911361603ae50607306",
+        "title": "Anonymous organization-level registries for Dependabot",
+        "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2c8cd2b277ab",
+      "title": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet",
+      "url": "https://x.com/demishassabis/status/2109813775377563908",
+      "primary_url": "https://x.com/demishassabis/status/2109813775377563908",
+      "source": "X：Demis Hassabis (@demishassabis)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a4dae920c0e04ca9641017809b425ecf28adad78",
+          "title": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet",
+          "url": "https://x.com/demishassabis/status/2109813775377563908",
+          "source": "X：Demis Hassabis (@demishassabis)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T01:09:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Demis Hassabis (@demishassabis)"
+      ],
+      "items": [
+        {
+          "id": "a4dae920c0e04ca9641017809b425ecf28adad78",
+          "title": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet",
+          "url": "https://x.com/demishassabis/status/2109813775377563908",
+          "source": "X：Demis Hassabis (@demishassabis)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T01:09:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9106,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-13T01:09:37Z",
+      "latest_at": "2026-10-13T01:09:37Z",
+      "primary_item": {
+        "id": "a4dae920c0e04ca9641017809b425ecf28adad78",
+        "title": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet",
+        "url": "https://x.com/demishassabis/status/2109813775377563908",
+        "source": "X：Demis Hassabis (@demishassabis)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_17b1db8a127a",
+      "title": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+      "url": "https://www.aibase.com/news/31576",
+      "primary_url": "https://www.aibase.com/news/31576",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8ba66a77df54223e00f2f0816a98fd7f54b88573",
+          "title": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+          "url": "https://www.aibase.com/news/31576",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T01:37:44.605695Z"
+        },
+        {
+          "id": "0d55295560e1042e7d0197b102432e7dbb1931a6",
+          "title": "3个月烧掉5000亿Token，AI把《现代战争2》源代码「复刻」了83%",
+          "url": "https://www.aibase.com/zh/news/31576",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8ba66a77df54223e00f2f0816a98fd7f54b88573",
+          "title": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+          "url": "https://www.aibase.com/news/31576",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T01:37:44.605695Z"
+        },
+        {
+          "id": "0d55295560e1042e7d0197b102432e7dbb1931a6",
+          "title": "3个月烧掉5000亿Token，AI把《现代战争2》源代码「复刻」了83%",
+          "url": "https://www.aibase.com/zh/news/31576",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7776,
+      "importance": 0.7776,
+      "importance_score": 0.7776,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9168,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T01:37:44.605695Z",
+      "latest_at": "2026-10-13T01:37:44.605695Z",
+      "primary_item": {
+        "id": "8ba66a77df54223e00f2f0816a98fd7f54b88573",
+        "title": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+        "url": "https://www.aibase.com/news/31576",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1022,15 +1306,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7776,
+      "importance": 0.7776,
+      "importance_score": 0.7776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9168,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1047,66 +1331,6 @@
         "url": "https://www.aibase.com/news/31573",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2c8cd2b277ab",
-      "title": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet",
-      "url": "https://x.com/demishassabis/status/2109813775377563908",
-      "primary_url": "https://x.com/demishassabis/status/2109813775377563908",
-      "source": "X：Demis Hassabis (@demishassabis)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a4dae920c0e04ca9641017809b425ecf28adad78",
-          "title": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet",
-          "url": "https://x.com/demishassabis/status/2109813775377563908",
-          "source": "X：Demis Hassabis (@demishassabis)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T01:09:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Demis Hassabis (@demishassabis)"
-      ],
-      "items": [
-        {
-          "id": "a4dae920c0e04ca9641017809b425ecf28adad78",
-          "title": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet",
-          "url": "https://x.com/demishassabis/status/2109813775377563908",
-          "source": "X：Demis Hassabis (@demishassabis)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T01:09:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9933,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-13T01:09:37Z",
-      "latest_at": "2026-10-13T01:09:37Z",
-      "primary_item": {
-        "id": "a4dae920c0e04ca9641017809b425ecf28adad78",
-        "title": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet",
-        "url": "https://x.com/demishassabis/status/2109813775377563908",
-        "source": "X：Demis Hassabis (@demishassabis)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1163,15 +1387,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7776,
+      "importance": 0.7776,
+      "importance_score": 0.7776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9168,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1186,147 +1410,6 @@
         "id": "fd1ed1651caa172f4517f5d1d14742901285080f",
         "title": "微软发布第三代自研AI芯片Maia300，计划2027年投产",
         "url": "https://www.aibase.com/news/31577",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_20468ac24c35",
-      "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
-      "url": "https://x.com/MeshyAI/status/2109550836934471864",
-      "primary_url": "https://x.com/MeshyAI/status/2109550836934471864",
-      "source": "X：Meshy (@MeshyAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "91f6030ffc8e5c0d29755a33d9fe85e93f9085d5",
-          "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
-          "url": "https://x.com/MeshyAI/status/2109550836934471864",
-          "source": "X：Meshy (@MeshyAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-12T07:44:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Meshy (@MeshyAI)"
-      ],
-      "items": [
-        {
-          "id": "91f6030ffc8e5c0d29755a33d9fe85e93f9085d5",
-          "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
-          "url": "https://x.com/MeshyAI/status/2109550836934471864",
-          "source": "X：Meshy (@MeshyAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-12T07:44:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7206,
-      "importance": 0.7206,
-      "importance_score": 0.7206,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7724,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-12T07:44:47Z",
-      "latest_at": "2026-10-12T07:44:47Z",
-      "primary_item": {
-        "id": "91f6030ffc8e5c0d29755a33d9fe85e93f9085d5",
-        "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
-        "url": "https://x.com/MeshyAI/status/2109550836934471864",
-        "source": "X：Meshy (@MeshyAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0e3614326b4a",
-      "title": "英特尔陈立武预警：AI 硬件还要缺两三年，智能体正改写芯片配比",
-      "url": "https://www.aibase.com/news/31578",
-      "primary_url": "https://www.aibase.com/news/31578",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e57bd27e0ea23f9f69b0e2141c1f130e4a5a19b6",
-          "title": "英特尔陈立武预警：AI 硬件还要缺两三年，智能体正改写芯片配比",
-          "url": "https://www.aibase.com/news/31578",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T01:37:44.605695Z"
-        },
-        {
-          "id": "e77fb5206cdd3f1599e2eb715e2302b3a56dde26",
-          "title": "英特尔陈立武预警：AI 硬件还要缺两三年，智能体正改写芯片配比",
-          "url": "https://www.aibase.com/zh/news/31578",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e57bd27e0ea23f9f69b0e2141c1f130e4a5a19b6",
-          "title": "英特尔陈立武预警：AI 硬件还要缺两三年，智能体正改写芯片配比",
-          "url": "https://www.aibase.com/news/31578",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T01:37:44.605695Z"
-        },
-        {
-          "id": "e77fb5206cdd3f1599e2eb715e2302b3a56dde26",
-          "title": "英特尔陈立武预警：AI 硬件还要缺两三年，智能体正改写芯片配比",
-          "url": "https://www.aibase.com/zh/news/31578",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T01:37:44.605695Z",
-      "latest_at": "2026-10-13T01:37:44.605695Z",
-      "primary_item": {
-        "id": "e57bd27e0ea23f9f69b0e2141c1f130e4a5a19b6",
-        "title": "英特尔陈立武预警：AI 硬件还要缺两三年，智能体正改写芯片配比",
-        "url": "https://www.aibase.com/news/31578",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1438,15 +1521,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6537,
-      "importance": 0.6537,
-      "importance_score": 0.6537,
+      "score": 0.64,
+      "importance": 0.64,
+      "importance_score": 0.64,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9138,
+        "recency": 0.8378,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1464,82 +1547,102 @@
       }
     },
     {
-      "story_id": "story_a3e03a113c4e",
-      "title": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
-      "url": "https://www.aibase.com/news/31572",
-      "primary_url": "https://www.aibase.com/news/31572",
+      "story_id": "story_0e3614326b4a",
+      "title": "英特尔陈立武预警：AI 硬件还要缺两三年，智能体正改写芯片配比",
+      "url": "https://www.aibase.com/news/31578",
+      "primary_url": "https://www.aibase.com/news/31578",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a129178d1c13aa8df01f61c84f2e8570050675a9",
-          "title": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
-          "url": "https://www.aibase.com/news/31572",
+          "id": "e57bd27e0ea23f9f69b0e2141c1f130e4a5a19b6",
+          "title": "英特尔陈立武预警：AI 硬件还要缺两三年，智能体正改写芯片配比",
+          "url": "https://www.aibase.com/news/31578",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-10-13T01:37:44.605695Z"
+        },
+        {
+          "id": "e77fb5206cdd3f1599e2eb715e2302b3a56dde26",
+          "title": "英特尔陈立武预警：AI 硬件还要缺两三年，智能体正改写芯片配比",
+          "url": "https://www.aibase.com/zh/news/31578",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "a129178d1c13aa8df01f61c84f2e8570050675a9",
-          "title": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
-          "url": "https://www.aibase.com/news/31572",
+          "id": "e57bd27e0ea23f9f69b0e2141c1f130e4a5a19b6",
+          "title": "英特尔陈立武预警：AI 硬件还要缺两三年，智能体正改写芯片配比",
+          "url": "https://www.aibase.com/news/31578",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-10-13T01:37:44.605695Z"
+        },
+        {
+          "id": "e77fb5206cdd3f1599e2eb715e2302b3a56dde26",
+          "title": "英特尔陈立武预警：AI 硬件还要缺两三年，智能体正改写芯片配比",
+          "url": "https://www.aibase.com/zh/news/31578",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7776,
+      "importance": 0.7776,
+      "importance_score": 0.7776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9168,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-10-13T01:37:44.605695Z",
       "latest_at": "2026-10-13T01:37:44.605695Z",
       "primary_item": {
-        "id": "a129178d1c13aa8df01f61c84f2e8570050675a9",
-        "title": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
-        "url": "https://www.aibase.com/news/31572",
+        "id": "e57bd27e0ea23f9f69b0e2141c1f130e4a5a19b6",
+        "title": "英特尔陈立武预警：AI 硬件还要缺两三年，智能体正改写芯片配比",
+        "url": "https://www.aibase.com/news/31578",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_6a6c2ed9e308",
-      "title": "估值4亿美元!DeepSeek出手布局人形机器人AI赛道",
-      "url": "https://www.aibase.com/news/31574",
-      "primary_url": "https://www.aibase.com/news/31574",
+      "story_id": "story_13a936d53442",
+      "title": "1688全面接入AI电商工作台Accio 赋能超1亿买家与百万源头厂商",
+      "url": "https://www.aibase.com/news/31599",
+      "primary_url": "https://www.aibase.com/news/31599",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5057abdae034f75116a7e762d82e9170695e24bd",
-          "title": "估值4亿美元!DeepSeek出手布局人形机器人AI赛道",
-          "url": "https://www.aibase.com/news/31574",
+          "id": "bdd69da8a3134e313054297660085672f4069297",
+          "title": "1688全面接入AI电商工作台Accio 赋能超1亿买家与百万源头厂商",
+          "url": "https://www.aibase.com/news/31599",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-13T01:37:44.605695Z"
+          "published_at": "2026-10-13T07:38:50.007680Z"
         }
       ],
       "source_count": 1,
@@ -1548,13 +1651,13 @@
       ],
       "items": [
         {
-          "id": "5057abdae034f75116a7e762d82e9170695e24bd",
-          "title": "估值4亿美元!DeepSeek出手布局人形机器人AI赛道",
-          "url": "https://www.aibase.com/news/31574",
+          "id": "bdd69da8a3134e313054297660085672f4069297",
+          "title": "1688全面接入AI电商工作台Accio 赋能超1亿买家与百万源头厂商",
+          "url": "https://www.aibase.com/news/31599",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-13T01:37:44.605695Z"
+          "published_at": "2026-10-13T07:38:50.007680Z"
         }
       ],
       "item_count": 1,
@@ -1575,73 +1678,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-13T01:37:44.605695Z",
-      "latest_at": "2026-10-13T01:37:44.605695Z",
+      "earliest_at": "2026-10-13T07:38:50.007680Z",
+      "latest_at": "2026-10-13T07:38:50.007680Z",
       "primary_item": {
-        "id": "5057abdae034f75116a7e762d82e9170695e24bd",
-        "title": "估值4亿美元!DeepSeek出手布局人形机器人AI赛道",
-        "url": "https://www.aibase.com/news/31574",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ab13acc32630",
-      "title": "微软押注自研Maia芯片： 2027 年铺到吉瓦级，纳德拉称\"对自家硅最大一赌\"",
-      "url": "https://www.aibase.com/news/31579",
-      "primary_url": "https://www.aibase.com/news/31579",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cc906e0e8a06597c7b4b830a274fc3e2918f9030",
-          "title": "微软押注自研Maia芯片： 2027 年铺到吉瓦级，纳德拉称\"对自家硅最大一赌\"",
-          "url": "https://www.aibase.com/news/31579",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T01:37:44.605695Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cc906e0e8a06597c7b4b830a274fc3e2918f9030",
-          "title": "微软押注自研Maia芯片： 2027 年铺到吉瓦级，纳德拉称\"对自家硅最大一赌\"",
-          "url": "https://www.aibase.com/news/31579",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T01:37:44.605695Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T01:37:44.605695Z",
-      "latest_at": "2026-10-13T01:37:44.605695Z",
-      "primary_item": {
-        "id": "cc906e0e8a06597c7b4b830a274fc3e2918f9030",
-        "title": "微软押注自研Maia芯片： 2027 年铺到吉瓦级，纳德拉称\"对自家硅最大一赌\"",
-        "url": "https://www.aibase.com/news/31579",
+        "id": "bdd69da8a3134e313054297660085672f4069297",
+        "title": "1688全面接入AI电商工作台Accio 赋能超1亿买家与百万源头厂商",
+        "url": "https://www.aibase.com/news/31599",
         "source": "AIbase",
         "source_name": "AIbase"
       }
