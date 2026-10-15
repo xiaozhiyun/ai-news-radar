@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-10-15T11:30:38.077100Z",
+  "generated_at": "2026-10-15T15:44:29.905024Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_e3c36d4422c6",
+      "title": "Apertus 1.5 发布说明 / Apertus 1.5 Release Notes",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "primary_url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ae31ab0271323bac40f86be731bfaebf1e04c992",
+          "title": "Apertus 1.5 发布说明 / Apertus 1.5 Release Notes",
+          "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T09:08:45Z"
+        },
+        {
+          "id": "f7effe9bc1095e34de752e8048951723ab325027",
+          "title": "Apertus 1.5 发布说明",
+          "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ae31ab0271323bac40f86be731bfaebf1e04c992",
+          "title": "Apertus 1.5 发布说明 / Apertus 1.5 Release Notes",
+          "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T09:08:45Z"
+        },
+        {
+          "id": "f7effe9bc1095e34de752e8048951723ab325027",
+          "title": "Apertus 1.5 发布说明",
+          "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8686,
+      "importance": 0.8686,
+      "importance_score": 0.8686,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9091,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T09:08:45Z",
+      "latest_at": "2026-10-15T15:44:29.905024Z",
+      "primary_item": {
+        "id": "ae31ab0271323bac40f86be731bfaebf1e04c992",
+        "title": "Apertus 1.5 发布说明 / Apertus 1.5 Release Notes",
+        "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_6cbde97d8260",
       "title": "阶跃星辰开放 Step 5 Preview 权重并发布技术博客",
@@ -114,15 +196,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8769,
-      "importance": 0.8769,
-      "importance_score": 0.8769,
+      "score": 0.8674,
+      "importance": 0.8674,
+      "importance_score": 0.8674,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8849,
+        "recency": 0.8325,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -142,68 +224,192 @@
       }
     },
     {
-      "story_id": "story_a3b7e4ededda",
-      "title": "公共预览版中的 GitHub Actions 工作流锁定文件 / GitHub Actions workflow lockfiles in public preview",
-      "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+      "story_id": "story_fa14b8f7db46",
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "primary_url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "acdde6aba6525f9d00a39deac8f0d8c9aaac39c0",
+          "title": "Teaching students to think and learn through questions",
+          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "acdde6aba6525f9d00a39deac8f0d8c9aaac39c0",
+          "title": "Teaching students to think and learn through questions",
+          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.845,
+      "importance": 0.845,
+      "importance_score": 0.845,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9612,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T13:00:00Z",
+      "latest_at": "2026-10-15T13:00:00Z",
+      "primary_item": {
+        "id": "acdde6aba6525f9d00a39deac8f0d8c9aaac39c0",
+        "title": "Teaching students to think and learn through questions",
+        "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_39ed69c21fb1",
+      "title": "AI Scan for pull requests generally available",
+      "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "502bc892b0915388933022ba86cb435c84eda79f",
-          "title": "公共预览版中的 GitHub Actions 工作流锁定文件 / GitHub Actions workflow lockfiles in public preview",
-          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+          "id": "89e0621c600f80074c4cfa2a987bdd0d38a32002",
+          "title": "AI Scan for pull requests generally available",
+          "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-14T13:49:15Z"
-        },
-        {
-          "id": "461fc328ff70b16714e9e246b63442b1bead933b",
-          "title": "GitHub Actions has added lock files",
-          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-14T14:09:41Z"
+          "published_at": "2026-10-15T15:04:51Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "GitHub Changelog",
-        "Hacker News · 24h最热"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "502bc892b0915388933022ba86cb435c84eda79f",
-          "title": "公共预览版中的 GitHub Actions 工作流锁定文件 / GitHub Actions workflow lockfiles in public preview",
-          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+          "id": "89e0621c600f80074c4cfa2a987bdd0d38a32002",
+          "title": "AI Scan for pull requests generally available",
+          "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-14T13:49:15Z"
-        },
-        {
-          "id": "461fc328ff70b16714e9e246b63442b1bead933b",
-          "title": "GitHub Actions has added lock files",
-          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-14T14:09:41Z"
+          "published_at": "2026-10-15T15:04:51Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8206,
-      "importance": 0.8206,
-      "importance_score": 0.8206,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8423,
+      "importance": 0.8423,
+      "importance_score": 0.8423,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7311,
+        "recency": 0.9905,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T15:04:51Z",
+      "latest_at": "2026-10-15T15:04:51Z",
+      "primary_item": {
+        "id": "89e0621c600f80074c4cfa2a987bdd0d38a32002",
+        "title": "AI Scan for pull requests generally available",
+        "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_3733c75a28bf",
+      "title": "Black Forest Labs FLUX.3 Image Klein 登陆 Diffusers，支持边界框布局控制 / Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
+      "primary_url": "https://huggingface.co/blog/flux-3",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "98ef1db4349830e80f798ba1e660cb9ccbd7af64",
+          "title": "Black Forest Labs FLUX.3 Image Klein 登陆 Diffusers，支持边界框布局控制 / Welcome FLUX.3 Image Klein in Diffusers",
+          "url": "https://huggingface.co/blog/flux-3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T00:00:00Z"
+        },
+        {
+          "id": "41e8f5b1bf876eb6f20ebc438ed72619704073b7",
+          "title": "Black Forest Labs FLUX.3 Image Klein 登陆 Diffusers，支持边界框布局控制",
+          "url": "https://huggingface.co/blog/flux-3",
+          "source": "Hugging Face 官方团队博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T00:00:00.752000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Hugging Face 官方团队博客"
+      ],
+      "items": [
+        {
+          "id": "98ef1db4349830e80f798ba1e660cb9ccbd7af64",
+          "title": "Black Forest Labs FLUX.3 Image Klein 登陆 Diffusers，支持边界框布局控制 / Welcome FLUX.3 Image Klein in Diffusers",
+          "url": "https://huggingface.co/blog/flux-3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T00:00:00Z"
+        },
+        {
+          "id": "41e8f5b1bf876eb6f20ebc438ed72619704073b7",
+          "title": "Black Forest Labs FLUX.3 Image Klein 登陆 Diffusers，支持边界框布局控制",
+          "url": "https://huggingface.co/blog/flux-3",
+          "source": "Hugging Face 官方团队博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T00:00:00.752000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8484,
+      "importance": 0.8484,
+      "importance_score": 0.8484,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7967,
         "story_heat": 0.25
       },
       "category": "official",
@@ -213,60 +419,60 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-14T13:49:15Z",
-      "latest_at": "2026-10-14T14:09:41Z",
+      "earliest_at": "2026-10-15T00:00:00Z",
+      "latest_at": "2026-10-15T00:00:00.752000Z",
       "primary_item": {
-        "id": "502bc892b0915388933022ba86cb435c84eda79f",
-        "title": "公共预览版中的 GitHub Actions 工作流锁定文件 / GitHub Actions workflow lockfiles in public preview",
-        "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-        "source": "GitHub Changelog",
+        "id": "98ef1db4349830e80f798ba1e660cb9ccbd7af64",
+        "title": "Black Forest Labs FLUX.3 Image Klein 登陆 Diffusers，支持边界框布局控制 / Welcome FLUX.3 Image Klein in Diffusers",
+        "url": "https://huggingface.co/blog/flux-3",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_672ebf75c430",
-      "title": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "primary_url": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "source": "Hugging Face Blog",
+      "story_id": "story_b7ac4657df6f",
+      "title": "Agentic autofix for code scanning alerts general availability",
+      "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
+      "primary_url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e85644cf37333074c63cccbb8992b5db3091a0b7",
-          "title": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-          "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-          "source": "Hugging Face Blog",
+          "id": "02bbb4ed9649b8f31626edda12a0233b8b8b57a6",
+          "title": "Agentic autofix for code scanning alerts general availability",
+          "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-14T16:12:42Z"
+          "published_at": "2026-10-15T13:49:20Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "e85644cf37333074c63cccbb8992b5db3091a0b7",
-          "title": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-          "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-          "source": "Hugging Face Blog",
+          "id": "02bbb4ed9649b8f31626edda12a0233b8b8b57a6",
+          "title": "Agentic autofix for code scanning alerts general availability",
+          "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-14T16:12:42Z"
+          "published_at": "2026-10-15T13:49:20Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8162,
-      "importance": 0.8162,
-      "importance_score": 0.8162,
+      "score": 0.8391,
+      "importance": 0.8391,
+      "importance_score": 0.8391,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7568,
+        "ai_relevance": 0.87,
+        "recency": 0.9727,
         "story_heat": 0.0
       },
       "category": "official",
@@ -275,13 +481,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-14T16:12:42Z",
-      "latest_at": "2026-10-14T16:12:42Z",
+      "earliest_at": "2026-10-15T13:49:20Z",
+      "latest_at": "2026-10-15T13:49:20Z",
       "primary_item": {
-        "id": "e85644cf37333074c63cccbb8992b5db3091a0b7",
-        "title": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-        "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-        "source": "Hugging Face Blog",
+        "id": "02bbb4ed9649b8f31626edda12a0233b8b8b57a6",
+        "title": "Agentic autofix for code scanning alerts general availability",
+        "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -339,15 +545,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8153,
-      "importance": 0.8153,
-      "importance_score": 0.8153,
+      "score": 0.8049,
+      "importance": 0.8049,
+      "importance_score": 0.8049,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9762,
+        "recency": 0.9184,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -367,65 +573,84 @@
       }
     },
     {
-      "story_id": "story_a0e0fec2c2b5",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "primary_url": "https://openai.com/index/amp-beyond-coding",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_faf4d5dfcd6c",
+      "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持",
+      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "primary_url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "7c01cc0608404ef4a3f3839da159b7083e48f4c9",
-          "title": "Amp puts AI agents to work beyond code with OpenAI models",
-          "url": "https://openai.com/index/amp-beyond-coding",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T12:00:00Z"
+          "id": "eb65cb4b924ec64c238300f8c3aa0258fa9880f6",
+          "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持",
+          "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T11:00:00Z"
+        },
+        {
+          "id": "c7d5f647cfb008f44a26cbf0f40683b51bb38157",
+          "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持 / Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+          "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-15T11:00:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "The Verge",
+        "The Verge：AI（RSS）"
       ],
       "items": [
         {
-          "id": "7c01cc0608404ef4a3f3839da159b7083e48f4c9",
-          "title": "Amp puts AI agents to work beyond code with OpenAI models",
-          "url": "https://openai.com/index/amp-beyond-coding",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T12:00:00Z"
+          "id": "eb65cb4b924ec64c238300f8c3aa0258fa9880f6",
+          "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持",
+          "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T11:00:00Z"
+        },
+        {
+          "id": "c7d5f647cfb008f44a26cbf0f40683b51bb38157",
+          "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持 / Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+          "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-15T11:00:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7121,
-        "story_heat": 0.0
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9338,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-14T12:00:00Z",
-      "latest_at": "2026-10-14T12:00:00Z",
+      "earliest_at": "2026-10-15T11:00:00Z",
+      "latest_at": "2026-10-15T11:00:00Z",
       "primary_item": {
-        "id": "7c01cc0608404ef4a3f3839da159b7083e48f4c9",
-        "title": "Amp puts AI agents to work beyond code with OpenAI models",
-        "url": "https://openai.com/index/amp-beyond-coding",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "eb65cb4b924ec64c238300f8c3aa0258fa9880f6",
+        "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持",
+        "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -482,15 +707,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7819,
+      "importance": 0.7819,
+      "importance_score": 0.7819,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9407,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -507,6 +732,68 @@
         "url": "https://www.aibase.com/news/31669",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5fff4f29fe90",
+      "title": "Email notifications for repository push events have been retired",
+      "url": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired",
+      "primary_url": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e25d261c0fd37cb42f14a5e29eaaaf1483957c74",
+          "title": "Email notifications for repository push events have been retired",
+          "url": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T13:42:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e25d261c0fd37cb42f14a5e29eaaaf1483957c74",
+          "title": "Email notifications for repository push events have been retired",
+          "url": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T13:42:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.971,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T13:42:19Z",
+      "latest_at": "2026-10-15T13:42:19Z",
+      "primary_item": {
+        "id": "e25d261c0fd37cb42f14a5e29eaaaf1483957c74",
+        "title": "Email notifications for repository push events have been retired",
+        "url": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -563,15 +850,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7823,
-      "importance": 0.7823,
-      "importance_score": 0.7823,
+      "score": 0.7733,
+      "importance": 0.7733,
+      "importance_score": 0.7733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8426,
+        "recency": 0.7927,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -591,208 +878,64 @@
       }
     },
     {
-      "story_id": "story_116eea760bcf",
-      "title": "HydraFusion updates and new Max option",
-      "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
-      "primary_url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
-          "title": "HydraFusion updates and new Max option",
-          "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T20:01:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
-          "title": "HydraFusion updates and new Max option",
-          "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T20:01:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7996,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-14T20:01:35Z",
-      "latest_at": "2026-10-14T20:01:35Z",
-      "primary_item": {
-        "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
-        "title": "HydraFusion updates and new Max option",
-        "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_738aed8dcc6e",
-      "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
-      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-      "primary_url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-      "source": "The Verge：AI（RSS）",
+      "story_id": "story_1293f98d5d32",
+      "title": "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入",
+      "url": "https://x.com/Kling_ai/status/2110747537187709424",
+      "primary_url": "https://x.com/Kling_ai/status/2110747537187709424",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d96b16999dd832ff650709d42b0e4b2fe23a1391",
-          "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
-          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-          "source": "The Verge：AI（RSS）",
+          "id": "9cb7d0e57527bdef47db610bc269dec282ddd195",
+          "title": "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入",
+          "url": "https://x.com/Kling_ai/status/2110747537187709424",
+          "source": "X：可灵 Kling AI (@Kling_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-14T18:47:54Z"
-        },
-        {
-          "id": "5275b77694e24cc4a817e146211065b0f8fe9839",
-          "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-14T18:47:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d96b16999dd832ff650709d42b0e4b2fe23a1391",
-          "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
-          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T18:47:54Z"
-        },
-        {
-          "id": "5275b77694e24cc4a817e146211065b0f8fe9839",
-          "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-14T18:47:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7856,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-14T18:47:54Z",
-      "latest_at": "2026-10-14T18:47:54Z",
-      "primary_item": {
-        "id": "d96b16999dd832ff650709d42b0e4b2fe23a1391",
-        "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
-        "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_24cc989c02db",
-      "title": "SentinelOne 将恶意软件分析时间从几周缩短到几小时 / SentinelOne cuts malware analysis from weeks to hours",
-      "url": "https://openai.com/index/sentinelone",
-      "primary_url": "https://openai.com/index/sentinelone",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c07c8ce33bca0eadd61d41f07c28ad64a7a8a95d",
-          "title": "SentinelOne 将恶意软件分析时间从几周缩短到几小时 / SentinelOne cuts malware analysis from weeks to hours",
-          "url": "https://openai.com/index/sentinelone",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T12:00:00Z"
+          "published_at": "2026-10-15T15:00:03Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "X：可灵 Kling AI (@Kling_ai)"
       ],
       "items": [
         {
-          "id": "c07c8ce33bca0eadd61d41f07c28ad64a7a8a95d",
-          "title": "SentinelOne 将恶意软件分析时间从几周缩短到几小时 / SentinelOne cuts malware analysis from weeks to hours",
-          "url": "https://openai.com/index/sentinelone",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T12:00:00Z"
+          "id": "9cb7d0e57527bdef47db610bc269dec282ddd195",
+          "title": "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入",
+          "url": "https://x.com/Kling_ai/status/2110747537187709424",
+          "source": "X：可灵 Kling AI (@Kling_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T15:00:03Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
-      "importance_label": "官方更新",
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7121,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9894,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-14T12:00:00Z",
-      "latest_at": "2026-10-14T12:00:00Z",
+      "earliest_at": "2026-10-15T15:00:03Z",
+      "latest_at": "2026-10-15T15:00:03Z",
       "primary_item": {
-        "id": "c07c8ce33bca0eadd61d41f07c28ad64a7a8a95d",
-        "title": "SentinelOne 将恶意软件分析时间从几周缩短到几小时 / SentinelOne cuts malware analysis from weeks to hours",
-        "url": "https://openai.com/index/sentinelone",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "9cb7d0e57527bdef47db610bc269dec282ddd195",
+        "title": "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入",
+        "url": "https://x.com/Kling_ai/status/2110747537187709424",
+        "source": "X：可灵 Kling AI (@Kling_ai)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -830,15 +973,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8576,
+        "recency": 0.8067,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -891,21 +1034,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9025,
+        "recency": 0.849,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-15T04:24:18Z",
       "latest_at": "2026-10-15T04:24:18Z",
@@ -914,6 +1056,209 @@
         "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
         "url": "https://x.com/Khazix0918/status/2110587546271191166",
         "source": "X：卡兹克 (@Khazix0918)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_672ebf75c430",
+      "title": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "primary_url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e85644cf37333074c63cccbb8992b5db3091a0b7",
+          "title": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T16:12:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "e85644cf37333074c63cccbb8992b5db3091a0b7",
+          "title": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T16:12:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7119,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T16:12:42Z",
+      "latest_at": "2026-10-14T16:12:42Z",
+      "primary_item": {
+        "id": "e85644cf37333074c63cccbb8992b5db3091a0b7",
+        "title": "HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+        "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_353cb4318325",
+      "title": "StepFun 展示 Step 5 Preview 在 NVIDIA GB300 上的推理性能",
+      "url": "https://x.com/StepFun_ai/status/2110732706518835353",
+      "primary_url": "https://x.com/StepFun_ai/status/2110732706518835353",
+      "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4241a7122471dcf7c37bdc2775448e641c6b0f4b",
+          "title": "StepFun 展示 Step 5 Preview 在 NVIDIA GB300 上的推理性能",
+          "url": "https://x.com/StepFun_ai/status/2110732706518835353",
+          "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T14:01:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阶跃星辰 StepFun (@StepFun_ai)"
+      ],
+      "items": [
+        {
+          "id": "4241a7122471dcf7c37bdc2775448e641c6b0f4b",
+          "title": "StepFun 展示 Step 5 Preview 在 NVIDIA GB300 上的推理性能",
+          "url": "https://x.com/StepFun_ai/status/2110732706518835353",
+          "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T14:01:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9754,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-15T14:01:07Z",
+      "latest_at": "2026-10-15T14:01:07Z",
+      "primary_item": {
+        "id": "4241a7122471dcf7c37bdc2775448e641c6b0f4b",
+        "title": "StepFun 展示 Step 5 Preview 在 NVIDIA GB300 上的推理性能",
+        "url": "https://x.com/StepFun_ai/status/2110732706518835353",
+        "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e7f18cd0c361",
+      "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
+      "url": "https://www.ithome.com/1/013/154.htm",
+      "primary_url": "https://www.ithome.com/1/013/154.htm",
+      "source": "IT之家·人工智能",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5b3fed0e8c4862aa41ec3ae1ecc7f614f7b1e8bf",
+          "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
+          "url": "https://www.ithome.com/1/013/154.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T23:13:18.290000Z"
+        },
+        {
+          "id": "3e99b8e5a16feac03986c4e84138a4388c10dccd",
+          "title": "OpenAI 和 Anthropic 被欧盟调查，若认定违反 AI 法案最高罚全球 3% 营业额",
+          "url": "https://www.ithome.com/1/013/154.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-14T23:13:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家·人工智能"
+      ],
+      "items": [
+        {
+          "id": "5b3fed0e8c4862aa41ec3ae1ecc7f614f7b1e8bf",
+          "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
+          "url": "https://www.ithome.com/1/013/154.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T23:13:18.290000Z"
+        },
+        {
+          "id": "3e99b8e5a16feac03986c4e84138a4388c10dccd",
+          "title": "OpenAI 和 Anthropic 被欧盟调查，若认定违反 AI 法案最高罚全球 3% 营业额",
+          "url": "https://www.ithome.com/1/013/154.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-14T23:13:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7694,
+      "importance": 0.7694,
+      "importance_score": 0.7694,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7878,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T23:13:18Z",
+      "latest_at": "2026-10-14T23:13:18.290000Z",
+      "primary_item": {
+        "id": "5b3fed0e8c4862aa41ec3ae1ecc7f614f7b1e8bf",
+        "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
+        "url": "https://www.ithome.com/1/013/154.htm",
+        "source": "IT之家·人工智能",
         "source_name": "AI HOT"
       }
     },
@@ -971,15 +1316,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7784,
-      "importance": 0.7784,
-      "importance_score": 0.7784,
+      "score": 0.7686,
+      "importance": 0.7686,
+      "importance_score": 0.7686,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9212,
+        "recency": 0.8666,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -999,68 +1344,68 @@
       }
     },
     {
-      "story_id": "story_e7f18cd0c361",
-      "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-      "url": "https://www.ithome.com/1/013/154.htm",
-      "primary_url": "https://www.ithome.com/1/013/154.htm",
-      "source": "IT之家·人工智能",
+      "story_id": "story_738aed8dcc6e",
+      "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
+      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "primary_url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "source": "The Verge：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5b3fed0e8c4862aa41ec3ae1ecc7f614f7b1e8bf",
-          "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-          "url": "https://www.ithome.com/1/013/154.htm",
-          "source": "IT之家·人工智能",
+          "id": "d96b16999dd832ff650709d42b0e4b2fe23a1391",
+          "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
+          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+          "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-14T23:13:18.290000Z"
+          "published_at": "2026-10-14T18:47:54Z"
         },
         {
-          "id": "3e99b8e5a16feac03986c4e84138a4388c10dccd",
-          "title": "OpenAI 和 Anthropic 被欧盟调查，若认定违反 AI 法案最高罚全球 3% 营业额",
-          "url": "https://www.ithome.com/1/013/154.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-14T23:13:18Z"
+          "id": "5275b77694e24cc4a817e146211065b0f8fe9839",
+          "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-14T18:47:54Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家·人工智能"
+        "The Verge",
+        "The Verge：AI（RSS）"
       ],
       "items": [
         {
-          "id": "5b3fed0e8c4862aa41ec3ae1ecc7f614f7b1e8bf",
-          "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-          "url": "https://www.ithome.com/1/013/154.htm",
-          "source": "IT之家·人工智能",
+          "id": "d96b16999dd832ff650709d42b0e4b2fe23a1391",
+          "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
+          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+          "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-14T23:13:18.290000Z"
+          "published_at": "2026-10-14T18:47:54Z"
         },
         {
-          "id": "3e99b8e5a16feac03986c4e84138a4388c10dccd",
-          "title": "OpenAI 和 Anthropic 被欧盟调查，若认定违反 AI 法案最高罚全球 3% 营业额",
-          "url": "https://www.ithome.com/1/013/154.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-14T23:13:18Z"
+          "id": "5275b77694e24cc4a817e146211065b0f8fe9839",
+          "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-14T18:47:54Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8374,
+        "recency": 0.739,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1069,509 +1414,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-14T23:13:18Z",
-      "latest_at": "2026-10-14T23:13:18.290000Z",
+      "earliest_at": "2026-10-14T18:47:54Z",
+      "latest_at": "2026-10-14T18:47:54Z",
       "primary_item": {
-        "id": "5b3fed0e8c4862aa41ec3ae1ecc7f614f7b1e8bf",
-        "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-        "url": "https://www.ithome.com/1/013/154.htm",
-        "source": "IT之家·人工智能",
+        "id": "d96b16999dd832ff650709d42b0e4b2fe23a1391",
+        "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
+        "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+        "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_39ece297a3fc",
-      "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
-      "url": "https://x.com/GeminiApp/status/2110491358498865638",
-      "primary_url": "https://x.com/GeminiApp/status/2110491358498865638",
-      "source": "X：Gemini (@GeminiApp)",
+      "story_id": "story_81e2ede6f4c5",
+      "title": "Wallet Wars：AI 智能体支付之争的格局与走向",
+      "url": "https://www.a16z.news/p/wallet-wars",
+      "primary_url": "https://www.a16z.news/p/wallet-wars",
+      "source": "a16z：News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "0b6e96d9e17b7a7f93cbb504f793540bb82e561d",
-          "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
-          "url": "https://x.com/GeminiApp/status/2110491358498865638",
-          "source": "X：Gemini (@GeminiApp)",
+          "id": "637724a4105e84e8cd70b4cfc20b19f228c61be8",
+          "title": "Wallet Wars：AI 智能体支付之争的格局与走向",
+          "url": "https://www.a16z.news/p/wallet-wars",
+          "source": "a16z：News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-14T22:02:05Z"
+          "published_at": "2026-10-15T14:08:21Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Gemini (@GeminiApp)"
+        "a16z：News（RSS）"
       ],
       "items": [
         {
-          "id": "0b6e96d9e17b7a7f93cbb504f793540bb82e561d",
-          "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
-          "url": "https://x.com/GeminiApp/status/2110491358498865638",
-          "source": "X：Gemini (@GeminiApp)",
+          "id": "637724a4105e84e8cd70b4cfc20b19f228c61be8",
+          "title": "Wallet Wars：AI 智能体支付之争的格局与走向",
+          "url": "https://www.a16z.news/p/wallet-wars",
+          "source": "a16z：News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-14T22:02:05Z"
+          "published_at": "2026-10-15T14:08:21Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8232,
+        "recency": 0.9771,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-14T22:02:05Z",
-      "latest_at": "2026-10-14T22:02:05Z",
+      "earliest_at": "2026-10-15T14:08:21Z",
+      "latest_at": "2026-10-15T14:08:21Z",
       "primary_item": {
-        "id": "0b6e96d9e17b7a7f93cbb504f793540bb82e561d",
-        "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
-        "url": "https://x.com/GeminiApp/status/2110491358498865638",
-        "source": "X：Gemini (@GeminiApp)",
+        "id": "637724a4105e84e8cd70b4cfc20b19f228c61be8",
+        "title": "Wallet Wars：AI 智能体支付之争的格局与走向",
+        "url": "https://www.a16z.news/p/wallet-wars",
+        "source": "a16z：News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4aa2d1f49f31",
-      "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
-      "url": "https://x.com/lydiahallie/status/2110484841926152622",
-      "primary_url": "https://x.com/lydiahallie/status/2110484841926152622",
-      "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0a000ac66d76a52b422de1e871659a362d9b9673",
-          "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
-          "url": "https://x.com/lydiahallie/status/2110484841926152622",
-          "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T21:36:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)"
-      ],
-      "items": [
-        {
-          "id": "0a000ac66d76a52b422de1e871659a362d9b9673",
-          "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
-          "url": "https://x.com/lydiahallie/status/2110484841926152622",
-          "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T21:36:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7258,
-      "importance": 0.7258,
-      "importance_score": 0.7258,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.818,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T21:36:11Z",
-      "latest_at": "2026-10-14T21:36:11Z",
-      "primary_item": {
-        "id": "0a000ac66d76a52b422de1e871659a362d9b9673",
-        "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
-        "url": "https://x.com/lydiahallie/status/2110484841926152622",
-        "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fdd47706687d",
-      "title": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
-      "url": "https://www.aibase.com/news/31653",
-      "primary_url": "https://www.aibase.com/news/31653",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0d98bab1ab03496ad6a013a530d1d3cc754ec4c9",
-          "title": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
-          "url": "https://www.aibase.com/news/31653",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-15T05:49:48.536179Z"
-        },
-        {
-          "id": "a876130aaa139f1405ec825c20d75260e059d09e",
-          "title": "Anthropic 第三季度营收达 168 亿美元，计划 11 月启动 IPO 路演",
-          "url": "https://www.aibase.com/zh/news/31653",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0d98bab1ab03496ad6a013a530d1d3cc754ec4c9",
-          "title": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
-          "url": "https://www.aibase.com/news/31653",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-15T05:49:48.536179Z"
-        },
-        {
-          "id": "a876130aaa139f1405ec825c20d75260e059d09e",
-          "title": "Anthropic 第三季度营收达 168 亿美元，计划 11 月启动 IPO 路演",
-          "url": "https://www.aibase.com/zh/news/31653",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7784,
-      "importance": 0.7784,
-      "importance_score": 0.7784,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9212,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T05:49:48.536179Z",
-      "latest_at": "2026-10-15T05:49:48.536179Z",
-      "primary_item": {
-        "id": "0d98bab1ab03496ad6a013a530d1d3cc754ec4c9",
-        "title": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
-        "url": "https://www.aibase.com/news/31653",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6ceafeef8e88",
-      "title": "单张消费级显卡也能玩转视频大模型游戏！昆仑万维全球首发 Matrix-Game 4.0 并宣布开源",
-      "url": "https://www.aibase.com/news/31654",
-      "primary_url": "https://www.aibase.com/news/31654",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "399c795740dc04a328d3471a8b24b78186908551",
-          "title": "单张消费级显卡也能玩转视频大模型游戏！昆仑万维全球首发 Matrix-Game 4.0 并宣布开源",
-          "url": "https://www.aibase.com/news/31654",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-15T05:49:48.536179Z"
-        },
-        {
-          "id": "143783649a3e2c44c423d1edcce08517dc82f204",
-          "title": "单张消费级显卡也能玩转视频大模型游戏！昆仑万维全球首发 Matrix-Game 4.0 并宣布开源",
-          "url": "https://www.aibase.com/zh/news/31654",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "399c795740dc04a328d3471a8b24b78186908551",
-          "title": "单张消费级显卡也能玩转视频大模型游戏！昆仑万维全球首发 Matrix-Game 4.0 并宣布开源",
-          "url": "https://www.aibase.com/news/31654",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-15T05:49:48.536179Z"
-        },
-        {
-          "id": "143783649a3e2c44c423d1edcce08517dc82f204",
-          "title": "单张消费级显卡也能玩转视频大模型游戏！昆仑万维全球首发 Matrix-Game 4.0 并宣布开源",
-          "url": "https://www.aibase.com/zh/news/31654",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7784,
-      "importance": 0.7784,
-      "importance_score": 0.7784,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9212,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T05:49:48.536179Z",
-      "latest_at": "2026-10-15T05:49:48.536179Z",
-      "primary_item": {
-        "id": "399c795740dc04a328d3471a8b24b78186908551",
-        "title": "单张消费级显卡也能玩转视频大模型游戏！昆仑万维全球首发 Matrix-Game 4.0 并宣布开源",
-        "url": "https://www.aibase.com/news/31654",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a335de6ec47a",
-      "title": "托瓦兹交出首个 AI 辅助内核补丁：并发读文件提速约 3 倍",
-      "url": "https://www.aibase.com/news/31649",
-      "primary_url": "https://www.aibase.com/news/31649",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "42c09e203dfa9d52e263e6fb9144614eb416aec0",
-          "title": "托瓦兹交出首个 AI 辅助内核补丁：并发读文件提速约 3 倍",
-          "url": "https://www.aibase.com/news/31649",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-15T05:49:48.536179Z"
-        },
-        {
-          "id": "72744fbdcbce9ffbfdec44c35dbfc31291ead9a4",
-          "title": "托瓦兹交出首个 AI 辅助内核补丁：并发读文件提速约 3 倍",
-          "url": "https://www.aibase.com/zh/news/31649",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "42c09e203dfa9d52e263e6fb9144614eb416aec0",
-          "title": "托瓦兹交出首个 AI 辅助内核补丁：并发读文件提速约 3 倍",
-          "url": "https://www.aibase.com/news/31649",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-15T05:49:48.536179Z"
-        },
-        {
-          "id": "72744fbdcbce9ffbfdec44c35dbfc31291ead9a4",
-          "title": "托瓦兹交出首个 AI 辅助内核补丁：并发读文件提速约 3 倍",
-          "url": "https://www.aibase.com/zh/news/31649",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7784,
-      "importance": 0.7784,
-      "importance_score": 0.7784,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9212,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T05:49:48.536179Z",
-      "latest_at": "2026-10-15T05:49:48.536179Z",
-      "primary_item": {
-        "id": "42c09e203dfa9d52e263e6fb9144614eb416aec0",
-        "title": "托瓦兹交出首个 AI 辅助内核补丁：并发读文件提速约 3 倍",
-        "url": "https://www.aibase.com/news/31649",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "Agent 最容易浪费额度的地方，常常发生在需求完成之后：它不断追加优化建议，你顺手点头，半小时的任务就拖成了一下午。作者开源了一套不到 300 字的“红绿灯”提示语，适合经常使用 Codex、Claude Code的人，把是否继续推进的决定权重新留给自己。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-10-14",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "158b0fe2f3864858704501c1b733f5bc04a00307",
-          "title": "Agent 最容易浪费额度的地方，常常发生在需求完成之后：它不断追加优化建议，你顺手点头，半小时的任务就拖成了一下午。作者开源了一套不到 300 字的“红绿灯”提示语，适合经常使用 Codex、Claude Code的人，把是否继续推进的决定权重新留给自己。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-14T19:42:06.247933Z"
-        },
-        {
-          "id": "abd94a33ec5af484cfc85df962312f1e231557e7",
-          "title": "做GEO不能只盯着 ChatGPT 的最终回答，而是要看的它把问题拆成了什么、搜过哪些页面，又真正引用了谁。作者开源了 chatgpt-fanout-queries Skill。输入一个真实问题，它会调用 Responses API，保存完整搜索轨迹，提取 Fan-out 搜索词，并将搜索来源与最终引用分开统计，最后输出可离线查看的 HTML 报告。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-14T19:42:06.247933Z"
-        },
-        {
-          "id": "3cf9ebe5a66e7464c6124726bc6d410f5e11d10f",
-          "title": "卡尔让 Gemini 4 Argon 用“起点修仙文”来写自己的更新点，结果成品在长篇连贯、指令遵循和风格模仿上表现都很亮眼，也减少了套话和反复续写带来的割裂。来看看写作能力到底如何？",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-14T19:42:06.247933Z"
-        },
-        {
-          "id": "07810ec8b2bbfa6bf2ab3c0169e41671a8de5d9a",
-          "title": "大家总爱问，年轻人学 AI 到底能拿到什么结果？这篇专访记录了WaytoAGI校园大使吴桐与搭档蟹老板的AI创业故事。他们一边借力AI快速落地项目、承接商单，一边坚守慢节奏的人际相处，理性看待AI依赖问题，思考效率红利背后的隐患。他们的故事或许能够带给想要入局AI的年轻人更加真实的参考与启发。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-14T19:42:06.247933Z"
-        },
-        {
-          "id": "62eb2f0bea74ac54e26cfeecea9a8be6b6ec19be",
-          "title": "很多团队说要让 AI 接管业务，最后却只做到“生成一份报告”：资料没进系统、客户重复建档，换个对话入口，规则还可能失效。这篇文章从一场企业拜访出发，跑通了一条真实闭环：AI 读取日历确定拜访对象，调用调研 Skill 拆解商业模式和现场问题，再按 SOP 建客户主档、关联业务、归档报告，最后用定时任务扫描未来日程。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-14T19:42:06.247933Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "社区更新 · 2026-10-14"
-      ],
-      "items": [
-        {
-          "id": "158b0fe2f3864858704501c1b733f5bc04a00307",
-          "title": "Agent 最容易浪费额度的地方，常常发生在需求完成之后：它不断追加优化建议，你顺手点头，半小时的任务就拖成了一下午。作者开源了一套不到 300 字的“红绿灯”提示语，适合经常使用 Codex、Claude Code的人，把是否继续推进的决定权重新留给自己。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-14T19:42:06.247933Z"
-        },
-        {
-          "id": "abd94a33ec5af484cfc85df962312f1e231557e7",
-          "title": "做GEO不能只盯着 ChatGPT 的最终回答，而是要看的它把问题拆成了什么、搜过哪些页面，又真正引用了谁。作者开源了 chatgpt-fanout-queries Skill。输入一个真实问题，它会调用 Responses API，保存完整搜索轨迹，提取 Fan-out 搜索词，并将搜索来源与最终引用分开统计，最后输出可离线查看的 HTML 报告。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-14T19:42:06.247933Z"
-        },
-        {
-          "id": "3cf9ebe5a66e7464c6124726bc6d410f5e11d10f",
-          "title": "卡尔让 Gemini 4 Argon 用“起点修仙文”来写自己的更新点，结果成品在长篇连贯、指令遵循和风格模仿上表现都很亮眼，也减少了套话和反复续写带来的割裂。来看看写作能力到底如何？",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-14T19:42:06.247933Z"
-        },
-        {
-          "id": "07810ec8b2bbfa6bf2ab3c0169e41671a8de5d9a",
-          "title": "大家总爱问，年轻人学 AI 到底能拿到什么结果？这篇专访记录了WaytoAGI校园大使吴桐与搭档蟹老板的AI创业故事。他们一边借力AI快速落地项目、承接商单，一边坚守慢节奏的人际相处，理性看待AI依赖问题，思考效率红利背后的隐患。他们的故事或许能够带给想要入局AI的年轻人更加真实的参考与启发。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-14T19:42:06.247933Z"
-        },
-        {
-          "id": "62eb2f0bea74ac54e26cfeecea9a8be6b6ec19be",
-          "title": "很多团队说要让 AI 接管业务，最后却只做到“生成一份报告”：资料没进系统、客户重复建档，换个对话入口，规则还可能失效。这篇文章从一场企业拜访出发，跑通了一条真实闭环：AI 读取日历确定拜访对象，调用调研 Skill 拆解商业模式和现场问题，再按 SOP 建客户主档、关联业务、归档报告，最后用定时任务扫描未来日程。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-14T19:42:06.247933Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6325,
-      "importance": 0.6325,
-      "importance_score": 0.6325,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.7959,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-14T19:42:06.247933Z",
-      "latest_at": "2026-10-14T19:42:06.247933Z",
-      "primary_item": {
-        "id": "158b0fe2f3864858704501c1b733f5bc04a00307",
-        "title": "Agent 最容易浪费额度的地方，常常发生在需求完成之后：它不断追加优化建议，你顺手点头，半小时的任务就拖成了一下午。作者开源了一套不到 300 字的“红绿灯”提示语，适合经常使用 Codex、Claude Code的人，把是否继续推进的决定权重新留给自己。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-10-14",
-        "source_name": "WaytoAGI"
       }
     }
   ]
