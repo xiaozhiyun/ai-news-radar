@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:48:48.088565Z",
+  "generated_at": "2026-10-16T22:05:55.662392Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -56,15 +56,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8388,
-      "importance": 0.8388,
-      "importance_score": 0.8388,
+      "score": 0.8322,
+      "importance": 0.8322,
+      "importance_score": 0.8322,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7876,
+        "recency": 0.7511,
         "story_heat": 0.25
       },
       "category": "official",
@@ -81,6 +81,68 @@
         "title": "Slack 和 Microsoft Teams 中 GitHub Copilot 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
         "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9db4940a53f8",
+      "title": "Stack Overflow for Agents 使用 ChatGPT 插件使注册人数增加了三倍 / Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "primary_url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b36f45115eff92fea7b2009844b09042a3428aee",
+          "title": "Stack Overflow for Agents 使用 ChatGPT 插件使注册人数增加了三倍 / Stack Overflow for Agents triples signups with ChatGPT plugin",
+          "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-16T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "b36f45115eff92fea7b2009844b09042a3428aee",
+          "title": "Stack Overflow for Agents 使用 ChatGPT 插件使注册人数增加了三倍 / Stack Overflow for Agents triples signups with ChatGPT plugin",
+          "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-16T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8188,
+      "importance": 0.8188,
+      "importance_score": 0.8188,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.7268,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-16T00:00:00Z",
+      "latest_at": "2026-10-16T00:00:00Z",
+      "primary_item": {
+        "id": "b36f45115eff92fea7b2009844b09042a3428aee",
+        "title": "Stack Overflow for Agents 使用 ChatGPT 插件使注册人数增加了三倍 / Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -119,15 +181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8207,
-      "importance": 0.8207,
-      "importance_score": 0.8207,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7816,
+        "recency": 0.7454,
         "story_heat": 0.0
       },
       "category": "official",
@@ -143,68 +205,6 @@
         "title": "扩展 Indic 预训练：2.8 万亿代币和开放数据生成管道 / Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
         "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a72d1e4da6b0",
-      "title": "将 GPT-Rosalind 引入学术研究实验室 / Bringing GPT-Rosalind to academic research labs",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "primary_url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "44c6f0fdd8d4abb64ed84d3de24c94a770a44228",
-          "title": "将 GPT-Rosalind 引入学术研究实验室 / Bringing GPT-Rosalind to academic research labs",
-          "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "44c6f0fdd8d4abb64ed84d3de24c94a770a44228",
-          "title": "将 GPT-Rosalind 引入学术研究实验室 / Bringing GPT-Rosalind to academic research labs",
-          "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.709,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T19:00:00Z",
-      "latest_at": "2026-10-15T19:00:00Z",
-      "primary_item": {
-        "id": "44c6f0fdd8d4abb64ed84d3de24c94a770a44228",
-        "title": "将 GPT-Rosalind 引入学术研究实验室 / Bringing GPT-Rosalind to academic research labs",
-        "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -243,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8319,
-      "importance": 0.8319,
-      "importance_score": 0.8319,
+      "score": 0.8242,
+      "importance": 0.8242,
+      "importance_score": 0.8242,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.933,
+        "recency": 0.8897,
         "story_heat": 0.0
       },
       "category": "official",
@@ -324,15 +324,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
+      "score": 0.7933,
+      "importance": 0.7933,
+      "importance_score": 0.7933,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8604,
+        "recency": 0.8205,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -386,15 +386,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8172,
-      "importance": 0.8172,
-      "importance_score": 0.8172,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7621,
+        "recency": 0.7268,
         "story_heat": 0.0
       },
       "category": "official",
@@ -467,15 +467,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8785,
+        "recency": 0.8378,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -495,63 +495,101 @@
       }
     },
     {
-      "story_id": "story_7fcb7288fa56",
-      "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-      "primary_url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-      "source": "NVIDIA：Newsroom（RSS）",
+      "story_id": "story_f6042d12a62b",
+      "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
+      "primary_url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
+      "source": "Waymo：Blog（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
-          "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
-          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-          "source": "NVIDIA：Newsroom（RSS）",
+          "id": "3e43a73eedcc1aa2770320cebf07c8532e011d56",
+          "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客",
+          "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
+          "source": "Waymo：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-16T12:00:00Z"
+          "published_at": "2026-10-16T07:00:00Z"
+        },
+        {
+          "id": "923ef3500f6f7b07c2e3966cb347a24eeb483d8d",
+          "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客 / Hello Toronto – Waymo Is En Route",
+          "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-16T14:44:17Z"
+        },
+        {
+          "id": "66b75b9362d6d5d5365e53f21285feda010a8cc3",
+          "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客 / Waymo in Toronto",
+          "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-16T14:44:17Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "NVIDIA：Newsroom（RSS）"
+        "Hacker News · 24h最热",
+        "Waymo：Blog（网页）"
       ],
       "items": [
         {
-          "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
-          "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
-          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-          "source": "NVIDIA：Newsroom（RSS）",
+          "id": "3e43a73eedcc1aa2770320cebf07c8532e011d56",
+          "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客",
+          "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
+          "source": "Waymo：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-16T12:00:00Z"
+          "published_at": "2026-10-16T07:00:00Z"
+        },
+        {
+          "id": "923ef3500f6f7b07c2e3966cb347a24eeb483d8d",
+          "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客 / Hello Toronto – Waymo Is En Route",
+          "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-16T14:44:17Z"
+        },
+        {
+          "id": "66b75b9362d6d5d5365e53f21285feda010a8cc3",
+          "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客 / Waymo in Toronto",
+          "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-16T14:44:17Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7567,
-      "importance": 0.7567,
-      "importance_score": 0.7567,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7583,
+      "importance": 0.7583,
+      "importance_score": 0.7583,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.74,
+        "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9063,
-        "story_heat": 0.0
+        "recency": 0.8041,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-16T12:00:00Z",
-      "latest_at": "2026-10-16T12:00:00Z",
+      "earliest_at": "2026-10-16T07:00:00Z",
+      "latest_at": "2026-10-16T14:44:17Z",
       "primary_item": {
-        "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
-        "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
-        "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-        "source": "NVIDIA：Newsroom（RSS）",
+        "id": "3e43a73eedcc1aa2770320cebf07c8532e011d56",
+        "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客",
+        "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
+        "source": "Waymo：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -609,15 +647,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7654,
+        "recency": 0.7299,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -637,8 +675,128 @@
       }
     },
     {
+      "story_id": "story_7fcb7288fa56",
+      "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+      "primary_url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+      "source": "NVIDIA：Newsroom（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
+          "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+          "source": "NVIDIA：Newsroom（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-16T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "NVIDIA：Newsroom（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
+          "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+          "source": "NVIDIA：Newsroom（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-16T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8643,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-16T12:00:00Z",
+      "latest_at": "2026-10-16T12:00:00Z",
+      "primary_item": {
+        "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
+        "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+        "source": "NVIDIA：Newsroom（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_659c411df126",
+      "title": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码",
+      "url": "https://x.com/adocomplete/status/2111171735806767558",
+      "primary_url": "https://x.com/adocomplete/status/2111171735806767558",
+      "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bf324b34cca5fb5a598aeb2095c1a9a2ea0b58de",
+          "title": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码",
+          "url": "https://x.com/adocomplete/status/2111171735806767558",
+          "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-16T19:05:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)"
+      ],
+      "items": [
+        {
+          "id": "bf324b34cca5fb5a598aeb2095c1a9a2ea0b58de",
+          "title": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码",
+          "url": "https://x.com/adocomplete/status/2111171735806767558",
+          "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-16T19:05:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9575,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-16T19:05:40Z",
+      "latest_at": "2026-10-16T19:05:40Z",
+      "primary_item": {
+        "id": "bf324b34cca5fb5a598aeb2095c1a9a2ea0b58de",
+        "title": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码",
+        "url": "https://x.com/adocomplete/status/2111171735806767558",
+        "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
       "story_id": "story_038384fba558",
-      "title": "Xcode 27 runner image generally available",
+      "title": "Xcode 27 运行程序镜像正式可用 / Xcode 27 runner image generally available",
       "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
       "primary_url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
       "source": "GitHub Changelog",
@@ -646,7 +804,7 @@
       "sources": [
         {
           "id": "6859539e51af6b9f287fce867c7fa438183efd1b",
-          "title": "Xcode 27 runner image generally available",
+          "title": "Xcode 27 运行程序镜像正式可用 / Xcode 27 runner image generally available",
           "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -661,7 +819,7 @@
       "items": [
         {
           "id": "6859539e51af6b9f287fce867c7fa438183efd1b",
-          "title": "Xcode 27 runner image generally available",
+          "title": "Xcode 27 运行程序镜像正式可用 / Xcode 27 runner image generally available",
           "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -671,15 +829,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8106,
-      "importance": 0.8106,
-      "importance_score": 0.8106,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8145,
+        "recency": 0.7768,
         "story_heat": 0.0
       },
       "category": "official",
@@ -692,132 +850,10 @@
       "latest_at": "2026-10-16T04:36:30Z",
       "primary_item": {
         "id": "6859539e51af6b9f287fce867c7fa438183efd1b",
-        "title": "Xcode 27 runner image generally available",
+        "title": "Xcode 27 运行程序镜像正式可用 / Xcode 27 runner image generally available",
         "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a01e02239da0",
-      "title": "Granite Switch 4.1：来自一个端点的聊天、决策和语音 / Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "18a16d20b4ae3024a4c04d2b32eb3070f6a76f16",
-          "title": "Granite Switch 4.1：来自一个端点的聊天、决策和语音 / Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T20:34:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "18a16d20b4ae3024a4c04d2b32eb3070f6a76f16",
-          "title": "Granite Switch 4.1：来自一个端点的聊天、决策和语音 / Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T20:34:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8105,
-      "importance": 0.8105,
-      "importance_score": 0.8105,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7252,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T20:34:01Z",
-      "latest_at": "2026-10-15T20:34:01Z",
-      "primary_item": {
-        "id": "18a16d20b4ae3024a4c04d2b32eb3070f6a76f16",
-        "title": "Granite Switch 4.1：来自一个端点的聊天、决策和语音 / Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-        "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_bdba79ba7786",
-      "title": "ChatGPT 为 Chrome 用户新增标签页读取与控制能力",
-      "url": "https://x.com/ChatGPT/status/2110823738531037651",
-      "primary_url": "https://x.com/ChatGPT/status/2110823738531037651",
-      "source": "X：ChatGPT (@ChatGPT)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f74b61e315aede622839936bc324c6ded9f40305",
-          "title": "ChatGPT 为 Chrome 用户新增标签页读取与控制能力",
-          "url": "https://x.com/ChatGPT/status/2110823738531037651",
-          "source": "X：ChatGPT (@ChatGPT)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T20:02:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：ChatGPT (@ChatGPT)"
-      ],
-      "items": [
-        {
-          "id": "f74b61e315aede622839936bc324c6ded9f40305",
-          "title": "ChatGPT 为 Chrome 用户新增标签页读取与控制能力",
-          "url": "https://x.com/ChatGPT/status/2110823738531037651",
-          "source": "X：ChatGPT (@ChatGPT)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T20:02:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7198,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-15T20:02:51Z",
-      "latest_at": "2026-10-15T20:02:51Z",
-      "primary_item": {
-        "id": "f74b61e315aede622839936bc324c6ded9f40305",
-        "title": "ChatGPT 为 Chrome 用户新增标签页读取与控制能力",
-        "url": "https://x.com/ChatGPT/status/2110823738531037651",
-        "source": "X：ChatGPT (@ChatGPT)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -874,15 +910,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8785,
+        "recency": 0.8378,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -899,86 +935,6 @@
         "url": "https://www.aibase.com/news/31700",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f6042d12a62b",
-      "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客",
-      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
-      "primary_url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
-      "source": "Waymo：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3e43a73eedcc1aa2770320cebf07c8532e011d56",
-          "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客",
-          "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
-          "source": "Waymo：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T07:00:00Z"
-        },
-        {
-          "id": "923ef3500f6f7b07c2e3966cb347a24eeb483d8d",
-          "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客 / Hello Toronto – Waymo Is En Route",
-          "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-16T14:44:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Waymo：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "3e43a73eedcc1aa2770320cebf07c8532e011d56",
-          "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客",
-          "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
-          "source": "Waymo：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T07:00:00Z"
-        },
-        {
-          "id": "923ef3500f6f7b07c2e3966cb347a24eeb483d8d",
-          "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客 / Hello Toronto – Waymo Is En Route",
-          "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-16T14:44:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8432,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-16T07:00:00Z",
-      "latest_at": "2026-10-16T14:44:17Z",
-      "primary_item": {
-        "id": "3e43a73eedcc1aa2770320cebf07c8532e011d56",
-        "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客",
-        "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
-        "source": "Waymo：Blog（网页）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1016,15 +972,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.785,
+        "recency": 0.7486,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1038,66 +994,6 @@
         "title": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
         "url": "https://x.com/Khazix0918/status/2110914404393091205",
         "source": "X：卡兹克 (@Khazix0918)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8d90e8324fc8",
-      "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
-      "url": "https://ollama.com/blog/reflection-beam",
-      "primary_url": "https://ollama.com/blog/reflection-beam",
-      "source": "Ollama：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a1f06eb65b65bc9318f9ad66e58cb26cd9f677bd",
-          "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
-          "url": "https://ollama.com/blog/reflection-beam",
-          "source": "Ollama：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ollama：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "a1f06eb65b65bc9318f9ad66e58cb26cd9f677bd",
-          "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
-          "url": "https://ollama.com/blog/reflection-beam",
-          "source": "Ollama：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7248,
-      "importance": 0.7248,
-      "importance_score": 0.7248,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7621,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-16T00:00:00Z",
-      "latest_at": "2026-10-16T00:00:00Z",
-      "primary_item": {
-        "id": "a1f06eb65b65bc9318f9ad66e58cb26cd9f677bd",
-        "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
-        "url": "https://ollama.com/blog/reflection-beam",
-        "source": "Ollama：Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1136,15 +1032,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.834,
+        "recency": 0.7954,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1215,15 +1111,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8785,
+        "recency": 0.8378,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1240,68 +1136,6 @@
         "url": "https://www.aibase.com/news/31701",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_818ecaf77f93",
-      "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
-      "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-      "primary_url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "de14d434df2097d11ee04feba7f21ccbc50770bf",
-          "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
-          "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T19:35:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "de14d434df2097d11ee04feba7f21ccbc50770bf",
-          "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
-          "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T19:35:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8007,
-      "importance": 0.8007,
-      "importance_score": 0.8007,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7151,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T19:35:13Z",
-      "latest_at": "2026-10-15T19:35:13Z",
-      "primary_item": {
-        "id": "de14d434df2097d11ee04feba7f21ccbc50770bf",
-        "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
-        "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1339,15 +1173,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7351,
+      "importance": 0.7351,
+      "importance_score": 0.7351,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7721,
+        "recency": 0.7363,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1362,6 +1196,264 @@
         "url": "https://www.ithome.com/1/013/723.htm",
         "source": "IT之家·人工智能",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7ff879d8809e",
+      "title": "Figma 推出 Markdown 编辑器 Specs，扩大代码层公开测试",
+      "url": "https://www.aibase.com/news/31681",
+      "primary_url": "https://www.aibase.com/news/31681",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8cbce29f8490a9a541399f7e56125ffbcf1d3dcb",
+          "title": "Figma 推出 Markdown 编辑器 Specs，扩大代码层公开测试",
+          "url": "https://www.aibase.com/news/31681",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-16T05:08:43.544259Z"
+        },
+        {
+          "id": "8f4888332e7750c6cc7d2ebbbf8c080433f3583f",
+          "title": "Figma 推出 Markdown 编辑器 Specs，扩大代码层公开测试",
+          "url": "https://www.aibase.com/zh/news/31681",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8cbce29f8490a9a541399f7e56125ffbcf1d3dcb",
+          "title": "Figma 推出 Markdown 编辑器 Specs，扩大代码层公开测试",
+          "url": "https://www.aibase.com/news/31681",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-16T05:08:43.544259Z"
+        },
+        {
+          "id": "8f4888332e7750c6cc7d2ebbbf8c080433f3583f",
+          "title": "Figma 推出 Markdown 编辑器 Specs，扩大代码层公开测试",
+          "url": "https://www.aibase.com/zh/news/31681",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7828,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-16T05:08:43.544259Z",
+      "latest_at": "2026-10-16T05:08:43.544259Z",
+      "primary_item": {
+        "id": "8cbce29f8490a9a541399f7e56125ffbcf1d3dcb",
+        "title": "Figma 推出 Markdown 编辑器 Specs，扩大代码层公开测试",
+        "url": "https://www.aibase.com/news/31681",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e3bc124cb1a2",
+      "title": "​OpenAI 正式宣布 GPT-5.5 退出 ChatGPT，多款旧版 API 进入三个月下架倒计时",
+      "url": "https://www.aibase.com/news/31679",
+      "primary_url": "https://www.aibase.com/news/31679",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b473d0b3deb2588eec71b2f69df8e7d386dabe84",
+          "title": "​OpenAI 正式宣布 GPT-5.5 退出 ChatGPT，多款旧版 API 进入三个月下架倒计时",
+          "url": "https://www.aibase.com/news/31679",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-16T05:08:43.544259Z"
+        },
+        {
+          "id": "deffb5a8dcf3c613df53181f06f09620a2229a7e",
+          "title": "OpenAI 宣布 GPT-5.5 退出 ChatGPT，多款旧版 API 进入三个月下架倒计时",
+          "url": "https://www.aibase.com/zh/news/31679",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b473d0b3deb2588eec71b2f69df8e7d386dabe84",
+          "title": "​OpenAI 正式宣布 GPT-5.5 退出 ChatGPT，多款旧版 API 进入三个月下架倒计时",
+          "url": "https://www.aibase.com/news/31679",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-16T05:08:43.544259Z"
+        },
+        {
+          "id": "deffb5a8dcf3c613df53181f06f09620a2229a7e",
+          "title": "OpenAI 宣布 GPT-5.5 退出 ChatGPT，多款旧版 API 进入三个月下架倒计时",
+          "url": "https://www.aibase.com/zh/news/31679",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7828,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-16T05:08:43.544259Z",
+      "latest_at": "2026-10-16T05:08:43.544259Z",
+      "primary_item": {
+        "id": "b473d0b3deb2588eec71b2f69df8e7d386dabe84",
+        "title": "​OpenAI 正式宣布 GPT-5.5 退出 ChatGPT，多款旧版 API 进入三个月下架倒计时",
+        "url": "https://www.aibase.com/news/31679",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "AI 短剧看着像一句话就能出片，真做起来却常遇到人物不一致、动作接不上、表演僵硬和文字乱码。作者用五组案例对可灵 4.0进行了实测，通过 Codex 对话跑通剧本、角色与场景资产、分镜提示词、生成返修到字幕配乐与剪辑，全程没打开剪辑软件。一起来看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-10-16",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "4c2b8d31fc423941b3b77dd613490b35d5ec9535",
+          "title": "AI 短剧看着像一句话就能出片，真做起来却常遇到人物不一致、动作接不上、表演僵硬和文字乱码。作者用五组案例对可灵 4.0进行了实测，通过 Codex 对话跑通剧本、角色与场景资产、分镜提示词、生成返修到字幕配乐与剪辑，全程没打开剪辑软件。一起来看看！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-16T18:48:48.088565Z"
+        },
+        {
+          "id": "5baf18867a885939109ce3540133c99a3da4d1c7",
+          "title": "作者带来一套适配飞书文档的 AI 绘图实操方案，区分了 Mermaid 和 HTML 两种绘图方式。Mermaid 快速生成流程图、架构图等可编辑结构图表，方便团队评审修改；HTML 用来制作高颜值、可交互的汇报可视化图表。这套方法能省去手动拖拽排版的繁琐工作，让你把精力聚焦在梳理业务逻辑上。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-16T18:48:48.088565Z"
+        },
+        {
+          "id": "fc3134c218e04ac28e8ddae2114f68c0c7456144",
+          "title": "小歪对谷歌全新旗舰模型Gemini 4 Argon进行了实测，发现它在榜单上和Opus 5.5实力接近，长文本写作、3D场景构建、交互式网页生成表现亮眼。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-16T18:48:48.088565Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "社区更新 · 2026-10-16"
+      ],
+      "items": [
+        {
+          "id": "4c2b8d31fc423941b3b77dd613490b35d5ec9535",
+          "title": "AI 短剧看着像一句话就能出片，真做起来却常遇到人物不一致、动作接不上、表演僵硬和文字乱码。作者用五组案例对可灵 4.0进行了实测，通过 Codex 对话跑通剧本、角色与场景资产、分镜提示词、生成返修到字幕配乐与剪辑，全程没打开剪辑软件。一起来看看！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-16T18:48:48.088565Z"
+        },
+        {
+          "id": "5baf18867a885939109ce3540133c99a3da4d1c7",
+          "title": "作者带来一套适配飞书文档的 AI 绘图实操方案，区分了 Mermaid 和 HTML 两种绘图方式。Mermaid 快速生成流程图、架构图等可编辑结构图表，方便团队评审修改；HTML 用来制作高颜值、可交互的汇报可视化图表。这套方法能省去手动拖拽排版的繁琐工作，让你把精力聚焦在梳理业务逻辑上。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-16T18:48:48.088565Z"
+        },
+        {
+          "id": "fc3134c218e04ac28e8ddae2114f68c0c7456144",
+          "title": "小歪对谷歌全新旗舰模型Gemini 4 Argon进行了实测，发现它在榜单上和Opus 5.5实力接近，长文本写作、3D场景构建、交互式网页生成表现亮眼。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-16T18:48:48.088565Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6109,
+      "importance": 0.6109,
+      "importance_score": 0.6109,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9537,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-16T18:48:48.088565Z",
+      "latest_at": "2026-10-16T18:48:48.088565Z",
+      "primary_item": {
+        "id": "4c2b8d31fc423941b3b77dd613490b35d5ec9535",
+        "title": "AI 短剧看着像一句话就能出片，真做起来却常遇到人物不一致、动作接不上、表演僵硬和文字乱码。作者用五组案例对可灵 4.0进行了实测，通过 Codex 对话跑通剧本、角色与场景资产、分镜提示词、生成返修到字幕配乐与剪辑，全程没打开剪辑软件。一起来看看！",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-10-16",
+        "source_name": "WaytoAGI"
       }
     }
   ]
