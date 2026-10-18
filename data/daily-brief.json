@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T18:06:29.386071Z",
+  "generated_at": "2026-10-18T20:44:41.030047Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7987,
-      "importance": 0.7987,
-      "importance_score": 0.7987,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9339,
+        "recency": 0.899,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -81,6 +81,67 @@
         "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
         "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
         "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e2a6e519f65e",
+      "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+      "url": "https://x.com/arena/status/2111894091168682086",
+      "primary_url": "https://x.com/arena/status/2111894091168682086",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
+          "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+          "url": "https://x.com/arena/status/2111894091168682086",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-18T18:56:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
+          "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+          "url": "https://x.com/arena/status/2111894091168682086",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-18T18:56:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9742,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-18T18:56:03Z",
+      "latest_at": "2026-10-18T18:56:03Z",
+      "primary_item": {
+        "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
+        "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+        "url": "https://x.com/arena/status/2111894091168682086",
+        "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       }
     },
@@ -138,15 +199,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7898,
-      "importance": 0.7898,
-      "importance_score": 0.7898,
+      "score": 0.7837,
+      "importance": 0.7837,
+      "importance_score": 0.7837,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9009,
+        "recency": 0.8672,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -254,15 +315,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6442,
-      "importance": 0.6442,
-      "importance_score": 0.6442,
+      "score": 0.6375,
+      "importance": 0.6375,
+      "importance_score": 0.6375,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9626,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -280,82 +341,101 @@
       }
     },
     {
-      "story_id": "story_6435f671229b",
-      "title": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic / Replit makes OpenAI its default over Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-      "primary_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
+      "story_id": "story_79619743255e",
+      "title": "网站正在向人工智能代理关闭大门 / Websites Are Closing Their Doors to AI Agents",
+      "url": "https://slashdot.org/story/26/10/18/1715218/websites-are-closing-their-doors-to-ai-agents",
+      "primary_url": "https://slashdot.org/story/26/10/18/1715218/websites-are-closing-their-doors-to-ai-agents",
+      "source": "Slashdot",
+      "source_name": "TechURLs",
       "sources": [
         {
-          "id": "47136f0ae0a03b3f61f7341c1e7dc35b2d834d4f",
-          "title": "Replit 首席执行官表示不再与 Anthropic 合作 / Replit is no longer working with Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-17T18:48:08Z"
+          "id": "8edecd96644001a45c1dbe820028bb69980b9868",
+          "title": "网站正在向人工智能代理关闭大门 / Websites Are Closing Their Doors to AI Agents",
+          "url": "https://slashdot.org/story/26/10/18/1715218/websites-are-closing-their-doors-to-ai-agents",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T19:24:00Z"
         },
         {
-          "id": "6bdde82551cc226e49deefc203dc843250bda1a2",
-          "title": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic / Replit makes OpenAI its default over Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-17T18:48:08Z"
+          "id": "ae825252a9f148246dbfeafc7a71e208b69d23e5",
+          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T14:58:10Z"
+        },
+        {
+          "id": "c7c29e00e18539a05a5dfa098dc9399a72966305",
+          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
+          "url": "https://news.ycombinator.com/item?id=50141657",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T14:58:10Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "TechCrunch AI"
+        "Hacker News · 24h最热",
+        "Slashdot",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "47136f0ae0a03b3f61f7341c1e7dc35b2d834d4f",
-          "title": "Replit 首席执行官表示不再与 Anthropic 合作 / Replit is no longer working with Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-17T18:48:08Z"
+          "id": "8edecd96644001a45c1dbe820028bb69980b9868",
+          "title": "网站正在向人工智能代理关闭大门 / Websites Are Closing Their Doors to AI Agents",
+          "url": "https://slashdot.org/story/26/10/18/1715218/websites-are-closing-their-doors-to-ai-agents",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T19:24:00Z"
         },
         {
-          "id": "6bdde82551cc226e49deefc203dc843250bda1a2",
-          "title": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic / Replit makes OpenAI its default over Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-17T18:48:08Z"
+          "id": "ae825252a9f148246dbfeafc7a71e208b69d23e5",
+          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T14:58:10Z"
+        },
+        {
+          "id": "c7c29e00e18539a05a5dfa098dc9399a72966305",
+          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
+          "url": "https://news.ycombinator.com/item?id=50141657",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T14:58:10Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6223,
-      "importance": 0.6223,
-      "importance_score": 0.6223,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5673,
+      "importance": 0.5673,
+      "importance_score": 0.5673,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.58,
-        "ai_relevance": 0.82,
-        "recency": 0.7142,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9808,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-17T18:48:08Z",
-      "latest_at": "2026-10-17T18:48:08Z",
+      "earliest_at": "2026-10-18T14:58:10Z",
+      "latest_at": "2026-10-18T19:24:00Z",
       "primary_item": {
-        "id": "6bdde82551cc226e49deefc203dc843250bda1a2",
-        "title": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic / Replit makes OpenAI its default over Anthropic, CEO says",
-        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
+        "id": "8edecd96644001a45c1dbe820028bb69980b9868",
+        "title": "网站正在向人工智能代理关闭大门 / Websites Are Closing Their Doors to AI Agents",
+        "url": "https://slashdot.org/story/26/10/18/1715218/websites-are-closing-their-doors-to-ai-agents",
+        "source": "Slashdot",
+        "source_name": "TechURLs"
       }
     },
     {
@@ -449,15 +529,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5728,
-      "importance": 0.5728,
-      "importance_score": 0.5728,
+      "score": 0.5669,
+      "importance": 0.5669,
+      "importance_score": 0.5669,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.872,
+        "recency": 0.8394,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -472,6 +552,85 @@
         "url": "https://sphinx-six-theta.vercel.app",
         "source": "sphinx-six-theta.vercel.app",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_0cd33337d9be",
+      "title": "Intel计划推出480GB GPU，内存比一般笔记本SSD还要多，使用LPDDR5X代替GDDR7，瞄准AI / Intel plans a 480GB GPU with more memory than the average laptop SSD, using LPDDR5X instead of GDDR7, aimed at AI",
+      "url": "https://www.techradar.com/pro/behold-intel-plans-a-480gb-gpu-a-video-card-with-more-memory-than-the-average-laptop-ssd-has-storage-but-of-course-its-for-ai-and-curiously-it-will-use-lppdr5x-not-even-gddr7",
+      "primary_url": "https://www.techradar.com/pro/behold-intel-plans-a-480gb-gpu-a-video-card-with-more-memory-than-the-average-laptop-ssd-has-storage-but-of-course-its-for-ai-and-curiously-it-will-use-lppdr5x-not-even-gddr7",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "735614ba83aee7b6492e58a2c63277bc8bf5ad99",
+          "title": "Intel计划推出480GB GPU，内存比一般笔记本SSD还要多，使用LPDDR5X代替GDDR7，瞄准AI / Intel plans a 480GB GPU with more memory than the average laptop SSD, using LPDDR5X instead of GDDR7, aimed at AI",
+          "url": "https://www.techradar.com/pro/behold-intel-plans-a-480gb-gpu-a-video-card-with-more-memory-than-the-average-laptop-ssd-has-storage-but-of-course-its-for-ai-and-curiously-it-will-use-lppdr5x-not-even-gddr7",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3c54e56c7171b121284bb53ec7aafee89b971dde",
+          "title": "看哪，英特尔计划配备 480GB GPU，这是一款内存比普通笔记本电脑 SSD 存储容量还要大的显卡——当然这是为了 AI，奇怪的是，它将使用 LPPDR5X，甚至不是 GDDR7 / Behold, Intel plans a 480GB GPU, a video card with more memory than the average laptop SSD has storage — but of course it's for AI, and curiously, it will use LPPDR5X, not even GDDR7",
+          "url": "https://www.techradar.com/pro/behold-intel-plans-a-480gb-gpu-a-video-card-with-more-memory-than-the-average-laptop-ssd-has-storage-but-of-course-its-for-ai-and-curiously-it-will-use-lppdr5x-not-even-gddr7",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T20:05:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "TechRadar"
+      ],
+      "items": [
+        {
+          "id": "735614ba83aee7b6492e58a2c63277bc8bf5ad99",
+          "title": "Intel计划推出480GB GPU，内存比一般笔记本SSD还要多，使用LPDDR5X代替GDDR7，瞄准AI / Intel plans a 480GB GPU with more memory than the average laptop SSD, using LPDDR5X instead of GDDR7, aimed at AI",
+          "url": "https://www.techradar.com/pro/behold-intel-plans-a-480gb-gpu-a-video-card-with-more-memory-than-the-average-laptop-ssd-has-storage-but-of-course-its-for-ai-and-curiously-it-will-use-lppdr5x-not-even-gddr7",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3c54e56c7171b121284bb53ec7aafee89b971dde",
+          "title": "看哪，英特尔计划配备 480GB GPU，这是一款内存比普通笔记本电脑 SSD 存储容量还要大的显卡——当然这是为了 AI，奇怪的是，它将使用 LPPDR5X，甚至不是 GDDR7 / Behold, Intel plans a 480GB GPU, a video card with more memory than the average laptop SSD has storage — but of course it's for AI, and curiously, it will use LPPDR5X, not even GDDR7",
+          "url": "https://www.techradar.com/pro/behold-intel-plans-a-480gb-gpu-a-video-card-with-more-memory-than-the-average-laptop-ssd-has-storage-but-of-course-its-for-ai-and-curiously-it-will-use-lppdr5x-not-even-gddr7",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T20:05:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T20:05:00Z",
+      "latest_at": "2026-10-18T20:44:41.030047Z",
+      "primary_item": {
+        "id": "735614ba83aee7b6492e58a2c63277bc8bf5ad99",
+        "title": "Intel计划推出480GB GPU，内存比一般笔记本SSD还要多，使用LPDDR5X代替GDDR7，瞄准AI / Intel plans a 480GB GPU with more memory than the average laptop SSD, using LPDDR5X instead of GDDR7, aimed at AI",
+        "url": "https://www.techradar.com/pro/behold-intel-plans-a-480gb-gpu-a-video-card-with-more-memory-than-the-average-laptop-ssd-has-storage-but-of-course-its-for-ai-and-curiously-it-will-use-lppdr5x-not-even-gddr7",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -547,15 +706,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5478,
-      "importance": 0.5478,
-      "importance_score": 0.5478,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.872,
+        "recency": 0.8394,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -573,161 +732,82 @@
       }
     },
     {
-      "story_id": "story_79619743255e",
-      "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_774f7412d1a3",
+      "title": "科技界的男性#YesAllMen / Men in tech #YesAllMen",
+      "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+      "primary_url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+      "source": "Lobsters (技术社区)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "ae825252a9f148246dbfeafc7a71e208b69d23e5",
-          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "id": "40a67ee0934e170258ae90a4d3d6370e74a2d835",
+          "title": "科技界的男性#YesAllMen / Men in tech #YesAllMen",
+          "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T18:35:01Z"
+        },
+        {
+          "id": "853d2d29f362ac6d3c4cb62dc59457a9f3b054e1",
+          "title": "超越俄罗斯方块：Alexey Pajitnov 的其他游戏 [视频] / Beyond Tetris: The other games of Alexey Pajitnov [video]",
+          "url": "https://www.youtube.com/watch?v=QH_LPimUJMs",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-18T14:58:10Z"
-        },
-        {
-          "id": "c7c29e00e18539a05a5dfa098dc9399a72966305",
-          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
-          "url": "https://news.ycombinator.com/item?id=50141657",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T14:58:10Z"
+          "published_at": "2026-10-17T23:08:30Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "hackernews"
+        "Lobsters (技术社区)"
       ],
       "items": [
         {
-          "id": "ae825252a9f148246dbfeafc7a71e208b69d23e5",
-          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "id": "40a67ee0934e170258ae90a4d3d6370e74a2d835",
+          "title": "科技界的男性#YesAllMen / Men in tech #YesAllMen",
+          "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T18:35:01Z"
+        },
+        {
+          "id": "853d2d29f362ac6d3c4cb62dc59457a9f3b054e1",
+          "title": "超越俄罗斯方块：Alexey Pajitnov 的其他游戏 [视频] / Beyond Tetris: The other games of Alexey Pajitnov [video]",
+          "url": "https://www.youtube.com/watch?v=QH_LPimUJMs",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-18T14:58:10Z"
-        },
-        {
-          "id": "c7c29e00e18539a05a5dfa098dc9399a72966305",
-          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
-          "url": "https://news.ycombinator.com/item?id=50141657",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T14:58:10Z"
+          "published_at": "2026-10-17T23:08:30Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5378,
-      "importance": 0.5378,
-      "importance_score": 0.5378,
+      "score": 0.5403,
+      "importance": 0.5403,
+      "importance_score": 0.5403,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9557,
+        "recency": 0.9693,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-18T14:58:10Z",
-      "latest_at": "2026-10-18T14:58:10Z",
+      "earliest_at": "2026-10-17T23:08:30Z",
+      "latest_at": "2026-10-18T18:35:01Z",
       "primary_item": {
-        "id": "ae825252a9f148246dbfeafc7a71e208b69d23e5",
-        "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_530db20d1b98",
-      "title": "研究人员让 6 款 AI 智能体尝试「追回火车票退款」，暴露模型使用激进方式执行任务风险",
-      "url": "https://www.ithome.com/1/014/589.htm",
-      "primary_url": "https://www.ithome.com/1/014/589.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "d4717453c7d34fc666e6bc179fc4a90c76ed9e18",
-          "title": "研究人员让 6 款 AI 智能体尝试「追回火车票退款」，暴露模型使用激进方式执行任务风险",
-          "url": "https://www.ithome.com/1/014/589.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e2e115c26501c07310edd4d1490c9100297ecb67",
-          "title": "研究人员让 6 款 AI 智能体尝试“追回火车票退款”，暴露模型使用激进方式执行任务风险",
-          "url": "https://www.ithome.com/1/014/589.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T12:21:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d4717453c7d34fc666e6bc179fc4a90c76ed9e18",
-          "title": "研究人员让 6 款 AI 智能体尝试「追回火车票退款」，暴露模型使用激进方式执行任务风险",
-          "url": "https://www.ithome.com/1/014/589.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e2e115c26501c07310edd4d1490c9100297ecb67",
-          "title": "研究人员让 6 款 AI 智能体尝试“追回火车票退款”，暴露模型使用激进方式执行任务风险",
-          "url": "https://www.ithome.com/1/014/589.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T12:21:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5376,
-      "importance": 0.5376,
-      "importance_score": 0.5376,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9542,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T12:21:25Z",
-      "latest_at": "2026-10-18T14:51:38.843588Z",
-      "primary_item": {
-        "id": "d4717453c7d34fc666e6bc179fc4a90c76ed9e18",
-        "title": "研究人员让 6 款 AI 智能体尝试「追回火车票退款」，暴露模型使用激进方式执行任务风险",
-        "url": "https://www.ithome.com/1/014/589.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "40a67ee0934e170258ae90a4d3d6370e74a2d835",
+        "title": "科技界的男性#YesAllMen / Men in tech #YesAllMen",
+        "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+        "source": "Lobsters (技术社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -784,15 +864,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5376,
-      "importance": 0.5376,
-      "importance_score": 0.5376,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9542,
+        "recency": 0.9185,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -863,15 +943,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
+      "score": 0.5302,
+      "importance": 0.5302,
+      "importance_score": 0.5302,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9488,
+        "recency": 0.9134,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -886,85 +966,6 @@
         "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_161709a34472",
-      "title": "Mlabonne / 法学硕士课程 / mlabonne / llm-course",
-      "url": "https://github.com/mlabonne/llm-course",
-      "primary_url": "https://github.com/mlabonne/llm-course",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "910e3a7ce09849823bfe420473de0c1b24cfb37b",
-          "title": "Mlabonne / 法学硕士课程 / mlabonne / llm-course",
-          "url": "https://github.com/mlabonne/llm-course",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d840110d1210da077c48f2b57204e338812d0d17",
-          "title": "Mlabonne / 法学硕士课程 / mlabonne /      llm-course",
-          "url": "https://github.com/mlabonne/llm-course",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T11:26:10.951000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "910e3a7ce09849823bfe420473de0c1b24cfb37b",
-          "title": "Mlabonne / 法学硕士课程 / mlabonne / llm-course",
-          "url": "https://github.com/mlabonne/llm-course",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d840110d1210da077c48f2b57204e338812d0d17",
-          "title": "Mlabonne / 法学硕士课程 / mlabonne /      llm-course",
-          "url": "https://github.com/mlabonne/llm-course",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T11:26:10.951000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9121,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T11:26:10.951000Z",
-      "latest_at": "2026-10-18T11:44:05.832802Z",
-      "primary_item": {
-        "id": "910e3a7ce09849823bfe420473de0c1b24cfb37b",
-        "title": "Mlabonne / 法学硕士课程 / mlabonne / llm-course",
-        "url": "https://github.com/mlabonne/llm-course",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1021,15 +1022,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5315,
-      "importance": 0.5315,
-      "importance_score": 0.5315,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9206,
+        "recency": 0.8863,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1044,6 +1045,164 @@
         "url": "https://www.vals.ai/blogs/impossible-refund",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_161709a34472",
+      "title": "Mlabonne / 法学硕士课程 / mlabonne / llm-course",
+      "url": "https://github.com/mlabonne/llm-course",
+      "primary_url": "https://github.com/mlabonne/llm-course",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "910e3a7ce09849823bfe420473de0c1b24cfb37b",
+          "title": "Mlabonne / 法学硕士课程 / mlabonne / llm-course",
+          "url": "https://github.com/mlabonne/llm-course",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d840110d1210da077c48f2b57204e338812d0d17",
+          "title": "Mlabonne / 法学硕士课程 / mlabonne /      llm-course",
+          "url": "https://github.com/mlabonne/llm-course",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T11:26:10.951000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "910e3a7ce09849823bfe420473de0c1b24cfb37b",
+          "title": "Mlabonne / 法学硕士课程 / mlabonne / llm-course",
+          "url": "https://github.com/mlabonne/llm-course",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d840110d1210da077c48f2b57204e338812d0d17",
+          "title": "Mlabonne / 法学硕士课程 / mlabonne /      llm-course",
+          "url": "https://github.com/mlabonne/llm-course",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T11:26:10.951000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5238,
+      "importance": 0.5238,
+      "importance_score": 0.5238,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.878,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T11:26:10.951000Z",
+      "latest_at": "2026-10-18T11:44:05.832802Z",
+      "primary_item": {
+        "id": "910e3a7ce09849823bfe420473de0c1b24cfb37b",
+        "title": "Mlabonne / 法学硕士课程 / mlabonne / llm-course",
+        "url": "https://github.com/mlabonne/llm-course",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_46efd60615b6",
+      "title": "PhoneBot 用旧款 50 美元安卓手机作大脑、摄像头作眼睛，打造面向创客的开源人形机器人平台",
+      "url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+      "primary_url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "2dd9eb8086be13cb3dfa7fde321c8570e523fad9",
+          "title": "PhoneBot 用旧款 50 美元安卓手机作大脑、摄像头作眼睛，打造面向创客的开源人形机器人平台",
+          "url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b69998b9e5139b3122c7b54b4b3cbec51e21e3c4",
+          "title": "PhoneBot 用旧款 50 美元安卓手机作大脑、摄像头作眼睛，打造面向创客的开源人形机器人平台 / PhoneBot uses an old $50 Android smartphone brain with its cameras as eyes — tech Frankenstein is an open source humanoid robot platform for makers",
+          "url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T20:20:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "TechRadar"
+      ],
+      "items": [
+        {
+          "id": "2dd9eb8086be13cb3dfa7fde321c8570e523fad9",
+          "title": "PhoneBot 用旧款 50 美元安卓手机作大脑、摄像头作眼睛，打造面向创客的开源人形机器人平台",
+          "url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b69998b9e5139b3122c7b54b4b3cbec51e21e3c4",
+          "title": "PhoneBot 用旧款 50 美元安卓手机作大脑、摄像头作眼睛，打造面向创客的开源人形机器人平台 / PhoneBot uses an old $50 Android smartphone brain with its cameras as eyes — tech Frankenstein is an open source humanoid robot platform for makers",
+          "url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T20:20:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T20:20:00Z",
+      "latest_at": "2026-10-18T20:44:41.030047Z",
+      "primary_item": {
+        "id": "2dd9eb8086be13cb3dfa7fde321c8570e523fad9",
+        "title": "PhoneBot 用旧款 50 美元安卓手机作大脑、摄像头作眼睛，打造面向创客的开源人形机器人平台",
+        "url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1100,15 +1259,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5314,
-      "importance": 0.5314,
-      "importance_score": 0.5314,
+      "score": 0.5252,
+      "importance": 0.5252,
+      "importance_score": 0.5252,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.92,
+        "recency": 0.8857,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1123,420 +1282,6 @@
         "url": "https://www.businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_770a362d399c",
-      "title": "以AI为先、兼容Git的源代码管理",
-      "url": "https://strata.madskristiansen.com",
-      "primary_url": "https://strata.madskristiansen.com",
-      "source": "strata.madskristiansen.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3dba566ab0bc27d2d15614a467452b54986e5b25",
-          "title": "以AI为先、兼容Git的源代码管理",
-          "url": "https://strata.madskristiansen.com",
-          "source": "strata.madskristiansen.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:50:05.892000Z"
-        },
-        {
-          "id": "71db887e60eb1ae0bbda067c4016ceb13443f2a9",
-          "title": "以AI为先、兼容Git的源代码管理 / AI-First, Git-Compatible Source Control",
-          "url": "https://strata.madskristiansen.com",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T18:39:21Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "strata.madskristiansen.com"
-      ],
-      "items": [
-        {
-          "id": "3dba566ab0bc27d2d15614a467452b54986e5b25",
-          "title": "以AI为先、兼容Git的源代码管理",
-          "url": "https://strata.madskristiansen.com",
-          "source": "strata.madskristiansen.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:50:05.892000Z"
-        },
-        {
-          "id": "71db887e60eb1ae0bbda067c4016ceb13443f2a9",
-          "title": "以AI为先、兼容Git的源代码管理 / AI-First, Git-Compatible Source Control",
-          "url": "https://strata.madskristiansen.com",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T18:39:21Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4944,
-      "importance": 0.4944,
-      "importance_score": 0.4944,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7146,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T18:39:21Z",
-      "latest_at": "2026-10-17T18:50:05.892000Z",
-      "primary_item": {
-        "id": "3dba566ab0bc27d2d15614a467452b54986e5b25",
-        "title": "以AI为先、兼容Git的源代码管理",
-        "url": "https://strata.madskristiansen.com",
-        "source": "strata.madskristiansen.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_500318713ba8",
-      "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
-      "url": "https://pwn.ai/blog/pwnescape",
-      "primary_url": "https://pwn.ai/blog/pwnescape",
-      "source": "pwn.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1ba5650dac62a746a4eb210be1e1c37dced7444f",
-          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
-          "url": "https://pwn.ai/blog/pwnescape",
-          "source": "pwn.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:34:07.206000Z"
-        },
-        {
-          "id": "84775ecd50638dd85efaeddb846fb7e0e551f015",
-          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999） / PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
-          "url": "https://pwn.ai/blog/pwnescape",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T18:24:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "pwn.ai"
-      ],
-      "items": [
-        {
-          "id": "1ba5650dac62a746a4eb210be1e1c37dced7444f",
-          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
-          "url": "https://pwn.ai/blog/pwnescape",
-          "source": "pwn.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:34:07.206000Z"
-        },
-        {
-          "id": "84775ecd50638dd85efaeddb846fb7e0e551f015",
-          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999） / PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
-          "url": "https://pwn.ai/blog/pwnescape",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T18:24:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4939,
-      "importance": 0.4939,
-      "importance_score": 0.4939,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7118,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T18:24:39Z",
-      "latest_at": "2026-10-17T18:34:07.206000Z",
-      "primary_item": {
-        "id": "1ba5650dac62a746a4eb210be1e1c37dced7444f",
-        "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
-        "url": "https://pwn.ai/blog/pwnescape",
-        "source": "pwn.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_be4d830bb768",
-      "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
-      "url": "https://www.ithome.com/1/014/456.htm",
-      "primary_url": "https://www.ithome.com/1/014/456.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "89aeb17e2f7cebec31d3292adbb7ce9f53de32ca",
-          "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
-          "url": "https://www.ithome.com/1/014/456.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "73a771bca8e8c7703878f3776d857153d2ebd17c",
-          "title": "“能装一个宇宙”：我国首个十万卡 AI 超集群真机亮相",
-          "url": "https://www.ithome.com/1/014/456.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T02:06:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "89aeb17e2f7cebec31d3292adbb7ce9f53de32ca",
-          "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
-          "url": "https://www.ithome.com/1/014/456.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "73a771bca8e8c7703878f3776d857153d2ebd17c",
-          "title": "“能装一个宇宙”：我国首个十万卡 AI 超集群真机亮相",
-          "url": "https://www.ithome.com/1/014/456.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T02:06:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5164,
-      "importance": 0.5164,
-      "importance_score": 0.5164,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8369,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T02:06:43Z",
-      "latest_at": "2026-10-18T05:46:37.174492Z",
-      "primary_item": {
-        "id": "89aeb17e2f7cebec31d3292adbb7ce9f53de32ca",
-        "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
-        "url": "https://www.ithome.com/1/014/456.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9d2648978eb9",
-      "title": "《废除人工智能！宣言》 / Abolish AI Manifesto",
-      "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-      "primary_url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "f98664fdc5675e3724fb764f49a48f969cd48852",
-          "title": "《废除人工智能！宣言》 / Abolish AI Manifesto",
-          "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T23:23:46Z"
-        },
-        {
-          "id": "93190fad900950861945a10623b4be6d5e4266a6",
-          "title": "《废除人工智能！宣言》",
-          "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-          "source": "abolish-ai.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:50:05.393000Z"
-        },
-        {
-          "id": "0a8113a0233d89752b4c875f31f01f0658007775",
-          "title": "《废除人工智能！宣言》 / Abolish AI! Manifesto",
-          "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T18:25:58Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "abolish-ai.net"
-      ],
-      "items": [
-        {
-          "id": "f98664fdc5675e3724fb764f49a48f969cd48852",
-          "title": "《废除人工智能！宣言》 / Abolish AI Manifesto",
-          "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T23:23:46Z"
-        },
-        {
-          "id": "93190fad900950861945a10623b4be6d5e4266a6",
-          "title": "《废除人工智能！宣言》",
-          "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-          "source": "abolish-ai.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:50:05.393000Z"
-        },
-        {
-          "id": "0a8113a0233d89752b4c875f31f01f0658007775",
-          "title": "《废除人工智能！宣言》 / Abolish AI! Manifesto",
-          "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T18:25:58Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5282,
-      "importance": 0.5282,
-      "importance_score": 0.5282,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7632,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T18:25:58Z",
-      "latest_at": "2026-10-17T23:23:46Z",
-      "primary_item": {
-        "id": "f98664fdc5675e3724fb764f49a48f969cd48852",
-        "title": "《废除人工智能！宣言》 / Abolish AI Manifesto",
-        "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_24b0133e4a59",
-      "title": "Meta 修改商业服务条款引发「用于训练 AI」争议，现已删除相关表述",
-      "url": "https://www.ithome.com/1/014/429.htm",
-      "primary_url": "https://www.ithome.com/1/014/429.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "26d3fdc2c93ca95162a1bb80746218e32dff9ac0",
-          "title": "Meta 修改商业服务条款引发「用于训练 AI」争议，现已删除相关表述",
-          "url": "https://www.ithome.com/1/014/429.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "af865480ed4848aef860c3ac9234c10575003fbb",
-          "title": "Meta 修改商业服务条款引发“用于训练 AI”争议，现已删除相关表述",
-          "url": "https://www.ithome.com/1/014/429.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T00:00:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "26d3fdc2c93ca95162a1bb80746218e32dff9ac0",
-          "title": "Meta 修改商业服务条款引发「用于训练 AI」争议，现已删除相关表述",
-          "url": "https://www.ithome.com/1/014/429.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "af865480ed4848aef860c3ac9234c10575003fbb",
-          "title": "Meta 修改商业服务条款引发“用于训练 AI”争议，现已删除相关表述",
-          "url": "https://www.ithome.com/1/014/429.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T00:00:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5075,
-      "importance": 0.5075,
-      "importance_score": 0.5075,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7873,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T00:00:43Z",
-      "latest_at": "2026-10-18T01:32:48.388260Z",
-      "primary_item": {
-        "id": "26d3fdc2c93ca95162a1bb80746218e32dff9ac0",
-        "title": "Meta 修改商业服务条款引发「用于训练 AI」争议，现已删除相关表述",
-        "url": "https://www.ithome.com/1/014/429.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1593,15 +1338,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5278,
-      "importance": 0.5278,
-      "importance_score": 0.5278,
+      "score": 0.5218,
+      "importance": 0.5218,
+      "importance_score": 0.5218,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9002,
+        "recency": 0.8665,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1619,81 +1364,318 @@
       }
     },
     {
-      "story_id": "story_6cbde97d8260",
-      "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
+      "story_id": "story_530db20d1b98",
+      "title": "研究人员让 6 款 AI 智能体尝试「追回火车票退款」，暴露模型使用激进方式执行任务风险",
+      "url": "https://www.ithome.com/1/014/589.htm",
+      "primary_url": "https://www.ithome.com/1/014/589.htm",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "ac01b372a899f275c2059070740cad90d79a8b94",
-          "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
+          "id": "d4717453c7d34fc666e6bc179fc4a90c76ed9e18",
+          "title": "研究人员让 6 款 AI 智能体尝试「追回火车票退款」，暴露模型使用激进方式执行任务风险",
+          "url": "https://www.ithome.com/1/014/589.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "8231904e41fbc2f80df557a210ee68d40424c55d",
-          "title": "56 年没解开的题，AI 全解了！谷歌 DeepMind 新成果登上 Science 主刊",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652735556&idx=2&sn=025c950b095d8dabc68a3671a4e4b8ba",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "e2e115c26501c07310edd4d1490c9100297ecb67",
+          "title": "研究人员让 6 款 AI 智能体尝试“追回火车票退款”，暴露模型使用激进方式执行任务风险",
+          "url": "https://www.ithome.com/1/014/589.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T12:21:25Z"
         }
       ],
       "source_count": 2,
       "source_names": [
+        "IT之家 (ITHome)",
         "Readhub · AI"
       ],
       "items": [
         {
-          "id": "ac01b372a899f275c2059070740cad90d79a8b94",
-          "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
+          "id": "d4717453c7d34fc666e6bc179fc4a90c76ed9e18",
+          "title": "研究人员让 6 款 AI 智能体尝试「追回火车票退款」，暴露模型使用激进方式执行任务风险",
+          "url": "https://www.ithome.com/1/014/589.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "8231904e41fbc2f80df557a210ee68d40424c55d",
-          "title": "56 年没解开的题，AI 全解了！谷歌 DeepMind 新成果登上 Science 主刊",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652735556&idx=2&sn=025c950b095d8dabc68a3671a4e4b8ba",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "e2e115c26501c07310edd4d1490c9100297ecb67",
+          "title": "研究人员让 6 款 AI 智能体尝试“追回火车票退款”，暴露模型使用激进方式执行任务风险",
+          "url": "https://www.ithome.com/1/014/589.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T12:21:25Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4944,
-      "importance": 0.4944,
-      "importance_score": 0.4944,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7147,
+        "recency": 0.9185,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-17T18:50:50.750394Z",
-      "latest_at": "2026-10-17T18:50:50.750394Z",
+      "earliest_at": "2026-10-18T12:21:25Z",
+      "latest_at": "2026-10-18T14:51:38.843588Z",
       "primary_item": {
-        "id": "ac01b372a899f275c2059070740cad90d79a8b94",
-        "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
+        "id": "d4717453c7d34fc666e6bc179fc4a90c76ed9e18",
+        "title": "研究人员让 6 款 AI 智能体尝试「追回火车票退款」，暴露模型使用激进方式执行任务风险",
+        "url": "https://www.ithome.com/1/014/589.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_a99b07861f4f",
+      "title": "美国 10T 美元的人工智能基础设施热潮开始衰退 / America's $10T AI infrastructure boom is starting to fray",
+      "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
+      "primary_url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "36c929a3497a2b819e2ab870a0e6098b2b3e0603",
+          "title": "美国 10T 美元的人工智能基础设施热潮开始衰退 / America's $10T AI infrastructure boom is starting to fray",
+          "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T06:46:50Z"
+        },
+        {
+          "id": "ffe2d1b841e7ce3391e965cc1bbb4eb440fb8d77",
+          "title": "美国10万亿美元的人工智能基础设施热潮开始出现裂痕",
+          "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T04:26:11.357000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.ft.com"
+      ],
+      "items": [
+        {
+          "id": "36c929a3497a2b819e2ab870a0e6098b2b3e0603",
+          "title": "美国 10T 美元的人工智能基础设施热潮开始衰退 / America's $10T AI infrastructure boom is starting to fray",
+          "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T06:46:50Z"
+        },
+        {
+          "id": "ffe2d1b841e7ce3391e965cc1bbb4eb440fb8d77",
+          "title": "美国10万亿美元的人工智能基础设施热潮开始出现裂痕",
+          "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T04:26:11.357000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5129,
+      "importance": 0.5129,
+      "importance_score": 0.5129,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8174,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T04:26:11.357000Z",
+      "latest_at": "2026-10-18T06:46:50Z",
+      "primary_item": {
+        "id": "36c929a3497a2b819e2ab870a0e6098b2b3e0603",
+        "title": "美国 10T 美元的人工智能基础设施热潮开始衰退 / America's $10T AI infrastructure boom is starting to fray",
+        "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_be4d830bb768",
+      "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
+      "url": "https://www.ithome.com/1/014/456.htm",
+      "primary_url": "https://www.ithome.com/1/014/456.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "89aeb17e2f7cebec31d3292adbb7ce9f53de32ca",
+          "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
+          "url": "https://www.ithome.com/1/014/456.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "73a771bca8e8c7703878f3776d857153d2ebd17c",
+          "title": "“能装一个宇宙”：我国首个十万卡 AI 超集群真机亮相",
+          "url": "https://www.ithome.com/1/014/456.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T02:06:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "89aeb17e2f7cebec31d3292adbb7ce9f53de32ca",
+          "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
+          "url": "https://www.ithome.com/1/014/456.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "73a771bca8e8c7703878f3776d857153d2ebd17c",
+          "title": "“能装一个宇宙”：我国首个十万卡 AI 超集群真机亮相",
+          "url": "https://www.ithome.com/1/014/456.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T02:06:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5108,
+      "importance": 0.5108,
+      "importance_score": 0.5108,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8056,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T02:06:43Z",
+      "latest_at": "2026-10-18T05:46:37.174492Z",
+      "primary_item": {
+        "id": "89aeb17e2f7cebec31d3292adbb7ce9f53de32ca",
+        "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
+        "url": "https://www.ithome.com/1/014/456.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_32b83c7f52bb",
+      "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "primary_url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
+          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T03:19:49Z"
+        },
+        {
+          "id": "04aeee945769bb26a995c10ac2a2ba3aecdc14c4",
+          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T03:19:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
+          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T03:19:49Z"
+        },
+        {
+          "id": "04aeee945769bb26a995c10ac2a2ba3aecdc14c4",
+          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T03:19:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5058,
+      "importance": 0.5058,
+      "importance_score": 0.5058,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7777,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T03:19:49Z",
+      "latest_at": "2026-10-18T03:19:49Z",
+      "primary_item": {
+        "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
+        "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+        "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
