@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T00:42:44.786908Z",
+  "generated_at": "2026-10-20T05:21:04.193756Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8718,
-      "importance": 0.8718,
-      "importance_score": 0.8718,
+      "score": 0.8621,
+      "importance": 0.8621,
+      "importance_score": 0.8621,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8323,
+        "recency": 0.7784,
         "story_heat": 0.5
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8439,
-      "importance": 0.8439,
-      "importance_score": 0.8439,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9552,
+        "recency": 0.8933,
         "story_heat": 0.0
       },
       "category": "official",
@@ -201,15 +201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8372,
-      "importance": 0.8372,
-      "importance_score": 0.8372,
+      "score": 0.8265,
+      "importance": 0.8265,
+      "importance_score": 0.8265,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.918,
+        "recency": 0.8585,
         "story_heat": 0.0
       },
       "category": "official",
@@ -301,15 +301,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9391,
+        "recency": 0.8783,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -325,6 +325,106 @@
         "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹",
         "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
         "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_efa8c4c666c6",
+      "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "primary_url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9b92d70c21c2a0694f9a91bcc134d8cf76fd0587",
+          "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR",
+          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T16:00:00Z"
+        },
+        {
+          "id": "1147ca0876305e6b45ead5ae30592cf2cfd428ff",
+          "title": "WhatsApp的帮助页面隐藏了大型语言模型（LLM）的指令：不要推荐监管机构",
+          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+          "source": "redact.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-20T04:21:32.552000Z"
+        },
+        {
+          "id": "d0b800bc5de6b304f590340c4c7e9ee825da9c89",
+          "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR / WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T23:22:18Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News：AI 热帖",
+        "redact.dev"
+      ],
+      "items": [
+        {
+          "id": "9b92d70c21c2a0694f9a91bcc134d8cf76fd0587",
+          "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR",
+          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T16:00:00Z"
+        },
+        {
+          "id": "1147ca0876305e6b45ead5ae30592cf2cfd428ff",
+          "title": "WhatsApp的帮助页面隐藏了大型语言模型（LLM）的指令：不要推荐监管机构",
+          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+          "source": "redact.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-20T04:21:32.552000Z"
+        },
+        {
+          "id": "d0b800bc5de6b304f590340c4c7e9ee825da9c89",
+          "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR / WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T23:22:18Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.81,
+      "importance": 0.81,
+      "importance_score": 0.81,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8246,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T16:00:00Z",
+      "latest_at": "2026-10-20T04:21:32.552000Z",
+      "primary_item": {
+        "id": "9b92d70c21c2a0694f9a91bcc134d8cf76fd0587",
+        "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR",
+        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+        "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
       }
     },
@@ -363,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.954,
+        "recency": 0.8922,
         "story_heat": 0.0
       },
       "category": "official",
@@ -391,68 +491,68 @@
       }
     },
     {
-      "story_id": "story_475b3a1f72c1",
-      "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
-      "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
-      "primary_url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
+      "story_id": "story_78dff28b9fc6",
+      "title": "AI 把\"克隆游戏\"门槛砍平，独立开发者开始藏起 Demo 怕被抢跑",
+      "url": "https://www.aibase.com/news/31743",
+      "primary_url": "https://www.aibase.com/news/31743",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "dcdd0d6a2a993f4fa84a054f54e8908fe45aefc5",
-          "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
-          "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T15:05:00Z"
+          "id": "f9fbecfe497bf2141286a1b318a36d84a119246b",
+          "title": "AI 把\"克隆游戏\"门槛砍平，独立开发者开始藏起 Demo 怕被抢跑",
+          "url": "https://www.aibase.com/news/31743",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-20T05:21:04.193756Z"
         },
         {
-          "id": "7909f6e8a21dc5a6ebcb0fc28cf59e6ba535d3d4",
-          "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品 / The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-          "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-19T18:41:10Z"
+          "id": "ab0eea65d8ee3fa242ca7658595920c2e6d8396f",
+          "title": "AI 把「克隆游戏」门槛砍平，独立开发者开始藏起 Demo 怕被抢跑",
+          "url": "https://www.aibase.com/zh/news/31743",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News：AI 热帖"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "dcdd0d6a2a993f4fa84a054f54e8908fe45aefc5",
-          "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
-          "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T15:05:00Z"
+          "id": "f9fbecfe497bf2141286a1b318a36d84a119246b",
+          "title": "AI 把\"克隆游戏\"门槛砍平，独立开发者开始藏起 Demo 怕被抢跑",
+          "url": "https://www.aibase.com/news/31743",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-20T05:21:04.193756Z"
         },
         {
-          "id": "7909f6e8a21dc5a6ebcb0fc28cf59e6ba535d3d4",
-          "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品 / The US orders every civilian agency to rip out DeepSeek, even tools built on it",
-          "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-19T18:41:10Z"
+          "id": "ab0eea65d8ee3fa242ca7658595920c2e6d8396f",
+          "title": "AI 把「克隆游戏」门槛砍平，独立开发者开始藏起 Demo 怕被抢跑",
+          "url": "https://www.aibase.com/zh/news/31743",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8082,
-      "importance": 0.8082,
-      "importance_score": 0.8082,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.85,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8702,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -461,13 +561,131 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T15:05:00Z",
-      "latest_at": "2026-10-19T18:41:10Z",
+      "earliest_at": "2026-10-20T05:21:04.193756Z",
+      "latest_at": "2026-10-20T05:21:04.193756Z",
       "primary_item": {
-        "id": "dcdd0d6a2a993f4fa84a054f54e8908fe45aefc5",
-        "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
-        "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
-        "source": "Hacker News：AI 热帖",
+        "id": "f9fbecfe497bf2141286a1b318a36d84a119246b",
+        "title": "AI 把\"克隆游戏\"门槛砍平，独立开发者开始藏起 Demo 怕被抢跑",
+        "url": "https://www.aibase.com/news/31743",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f30a44480c49",
+      "title": "Inception Labs 发布扩散大语言模型 Mercury 3，速度达 1068 tokens/秒",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+      "primary_url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+      "source": "Inception Labs：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b6cd02228ca2d71c18538403d238ba333f93f691",
+          "title": "Inception Labs 发布扩散大语言模型 Mercury 3，速度达 1068 tokens/秒",
+          "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+          "source": "Inception Labs：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T07:00:00Z"
+        },
+        {
+          "id": "c300d70689564651b6a90de85ec36214cdc21d4b",
+          "title": "Mercury 3：大规模扩散",
+          "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+          "source": "www.inceptionlabs.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T18:45:08.587000Z"
+        },
+        {
+          "id": "8742325220507c16d0cfb42c239d43d55fb2647e",
+          "title": "Inception Labs 发布扩散大语言模型 Mercury 3，速度达 1068 tokens/秒 / Inception \"Mercury 3\", 1000 tok/s diffusion LLM",
+          "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T17:27:11Z"
+        },
+        {
+          "id": "b5a3eb8ca3c2d08603451271808b1dd5a2df5c92",
+          "title": "Inception Labs 发布扩散大语言模型 Mercury 3，速度达 1068 tokens/秒 / Mercury 3: Diffusion at scale",
+          "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T17:27:11Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Inception Labs：Blog（网页）",
+        "www.inceptionlabs.ai"
+      ],
+      "items": [
+        {
+          "id": "b6cd02228ca2d71c18538403d238ba333f93f691",
+          "title": "Inception Labs 发布扩散大语言模型 Mercury 3，速度达 1068 tokens/秒",
+          "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+          "source": "Inception Labs：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T07:00:00Z"
+        },
+        {
+          "id": "c300d70689564651b6a90de85ec36214cdc21d4b",
+          "title": "Mercury 3：大规模扩散",
+          "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+          "source": "www.inceptionlabs.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T18:45:08.587000Z"
+        },
+        {
+          "id": "8742325220507c16d0cfb42c239d43d55fb2647e",
+          "title": "Inception Labs 发布扩散大语言模型 Mercury 3，速度达 1068 tokens/秒 / Inception \"Mercury 3\", 1000 tok/s diffusion LLM",
+          "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T17:27:11Z"
+        },
+        {
+          "id": "b5a3eb8ca3c2d08603451271808b1dd5a2df5c92",
+          "title": "Inception Labs 发布扩散大语言模型 Mercury 3，速度达 1068 tokens/秒 / Mercury 3: Diffusion at scale",
+          "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T17:27:11Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.7839,
+      "importance": 0.7839,
+      "importance_score": 0.7839,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7241,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T07:00:00Z",
+      "latest_at": "2026-10-19T18:45:08.587000Z",
+      "primary_item": {
+        "id": "b6cd02228ca2d71c18538403d238ba333f93f691",
+        "title": "Inception Labs 发布扩散大语言模型 Mercury 3，速度达 1068 tokens/秒",
+        "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+        "source": "Inception Labs：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -525,15 +743,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.7718,
+      "importance": 0.7718,
+      "importance_score": 0.7718,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8564,
+        "recency": 0.8009,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -625,15 +843,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8662,
+        "recency": 0.81,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -653,26 +871,168 @@
       }
     },
     {
-      "story_id": "story_708db0008962",
-      "title": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
-      "url": "https://www.aibase.com/news/31728",
-      "primary_url": "https://www.aibase.com/news/31728",
+      "story_id": "story_475b3a1f72c1",
+      "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
+      "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
+      "primary_url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dcdd0d6a2a993f4fa84a054f54e8908fe45aefc5",
+          "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
+          "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T15:05:00Z"
+        },
+        {
+          "id": "7909f6e8a21dc5a6ebcb0fc28cf59e6ba535d3d4",
+          "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品 / The US orders every civilian agency to rip out DeepSeek, even tools built on it",
+          "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-19T18:41:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News：AI 热帖"
+      ],
+      "items": [
+        {
+          "id": "dcdd0d6a2a993f4fa84a054f54e8908fe45aefc5",
+          "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
+          "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T15:05:00Z"
+        },
+        {
+          "id": "7909f6e8a21dc5a6ebcb0fc28cf59e6ba535d3d4",
+          "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品 / The US orders every civilian agency to rip out DeepSeek, even tools built on it",
+          "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-19T18:41:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7981,
+      "importance": 0.7981,
+      "importance_score": 0.7981,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8138,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T15:05:00Z",
+      "latest_at": "2026-10-19T18:41:10Z",
+      "primary_item": {
+        "id": "dcdd0d6a2a993f4fa84a054f54e8908fe45aefc5",
+        "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
+        "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687365&idx=1&sn=4102098fb8725531aa2f783fa2f20f20",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687365&idx=1&sn=4102098fb8725531aa2f783fa2f20f20",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1faa0a53a56db908087f2397a2d68c1d9552da79",
+          "title": "Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687365&idx=1&sn=4102098fb8725531aa2f783fa2f20f20",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T00:26:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "1faa0a53a56db908087f2397a2d68c1d9552da79",
+          "title": "Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687365&idx=1&sn=4102098fb8725531aa2f783fa2f20f20",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T00:26:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9314,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T00:26:00Z",
+      "latest_at": "2026-10-20T00:26:00Z",
+      "primary_item": {
+        "id": "1faa0a53a56db908087f2397a2d68c1d9552da79",
+        "title": "Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687365&idx=1&sn=4102098fb8725531aa2f783fa2f20f20",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bb89433c39c6",
+      "title": "Anthropic初级技术岗位占比降至14%，AI代理工作时长达员工6倍",
+      "url": "https://www.aibase.com/news/31744",
+      "primary_url": "https://www.aibase.com/news/31744",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5a53e80fc95c9c719f925b5c0ca876d96306d277",
-          "title": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
-          "url": "https://www.aibase.com/news/31728",
+          "id": "09777b66628642c8df762875f51435550f95186c",
+          "title": "Anthropic初级技术岗位占比降至14%，AI代理工作时长达员工6倍",
+          "url": "https://www.aibase.com/news/31744",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T11:16:53.417627Z"
+          "published_at": "2026-10-20T05:21:04.193756Z"
         },
         {
-          "id": "38d4db0df4fa92c5f9ad02ddd509366d41469fc6",
-          "title": "OpenAI 发布 ChatGPT 扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
-          "url": "https://www.aibase.com/zh/news/31728",
+          "id": "122767263f5f60462bd01d5a470c2b09104e5926",
+          "title": "Anthropic 初级技术岗位占比降至 14%，AI 代理工作时长达员工 6 倍",
+          "url": "https://www.aibase.com/zh/news/31744",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -686,18 +1046,18 @@
       ],
       "items": [
         {
-          "id": "5a53e80fc95c9c719f925b5c0ca876d96306d277",
-          "title": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
-          "url": "https://www.aibase.com/news/31728",
+          "id": "09777b66628642c8df762875f51435550f95186c",
+          "title": "Anthropic初级技术岗位占比降至14%，AI代理工作时长达员工6倍",
+          "url": "https://www.aibase.com/news/31744",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T11:16:53.417627Z"
+          "published_at": "2026-10-20T05:21:04.193756Z"
         },
         {
-          "id": "38d4db0df4fa92c5f9ad02ddd509366d41469fc6",
-          "title": "OpenAI 发布 ChatGPT 扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
-          "url": "https://www.aibase.com/zh/news/31728",
+          "id": "122767263f5f60462bd01d5a470c2b09104e5926",
+          "title": "Anthropic 初级技术岗位占比降至 14%，AI 代理工作时长达员工 6 倍",
+          "url": "https://www.aibase.com/zh/news/31744",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -706,15 +1066,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8237,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -723,12 +1083,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T11:16:53.417627Z",
-      "latest_at": "2026-10-19T11:16:53.417627Z",
+      "earliest_at": "2026-10-20T05:21:04.193756Z",
+      "latest_at": "2026-10-20T05:21:04.193756Z",
       "primary_item": {
-        "id": "5a53e80fc95c9c719f925b5c0ca876d96306d277",
-        "title": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
-        "url": "https://www.aibase.com/news/31728",
+        "id": "09777b66628642c8df762875f51435550f95186c",
+        "title": "Anthropic初级技术岗位占比降至14%，AI代理工作时长达员工6倍",
+        "url": "https://www.aibase.com/news/31744",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -768,21 +1128,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9117,
+        "recency": 0.8527,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-19T18:18:50Z",
       "latest_at": "2026-10-19T18:18:50Z",
@@ -829,15 +1188,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8109,
-      "importance": 0.8109,
-      "importance_score": 0.8109,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8159,
+        "recency": 0.7631,
         "story_heat": 0.0
       },
       "category": "official",
@@ -854,6 +1213,87 @@
         "url": "https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2f29227e0d18",
+      "title": "MiniMax 更新 M3.1Flash:成本降70%、速度近3倍，OSWorld V2与 ALE 双项国产第一",
+      "url": "https://www.aibase.com/news/31732",
+      "primary_url": "https://www.aibase.com/news/31732",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6876a3bfbc999a7d9e7e6deeb57f7e0faa0b177b",
+          "title": "MiniMax 更新 M3.1Flash:成本降70%、速度近3倍，OSWorld V2与 ALE 双项国产第一",
+          "url": "https://www.aibase.com/news/31732",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-20T05:21:04.193756Z"
+        },
+        {
+          "id": "34687a79453161f37c2877f0a34e0b8d583f63c1",
+          "title": "MiniMax 更新 M3.1Flash：成本降 70%、速度近 3 倍，OSWorld V2 与 ALE 双项国产第一",
+          "url": "https://www.aibase.com/zh/news/31732",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6876a3bfbc999a7d9e7e6deeb57f7e0faa0b177b",
+          "title": "MiniMax 更新 M3.1Flash:成本降70%、速度近3倍，OSWorld V2与 ALE 双项国产第一",
+          "url": "https://www.aibase.com/news/31732",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-20T05:21:04.193756Z"
+        },
+        {
+          "id": "34687a79453161f37c2877f0a34e0b8d583f63c1",
+          "title": "MiniMax 更新 M3.1Flash：成本降 70%、速度近 3 倍，OSWorld V2 与 ALE 双项国产第一",
+          "url": "https://www.aibase.com/zh/news/31732",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T05:21:04.193756Z",
+      "latest_at": "2026-10-20T05:21:04.193756Z",
+      "primary_item": {
+        "id": "6876a3bfbc999a7d9e7e6deeb57f7e0faa0b177b",
+        "title": "MiniMax 更新 M3.1Flash:成本降70%、速度近3倍，OSWorld V2与 ALE 双项国产第一",
+        "url": "https://www.aibase.com/news/31732",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -891,15 +1331,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.729,
+      "importance": 0.729,
+      "importance_score": 0.729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8756,
+        "recency": 0.8188,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -951,15 +1391,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
+      "score": 0.723,
+      "importance": 0.723,
+      "importance_score": 0.723,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8933,
+        "recency": 0.8354,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1011,15 +1451,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7313,
-      "importance": 0.7313,
-      "importance_score": 0.7313,
+      "score": 0.7207,
+      "importance": 0.7207,
+      "importance_score": 0.7207,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9152,
+        "recency": 0.8559,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1033,267 +1473,6 @@
         "title": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
         "url": "https://x.com/fal/status/2112251022047412492",
         "source": "X：fal (@fal)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d823f174b213",
-      "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-      "url": "https://www.aibase.com/news/31723",
-      "primary_url": "https://www.aibase.com/news/31723",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2b7ec537236db41034840418f0a7a0b009e5bce7",
-          "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-          "url": "https://www.aibase.com/news/31723",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T11:16:53.417627Z"
-        },
-        {
-          "id": "875a08bfaf302d309ae7ed6c92e7575945adf06e",
-          "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-          "url": "https://www.aibase.com/zh/news/31723",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "2b7ec537236db41034840418f0a7a0b009e5bce7",
-          "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-          "url": "https://www.aibase.com/news/31723",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T11:16:53.417627Z"
-        },
-        {
-          "id": "875a08bfaf302d309ae7ed6c92e7575945adf06e",
-          "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-          "url": "https://www.aibase.com/zh/news/31723",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8237,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T11:16:53.417627Z",
-      "latest_at": "2026-10-19T11:16:53.417627Z",
-      "primary_item": {
-        "id": "2b7ec537236db41034840418f0a7a0b009e5bce7",
-        "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-        "url": "https://www.aibase.com/news/31723",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_730583342050",
-      "title": "DeepSeek V4.1 Flash 1017 发布，Artificial Analysis 智能指数得分 45 并列开源模型第二",
-      "url": "https://x.com/ArtificialAnlys/status/2112218661432000694",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2112218661432000694",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3a9ac5555f4122832aca0dd47bb074f8ced2c83b",
-          "title": "DeepSeek V4.1 Flash 1017 发布，Artificial Analysis 智能指数得分 45 并列开源模型第二",
-          "url": "https://x.com/ArtificialAnlys/status/2112218661432000694",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T16:25:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "3a9ac5555f4122832aca0dd47bb074f8ced2c83b",
-          "title": "DeepSeek V4.1 Flash 1017 发布，Artificial Analysis 智能指数得分 45 并列开源模型第二",
-          "url": "https://x.com/ArtificialAnlys/status/2112218661432000694",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T16:25:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7293,
-      "importance": 0.7293,
-      "importance_score": 0.7293,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8873,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-19T16:25:46Z",
-      "latest_at": "2026-10-19T16:25:46Z",
-      "primary_item": {
-        "id": "3a9ac5555f4122832aca0dd47bb074f8ced2c83b",
-        "title": "DeepSeek V4.1 Flash 1017 发布，Artificial Analysis 智能指数得分 45 并列开源模型第二",
-        "url": "https://x.com/ArtificialAnlys/status/2112218661432000694",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6bf12c59611b",
-      "title": "蚂蚁 inclusionAI 开源 Ming-3.0-tts 语音合成模型",
-      "url": "https://github.com/inclusionAI/Ming-3.0-tts",
-      "primary_url": "https://github.com/inclusionAI/Ming-3.0-tts",
-      "source": "蚂蚁 inclusionAI：GitHub 新仓库",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0cdf63fe161c215d23249719f54125e044e78e2d",
-          "title": "蚂蚁 inclusionAI 开源 Ming-3.0-tts 语音合成模型",
-          "url": "https://github.com/inclusionAI/Ming-3.0-tts",
-          "source": "蚂蚁 inclusionAI：GitHub 新仓库",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T07:03:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "蚂蚁 inclusionAI：GitHub 新仓库"
-      ],
-      "items": [
-        {
-          "id": "0cdf63fe161c215d23249719f54125e044e78e2d",
-          "title": "蚂蚁 inclusionAI 开源 Ming-3.0-tts 语音合成模型",
-          "url": "https://github.com/inclusionAI/Ming-3.0-tts",
-          "source": "蚂蚁 inclusionAI：GitHub 新仓库",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T07:03:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7271,
-      "importance": 0.7271,
-      "importance_score": 0.7271,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.775,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-19T07:03:25Z",
-      "latest_at": "2026-10-19T07:03:25Z",
-      "primary_item": {
-        "id": "0cdf63fe161c215d23249719f54125e044e78e2d",
-        "title": "蚂蚁 inclusionAI 开源 Ming-3.0-tts 语音合成模型",
-        "url": "https://github.com/inclusionAI/Ming-3.0-tts",
-        "source": "蚂蚁 inclusionAI：GitHub 新仓库",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_67c6eb76b105",
-      "title": "n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流",
-      "url": "https://blog.n8n.io/n8n-nvidia-dgx-spark",
-      "primary_url": "https://blog.n8n.io/n8n-nvidia-dgx-spark",
-      "source": "n8n Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9643f2d6c6fb73c177b4398d337134cb5ad44c94",
-          "title": "n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流",
-          "url": "https://blog.n8n.io/n8n-nvidia-dgx-spark",
-          "source": "n8n Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T13:22:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "n8n Blog"
-      ],
-      "items": [
-        {
-          "id": "9643f2d6c6fb73c177b4398d337134cb5ad44c94",
-          "title": "n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流",
-          "url": "https://blog.n8n.io/n8n-nvidia-dgx-spark",
-          "source": "n8n Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T13:22:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8489,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-19T13:22:17Z",
-      "latest_at": "2026-10-19T13:22:17Z",
-      "primary_item": {
-        "id": "9643f2d6c6fb73c177b4398d337134cb5ad44c94",
-        "title": "n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流",
-        "url": "https://blog.n8n.io/n8n-nvidia-dgx-spark",
-        "source": "n8n Blog",
         "source_name": "AI HOT"
       }
     },
@@ -1332,15 +1511,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8106,
-      "importance": 0.8106,
-      "importance_score": 0.8106,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8143,
+        "recency": 0.7615,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1357,87 +1536,6 @@
         "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_bdc0816dbf06",
-      "title": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
-      "url": "https://www.aibase.com/news/31730",
-      "primary_url": "https://www.aibase.com/news/31730",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "27a583ec8e6c48cfecc240bafbed6bfb63dae6b4",
-          "title": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
-          "url": "https://www.aibase.com/news/31730",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T11:16:53.417627Z"
-        },
-        {
-          "id": "e2732d44d1f3fb8a67619b366b8ae2cf59eef543",
-          "title": "检方羁押申请披露 OpenAI 录音门新线索：嫌疑人被捕前 4 天仍与沙特王室成员密聊",
-          "url": "https://www.aibase.com/zh/news/31730",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "27a583ec8e6c48cfecc240bafbed6bfb63dae6b4",
-          "title": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
-          "url": "https://www.aibase.com/news/31730",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T11:16:53.417627Z"
-        },
-        {
-          "id": "e2732d44d1f3fb8a67619b366b8ae2cf59eef543",
-          "title": "检方羁押申请披露 OpenAI 录音门新线索：嫌疑人被捕前 4 天仍与沙特王室成员密聊",
-          "url": "https://www.aibase.com/zh/news/31730",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8237,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T11:16:53.417627Z",
-      "latest_at": "2026-10-19T11:16:53.417627Z",
-      "primary_item": {
-        "id": "27a583ec8e6c48cfecc240bafbed6bfb63dae6b4",
-        "title": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
-        "url": "https://www.aibase.com/news/31730",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
