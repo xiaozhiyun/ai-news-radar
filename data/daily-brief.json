@@ -1,8 +1,311 @@
 {
-  "generated_at": "2026-10-21T11:50:19.131601Z",
+  "generated_at": "2026-10-21T17:13:31.662464Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_d3f519557f32",
+      "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复 / Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "primary_url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b2229fc3a64e5a0eeeba3cd22feaa5a494951a20",
+          "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复 / Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T07:00:00Z"
+        },
+        {
+          "id": "6059845713389b336204469bfc3779696c929de8",
+          "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复",
+          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T07:00:00Z"
+        },
+        {
+          "id": "a94eacfb266ecb0e789807e4115efabda842ef7e",
+          "title": "“修补地球”：随着安全人员发现漏洞，全球响应工作正逐步协调",
+          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-21T16:14:45.178000Z"
+        },
+        {
+          "id": "9303c33ae28b9c907dec21193c9008c1d8678f53",
+          "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复 / Patch the Planet: global response coordination as agents uncover vulnerabilities",
+          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-21T14:03:43Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "b2229fc3a64e5a0eeeba3cd22feaa5a494951a20",
+          "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复 / Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T07:00:00Z"
+        },
+        {
+          "id": "6059845713389b336204469bfc3779696c929de8",
+          "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复",
+          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T07:00:00Z"
+        },
+        {
+          "id": "a94eacfb266ecb0e789807e4115efabda842ef7e",
+          "title": "“修补地球”：随着安全人员发现漏洞，全球响应工作正逐步协调",
+          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-21T16:14:45.178000Z"
+        },
+        {
+          "id": "9303c33ae28b9c907dec21193c9008c1d8678f53",
+          "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复 / Patch the Planet: global response coordination as agents uncover vulnerabilities",
+          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-21T14:03:43Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.9023,
+      "importance": 0.9023,
+      "importance_score": 0.9023,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8627,
+        "story_heat": 0.75
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T07:00:00Z",
+      "latest_at": "2026-10-21T16:14:45.178000Z",
+      "primary_item": {
+        "id": "b2229fc3a64e5a0eeeba3cd22feaa5a494951a20",
+        "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复 / Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+        "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f9b499debdda",
+      "title": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。 / Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "primary_url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "37909be9fb1c5e8764627a52de7bbcce57c6d8aa",
+          "title": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。 / Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T16:04:43Z"
+        },
+        {
+          "id": "0b6fd8e8a6c9279dbd2abef6b209adab5ec7d7c8",
+          "title": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析 / Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium",
+          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "37909be9fb1c5e8764627a52de7bbcce57c6d8aa",
+          "title": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。 / Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T16:04:43Z"
+        },
+        {
+          "id": "0b6fd8e8a6c9279dbd2abef6b209adab5ec7d7c8",
+          "title": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析 / Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium",
+          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.882,
+      "importance": 0.882,
+      "importance_score": 0.882,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9836,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T16:04:43Z",
+      "latest_at": "2026-10-21T17:13:31.662464Z",
+      "primary_item": {
+        "id": "37909be9fb1c5e8764627a52de7bbcce57c6d8aa",
+        "title": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。 / Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+        "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_61f4d0141ff3",
+      "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "primary_url": "https://openai.com/index/openai-models-google-cloud",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
+          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
+          "url": "https://openai.com/index/openai-models-google-cloud",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T12:00:00Z"
+        },
+        {
+          "id": "df91515a04111d4f0c04c40ee75db35dea8fac6b",
+          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
+          "url": "https://openai.com/index/openai-models-google-cloud",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T12:00:00Z"
+        },
+        {
+          "id": "7a55ae8c9fbab8c1b6f9d863f09b9cdbf4944141",
+          "title": "OpenAI 模型即将登陆 Google Cloud / OpenAI models are coming to Google Cloud",
+          "url": "https://news.ycombinator.com/item?id=50180079",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-21T12:53:11Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
+          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
+          "url": "https://openai.com/index/openai-models-google-cloud",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T12:00:00Z"
+        },
+        {
+          "id": "df91515a04111d4f0c04c40ee75db35dea8fac6b",
+          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
+          "url": "https://openai.com/index/openai-models-google-cloud",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T12:00:00Z"
+        },
+        {
+          "id": "7a55ae8c9fbab8c1b6f9d863f09b9cdbf4944141",
+          "title": "OpenAI 模型即将登陆 Google Cloud / OpenAI models are coming to Google Cloud",
+          "url": "https://news.ycombinator.com/item?id=50180079",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-21T12:53:11Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8949,
+      "importance": 0.8949,
+      "importance_score": 0.8949,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.9273,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T12:00:00Z",
+      "latest_at": "2026-10-21T12:53:11Z",
+      "primary_item": {
+        "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
+        "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
+        "url": "https://openai.com/index/openai-models-google-cloud",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_99ae24e773f8",
       "title": "SimReady Central 发布：面向机器人与 AI 工厂的仿真就绪 3D 资产开放库 / Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
@@ -57,15 +360,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8928,
-      "importance": 0.8928,
-      "importance_score": 0.8928,
+      "score": 0.8795,
+      "importance": 0.8795,
+      "importance_score": 0.8795,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9879,
+        "recency": 0.914,
         "story_heat": 0.25
       },
       "category": "official",
@@ -82,6 +385,168 @@
         "title": "SimReady Central 发布：面向机器人与 AI 工厂的仿真就绪 3D 资产开放库 / Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
         "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d31a18ead424",
+      "title": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "primary_url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "source": "Wiz：Research（安全研究）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ba444c0d9c6f0d4afda2eb020ac359ba69459422",
+          "title": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站",
+          "url": "https://www.wiz.io/blog/php2shell-php-rce",
+          "source": "Wiz：Research（安全研究）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T13:30:59Z"
+        },
+        {
+          "id": "e248f6db6bbf3956396d71d3749f9c4af7f07fb6",
+          "title": "PHP2Shell：人工智能发现PHP中存在关键的远程代码执行漏洞",
+          "url": "https://www.wiz.io/blog/php2shell-php-rce",
+          "source": "www.wiz.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-21T14:39:53.537000Z"
+        },
+        {
+          "id": "d1093f086cad190f6bcf088366ab2fa223ffc129",
+          "title": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站 / PHP2Shell: AI uncovers critical RCE in PHP",
+          "url": "https://www.wiz.io/blog/php2shell-php-rce",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-21T13:43:19Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Wiz：Research（安全研究）",
+        "www.wiz.io"
+      ],
+      "items": [
+        {
+          "id": "ba444c0d9c6f0d4afda2eb020ac359ba69459422",
+          "title": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站",
+          "url": "https://www.wiz.io/blog/php2shell-php-rce",
+          "source": "Wiz：Research（安全研究）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T13:30:59Z"
+        },
+        {
+          "id": "e248f6db6bbf3956396d71d3749f9c4af7f07fb6",
+          "title": "PHP2Shell：人工智能发现PHP中存在关键的远程代码执行漏洞",
+          "url": "https://www.wiz.io/blog/php2shell-php-rce",
+          "source": "www.wiz.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-21T14:39:53.537000Z"
+        },
+        {
+          "id": "d1093f086cad190f6bcf088366ab2fa223ffc129",
+          "title": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站 / PHP2Shell: AI uncovers critical RCE in PHP",
+          "url": "https://www.wiz.io/blog/php2shell-php-rce",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-21T13:43:19Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8472,
+      "importance": 0.8472,
+      "importance_score": 0.8472,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9478,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T13:30:59Z",
+      "latest_at": "2026-10-21T14:39:53.537000Z",
+      "primary_item": {
+        "id": "ba444c0d9c6f0d4afda2eb020ac359ba69459422",
+        "title": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站",
+        "url": "https://www.wiz.io/blog/php2shell-php-rce",
+        "source": "Wiz：Research（安全研究）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e4263c8cf454",
+      "title": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌 / GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+      "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+      "primary_url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4b2d246bdc7639580d002177b9e1dc8f11e5d834",
+          "title": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌 / GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+          "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T16:43:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4b2d246bdc7639580d002177b9e1dc8f11e5d834",
+          "title": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌 / GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+          "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T16:43:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8427,
+      "importance": 0.8427,
+      "importance_score": 0.8427,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9928,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T16:43:23Z",
+      "latest_at": "2026-10-21T16:43:23Z",
+      "primary_item": {
+        "id": "4b2d246bdc7639580d002177b9e1dc8f11e5d834",
+        "title": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌 / GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+        "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -120,15 +585,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
+      "score": 0.8127,
+      "importance": 0.8127,
+      "importance_score": 0.8127,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.893,
+        "recency": 0.8261,
         "story_heat": 0.0
       },
       "category": "official",
@@ -148,145 +613,224 @@
       }
     },
     {
-      "story_id": "story_eb477756520c",
-      "title": "3 位 Java Champion 如何使用 GitHub Copilot 提高工作效率 / How 3 Java Champions are using GitHub Copilot for increased productivity",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
+      "story_id": "story_1f51f4303e69",
+      "title": "OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响",
+      "url": "https://x.com/OpenAI/status/2112945805686604033",
+      "primary_url": "https://x.com/OpenAI/status/2112945805686604033",
+      "source": "X：OpenAI (@OpenAI)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a853390a238086bd6dc181789ce392e70ecb5e1b",
-          "title": "3 位 Java Champion 如何使用 GitHub Copilot 提高工作效率 / How 3 Java Champions are using GitHub Copilot for increased productivity",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T16:05:03Z"
+          "id": "69179414f976a75a89a283c02a7977039babf1fc",
+          "title": "OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响",
+          "url": "https://x.com/OpenAI/status/2112945805686604033",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T16:35:11Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub AI & ML"
+        "X：OpenAI (@OpenAI)"
       ],
       "items": [
         {
-          "id": "a853390a238086bd6dc181789ce392e70ecb5e1b",
-          "title": "3 位 Java Champion 如何使用 GitHub Copilot 提高工作效率 / How 3 Java Champions are using GitHub Copilot for increased productivity",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T16:05:03Z"
+          "id": "69179414f976a75a89a283c02a7977039babf1fc",
+          "title": "OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响",
+          "url": "https://x.com/OpenAI/status/2112945805686604033",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T16:35:11Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
-      "importance_label": "官方更新",
+      "score": 0.7989,
+      "importance": 0.7989,
+      "importance_score": 0.7989,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7518,
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9908,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-20T16:05:03Z",
-      "latest_at": "2026-10-20T16:05:03Z",
+      "earliest_at": "2026-10-21T16:35:11Z",
+      "latest_at": "2026-10-21T16:35:11Z",
       "primary_item": {
-        "id": "a853390a238086bd6dc181789ce392e70ecb5e1b",
-        "title": "3 位 Java Champion 如何使用 GitHub Copilot 提高工作效率 / How 3 Java Champions are using GitHub Copilot for increased productivity",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
+        "id": "69179414f976a75a89a283c02a7977039babf1fc",
+        "title": "OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响",
+        "url": "https://x.com/OpenAI/status/2112945805686604033",
+        "source": "X：OpenAI (@OpenAI)",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_f20872bccced",
-      "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
-      "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-      "primary_url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_5deb86848ff9",
+      "title": "Microsoft Research 与合作者证明 31 年历史的 KLS 猜想",
+      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
+      "primary_url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
+      "source": "Microsoft Research 博客（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
-          "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
-          "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T18:03:55Z"
+          "id": "3852a3452109f52d0b41bc1c41b5a590228dcaa4",
+          "title": "Microsoft Research 与合作者证明 31 年历史的 KLS 猜想",
+          "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
+          "source": "Microsoft Research 博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T16:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Microsoft Research 博客（RSS）"
       ],
       "items": [
         {
-          "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
-          "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
-          "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T18:03:55Z"
+          "id": "3852a3452109f52d0b41bc1c41b5a590228dcaa4",
+          "title": "Microsoft Research 与合作者证明 31 年历史的 KLS 猜想",
+          "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
+          "source": "Microsoft Research 博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
-      "importance_label": "官方更新",
+      "score": 0.7974,
+      "importance": 0.7974,
+      "importance_score": 0.7974,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7736,
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9825,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-20T18:03:55Z",
-      "latest_at": "2026-10-20T18:03:55Z",
+      "earliest_at": "2026-10-21T16:00:00Z",
+      "latest_at": "2026-10-21T16:00:00Z",
       "primary_item": {
-        "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
-        "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
-        "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "3852a3452109f52d0b41bc1c41b5a590228dcaa4",
+        "title": "Microsoft Research 与合作者证明 31 年历史的 KLS 猜想",
+        "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
+        "source": "Microsoft Research 博客（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_ca293d8533a3",
-      "title": "FairStress：对 LLM 决策公平性的更深入评估 / FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "url": "https://huggingface.co/blog/allenai/fairstress",
-      "primary_url": "https://huggingface.co/blog/allenai/fairstress",
+      "story_id": "story_c55b4c3c8ca2",
+      "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fdf4626f08a65489b996035b52c7c43640346037",
+          "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T13:57:43Z"
+        },
+        {
+          "id": "622ed04d5353537e9da2bea0925c955e480d1ced",
+          "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件 / OpenAI says an AI agent lied about disabling its safety monitoring system",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-21T13:57:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "fdf4626f08a65489b996035b52c7c43640346037",
+          "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T13:57:43Z"
+        },
+        {
+          "id": "622ed04d5353537e9da2bea0925c955e480d1ced",
+          "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件 / OpenAI says an AI agent lied about disabling its safety monitoring system",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-21T13:57:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7963,
+      "importance": 0.7963,
+      "importance_score": 0.7963,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.954,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T13:57:43Z",
+      "latest_at": "2026-10-21T13:57:43Z",
+      "primary_item": {
+        "id": "fdf4626f08a65489b996035b52c7c43640346037",
+        "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_38715d90bd30",
+      "title": "NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合 / NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "primary_url": "https://huggingface.co/blog/nvidia/kumo-forecast",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "767fafd5fec07d80e0cf120dd4c9adf5e270f093",
-          "title": "FairStress：对 LLM 决策公平性的更深入评估 / FairStress: A deeper evaluation of fairness in LLM decision-making",
-          "url": "https://huggingface.co/blog/allenai/fairstress",
+          "id": "cabb1fd5663b6037feb944cc0a9465cebfcfb6a5",
+          "title": "NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合 / NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+          "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-20T16:09:19Z"
+          "published_at": "2026-10-21T12:51:24Z"
         }
       ],
       "source_count": 1,
@@ -295,26 +839,26 @@
       ],
       "items": [
         {
-          "id": "767fafd5fec07d80e0cf120dd4c9adf5e270f093",
-          "title": "FairStress：对 LLM 决策公平性的更深入评估 / FairStress: A deeper evaluation of fairness in LLM decision-making",
-          "url": "https://huggingface.co/blog/allenai/fairstress",
+          "id": "cabb1fd5663b6037feb944cc0a9465cebfcfb6a5",
+          "title": "NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合 / NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+          "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-20T16:09:19Z"
+          "published_at": "2026-10-21T12:51:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
+      "score": 0.855,
+      "importance": 0.855,
+      "importance_score": 0.855,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7526,
+        "ai_relevance": 0.98,
+        "recency": 0.9389,
         "story_heat": 0.0
       },
       "category": "official",
@@ -323,13 +867,136 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-20T16:09:19Z",
-      "latest_at": "2026-10-20T16:09:19Z",
+      "earliest_at": "2026-10-21T12:51:24Z",
+      "latest_at": "2026-10-21T12:51:24Z",
       "primary_item": {
-        "id": "767fafd5fec07d80e0cf120dd4c9adf5e270f093",
-        "title": "FairStress：对 LLM 决策公平性的更深入评估 / FairStress: A deeper evaluation of fairness in LLM decision-making",
-        "url": "https://huggingface.co/blog/allenai/fairstress",
+        "id": "cabb1fd5663b6037feb944cc0a9465cebfcfb6a5",
+        "title": "NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合 / NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+        "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1a0c7271a843",
+      "title": "ChinaTalk 解读商务部第48号公告对AI技术出口管制的影响",
+      "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
+      "primary_url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
+      "source": "ChinaTalk（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e2e554ad641cad1a66903f41d19d00429b4c373a",
+          "title": "ChinaTalk 解读商务部第48号公告对AI技术出口管制的影响",
+          "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
+          "source": "ChinaTalk（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T13:43:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "ChinaTalk（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e2e554ad641cad1a66903f41d19d00429b4c373a",
+          "title": "ChinaTalk 解读商务部第48号公告对AI技术出口管制的影响",
+          "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
+          "source": "ChinaTalk（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T13:43:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7917,
+      "importance": 0.7917,
+      "importance_score": 0.7917,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9507,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T13:43:39Z",
+      "latest_at": "2026-10-21T13:43:39Z",
+      "primary_item": {
+        "id": "e2e554ad641cad1a66903f41d19d00429b4c373a",
+        "title": "ChinaTalk 解读商务部第48号公告对AI技术出口管制的影响",
+        "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
+        "source": "ChinaTalk（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_74fcf21eca7a",
+      "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "primary_url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
+          "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
+          "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8493,
+      "importance": 0.8493,
+      "importance_score": 0.8493,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9408,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T13:00:00Z",
+      "latest_at": "2026-10-21T13:00:00Z",
+      "primary_item": {
+        "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
+        "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+        "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -387,15 +1054,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9252,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -449,15 +1116,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7893,
-      "importance": 0.7893,
-      "importance_score": 0.7893,
+      "score": 0.7771,
+      "importance": 0.7771,
+      "importance_score": 0.7771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8362,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -473,6 +1140,68 @@
         "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9b35c0bfb2f0",
+      "title": "Granite Speech 5.0：更准确、更快地转录、翻译和归因 / Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2f4186d9925eb504caa2cd586cb2ad5824d210df",
+          "title": "Granite Speech 5.0：更准确、更快地转录、翻译和归因 / Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T14:58:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "2f4186d9925eb504caa2cd586cb2ad5824d210df",
+          "title": "Granite Speech 5.0：更准确、更快地转录、翻译和归因 / Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T14:58:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8542,
+      "importance": 0.8542,
+      "importance_score": 0.8542,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.968,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T14:58:18Z",
+      "latest_at": "2026-10-21T14:58:18Z",
+      "primary_item": {
+        "id": "2f4186d9925eb504caa2cd586cb2ad5824d210df",
+        "title": "Granite Speech 5.0：更准确、更快地转录、翻译和归因 / Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -510,15 +1239,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
+      "score": 0.7929,
+      "importance": 0.7929,
+      "importance_score": 0.7929,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7741,
+        "recency": 0.7162,
         "story_heat": 0.0
       },
       "category": "official",
@@ -535,6 +1264,67 @@
         "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c7046f8aa8cc",
+      "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
+      "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
+      "primary_url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
+      "source": "Wiz：Research（安全研究）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5be90de5fcd3b96bf2f1146cf21375b6d02a85be",
+          "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
+          "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
+          "source": "Wiz：Research（安全研究）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T13:44:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Wiz：Research（安全研究）"
+      ],
+      "items": [
+        {
+          "id": "5be90de5fcd3b96bf2f1146cf21375b6d02a85be",
+          "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
+          "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
+          "source": "Wiz：Research（安全研究）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T13:44:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7918,
+      "importance": 0.7918,
+      "importance_score": 0.7918,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9509,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T13:44:12Z",
+      "latest_at": "2026-10-21T13:44:12Z",
+      "primary_item": {
+        "id": "5be90de5fcd3b96bf2f1146cf21375b6d02a85be",
+        "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
+        "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
+        "source": "Wiz：Research（安全研究）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -591,15 +1381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7722,
-      "importance": 0.7722,
-      "importance_score": 0.7722,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8034,
+        "recency": 0.7433,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -619,752 +1409,84 @@
       }
     },
     {
-      "story_id": "story_fcd4d20eb8c0",
-      "title": "Mistral AI发布Voxtral3语音模型与语音代理SDK",
-      "url": "https://www.aibase.com/news/31776",
-      "primary_url": "https://www.aibase.com/news/31776",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "da64751ded27dd9173aef7d562b7ae70d0128694",
-          "title": "Mistral AI发布Voxtral3语音模型与语音代理SDK",
-          "url": "https://www.aibase.com/news/31776",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-21T11:50:19.131601Z"
-        },
-        {
-          "id": "7c5953ebe35ee95e608fba1a8e510100ce677bfd",
-          "title": "Mistral AI 发布 Voxtral3 语音模型与语音代理 SDK",
-          "url": "https://www.aibase.com/zh/news/31776",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "da64751ded27dd9173aef7d562b7ae70d0128694",
-          "title": "Mistral AI发布Voxtral3语音模型与语音代理SDK",
-          "url": "https://www.aibase.com/news/31776",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-21T11:50:19.131601Z"
-        },
-        {
-          "id": "7c5953ebe35ee95e608fba1a8e510100ce677bfd",
-          "title": "Mistral AI 发布 Voxtral3 语音模型与语音代理 SDK",
-          "url": "https://www.aibase.com/zh/news/31776",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T11:50:19.131601Z",
-      "latest_at": "2026-10-21T11:50:19.131601Z",
-      "primary_item": {
-        "id": "da64751ded27dd9173aef7d562b7ae70d0128694",
-        "title": "Mistral AI发布Voxtral3语音模型与语音代理SDK",
-        "url": "https://www.aibase.com/news/31776",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_59252d156fbe",
-      "title": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器",
-      "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons",
-      "primary_url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7cce9aa5c6722ff9c5e4448c2a1846f495719ba8",
-          "title": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器",
-          "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-20T12:32:56Z"
-        },
-        {
-          "id": "7a6c0b4537d6d7e8bd4aca2a194184311ae6ceaf",
-          "title": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器 / Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
-          "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-20T12:32:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "7cce9aa5c6722ff9c5e4448c2a1846f495719ba8",
-          "title": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器",
-          "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-20T12:32:56Z"
-        },
-        {
-          "id": "7a6c0b4537d6d7e8bd4aca2a194184311ae6ceaf",
-          "title": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器 / Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
-          "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-20T12:32:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7144,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-20T12:32:56Z",
-      "latest_at": "2026-10-20T12:32:56Z",
-      "primary_item": {
-        "id": "7cce9aa5c6722ff9c5e4448c2a1846f495719ba8",
-        "title": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器",
-        "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4eb9f7080b11",
-      "title": "NVIDIA Cosmos3-H-Dreams：通过生成模拟将临床手术变为现实 / NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "primary_url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "source": "Hugging Face Blog",
+      "story_id": "story_1de8e62ff715",
+      "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "primary_url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "8a4497b4c95036a1a081bc6cdcdec43689031e43",
-          "title": "NVIDIA Cosmos3-H-Dreams：通过生成模拟将临床手术变为现实 / NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-          "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-          "source": "Hugging Face Blog",
+          "id": "bb58a019ba68f6fa7d30db801c2ede3cecf3636c",
+          "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / Using thousands of AI agents to uncover new leads in biological data",
+          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-20T18:17:47Z"
+          "published_at": "2026-10-21T04:50:00Z"
+        },
+        {
+          "id": "0c4d254591046e4f818b6b7e7ff734ffb00b07f6",
+          "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索",
+          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T04:50:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hugging Face Blog"
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
       "items": [
         {
-          "id": "8a4497b4c95036a1a081bc6cdcdec43689031e43",
-          "title": "NVIDIA Cosmos3-H-Dreams：通过生成模拟将临床手术变为现实 / NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-          "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-          "source": "Hugging Face Blog",
+          "id": "bb58a019ba68f6fa7d30db801c2ede3cecf3636c",
+          "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / Using thousands of AI agents to uncover new leads in biological data",
+          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-20T18:17:47Z"
+          "published_at": "2026-10-21T04:50:00Z"
+        },
+        {
+          "id": "0c4d254591046e4f818b6b7e7ff734ffb00b07f6",
+          "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索",
+          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T04:50:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8197,
-      "importance": 0.8197,
-      "importance_score": 0.8197,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8475,
+      "importance": 0.8475,
+      "importance_score": 0.8475,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7762,
-        "story_heat": 0.0
+        "ai_relevance": 0.91,
+        "recency": 0.8361,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-20T18:17:47Z",
-      "latest_at": "2026-10-20T18:17:47Z",
-      "primary_item": {
-        "id": "8a4497b4c95036a1a081bc6cdcdec43689031e43",
-        "title": "NVIDIA Cosmos3-H-Dreams：通过生成模拟将临床手术变为现实 / NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-        "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f8d6db3ea501",
-      "title": "WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺",
-      "url": "https://x.com/rohanpaul_ai/status/2112763999586771238",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2112763999586771238",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cd2f45b4f09cb015be871810d40f575b1ab0676e",
-          "title": "WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺",
-          "url": "https://x.com/rohanpaul_ai/status/2112763999586771238",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T04:32:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "cd2f45b4f09cb015be871810d40f575b1ab0676e",
-          "title": "WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺",
-          "url": "https://x.com/rohanpaul_ai/status/2112763999586771238",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T04:32:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7886,
-      "importance": 0.7886,
-      "importance_score": 0.7886,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T04:32:45Z",
-      "latest_at": "2026-10-21T04:32:45Z",
-      "primary_item": {
-        "id": "cd2f45b4f09cb015be871810d40f575b1ab0676e",
-        "title": "WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺",
-        "url": "https://x.com/rohanpaul_ai/status/2112763999586771238",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_37991df881f8",
-      "title": "NVIDIA 联合六家供应链伙伴扩大制造产能",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
-      "primary_url": "https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
-      "source": "NVIDIA：Newsroom（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d6c08cc22c924709a36fc6b4f8013bca2903caca",
-          "title": "NVIDIA 联合六家供应链伙伴扩大制造产能",
-          "url": "https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
-          "source": "NVIDIA：Newsroom（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T10:33:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "NVIDIA：Newsroom（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d6c08cc22c924709a36fc6b4f8013bca2903caca",
-          "title": "NVIDIA 联合六家供应链伙伴扩大制造产能",
-          "url": "https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
-          "source": "NVIDIA：Newsroom（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T10:33:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9816,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-21T10:33:00Z",
-      "latest_at": "2026-10-21T10:33:00Z",
-      "primary_item": {
-        "id": "d6c08cc22c924709a36fc6b4f8013bca2903caca",
-        "title": "NVIDIA 联合六家供应链伙伴扩大制造产能",
-        "url": "https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
-        "source": "NVIDIA：Newsroom（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3e6fedc797a0",
-      "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
-      "url": "https://x.com/thsottiaux/status/2112712984644784534",
-      "primary_url": "https://x.com/thsottiaux/status/2112712984644784534",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d2a3fcc047e65166c2d5685d86f494378ea06733",
-          "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
-          "url": "https://x.com/thsottiaux/status/2112712984644784534",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T01:10:02Z"
-        },
-        {
-          "id": "30c87897a01f06e505cf703b61b01520ec34024c",
-          "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留 / Day 16/ You can now cache for 12h in the API and for logged in users across Codex &amp; Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours an...",
-          "url": "https://x.com/thsottiaux/status/2112712984644784534",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-21T01:10:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Thibault Sottiaux",
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "d2a3fcc047e65166c2d5685d86f494378ea06733",
-          "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
-          "url": "https://x.com/thsottiaux/status/2112712984644784534",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T01:10:02Z"
-        },
-        {
-          "id": "30c87897a01f06e505cf703b61b01520ec34024c",
-          "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留 / Day 16/ You can now cache for 12h in the API and for logged in users across Codex &amp; Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours an...",
-          "url": "https://x.com/thsottiaux/status/2112712984644784534",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-21T01:10:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8572,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-21T01:10:02Z",
-      "latest_at": "2026-10-21T01:10:02Z",
-      "primary_item": {
-        "id": "d2a3fcc047e65166c2d5685d86f494378ea06733",
-        "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
-        "url": "https://x.com/thsottiaux/status/2112712984644784534",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7b02d478c08b",
-      "title": "Dependabot 警报 REST API 现在包括依赖项版本 / Dependabot alerts REST API now includes dependency versions",
-      "url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
-      "primary_url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "82aeabde270f3ddfb82d3aa520e1384863f1d1b3",
-          "title": "Dependabot 警报 REST API 现在包括依赖项版本 / Dependabot alerts REST API now includes dependency versions",
-          "url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T17:13:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "82aeabde270f3ddfb82d3aa520e1384863f1d1b3",
-          "title": "Dependabot 警报 REST API 现在包括依赖项版本 / Dependabot alerts REST API now includes dependency versions",
-          "url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T17:13:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7643,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-20T17:13:40Z",
-      "latest_at": "2026-10-20T17:13:40Z",
-      "primary_item": {
-        "id": "82aeabde270f3ddfb82d3aa520e1384863f1d1b3",
-        "title": "Dependabot 警报 REST API 现在包括依赖项版本 / Dependabot alerts REST API now includes dependency versions",
-        "url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_dd8747983c69",
-      "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者",
-      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
-      "primary_url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7ee08b7c9deedd2fb82c0610b92f7c9e8bb60732",
-          "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者",
-          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-20T21:25:22Z"
-        },
-        {
-          "id": "271f5087d140a960aeb2594eae79fa131b408d06",
-          "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者 / Anthropic’s cloud partnerships are getting messy",
-          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-20T21:25:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "7ee08b7c9deedd2fb82c0610b92f7c9e8bb60732",
-          "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者",
-          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-20T21:25:22Z"
-        },
-        {
-          "id": "271f5087d140a960aeb2594eae79fa131b408d06",
-          "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者 / Anthropic’s cloud partnerships are getting messy",
-          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-20T21:25:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8121,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-20T21:25:22Z",
-      "latest_at": "2026-10-20T21:25:22Z",
+      "earliest_at": "2026-10-21T04:50:00Z",
+      "latest_at": "2026-10-21T04:50:00Z",
       "primary_item": {
-        "id": "7ee08b7c9deedd2fb82c0610b92f7c9e8bb60732",
-        "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者",
-        "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_140f65345f1e",
-      "title": "NVIDIA 扩展开源模型家族，覆盖语言、机器人、生物与量子计算以支持欧洲主权智能",
-      "url": "https://blogs.nvidia.com/blog/open-models-europe-industry",
-      "primary_url": "https://blogs.nvidia.com/blog/open-models-europe-industry",
-      "source": "NVIDIA Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b44362db3746b6c16e80bb465ef89acf19814af0",
-          "title": "NVIDIA 扩展开源模型家族，覆盖语言、机器人、生物与量子计算以支持欧洲主权智能",
-          "url": "https://blogs.nvidia.com/blog/open-models-europe-industry",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T10:00:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "NVIDIA Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b44362db3746b6c16e80bb465ef89acf19814af0",
-          "title": "NVIDIA 扩展开源模型家族，覆盖语言、机器人、生物与量子计算以支持欧洲主权智能",
-          "url": "https://blogs.nvidia.com/blog/open-models-europe-industry",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T10:00:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9738,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-21T10:00:07Z",
-      "latest_at": "2026-10-21T10:00:07Z",
-      "primary_item": {
-        "id": "b44362db3746b6c16e80bb465ef89acf19814af0",
-        "title": "NVIDIA 扩展开源模型家族，覆盖语言、机器人、生物与量子计算以支持欧洲主权智能",
-        "url": "https://blogs.nvidia.com/blog/open-models-europe-industry",
-        "source": "NVIDIA Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2f375244a117",
-      "title": "蚂蚁集团与 vLLM 社区开源量化推理内核库 Humming",
-      "url": "https://vllm.ai/blog/2026-10-21-humming",
-      "primary_url": "https://vllm.ai/blog/2026-10-21-humming",
-      "source": "vLLM 官方博客（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "860b55f3a1bccfb3e60b213333fe980b565271e1",
-          "title": "蚂蚁集团与 vLLM 社区开源量化推理内核库 Humming",
-          "url": "https://vllm.ai/blog/2026-10-21-humming",
-          "source": "vLLM 官方博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "vLLM 官方博客（RSS）"
-      ],
-      "items": [
-        {
-          "id": "860b55f3a1bccfb3e60b213333fe980b565271e1",
-          "title": "蚂蚁集团与 vLLM 社区开源量化推理内核库 Humming",
-          "url": "https://vllm.ai/blog/2026-10-21-humming",
-          "source": "vLLM 官方博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7243,
-      "importance": 0.7243,
-      "importance_score": 0.7243,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8429,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-21T00:00:00Z",
-      "latest_at": "2026-10-21T00:00:00Z",
-      "primary_item": {
-        "id": "860b55f3a1bccfb3e60b213333fe980b565271e1",
-        "title": "蚂蚁集团与 vLLM 社区开源量化推理内核库 Humming",
-        "url": "https://vllm.ai/blog/2026-10-21-humming",
-        "source": "vLLM 官方博客（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_94e7f4f5c0e5",
-      "title": "ALTK-Evolve：学习记忆如何在没有前沿模型的情况下在客户服务任务的 τ² 工作台排行榜上名列前茅 / ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d07bee5c025f33fe52ad34183452ed32dae284c7",
-          "title": "ALTK-Evolve：学习记忆如何在没有前沿模型的情况下在客户服务任务的 τ² 工作台排行榜上名列前茅 / ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T15:19:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "d07bee5c025f33fe52ad34183452ed32dae284c7",
-          "title": "ALTK-Evolve：学习记忆如何在没有前沿模型的情况下在客户服务任务的 τ² 工作台排行榜上名列前茅 / ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T15:19:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7437,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-20T15:19:48Z",
-      "latest_at": "2026-10-20T15:19:48Z",
-      "primary_item": {
-        "id": "d07bee5c025f33fe52ad34183452ed32dae284c7",
-        "title": "ALTK-Evolve：学习记忆如何在没有前沿模型的情况下在客户服务任务的 τ² 工作台排行榜上名列前茅 / ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-        "source": "Hugging Face Blog",
+        "id": "bb58a019ba68f6fa7d30db801c2ede3cecf3636c",
+        "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / Using thousands of AI agents to uncover new leads in biological data",
+        "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     }
