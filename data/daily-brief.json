@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T22:40:33.236942Z",
+  "generated_at": "2026-10-21T00:59:02.743785Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8538,
-      "importance": 0.8538,
-      "importance_score": 0.8538,
+      "score": 0.8485,
+      "importance": 0.8485,
+      "importance_score": 0.8485,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9101,
+        "recency": 0.8803,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8357,
-      "importance": 0.8357,
-      "importance_score": 0.8357,
+      "score": 0.8303,
+      "importance": 0.8303,
+      "importance_score": 0.8303,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9092,
+        "recency": 0.8794,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8325,
-      "importance": 0.8325,
-      "importance_score": 0.8325,
+      "score": 0.827,
+      "importance": 0.827,
+      "importance_score": 0.827,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9361,
+        "recency": 0.9054,
         "story_heat": 0.0
       },
       "category": "official",
@@ -224,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8299,
-      "importance": 0.8299,
-      "importance_score": 0.8299,
+      "score": 0.825,
+      "importance": 0.825,
+      "importance_score": 0.825,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8327,
+        "recency": 0.8054,
         "story_heat": 0.0
       },
       "category": "official",
@@ -286,15 +286,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.849,
-      "importance": 0.849,
-      "importance_score": 0.849,
+      "score": 0.8434,
+      "importance": 0.8434,
+      "importance_score": 0.8434,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9387,
+        "recency": 0.9079,
         "story_heat": 0.0
       },
       "category": "official",
@@ -310,6 +310,68 @@
         "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
         "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f20872bccced",
+      "title": "Updates to GitHub secret scanning",
+      "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
+      "primary_url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
+          "title": "Updates to GitHub secret scanning",
+          "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T18:03:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
+          "title": "Updates to GitHub secret scanning",
+          "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T18:03:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8269,
+      "importance": 0.8269,
+      "importance_score": 0.8269,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9049,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T18:03:55Z",
+      "latest_at": "2026-10-20T18:03:55Z",
+      "primary_item": {
+        "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
+        "title": "Updates to GitHub secret scanning",
+        "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -367,15 +429,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8025,
-      "importance": 0.8025,
-      "importance_score": 0.8025,
+      "score": 0.7967,
+      "importance": 0.7967,
+      "importance_score": 0.7967,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9716,
+        "recency": 0.9397,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -391,168 +453,6 @@
         "title": "SpaceX 财报显示 AI 业务超预期，占收入 52%",
         "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
         "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f20872bccced",
-      "title": "Updates to GitHub secret scanning",
-      "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-      "primary_url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
-          "title": "Updates to GitHub secret scanning",
-          "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T18:03:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
-          "title": "Updates to GitHub secret scanning",
-          "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T18:03:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9356,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-20T18:03:55Z",
-      "latest_at": "2026-10-20T18:03:55Z",
-      "primary_item": {
-        "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
-        "title": "Updates to GitHub secret scanning",
-        "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
-      "source": "公众号：DeepSeek（深度求索）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a7ea37a396c4ed654a39f0ec92929a9aaaf3eb10",
-          "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
-          "source": "公众号：DeepSeek（深度求索）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-20T08:54:54Z"
-        },
-        {
-          "id": "c7a2d955e11f15b98c85f6dc3ffca42eb45e7a29",
-          "title": "面壁智能解析前瞻专家调度 LES 如何让 35B MoE 在手机端侧实时无损运行",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499532&idx=1&sn=db2949b48bf8909d80def369b51a81ea",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-20T06:22:26Z"
-        },
-        {
-          "id": "1faa0a53a56db908087f2397a2d68c1d9552da79",
-          "title": "Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687365&idx=1&sn=4102098fb8725531aa2f783fa2f20f20",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-20T00:26:00Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "公众号：DeepSeek（深度求索）",
-        "公众号：数字生命卡兹克",
-        "公众号：面壁智能（MiniCPM）"
-      ],
-      "items": [
-        {
-          "id": "a7ea37a396c4ed654a39f0ec92929a9aaaf3eb10",
-          "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
-          "source": "公众号：DeepSeek（深度求索）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-20T08:54:54Z"
-        },
-        {
-          "id": "c7a2d955e11f15b98c85f6dc3ffca42eb45e7a29",
-          "title": "面壁智能解析前瞻专家调度 LES 如何让 35B MoE 在手机端侧实时无损运行",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499532&idx=1&sn=db2949b48bf8909d80def369b51a81ea",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-20T06:22:26Z"
-        },
-        {
-          "id": "1faa0a53a56db908087f2397a2d68c1d9552da79",
-          "title": "Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687365&idx=1&sn=4102098fb8725531aa2f783fa2f20f20",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-20T00:26:00Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8198,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-20T00:26:00Z",
-      "latest_at": "2026-10-20T08:54:54Z",
-      "primary_item": {
-        "id": "a7ea37a396c4ed654a39f0ec92929a9aaaf3eb10",
-        "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
-        "source": "公众号：DeepSeek（深度求索）",
         "source_name": "AI HOT"
       }
     },
@@ -610,15 +510,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7891,
-      "importance": 0.7891,
-      "importance_score": 0.7891,
+      "score": 0.784,
+      "importance": 0.784,
+      "importance_score": 0.784,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.864,
+        "recency": 0.8356,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -672,15 +572,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8419,
-      "importance": 0.8419,
-      "importance_score": 0.8419,
+      "score": 0.8366,
+      "importance": 0.8366,
+      "importance_score": 0.8366,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8994,
+        "recency": 0.8699,
         "story_heat": 0.0
       },
       "category": "official",
@@ -700,65 +600,64 @@
       }
     },
     {
-      "story_id": "story_dbaa90254253",
-      "title": "OpenAI acquires Orchestra Bio",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "primary_url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_7639655bcdf8",
+      "title": "Salesforce 豪掷 56.6 亿美元吞下 Braze：补上\"实时互动\"这块 AI 拼图",
+      "url": "https://www.aibase.com/news/31763",
+      "primary_url": "https://www.aibase.com/news/31763",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "b1081b09a5622e6a4095f68b9655d8ca3ebe9138",
-          "title": "OpenAI acquires Orchestra Bio",
-          "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T00:00:00Z"
+          "id": "1f9a57a89a221cd806fdb31d51a936d14bbc1b0b",
+          "title": "Salesforce 豪掷 56.6 亿美元吞下 Braze：补上\"实时互动\"这块 AI 拼图",
+          "url": "https://www.aibase.com/news/31763",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-21T00:59:02.743785Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "b1081b09a5622e6a4095f68b9655d8ca3ebe9138",
-          "title": "OpenAI acquires Orchestra Bio",
-          "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T00:00:00Z"
+          "id": "1f9a57a89a221cd806fdb31d51a936d14bbc1b0b",
+          "title": "Salesforce 豪掷 56.6 亿美元吞下 Braze：补上\"实时互动\"这块 AI 拼图",
+          "url": "https://www.aibase.com/news/31763",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-21T00:59:02.743785Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8017,
-      "importance": 0.8017,
-      "importance_score": 0.8017,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7208,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-20T00:00:00Z",
-      "latest_at": "2026-10-20T00:00:00Z",
+      "earliest_at": "2026-10-21T00:59:02.743785Z",
+      "latest_at": "2026-10-21T00:59:02.743785Z",
       "primary_item": {
-        "id": "b1081b09a5622e6a4095f68b9655d8ca3ebe9138",
-        "title": "OpenAI acquires Orchestra Bio",
-        "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "1f9a57a89a221cd806fdb31d51a936d14bbc1b0b",
+        "title": "Salesforce 豪掷 56.6 亿美元吞下 Braze：补上\"实时互动\"这块 AI 拼图",
+        "url": "https://www.aibase.com/news/31763",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -815,15 +714,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8014,
-      "importance": 0.8014,
-      "importance_score": 0.8014,
+      "score": 0.7956,
+      "importance": 0.7956,
+      "importance_score": 0.7956,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9821,
+        "recency": 0.9499,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -877,15 +776,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8304,
-      "importance": 0.8304,
-      "importance_score": 0.8304,
+      "score": 0.8249,
+      "importance": 0.8249,
+      "importance_score": 0.8249,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9243,
+        "recency": 0.894,
         "story_heat": 0.0
       },
       "category": "official",
@@ -905,68 +804,68 @@
       }
     },
     {
-      "story_id": "story_6a932e6613ed",
-      "title": "AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列",
-      "url": "https://www.aibase.com/news/31757",
-      "primary_url": "https://www.aibase.com/news/31757",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_6cbde97d8260",
+      "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
+      "source": "公众号：DeepSeek（深度求索）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "66d00aeb616f3d45fe8f83d7be519c122995b445",
-          "title": "AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列",
-          "url": "https://www.aibase.com/news/31757",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-20T10:25:56.357355Z"
+          "id": "a7ea37a396c4ed654a39f0ec92929a9aaaf3eb10",
+          "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
+          "source": "公众号：DeepSeek（深度求索）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T08:54:54Z"
         },
         {
-          "id": "4e2783e4e975f3fb98df128b38bfce2d6d0ad50c",
-          "title": "AI 日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列",
-          "url": "https://www.aibase.com/zh/news/31757",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "c7a2d955e11f15b98c85f6dc3ffca42eb45e7a29",
+          "title": "面壁智能解析前瞻专家调度 LES 如何让 35B MoE 在手机端侧实时无损运行",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499532&idx=1&sn=db2949b48bf8909d80def369b51a81ea",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T06:22:26Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "公众号：DeepSeek（深度求索）",
+        "公众号：面壁智能（MiniCPM）"
       ],
       "items": [
         {
-          "id": "66d00aeb616f3d45fe8f83d7be519c122995b445",
-          "title": "AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列",
-          "url": "https://www.aibase.com/news/31757",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-20T10:25:56.357355Z"
+          "id": "a7ea37a396c4ed654a39f0ec92929a9aaaf3eb10",
+          "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
+          "source": "公众号：DeepSeek（深度求索）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T08:54:54Z"
         },
         {
-          "id": "4e2783e4e975f3fb98df128b38bfce2d6d0ad50c",
-          "title": "AI 日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列",
-          "url": "https://www.aibase.com/zh/news/31757",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "c7a2d955e11f15b98c85f6dc3ffca42eb45e7a29",
+          "title": "面壁智能解析前瞻专家调度 LES 如何让 35B MoE 在手机端侧实时无损运行",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499532&idx=1&sn=db2949b48bf8909d80def369b51a81ea",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T06:22:26Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8379,
+        "recency": 0.7929,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -975,14 +874,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-20T10:25:56.357355Z",
-      "latest_at": "2026-10-20T10:25:56.357355Z",
+      "earliest_at": "2026-10-20T06:22:26Z",
+      "latest_at": "2026-10-20T08:54:54Z",
       "primary_item": {
-        "id": "66d00aeb616f3d45fe8f83d7be519c122995b445",
-        "title": "AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列",
-        "url": "https://www.aibase.com/news/31757",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "a7ea37a396c4ed654a39f0ec92929a9aaaf3eb10",
+        "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
+        "source": "公众号：DeepSeek（深度求索）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1020,15 +919,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8103,
+        "recency": 0.7837,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1080,15 +979,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
+      "score": 0.7397,
+      "importance": 0.7397,
+      "importance_score": 0.7397,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9082,
+        "recency": 0.8784,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1140,15 +1039,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9309,
+        "recency": 0.9004,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1163,6 +1062,67 @@
         "url": "https://x.com/fal/status/2112600472922333263",
         "source": "X：fal (@fal)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9aa01df5a76e",
+      "title": "SpaceX第三季度营收146亿美元:人工智能业务占比达52%并推动公司扭亏为盈",
+      "url": "https://www.aibase.com/news/31762",
+      "primary_url": "https://www.aibase.com/news/31762",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "75a7d29691b874ee4a31a92097bbe48b8ff962c4",
+          "title": "SpaceX第三季度营收146亿美元:人工智能业务占比达52%并推动公司扭亏为盈",
+          "url": "https://www.aibase.com/news/31762",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-21T00:59:02.743785Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "75a7d29691b874ee4a31a92097bbe48b8ff962c4",
+          "title": "SpaceX第三季度营收146亿美元:人工智能业务占比达52%并推动公司扭亏为盈",
+          "url": "https://www.aibase.com/news/31762",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-21T00:59:02.743785Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T00:59:02.743785Z",
+      "latest_at": "2026-10-21T00:59:02.743785Z",
+      "primary_item": {
+        "id": "75a7d29691b874ee4a31a92097bbe48b8ff962c4",
+        "title": "SpaceX第三季度营收146亿美元:人工智能业务占比达52%并推动公司扭亏为盈",
+        "url": "https://www.aibase.com/news/31762",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1200,15 +1160,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9107,
+        "recency": 0.8808,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1225,87 +1185,6 @@
         "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3ecac821cb16",
-      "title": "DeepSeek 开源推理框架 DeepInfer:推理成本成为 AI 普惠的关键一层",
-      "url": "https://www.aibase.com/news/31758",
-      "primary_url": "https://www.aibase.com/news/31758",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d99f15cf58bfef0fc8373b689f4d6809adc4ff84",
-          "title": "DeepSeek 开源推理框架 DeepInfer:推理成本成为 AI 普惠的关键一层",
-          "url": "https://www.aibase.com/news/31758",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-20T10:25:56.357355Z"
-        },
-        {
-          "id": "b2e22ee776033f9d74c65850e2aeed7cce380624",
-          "title": "DeepSeek 开源推理框架 DeepInfer：推理成本成为 AI 普惠的关键一层",
-          "url": "https://www.aibase.com/zh/news/31758",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d99f15cf58bfef0fc8373b689f4d6809adc4ff84",
-          "title": "DeepSeek 开源推理框架 DeepInfer:推理成本成为 AI 普惠的关键一层",
-          "url": "https://www.aibase.com/news/31758",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-20T10:25:56.357355Z"
-        },
-        {
-          "id": "b2e22ee776033f9d74c65850e2aeed7cce380624",
-          "title": "DeepSeek 开源推理框架 DeepInfer：推理成本成为 AI 普惠的关键一层",
-          "url": "https://www.aibase.com/zh/news/31758",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8379,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-20T10:25:56.357355Z",
-      "latest_at": "2026-10-20T10:25:56.357355Z",
-      "primary_item": {
-        "id": "d99f15cf58bfef0fc8373b689f4d6809adc4ff84",
-        "title": "DeepSeek 开源推理框架 DeepInfer:推理成本成为 AI 普惠的关键一层",
-        "url": "https://www.aibase.com/news/31758",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1343,15 +1222,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
+      "score": 0.726,
+      "importance": 0.726,
+      "importance_score": 0.726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9157,
+        "recency": 0.8857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1366,6 +1245,67 @@
         "url": "https://x.com/AravSrinivas/status/2112583333825950207",
         "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fb66f7686cc6",
+      "title": "​OpenAI 重磅上线 ChatGPT“锁定聊天”功能：四位数 PIN 码与生物识别双保险",
+      "url": "https://www.aibase.com/news/31764",
+      "primary_url": "https://www.aibase.com/news/31764",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c039c7220ec4db1cb35889f928a3ec491869ed9f",
+          "title": "​OpenAI 重磅上线 ChatGPT“锁定聊天”功能：四位数 PIN 码与生物识别双保险",
+          "url": "https://www.aibase.com/news/31764",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-21T00:59:02.743785Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c039c7220ec4db1cb35889f928a3ec491869ed9f",
+          "title": "​OpenAI 重磅上线 ChatGPT“锁定聊天”功能：四位数 PIN 码与生物识别双保险",
+          "url": "https://www.aibase.com/news/31764",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-21T00:59:02.743785Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T00:59:02.743785Z",
+      "latest_at": "2026-10-21T00:59:02.743785Z",
+      "primary_item": {
+        "id": "c039c7220ec4db1cb35889f928a3ec491869ed9f",
+        "title": "​OpenAI 重磅上线 ChatGPT“锁定聊天”功能：四位数 PIN 码与生物识别双保险",
+        "url": "https://www.aibase.com/news/31764",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
