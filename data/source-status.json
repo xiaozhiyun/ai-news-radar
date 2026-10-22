@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-10-21T23:39:34.112127Z",
+  "generated_at": "2026-10-22T01:52:56.806834Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 222,
-      "duration_ms": 2817,
+      "item_count": 209,
+      "duration_ms": 3456,
       "error": null
     },
     {
       "site_id": "curated_media",
       "site_name": "Curated Media",
       "ok": true,
-      "item_count": 34,
-      "duration_ms": 13259,
+      "item_count": 33,
+      "duration_ms": 7478,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 539,
+      "duration_ms": 503,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 31,
-      "duration_ms": 305,
+      "duration_ms": 238,
       "error": null
     },
     {
@@ -38,7 +38,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 321,
+      "duration_ms": 464,
       "error": null
     },
     {
@@ -46,15 +46,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 450,
+      "duration_ms": 417,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 338,
-      "duration_ms": 15822,
+      "item_count": 342,
+      "duration_ms": 27727,
       "error": null
     },
     {
@@ -62,15 +62,15 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 576,
+      "duration_ms": 529,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3036,
-      "duration_ms": 1214,
+      "item_count": 3038,
+      "duration_ms": 2007,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "Zeli",
       "ok": true,
       "item_count": 80,
-      "duration_ms": 884,
+      "duration_ms": 771,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "Hacker News",
       "ok": true,
       "item_count": 4,
-      "duration_ms": 6766,
+      "duration_ms": 6936,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 37,
-      "duration_ms": 445,
+      "duration_ms": 508,
       "error": null
     },
     {
@@ -102,23 +102,23 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 2013,
+      "duration_ms": 1207,
       "error": null
     },
     {
       "site_id": "aihot",
       "site_name": "AI HOT",
       "ok": true,
-      "item_count": 130,
-      "duration_ms": 3367,
+      "item_count": 115,
+      "duration_ms": 3347,
       "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "ok": true,
-      "item_count": 121,
-      "duration_ms": 1606,
+      "item_count": 122,
+      "duration_ms": 1678,
       "error": null
     },
     {
@@ -126,7 +126,7 @@
       "site_name": "WaytoAGI",
       "ok": true,
       "item_count": 3,
-      "duration_ms": 8609,
+      "duration_ms": 7101,
       "error": null
     }
   ],
@@ -134,9 +134,9 @@
   "failed_sites": [],
   "zero_item_sites": [],
   "empty_advanced_sources": [],
-  "fetched_raw_items": 5215,
-  "items_before_topic_filter": 5418,
-  "items_in_24h": 631,
+  "fetched_raw_items": 5193,
+  "items_before_topic_filter": 5639,
+  "items_in_24h": 639,
   "rss_opml": {
     "enabled": false,
     "path": null,
@@ -171,7 +171,7 @@
     "effective_result_cap": 20,
     "estimated_max_cost_usd_per_run": 0.1,
     "run_utc_hour": 0,
-    "generated_date_utc": "2026-10-21",
+    "generated_date_utc": "2026-10-22",
     "disabled_reason": "no_bearer_token"
   },
   "socialdata": {
@@ -196,7 +196,7 @@
     "run_utc_minute_max": 10,
     "last_run_at": null,
     "last_success_at": null,
-    "generated_date_utc": "2026-10-21",
+    "generated_date_utc": "2026-10-22",
     "disabled_reason": "no_api_key"
   },
   "tikhub": {
@@ -221,7 +221,7 @@
     "run_utc_minute_max": 10,
     "last_run_at": null,
     "last_success_at": null,
-    "generated_date_utc": "2026-10-21",
+    "generated_date_utc": "2026-10-22",
     "disabled_reason": "no_api_key"
   }
 }
