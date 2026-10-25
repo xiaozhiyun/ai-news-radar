@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T05:58:33.095701Z",
+  "generated_at": "2026-10-25T10:09:54.696086Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7799,
-      "importance": 0.7799,
-      "importance_score": 0.7799,
+      "score": 0.7718,
+      "importance": 0.7718,
+      "importance_score": 0.7718,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7626,
+        "recency": 0.7179,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7999,
+        "recency": 0.7529,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -142,6 +142,200 @@
         "url": "https://x.com/emollick/status/2114001653879672877",
         "source": "X：Ethan Mollick (@emollick)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "AI 助理扎堆出现，表面上都在帮你订票、卖闲置、整理工作，真正争的是“有事先找谁”的入口。作者拆解 了Instinct、Meta Muse 与 Grok Bot 的不同打法：短信联系人、社交生态、数字同事团队。没有单纯地从产品功能角度切入，还把长期记忆、云端执行、越权风险、平台封锁和盈利困境讲的很透。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-10-24",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "60acc00d2db894a036798fb5489bd7aa981ffc22",
+          "title": "AI 助理扎堆出现，表面上都在帮你订票、卖闲置、整理工作，真正争的是“有事先找谁”的入口。作者拆解 了Instinct、Meta Muse 与 Grok Bot 的不同打法：短信联系人、社交生态、数字同事团队。没有单纯地从产品功能角度切入，还把长期记忆、云端执行、越权风险、平台封锁和盈利困境讲的很透。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T10:09:54.696086Z"
+        },
+        {
+          "id": "77a541d714c0bdd3818bd33f5d77812615c114b7",
+          "title": "两个 Agent 一起干活，最累的往往是人：写完复制给审查方，改完再贴回去，窗口开得越多，协作越像接力搬砖。作者实测了 Agent Relay，展示了如何让 Claude Code 写代码、Codex 直接审查并多轮回传修改意见。安装、连接、权限设置和常见报错都配了截图，新手也能跟着跑通。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T10:09:54.696086Z"
+        },
+        {
+          "id": "009d86b27708bf8021595dc3acffd778e0040b5b",
+          "title": "很多团队把 Agent 接进 Slack，就以为大功告成了；真跑进业务后才发现，谁有权限、该记住什么、后台何时自己动起来，往往比模型会不会回答更难。LangChain 用市场、工程、内容三类内部 Agent，拆出“公司智能体”的五个关键环节：工作入口、身份权限、两层记忆、安全沙箱和定时触发。适合正把 Agent 从 Demo 推向团队协作的开发者和负责人，值得收藏细看。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T10:09:54.696086Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "社区更新 · 2026-10-24"
+      ],
+      "items": [
+        {
+          "id": "60acc00d2db894a036798fb5489bd7aa981ffc22",
+          "title": "AI 助理扎堆出现，表面上都在帮你订票、卖闲置、整理工作，真正争的是“有事先找谁”的入口。作者拆解 了Instinct、Meta Muse 与 Grok Bot 的不同打法：短信联系人、社交生态、数字同事团队。没有单纯地从产品功能角度切入，还把长期记忆、云端执行、越权风险、平台封锁和盈利困境讲的很透。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T10:09:54.696086Z"
+        },
+        {
+          "id": "77a541d714c0bdd3818bd33f5d77812615c114b7",
+          "title": "两个 Agent 一起干活，最累的往往是人：写完复制给审查方，改完再贴回去，窗口开得越多，协作越像接力搬砖。作者实测了 Agent Relay，展示了如何让 Claude Code 写代码、Codex 直接审查并多轮回传修改意见。安装、连接、权限设置和常见报错都配了截图，新手也能跟着跑通。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T10:09:54.696086Z"
+        },
+        {
+          "id": "009d86b27708bf8021595dc3acffd778e0040b5b",
+          "title": "很多团队把 Agent 接进 Slack，就以为大功告成了；真跑进业务后才发现，谁有权限、该记住什么、后台何时自己动起来，往往比模型会不会回答更难。LangChain 用市场、工程、内容三类内部 Agent，拆出“公司智能体”的五个关键环节：工作入口、身份权限、两层记忆、安全沙箱和定时触发。适合正把 Agent 从 Demo 推向团队协作的开发者和负责人，值得收藏细看。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T10:09:54.696086Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6192,
+      "importance": 0.6192,
+      "importance_score": 0.6192,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T10:09:54.696086Z",
+      "latest_at": "2026-10-25T10:09:54.696086Z",
+      "primary_item": {
+        "id": "60acc00d2db894a036798fb5489bd7aa981ffc22",
+        "title": "AI 助理扎堆出现，表面上都在帮你订票、卖闲置、整理工作，真正争的是“有事先找谁”的入口。作者拆解 了Instinct、Meta Muse 与 Grok Bot 的不同打法：短信联系人、社交生态、数字同事团队。没有单纯地从产品功能角度切入，还把长期记忆、云端执行、越权风险、平台封锁和盈利困境讲的很透。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-10-24",
+        "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_2325af3360e0",
+      "title": "Cerebras 部署了万亿参数的人工智能模型",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "primary_url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "source": "www.cerebras.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e1d77e1ce605edf952f344c063f9a4e8bb5b4e68",
+          "title": "Cerebras 部署了万亿参数的人工智能模型",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "www.cerebras.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T07:05:49.244000Z"
+        },
+        {
+          "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
+          "title": "Cerebras 部署了万亿参数的人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T01:33:49Z"
+        },
+        {
+          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
+          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "url": "https://news.ycombinator.com/item?id=50227356",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T01:33:49Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.cerebras.ai"
+      ],
+      "items": [
+        {
+          "id": "e1d77e1ce605edf952f344c063f9a4e8bb5b4e68",
+          "title": "Cerebras 部署了万亿参数的人工智能模型",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "www.cerebras.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T07:05:49.244000Z"
+        },
+        {
+          "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
+          "title": "Cerebras 部署了万亿参数的人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T01:33:49Z"
+        },
+        {
+          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
+          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "url": "https://news.ycombinator.com/item?id=50227356",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T01:33:49Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.563,
+      "importance": 0.563,
+      "importance_score": 0.563,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9567,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T01:33:49Z",
+      "latest_at": "2026-10-25T07:05:49.244000Z",
+      "primary_item": {
+        "id": "e1d77e1ce605edf952f344c063f9a4e8bb5b4e68",
+        "title": "Cerebras 部署了万亿参数的人工智能模型",
+        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+        "source": "www.cerebras.ai",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -217,15 +411,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5585,
-      "importance": 0.5585,
-      "importance_score": 0.5585,
+      "score": 0.5487,
+      "importance": 0.5487,
+      "importance_score": 0.5487,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9318,
+        "recency": 0.8771,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -315,15 +509,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5585,
-      "importance": 0.5585,
-      "importance_score": 0.5585,
+      "score": 0.5487,
+      "importance": 0.5487,
+      "importance_score": 0.5487,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9318,
+        "recency": 0.8771,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -413,15 +607,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5585,
-      "importance": 0.5585,
-      "importance_score": 0.5585,
+      "score": 0.5487,
+      "importance": 0.5487,
+      "importance_score": 0.5487,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9318,
+        "recency": 0.8771,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -439,160 +633,158 @@
       }
     },
     {
-      "story_id": "story_28adfff6869c",
-      "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
-      "url": "https://www.huxiu.com/article/4900222.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4900222.html?f=rss",
+      "story_id": "story_6cbde97d8260",
+      "title": "机器人的 o1 时刻来了！哈佛、伯克利、英伟达推出探索 Scaling Law，五大基准平均领先 37.4 个点",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069945&idx=2&sn=dc9829c3d689d8f2438948978e7607ac",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069945&idx=2&sn=dc9829c3d689d8f2438948978e7607ac",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
-          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
-          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "id": "c7540b3249fe3dea76b276256b006b3ce4e649d2",
+          "title": "机器人的 o1 时刻来了！哈佛、伯克利、英伟达推出探索 Scaling Law，五大基准平均领先 37.4 个点",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069945&idx=2&sn=dc9829c3d689d8f2438948978e7607ac",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "eb015f970177bd5a028ef514eef0140373f472a1",
-          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是“空间智能”",
-          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T02:00:00Z"
+          "id": "225e40b97914be708a18f439528c4ff4427b9786",
+          "title": "聚类也能「开箱即用」了！人大等团队开源 TabClustPFN，给张表格就能自动分组",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069889&idx=3&sn=be03ed61a5b5eccacdb6e68cce1c5210",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
-          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
-          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "id": "c7540b3249fe3dea76b276256b006b3ce4e649d2",
+          "title": "机器人的 o1 时刻来了！哈佛、伯克利、英伟达推出探索 Scaling Law，五大基准平均领先 37.4 个点",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069945&idx=2&sn=dc9829c3d689d8f2438948978e7607ac",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "eb015f970177bd5a028ef514eef0140373f472a1",
-          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是“空间智能”",
-          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T02:00:00Z"
+          "id": "225e40b97914be708a18f439528c4ff4427b9786",
+          "title": "聚类也能「开箱即用」了！人大等团队开源 TabClustPFN，给张表格就能自动分组",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069889&idx=3&sn=be03ed61a5b5eccacdb6e68cce1c5210",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5442,
-      "importance": 0.5442,
-      "importance_score": 0.5442,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.991,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-25T02:00:00Z",
-      "latest_at": "2026-10-25T05:20:57.832679Z",
+      "earliest_at": "2026-10-25T10:09:54.696086Z",
+      "latest_at": "2026-10-25T10:09:54.696086Z",
       "primary_item": {
-        "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
-        "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
-        "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+        "id": "c7540b3249fe3dea76b276256b006b3ce4e649d2",
+        "title": "机器人的 o1 时刻来了！哈佛、伯克利、英伟达推出探索 Scaling Law，五大基准平均领先 37.4 个点",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069945&idx=2&sn=dc9829c3d689d8f2438948978e7607ac",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_2325af3360e0",
-      "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "primary_url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "source": "Hacker News (黑客新闻)",
+      "story_id": "story_6c85b701ec72",
+      "title": "[OpenAI] codex 最新的功能，居然和我之前做的小功能如此雷同",
+      "url": "https://www.v2ex.com/t/1251621",
+      "primary_url": "https://www.v2ex.com/t/1251621",
+      "source": "V2EX (创意工作者社区)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
-          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-          "source": "Hacker News (黑客新闻)",
+          "id": "cc2d7ced3e1cc17a855f7d2bf982d1c572787e2c",
+          "title": "[OpenAI] codex 最新的功能，居然和我之前做的小功能如此雷同",
+          "url": "https://www.v2ex.com/t/1251621",
+          "source": "V2EX (创意工作者社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-25T01:33:49Z"
+          "published_at": "2026-10-25T04:23:27Z"
         },
         {
-          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
-          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-          "url": "https://news.ycombinator.com/item?id=50227356",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T01:33:49Z"
+          "id": "f34f54ac04453c0c4543ba748d9f78806f93bd47",
+          "title": "[分享发现] codex 最新的功能，居然和我之前做的小功能如此雷同",
+          "url": "https://www.v2ex.com/t/1251621",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T04:23:27Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "V2EX (创意工作者社区)"
       ],
       "items": [
         {
-          "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
-          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-          "source": "Hacker News (黑客新闻)",
+          "id": "cc2d7ced3e1cc17a855f7d2bf982d1c572787e2c",
+          "title": "[OpenAI] codex 最新的功能，居然和我之前做的小功能如此雷同",
+          "url": "https://www.v2ex.com/t/1251621",
+          "source": "V2EX (创意工作者社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-25T01:33:49Z"
+          "published_at": "2026-10-25T04:23:27Z"
         },
         {
-          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
-          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-          "url": "https://news.ycombinator.com/item?id=50227356",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T01:33:49Z"
+          "id": "f34f54ac04453c0c4543ba748d9f78806f93bd47",
+          "title": "[分享发现] codex 最新的功能，居然和我之前做的小功能如此雷同",
+          "url": "https://www.v2ex.com/t/1251621",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T04:23:27Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
+      "score": 0.5314,
+      "importance": 0.5314,
+      "importance_score": 0.5314,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9383,
+        "recency": 0.92,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-25T01:33:49Z",
-      "latest_at": "2026-10-25T01:33:49Z",
+      "earliest_at": "2026-10-25T04:23:27Z",
+      "latest_at": "2026-10-25T04:23:27Z",
       "primary_item": {
-        "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
-        "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
-        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-        "source": "Hacker News (黑客新闻)",
+        "id": "cc2d7ced3e1cc17a855f7d2bf982d1c572787e2c",
+        "title": "[OpenAI] codex 最新的功能，居然和我之前做的小功能如此雷同",
+        "url": "https://www.v2ex.com/t/1251621",
+        "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
       }
     },
@@ -649,15 +841,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5228,
-      "importance": 0.5228,
-      "importance_score": 0.5228,
+      "score": 0.5136,
+      "importance": 0.5136,
+      "importance_score": 0.5136,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8722,
+        "recency": 0.821,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -675,80 +867,80 @@
       }
     },
     {
-      "story_id": "story_c1c90875f513",
-      "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
-      "url": "https://www.ithome.com/1/017/557.htm",
-      "primary_url": "https://www.ithome.com/1/017/557.htm",
+      "story_id": "story_28adfff6869c",
+      "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
+      "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4900222.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "e625bb67ac65cf7e726f6ce9ead1371d11295888",
-          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
-          "url": "https://www.ithome.com/1/017/557.htm",
+          "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
+          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
+          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "449fd5155e4d91a7a0ed94028eb64d8ae8aa3e58",
-          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持苹果 MacBook 本地运行",
-          "url": "https://www.ithome.com/1/017/557.htm",
-          "source": "IT之家 (ITHome)",
+          "id": "eb015f970177bd5a028ef514eef0140373f472a1",
+          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是“空间智能”",
+          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-25T02:29:30Z"
+          "published_at": "2026-10-25T02:00:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "e625bb67ac65cf7e726f6ce9ead1371d11295888",
-          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
-          "url": "https://www.ithome.com/1/017/557.htm",
+          "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
+          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
+          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "449fd5155e4d91a7a0ed94028eb64d8ae8aa3e58",
-          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持苹果 MacBook 本地运行",
-          "url": "https://www.ithome.com/1/017/557.htm",
-          "source": "IT之家 (ITHome)",
+          "id": "eb015f970177bd5a028ef514eef0140373f472a1",
+          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是“空间智能”",
+          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-25T02:29:30Z"
+          "published_at": "2026-10-25T02:00:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5442,
-      "importance": 0.5442,
-      "importance_score": 0.5442,
+      "score": 0.5337,
+      "importance": 0.5337,
+      "importance_score": 0.5337,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.991,
+        "recency": 0.9328,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-25T02:29:30Z",
+      "earliest_at": "2026-10-25T02:00:00Z",
       "latest_at": "2026-10-25T05:20:57.832679Z",
       "primary_item": {
-        "id": "e625bb67ac65cf7e726f6ce9ead1371d11295888",
-        "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
-        "url": "https://www.ithome.com/1/017/557.htm",
+        "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
+        "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
+        "url": "https://www.huxiu.com/article/4900222.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -807,15 +999,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5094,
-      "importance": 0.5094,
-      "importance_score": 0.5094,
+      "score": 0.5009,
+      "importance": 0.5009,
+      "importance_score": 0.5009,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7976,
+        "recency": 0.7508,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -886,15 +1078,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5079,
-      "importance": 0.5079,
-      "importance_score": 0.5079,
+      "score": 0.4996,
+      "importance": 0.4996,
+      "importance_score": 0.4996,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7895,
+        "recency": 0.7432,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -965,15 +1157,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5077,
-      "importance": 0.5077,
-      "importance_score": 0.5077,
+      "score": 0.4994,
+      "importance": 0.4994,
+      "importance_score": 0.4994,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7886,
+        "recency": 0.7423,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1044,15 +1236,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.505,
-      "importance": 0.505,
-      "importance_score": 0.505,
+      "score": 0.4969,
+      "importance": 0.4969,
+      "importance_score": 0.4969,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7736,
+        "recency": 0.7282,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1067,6 +1259,85 @@
         "url": "https://homepage.farm/ai.html",
         "source": "homepage.farm",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c1c90875f513",
+      "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
+      "url": "https://www.ithome.com/1/017/557.htm",
+      "primary_url": "https://www.ithome.com/1/017/557.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "e625bb67ac65cf7e726f6ce9ead1371d11295888",
+          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
+          "url": "https://www.ithome.com/1/017/557.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "449fd5155e4d91a7a0ed94028eb64d8ae8aa3e58",
+          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持苹果 MacBook 本地运行",
+          "url": "https://www.ithome.com/1/017/557.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T02:29:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e625bb67ac65cf7e726f6ce9ead1371d11295888",
+          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
+          "url": "https://www.ithome.com/1/017/557.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "449fd5155e4d91a7a0ed94028eb64d8ae8aa3e58",
+          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持苹果 MacBook 本地运行",
+          "url": "https://www.ithome.com/1/017/557.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T02:29:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5337,
+      "importance": 0.5337,
+      "importance_score": 0.5337,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9328,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T02:29:30Z",
+      "latest_at": "2026-10-25T05:20:57.832679Z",
+      "primary_item": {
+        "id": "e625bb67ac65cf7e726f6ce9ead1371d11295888",
+        "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
+        "url": "https://www.ithome.com/1/017/557.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1123,15 +1394,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.512,
-      "importance": 0.512,
-      "importance_score": 0.512,
+      "score": 0.5034,
+      "importance": 0.5034,
+      "importance_score": 0.5034,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8124,
+        "recency": 0.7647,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1202,15 +1473,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5079,
-      "importance": 0.5079,
-      "importance_score": 0.5079,
+      "score": 0.4996,
+      "importance": 0.4996,
+      "importance_score": 0.4996,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7895,
+        "recency": 0.7432,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1281,15 +1552,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5072,
-      "importance": 0.5072,
-      "importance_score": 0.5072,
+      "score": 0.4989,
+      "importance": 0.4989,
+      "importance_score": 0.4989,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7856,
+        "recency": 0.7394,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1304,85 +1575,6 @@
         "url": "https://www.businessinsider.com/black-october-php-vulnerability-cybersecurity-ai-threat-2026-10",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_cdf697355512",
-      "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
-      "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-      "primary_url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "768deac0d0a50019e3f416322efce528fc494a6e",
-          "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
-          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ec911567cab80b5e8da3305439ff8d45712400d2",
-          "title": "多少？？中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元——TOPC TXA2 可容纳 4 个 SSD 并驱动 4 个 8K 显示器 / How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
-          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-24T20:05:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "TechRadar"
-      ],
-      "items": [
-        {
-          "id": "768deac0d0a50019e3f416322efce528fc494a6e",
-          "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
-          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ec911567cab80b5e8da3305439ff8d45712400d2",
-          "title": "多少？？中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元——TOPC TXA2 可容纳 4 个 SSD 并驱动 4 个 8K 显示器 / How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
-          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-24T20:05:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.526,
-      "importance": 0.526,
-      "importance_score": 0.526,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8902,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T20:05:00Z",
-      "latest_at": "2026-10-24T21:55:11.341853Z",
-      "primary_item": {
-        "id": "768deac0d0a50019e3f416322efce528fc494a6e",
-        "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
-        "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1439,15 +1631,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5079,
-      "importance": 0.5079,
-      "importance_score": 0.5079,
+      "score": 0.4996,
+      "importance": 0.4996,
+      "importance_score": 0.4996,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7895,
+        "recency": 0.7432,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1462,164 +1654,6 @@
         "url": "https://github.com/google-gemini/gemini-cli",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_8ef9c99c3688",
-      "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-      "primary_url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T11:18:54Z"
-        },
-        {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://news.ycombinator.com/item?id=50220204",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T11:18:54Z"
-        },
-        {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://news.ycombinator.com/item?id=50220204",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5033,
-      "importance": 0.5033,
-      "importance_score": 0.5033,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7638,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T11:18:54Z",
-      "latest_at": "2026-10-24T11:18:54Z",
-      "primary_item": {
-        "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
-        "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_a413b8342f4a",
-      "title": "Palantir联合创始人表示，他的妻子将他们的AI助手称为“Tradbot”，这个名字源自“tradwives”一词",
-      "url": "https://www.businessinsider.com/palantir-joe-lonsdale-tradwife-ai-agent-nickname-2026-10",
-      "primary_url": "https://www.businessinsider.com/palantir-joe-lonsdale-tradwife-ai-agent-nickname-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c37dec90f0cca03e9f953bae9dd92b5cc0c887db",
-          "title": "Palantir联合创始人表示，他的妻子将他们的AI助手称为“Tradbot”，这个名字源自“tradwives”一词",
-          "url": "https://www.businessinsider.com/palantir-joe-lonsdale-tradwife-ai-agent-nickname-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T10:05:38.199000Z"
-        },
-        {
-          "id": "f816d73685d9c4068286c2f2c7fc11b3b755191c",
-          "title": "Palantir联合创始人表示，他的妻子将他们的AI助手称为“Tradbot”，这个名字源自“tradwives”一词 / Palantir cofounder says his wife calls their AI agent 'Tradbot' after tradwives",
-          "url": "https://www.businessinsider.com/palantir-joe-lonsdale-tradwife-ai-agent-nickname-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-24T09:54:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "c37dec90f0cca03e9f953bae9dd92b5cc0c887db",
-          "title": "Palantir联合创始人表示，他的妻子将他们的AI助手称为“Tradbot”，这个名字源自“tradwives”一词",
-          "url": "https://www.businessinsider.com/palantir-joe-lonsdale-tradwife-ai-agent-nickname-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T10:05:38.199000Z"
-        },
-        {
-          "id": "f816d73685d9c4068286c2f2c7fc11b3b755191c",
-          "title": "Palantir联合创始人表示，他的妻子将他们的AI助手称为“Tradbot”，这个名字源自“tradwives”一词 / Palantir cofounder says his wife calls their AI agent 'Tradbot' after tradwives",
-          "url": "https://www.businessinsider.com/palantir-joe-lonsdale-tradwife-ai-agent-nickname-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-24T09:54:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5009,
-      "importance": 0.5009,
-      "importance_score": 0.5009,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7504,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T09:54:01Z",
-      "latest_at": "2026-10-24T10:05:38.199000Z",
-      "primary_item": {
-        "id": "c37dec90f0cca03e9f953bae9dd92b5cc0c887db",
-        "title": "Palantir联合创始人表示，他的妻子将他们的AI助手称为“Tradbot”，这个名字源自“tradwives”一词",
-        "url": "https://www.businessinsider.com/palantir-joe-lonsdale-tradwife-ai-agent-nickname-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
