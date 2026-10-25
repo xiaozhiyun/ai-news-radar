@@ -1,66 +1,193 @@
 {
-  "generated_at": "2026-10-25T14:23:09.804113Z",
+  "generated_at": "2026-10-25T17:52:19.884014Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_1f039fd87625",
-      "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
-      "url": "https://x.com/emollick/status/2114001653879672877",
-      "primary_url": "https://x.com/emollick/status/2114001653879672877",
-      "source": "X：Ethan Mollick (@emollick)",
-      "source_name": "AI HOT",
+      "story_id": "story_2df82173bb28",
+      "title": "AI Agent 的进步，已经不只能单看模型榜单了：同一个模型怎么分工、控成本、管记忆、接工具，正在把“能演示”转向“能长期跑”。本周论文精选把十个方向串了起来：给不同任务配专属 Harness，让小模型接管高频工具选择，直接管理 KV 缓存压低长任务成本，从经验中进化操作界面；也提醒大家，自我改进会遗忘，记忆系统未必更省钱。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-10-25",
+      "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
-          "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
-          "url": "https://x.com/emollick/status/2114001653879672877",
-          "source": "X：Ethan Mollick (@emollick)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T14:30:45Z"
+          "id": "098e73761626b0ed61cdfbd4a460edb8f4a2108c",
+          "title": "AI Agent 的进步，已经不只能单看模型榜单了：同一个模型怎么分工、控成本、管记忆、接工具，正在把“能演示”转向“能长期跑”。本周论文精选把十个方向串了起来：给不同任务配专属 Harness，让小模型接管高频工具选择，直接管理 KV 缓存压低长任务成本，从经验中进化操作界面；也提醒大家，自我改进会遗忘，记忆系统未必更省钱。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T17:52:19.884014Z"
+        },
+        {
+          "id": "31c7d4e0288195ea7c8b5ebb9734c6a1b77c19fb",
+          "title": "不少企业搭建多智能体时顺着组织架构拆分大量子智能体，会引发延迟高、信息损耗、体验不一致等问题。Anthropic 分享了他们的落地思路，倡导把大部分子智能体收拢进主智能体循环，依靠渐进式披露技能、工具管控上下文。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T17:52:19.884014Z"
+        },
+        {
+          "id": "36b9aee4afa496f095c499a2c8cc24e671897c69",
+          "title": "多 Agent 做久了，常见的情况是每个团队各养一个子 Agent：上下文被反复摘要、提示词互相打架、评估碎成小块，用户还得为延迟买单。Anthropic 官方给出了一条收敛路径，读完你会知道哪些该留、哪些该合并。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T17:52:19.884014Z"
+        },
+        {
+          "id": "53927b9c3eb0c49c0ea136438836fa3986500dcb",
+          "title": "大家都在做 Personal Agent，可不少产品一打开还是一排功能、一次会话、一份长报告。用户得反复交代背景、盯着执行，最后它只是偶尔会打开的工具。本篇文章从真实使用体验出发，给出了一个很值得参考的产品、组织与技术框架。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T17:52:19.884014Z"
+        },
+        {
+          "id": "3eecbc567c8a5ca27ebc1cd8d98f5fa3022ff636",
+          "title": "很多开发者一上来就堆砌多智能体架构，很容易造成过度设计。LangChain这篇文章给出一套落地选型思路，建议优先用单智能体，仅在上下文受限、跨团队维护时才转向多智能体。文中还拆解了四类主流模式，对照并行能力、状态流转、Token开销做场景和性能对比。读完你也可以快速匹配业务需求，选对协调方案，在可控延迟与成本下搭建稳定的智能体工作流。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T17:52:19.884014Z"
+        },
+        {
+          "id": "60acc00d2db894a036798fb5489bd7aa981ffc22",
+          "title": "AI 助理扎堆出现，表面上都在帮你订票、卖闲置、整理工作，真正争的是“有事先找谁”的入口。作者拆解 了Instinct、Meta Muse 与 Grok Bot 的不同打法：短信联系人、社交生态、数字同事团队。没有单纯地从产品功能角度切入，还把长期记忆、云端执行、越权风险、平台封锁和盈利困境讲的很透。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T10:09:54.696086Z"
+        },
+        {
+          "id": "77a541d714c0bdd3818bd33f5d77812615c114b7",
+          "title": "两个 Agent 一起干活，最累的往往是人：写完复制给审查方，改完再贴回去，窗口开得越多，协作越像接力搬砖。作者实测了 Agent Relay，展示了如何让 Claude Code 写代码、Codex 直接审查并多轮回传修改意见。安装、连接、权限设置和常见报错都配了截图，新手也能跟着跑通。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T10:09:54.696086Z"
+        },
+        {
+          "id": "009d86b27708bf8021595dc3acffd778e0040b5b",
+          "title": "很多团队把 Agent 接进 Slack，就以为大功告成了；真跑进业务后才发现，谁有权限、该记住什么、后台何时自己动起来，往往比模型会不会回答更难。LangChain 用市场、工程、内容三类内部 Agent，拆出“公司智能体”的五个关键环节：工作入口、身份权限、两层记忆、安全沙箱和定时触发。适合正把 Agent 从 Demo 推向团队协作的开发者和负责人，值得收藏细看。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T10:09:54.696086Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 8,
       "source_names": [
-        "X：Ethan Mollick (@emollick)"
+        "社区更新 · 2026-10-24",
+        "社区更新 · 2026-10-25"
       ],
       "items": [
         {
-          "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
-          "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
-          "url": "https://x.com/emollick/status/2114001653879672877",
-          "source": "X：Ethan Mollick (@emollick)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T14:30:45Z"
+          "id": "098e73761626b0ed61cdfbd4a460edb8f4a2108c",
+          "title": "AI Agent 的进步，已经不只能单看模型榜单了：同一个模型怎么分工、控成本、管记忆、接工具，正在把“能演示”转向“能长期跑”。本周论文精选把十个方向串了起来：给不同任务配专属 Harness，让小模型接管高频工具选择，直接管理 KV 缓存压低长任务成本，从经验中进化操作界面；也提醒大家，自我改进会遗忘，记忆系统未必更省钱。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T17:52:19.884014Z"
+        },
+        {
+          "id": "31c7d4e0288195ea7c8b5ebb9734c6a1b77c19fb",
+          "title": "不少企业搭建多智能体时顺着组织架构拆分大量子智能体，会引发延迟高、信息损耗、体验不一致等问题。Anthropic 分享了他们的落地思路，倡导把大部分子智能体收拢进主智能体循环，依靠渐进式披露技能、工具管控上下文。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T17:52:19.884014Z"
+        },
+        {
+          "id": "36b9aee4afa496f095c499a2c8cc24e671897c69",
+          "title": "多 Agent 做久了，常见的情况是每个团队各养一个子 Agent：上下文被反复摘要、提示词互相打架、评估碎成小块，用户还得为延迟买单。Anthropic 官方给出了一条收敛路径，读完你会知道哪些该留、哪些该合并。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T17:52:19.884014Z"
+        },
+        {
+          "id": "53927b9c3eb0c49c0ea136438836fa3986500dcb",
+          "title": "大家都在做 Personal Agent，可不少产品一打开还是一排功能、一次会话、一份长报告。用户得反复交代背景、盯着执行，最后它只是偶尔会打开的工具。本篇文章从真实使用体验出发，给出了一个很值得参考的产品、组织与技术框架。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T17:52:19.884014Z"
+        },
+        {
+          "id": "3eecbc567c8a5ca27ebc1cd8d98f5fa3022ff636",
+          "title": "很多开发者一上来就堆砌多智能体架构，很容易造成过度设计。LangChain这篇文章给出一套落地选型思路，建议优先用单智能体，仅在上下文受限、跨团队维护时才转向多智能体。文中还拆解了四类主流模式，对照并行能力、状态流转、Token开销做场景和性能对比。读完你也可以快速匹配业务需求，选对协调方案，在可控延迟与成本下搭建稳定的智能体工作流。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T17:52:19.884014Z"
+        },
+        {
+          "id": "60acc00d2db894a036798fb5489bd7aa981ffc22",
+          "title": "AI 助理扎堆出现，表面上都在帮你订票、卖闲置、整理工作，真正争的是“有事先找谁”的入口。作者拆解 了Instinct、Meta Muse 与 Grok Bot 的不同打法：短信联系人、社交生态、数字同事团队。没有单纯地从产品功能角度切入，还把长期记忆、云端执行、越权风险、平台封锁和盈利困境讲的很透。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T10:09:54.696086Z"
+        },
+        {
+          "id": "77a541d714c0bdd3818bd33f5d77812615c114b7",
+          "title": "两个 Agent 一起干活，最累的往往是人：写完复制给审查方，改完再贴回去，窗口开得越多，协作越像接力搬砖。作者实测了 Agent Relay，展示了如何让 Claude Code 写代码、Codex 直接审查并多轮回传修改意见。安装、连接、权限设置和常见报错都配了截图，新手也能跟着跑通。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T10:09:54.696086Z"
+        },
+        {
+          "id": "009d86b27708bf8021595dc3acffd778e0040b5b",
+          "title": "很多团队把 Agent 接进 Slack，就以为大功告成了；真跑进业务后才发现，谁有权限、该记住什么、后台何时自己动起来，往往比模型会不会回答更难。LangChain 用市场、工程、内容三类内部 Agent，拆出“公司智能体”的五个关键环节：工作入口、身份权限、两层记忆、安全沙箱和定时触发。适合正把 Agent 从 Demo 推向团队协作的开发者和负责人，值得收藏细看。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T10:09:54.696086Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
-      "importance_label": "行业动态",
+      "item_count": 8,
+      "duplicate_count": 8,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7084,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-24T14:30:45Z",
-      "latest_at": "2026-10-24T14:30:45Z",
+      "earliest_at": "2026-10-25T10:09:54.696086Z",
+      "latest_at": "2026-10-25T17:52:19.884014Z",
       "primary_item": {
-        "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
-        "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
-        "url": "https://x.com/emollick/status/2114001653879672877",
-        "source": "X：Ethan Mollick (@emollick)",
-        "source_name": "AI HOT"
+        "id": "098e73761626b0ed61cdfbd4a460edb8f4a2108c",
+        "title": "AI Agent 的进步，已经不只能单看模型榜单了：同一个模型怎么分工、控成本、管记忆、接工具，正在把“能演示”转向“能长期跑”。本周论文精选把十个方向串了起来：给不同任务配专属 Harness，让小模型接管高频工具选择，直接管理 KV 缓存压低长任务成本，从经验中进化操作界面；也提醒大家，自我改进会遗忘，记忆系统未必更省钱。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-10-25",
+        "source_name": "WaytoAGI"
       }
     },
     {
@@ -116,15 +243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.613,
-      "importance": 0.613,
-      "importance_score": 0.613,
+      "score": 0.6043,
+      "importance": 0.6043,
+      "importance_score": 0.6043,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9862,
+        "recency": 0.9378,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -142,99 +269,198 @@
       }
     },
     {
-      "story_id": "story_2df82173bb28",
-      "title": "AI 助理扎堆出现，表面上都在帮你订票、卖闲置、整理工作，真正争的是“有事先找谁”的入口。作者拆解 了Instinct、Meta Muse 与 Grok Bot 的不同打法：短信联系人、社交生态、数字同事团队。没有单纯地从产品功能角度切入，还把长期记忆、云端执行、越权风险、平台封锁和盈利困境讲的很透。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-10-24",
-      "source_name": "WaytoAGI",
+      "story_id": "story_b82b80f16782",
+      "title": "尼康摄影大赛获奖者因科学家发现人工智能痕迹而被剥夺头衔",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "primary_url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "source": "www.techspot.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "60acc00d2db894a036798fb5489bd7aa981ffc22",
-          "title": "AI 助理扎堆出现，表面上都在帮你订票、卖闲置、整理工作，真正争的是“有事先找谁”的入口。作者拆解 了Instinct、Meta Muse 与 Grok Bot 的不同打法：短信联系人、社交生态、数字同事团队。没有单纯地从产品功能角度切入，还把长期记忆、云端执行、越权风险、平台封锁和盈利困境讲的很透。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-24",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-25T10:09:54.696086Z"
+          "id": "5f4a645b6ecf08823c503793ec608d74665e0dc7",
+          "title": "尼康摄影大赛获奖者因科学家发现人工智能痕迹而被剥夺头衔",
+          "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+          "source": "www.techspot.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T17:35:52.333000Z"
         },
         {
-          "id": "77a541d714c0bdd3818bd33f5d77812615c114b7",
-          "title": "两个 Agent 一起干活，最累的往往是人：写完复制给审查方，改完再贴回去，窗口开得越多，协作越像接力搬砖。作者实测了 Agent Relay，展示了如何让 Claude Code 写代码、Codex 直接审查并多轮回传修改意见。安装、连接、权限设置和常见报错都配了截图，新手也能跟着跑通。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-24",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-25T10:09:54.696086Z"
+          "id": "137b0ff5eda3bddef55a0391cbec6684558df0cb",
+          "title": "尼康摄影大赛获奖者因科学家发现人工智能痕迹而被剥夺头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+          "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T09:51:17Z"
         },
         {
-          "id": "009d86b27708bf8021595dc3acffd778e0040b5b",
-          "title": "很多团队把 Agent 接进 Slack，就以为大功告成了；真跑进业务后才发现，谁有权限、该记住什么、后台何时自己动起来，往往比模型会不会回答更难。LangChain 用市场、工程、内容三类内部 Agent，拆出“公司智能体”的五个关键环节：工作入口、身份权限、两层记忆、安全沙箱和定时触发。适合正把 Agent 从 Demo 推向团队协作的开发者和负责人，值得收藏细看。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-24",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-25T10:09:54.696086Z"
+          "id": "9ead1b7969bc141da842777d5178ddf70c5e2547",
+          "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+          "url": "https://news.ycombinator.com/item?id=50229827",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T09:51:17Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "社区更新 · 2026-10-24"
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.techspot.com"
       ],
       "items": [
         {
-          "id": "60acc00d2db894a036798fb5489bd7aa981ffc22",
-          "title": "AI 助理扎堆出现，表面上都在帮你订票、卖闲置、整理工作，真正争的是“有事先找谁”的入口。作者拆解 了Instinct、Meta Muse 与 Grok Bot 的不同打法：短信联系人、社交生态、数字同事团队。没有单纯地从产品功能角度切入，还把长期记忆、云端执行、越权风险、平台封锁和盈利困境讲的很透。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-24",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-25T10:09:54.696086Z"
+          "id": "5f4a645b6ecf08823c503793ec608d74665e0dc7",
+          "title": "尼康摄影大赛获奖者因科学家发现人工智能痕迹而被剥夺头衔",
+          "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+          "source": "www.techspot.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T17:35:52.333000Z"
         },
         {
-          "id": "77a541d714c0bdd3818bd33f5d77812615c114b7",
-          "title": "两个 Agent 一起干活，最累的往往是人：写完复制给审查方，改完再贴回去，窗口开得越多，协作越像接力搬砖。作者实测了 Agent Relay，展示了如何让 Claude Code 写代码、Codex 直接审查并多轮回传修改意见。安装、连接、权限设置和常见报错都配了截图，新手也能跟着跑通。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-24",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-25T10:09:54.696086Z"
+          "id": "137b0ff5eda3bddef55a0391cbec6684558df0cb",
+          "title": "尼康摄影大赛获奖者因科学家发现人工智能痕迹而被剥夺头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+          "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T09:51:17Z"
         },
         {
-          "id": "009d86b27708bf8021595dc3acffd778e0040b5b",
-          "title": "很多团队把 Agent 接进 Slack，就以为大功告成了；真跑进业务后才发现，谁有权限、该记住什么、后台何时自己动起来，往往比模型会不会回答更难。LangChain 用市场、工程、内容三类内部 Agent，拆出“公司智能体”的五个关键环节：工作入口、身份权限、两层记忆、安全沙箱和定时触发。适合正把 Agent 从 Demo 推向团队协作的开发者和负责人，值得收藏细看。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-24",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-25T10:09:54.696086Z"
+          "id": "9ead1b7969bc141da842777d5178ddf70c5e2547",
+          "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+          "url": "https://news.ycombinator.com/item?id=50229827",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T09:51:17Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6086,
-      "importance": 0.6086,
-      "importance_score": 0.6086,
+      "score": 0.5701,
+      "importance": 0.5701,
+      "importance_score": 0.5701,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
-        "source_tier": 0.54,
+        "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9409,
+        "recency": 0.996,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-25T10:09:54.696086Z",
-      "latest_at": "2026-10-25T10:09:54.696086Z",
+      "earliest_at": "2026-10-25T09:51:17Z",
+      "latest_at": "2026-10-25T17:35:52.333000Z",
       "primary_item": {
-        "id": "60acc00d2db894a036798fb5489bd7aa981ffc22",
-        "title": "AI 助理扎堆出现，表面上都在帮你订票、卖闲置、整理工作，真正争的是“有事先找谁”的入口。作者拆解 了Instinct、Meta Muse 与 Grok Bot 的不同打法：短信联系人、社交生态、数字同事团队。没有单纯地从产品功能角度切入，还把长期记忆、云端执行、越权风险、平台封锁和盈利困境讲的很透。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-10-24",
-        "source_name": "WaytoAGI"
+        "id": "5f4a645b6ecf08823c503793ec608d74665e0dc7",
+        "title": "尼康摄影大赛获奖者因科学家发现人工智能痕迹而被剥夺头衔",
+        "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+        "source": "www.techspot.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d3af181c96b1",
+      "title": "1505年纽伦堡骑士的工具书",
+      "url": "https://loeffelholz-codex.org/en",
+      "primary_url": "https://loeffelholz-codex.org/en",
+      "source": "loeffelholz-codex.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b979b0f33cf0ade407c4e671398efb2db7d0a879",
+          "title": "1505年纽伦堡骑士的工具书",
+          "url": "https://loeffelholz-codex.org/en",
+          "source": "loeffelholz-codex.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T15:28:39.190000Z"
+        },
+        {
+          "id": "1388c384af8a05c3c8374d104214f37ceb0b8363",
+          "title": "1505年纽伦堡骑士的工具手册",
+          "url": "https://loeffelholz-codex.org/en",
+          "source": "loeffelholz-codex.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T12:48:50.500000Z"
+        },
+        {
+          "id": "0bf12c7e4786f6c2c1234d885fbd25817bb4d175",
+          "title": "1505年纽伦堡骑士的工具手册 / Tool book of a Nuremberg knight from 1505",
+          "url": "https://loeffelholz-codex.org/en",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T12:37:54Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "loeffelholz-codex.org"
+      ],
+      "items": [
+        {
+          "id": "b979b0f33cf0ade407c4e671398efb2db7d0a879",
+          "title": "1505年纽伦堡骑士的工具书",
+          "url": "https://loeffelholz-codex.org/en",
+          "source": "loeffelholz-codex.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T15:28:39.190000Z"
+        },
+        {
+          "id": "1388c384af8a05c3c8374d104214f37ceb0b8363",
+          "title": "1505年纽伦堡骑士的工具手册",
+          "url": "https://loeffelholz-codex.org/en",
+          "source": "loeffelholz-codex.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T12:48:50.500000Z"
+        },
+        {
+          "id": "0bf12c7e4786f6c2c1234d885fbd25817bb4d175",
+          "title": "1505年纽伦堡骑士的工具手册 / Tool book of a Nuremberg knight from 1505",
+          "url": "https://loeffelholz-codex.org/en",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T12:37:54Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5647,
+      "importance": 0.5647,
+      "importance_score": 0.5647,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.966,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T12:37:54Z",
+      "latest_at": "2026-10-25T15:28:39.190000Z",
+      "primary_item": {
+        "id": "b979b0f33cf0ade407c4e671398efb2db7d0a879",
+        "title": "1505年纽伦堡骑士的工具书",
+        "url": "https://loeffelholz-codex.org/en",
+        "source": "loeffelholz-codex.org",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -310,15 +536,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5528,
-      "importance": 0.5528,
-      "importance_score": 0.5528,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9001,
+        "recency": 0.8559,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -332,6 +558,164 @@
         "title": "Cerebras 部署了万亿参数的人工智能模型",
         "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
         "source": "www.cerebras.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_59ddf06fb26d",
+      "title": "人工智能“吞噬”数学的那一年 / A Mathematician Reads the AI Future",
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
+      "primary_url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "c4305701e1aaaa42f5cbd1650067e74e1037a58e",
+          "title": "人工智能“吞噬”数学的那一年 / A Mathematician Reads the AI Future",
+          "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T16:31:21Z"
+        },
+        {
+          "id": "50d282df77a830680fe5f5bd7a07416336fbe67a",
+          "title": "人工智能“吞噬”数学的那一年",
+          "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
+          "source": "www.theatlantic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T12:17:36.206000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.theatlantic.com"
+      ],
+      "items": [
+        {
+          "id": "c4305701e1aaaa42f5cbd1650067e74e1037a58e",
+          "title": "人工智能“吞噬”数学的那一年 / A Mathematician Reads the AI Future",
+          "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T16:31:21Z"
+        },
+        {
+          "id": "50d282df77a830680fe5f5bd7a07416336fbe67a",
+          "title": "人工智能“吞噬”数学的那一年",
+          "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
+          "source": "www.theatlantic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T12:17:36.206000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9807,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T12:17:36.206000Z",
+      "latest_at": "2026-10-25T16:31:21Z",
+      "primary_item": {
+        "id": "c4305701e1aaaa42f5cbd1650067e74e1037a58e",
+        "title": "人工智能“吞噬”数学的那一年 / A Mathematician Reads the AI Future",
+        "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_600522d60bd8",
+      "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报”",
+      "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+      "primary_url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0d2d671b00f09504c983f1c73a39ca84dfff4449",
+          "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报”",
+          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T16:15:48.897000Z"
+        },
+        {
+          "id": "bdec0c860887ebbad6f1aa29f69a62ec04593452",
+          "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报” / Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-25T16:02:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "0d2d671b00f09504c983f1c73a39ca84dfff4449",
+          "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报”",
+          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T16:15:48.897000Z"
+        },
+        {
+          "id": "bdec0c860887ebbad6f1aa29f69a62ec04593452",
+          "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报” / Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-25T16:02:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.977,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T16:02:08Z",
+      "latest_at": "2026-10-25T16:15:48.897000Z",
+      "primary_item": {
+        "id": "0d2d671b00f09504c983f1c73a39ca84dfff4449",
+        "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报”",
+        "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -389,15 +773,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.537,
+      "importance": 0.537,
+      "importance_score": 0.537,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9512,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -468,15 +852,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.537,
+      "importance": 0.537,
+      "importance_score": 0.537,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9509,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -494,81 +878,178 @@
       }
     },
     {
-      "story_id": "story_d3af181c96b1",
-      "title": "1505年纽伦堡骑士的工具手册",
-      "url": "https://loeffelholz-codex.org/en",
-      "primary_url": "https://loeffelholz-codex.org/en",
-      "source": "loeffelholz-codex.org",
-      "source_name": "Buzzing",
+      "story_id": "story_e8de9e0842a9",
+      "title": "Lego collaboration with Daft Punk",
+      "url": "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
+      "primary_url": "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "1388c384af8a05c3c8374d104214f37ceb0b8363",
-          "title": "1505年纽伦堡骑士的工具手册",
-          "url": "https://loeffelholz-codex.org/en",
-          "source": "loeffelholz-codex.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T12:48:50.500000Z"
+          "id": "6f4caf570ac064b34a8deab27026879f5218667c",
+          "title": "Lego collaboration with Daft Punk",
+          "url": "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-25T12:48:11Z"
         },
         {
-          "id": "0bf12c7e4786f6c2c1234d885fbd25817bb4d175",
-          "title": "1505年纽伦堡骑士的工具手册 / Tool book of a Nuremberg knight from 1505",
-          "url": "https://loeffelholz-codex.org/en",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T12:37:54Z"
+          "id": "a1712e2bea493805aa25959ff0eec3f24b76f1e4",
+          "title": "乐高集团透露与 Daft Punk 的合作 / The Lego group reveals collaboration with Daft Punk",
+          "url": "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-25T12:48:11Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "loeffelholz-codex.org"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "1388c384af8a05c3c8374d104214f37ceb0b8363",
-          "title": "1505年纽伦堡骑士的工具手册",
-          "url": "https://loeffelholz-codex.org/en",
-          "source": "loeffelholz-codex.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T12:48:50.500000Z"
+          "id": "6f4caf570ac064b34a8deab27026879f5218667c",
+          "title": "Lego collaboration with Daft Punk",
+          "url": "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-25T12:48:11Z"
         },
         {
-          "id": "0bf12c7e4786f6c2c1234d885fbd25817bb4d175",
-          "title": "1505年纽伦堡骑士的工具手册 / Tool book of a Nuremberg knight from 1505",
-          "url": "https://loeffelholz-codex.org/en",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T12:37:54Z"
+          "id": "a1712e2bea493805aa25959ff0eec3f24b76f1e4",
+          "title": "乐高集团透露与 Daft Punk 的合作 / The Lego group reveals collaboration with Daft Punk",
+          "url": "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-25T12:48:11Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5418,
-      "importance": 0.5418,
-      "importance_score": 0.5418,
+      "score": 0.5331,
+      "importance": 0.5331,
+      "importance_score": 0.5331,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9776,
+        "recency": 0.9294,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-25T12:37:54Z",
-      "latest_at": "2026-10-25T12:48:50.500000Z",
+      "earliest_at": "2026-10-25T12:48:11Z",
+      "latest_at": "2026-10-25T12:48:11Z",
       "primary_item": {
-        "id": "1388c384af8a05c3c8374d104214f37ceb0b8363",
-        "title": "1505年纽伦堡骑士的工具手册",
-        "url": "https://loeffelholz-codex.org/en",
-        "source": "loeffelholz-codex.org",
+        "id": "6f4caf570ac064b34a8deab27026879f5218667c",
+        "title": "Lego collaboration with Daft Punk",
+        "url": "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_8f5707e9a13c",
+      "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "primary_url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "source": "www.apricitas.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
+          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "www.apricitas.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T01:05:14.415000Z"
+        },
+        {
+          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
+          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T23:11:54Z"
+        },
+        {
+          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
+          "title": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "url": "https://news.ycombinator.com/item?id=50226419",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T23:11:54Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.apricitas.io"
+      ],
+      "items": [
+        {
+          "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
+          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "www.apricitas.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T01:05:14.415000Z"
+        },
+        {
+          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
+          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T23:11:54Z"
+        },
+        {
+          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
+          "title": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "url": "https://news.ycombinator.com/item?id=50226419",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T23:11:54Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7848,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T23:11:54Z",
+      "latest_at": "2026-10-25T01:05:14.415000Z",
+      "primary_item": {
+        "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
+        "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
+        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+        "source": "www.apricitas.io",
         "source_name": "Buzzing"
       }
     },
@@ -645,15 +1126,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5393,
-      "importance": 0.5393,
-      "importance_score": 0.5393,
+      "score": 0.532,
+      "importance": 0.532,
+      "importance_score": 0.532,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8252,
+        "recency": 0.7847,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -743,15 +1224,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5393,
-      "importance": 0.5393,
-      "importance_score": 0.5393,
+      "score": 0.532,
+      "importance": 0.532,
+      "importance_score": 0.532,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8252,
+        "recency": 0.7847,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -766,262 +1247,6 @@
         "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
         "source": "www.apollo.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8f5707e9a13c",
-      "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "primary_url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "source": "www.apricitas.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
-          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-          "source": "www.apricitas.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T01:05:14.415000Z"
-        },
-        {
-          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
-          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T23:11:54Z"
-        },
-        {
-          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
-          "title": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "url": "https://news.ycombinator.com/item?id=50226419",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T23:11:54Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.apricitas.io"
-      ],
-      "items": [
-        {
-          "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
-          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-          "source": "www.apricitas.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T01:05:14.415000Z"
-        },
-        {
-          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
-          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T23:11:54Z"
-        },
-        {
-          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
-          "title": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "url": "https://news.ycombinator.com/item?id=50226419",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T23:11:54Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5393,
-      "importance": 0.5393,
-      "importance_score": 0.5393,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8253,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T23:11:54Z",
-      "latest_at": "2026-10-25T01:05:14.415000Z",
-      "primary_item": {
-        "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
-        "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
-        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-        "source": "www.apricitas.io",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a3b16960f1a4",
-      "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
-      "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
-      "primary_url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6a07af57ba18514b3aaf7ad05f6c1bea25554ece",
-          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
-          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T11:14:34.160000Z"
-        },
-        {
-          "id": "141e210f28cacdcbcf9f59f749eada004f782ca1",
-          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势 / One of Google DeepMind's top execs says lifelong learners will have an edge in the AI workplace",
-          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-25T11:00:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "6a07af57ba18514b3aaf7ad05f6c1bea25554ece",
-          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
-          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T11:14:34.160000Z"
-        },
-        {
-          "id": "141e210f28cacdcbcf9f59f749eada004f782ca1",
-          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势 / One of Google DeepMind's top execs says lifelong learners will have an edge in the AI workplace",
-          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-25T11:00:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5378,
-      "importance": 0.5378,
-      "importance_score": 0.5378,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9556,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-25T11:00:01Z",
-      "latest_at": "2026-10-25T11:14:34.160000Z",
-      "primary_item": {
-        "id": "6a07af57ba18514b3aaf7ad05f6c1bea25554ece",
-        "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
-        "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b82b80f16782",
-      "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
-      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-      "primary_url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "137b0ff5eda3bddef55a0391cbec6684558df0cb",
-          "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
-          "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T09:51:17Z"
-        },
-        {
-          "id": "9ead1b7969bc141da842777d5178ddf70c5e2547",
-          "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
-          "url": "https://news.ycombinator.com/item?id=50229827",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T09:51:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "137b0ff5eda3bddef55a0391cbec6684558df0cb",
-          "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
-          "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T09:51:17Z"
-        },
-        {
-          "id": "9ead1b7969bc141da842777d5178ddf70c5e2547",
-          "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
-          "url": "https://news.ycombinator.com/item?id=50229827",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T09:51:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9367,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-25T09:51:17Z",
-      "latest_at": "2026-10-25T09:51:17Z",
-      "primary_item": {
-        "id": "137b0ff5eda3bddef55a0391cbec6684558df0cb",
-        "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
-        "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1077,15 +1302,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5216,
-      "importance": 0.5216,
-      "importance_score": 0.5216,
+      "score": 0.514,
+      "importance": 0.514,
+      "importance_score": 0.514,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8656,
+        "recency": 0.8231,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1156,15 +1381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.537,
+      "importance": 0.537,
+      "importance_score": 0.537,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9509,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1179,6 +1404,85 @@
         "url": "https://www.huxiu.com/article/4900321.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_a3b16960f1a4",
+      "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
+      "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+      "primary_url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6a07af57ba18514b3aaf7ad05f6c1bea25554ece",
+          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
+          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T11:14:34.160000Z"
+        },
+        {
+          "id": "141e210f28cacdcbcf9f59f749eada004f782ca1",
+          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势 / One of Google DeepMind's top execs says lifelong learners will have an edge in the AI workplace",
+          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-25T11:00:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "6a07af57ba18514b3aaf7ad05f6c1bea25554ece",
+          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
+          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T11:14:34.160000Z"
+        },
+        {
+          "id": "141e210f28cacdcbcf9f59f749eada004f782ca1",
+          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势 / One of Google DeepMind's top execs says lifelong learners will have an edge in the AI workplace",
+          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-25T11:00:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5294,
+      "importance": 0.5294,
+      "importance_score": 0.5294,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9087,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T11:00:01Z",
+      "latest_at": "2026-10-25T11:14:34.160000Z",
+      "primary_item": {
+        "id": "6a07af57ba18514b3aaf7ad05f6c1bea25554ece",
+        "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
+        "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1234,15 +1538,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5048,
-      "importance": 0.5048,
-      "importance_score": 0.5048,
+      "score": 0.498,
+      "importance": 0.498,
+      "importance_score": 0.498,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7725,
+        "recency": 0.7345,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1312,15 +1616,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5352,
-      "importance": 0.5352,
-      "importance_score": 0.5352,
+      "score": 0.5268,
+      "importance": 0.5268,
+      "importance_score": 0.5268,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9409,
+        "recency": 0.8947,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1335,85 +1639,6 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069945&idx=2&sn=dc9829c3d689d8f2438948978e7607ac",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_79c7fe33c787",
-      "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-      "primary_url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "8edb78d4281318f7283191af552c8732be334942",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T15:35:17Z"
-        },
-        {
-          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "url": "https://news.ycombinator.com/item?id=50222283",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T15:35:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8edb78d4281318f7283191af552c8732be334942",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T15:35:17Z"
-        },
-        {
-          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "url": "https://news.ycombinator.com/item?id=50222283",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T15:35:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4953,
-      "importance": 0.4953,
-      "importance_score": 0.4953,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7195,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T15:35:17Z",
-      "latest_at": "2026-10-24T15:35:17Z",
-      "primary_item": {
-        "id": "8edb78d4281318f7283191af552c8732be334942",
-        "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-        "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1470,15 +1695,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5238,
-      "importance": 0.5238,
-      "importance_score": 0.5238,
+      "score": 0.516,
+      "importance": 0.516,
+      "importance_score": 0.516,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8777,
+        "recency": 0.8346,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1549,15 +1774,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5238,
-      "importance": 0.5238,
-      "importance_score": 0.5238,
+      "score": 0.516,
+      "importance": 0.516,
+      "importance_score": 0.516,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8777,
+        "recency": 0.8346,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1570,85 +1795,6 @@
         "id": "e625bb67ac65cf7e726f6ce9ead1371d11295888",
         "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
         "url": "https://www.ithome.com/1/017/557.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_cdf697355512",
-      "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
-      "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-      "primary_url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "768deac0d0a50019e3f416322efce528fc494a6e",
-          "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
-          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ec911567cab80b5e8da3305439ff8d45712400d2",
-          "title": "多少？？中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元——TOPC TXA2 可容纳 4 个 SSD 并驱动 4 个 8K 显示器 / How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
-          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-24T20:05:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "TechRadar"
-      ],
-      "items": [
-        {
-          "id": "768deac0d0a50019e3f416322efce528fc494a6e",
-          "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
-          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ec911567cab80b5e8da3305439ff8d45712400d2",
-          "title": "多少？？中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元——TOPC TXA2 可容纳 4 个 SSD 并驱动 4 个 8K 显示器 / How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
-          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-24T20:05:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5077,
-      "importance": 0.5077,
-      "importance_score": 0.5077,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7884,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T20:05:00Z",
-      "latest_at": "2026-10-24T21:55:11.341853Z",
-      "primary_item": {
-        "id": "768deac0d0a50019e3f416322efce528fc494a6e",
-        "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
-        "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
