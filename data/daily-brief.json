@@ -1,52 +1,153 @@
 {
-  "generated_at": "2026-10-27T16:01:28.365677Z",
+  "generated_at": "2026-10-27T20:42:32.413011Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_250e5d8f3024",
-      "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "primary_url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "source": "OpenAI News",
+      "story_id": "story_5ef94984dce4",
+      "title": "Google DeepMind 发布实时交互世界模型 Genie 4 / Genie 4: A new generation of world simulation",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+      "primary_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+      "source": "Google DeepMind",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "url": "https://openai.com/index/greptile-code-review-codex-astra",
-          "source": "OpenAI News",
+          "id": "02865ef358d762edcc75a452fbf37e78f4b207b1",
+          "title": "Google DeepMind 发布实时交互世界模型 Genie 4 / Genie 4: A new generation of world simulation",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+          "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-26T22:00:00Z"
+          "published_at": "2026-10-27T16:01:38Z"
+        },
+        {
+          "id": "f234cd4564dc0b279e69976e458c23b1985c4f78",
+          "title": "Google DeepMind 发布实时交互世界模型 Genie 4",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T16:01:38Z"
+        },
+        {
+          "id": "f8a4af1b35f51278e596c1e2e54c7f9bcc699b26",
+          "title": "Genie 4",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-27T16:06:01Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "OpenAI News"
+        "Google DeepMind",
+        "Google DeepMind：Blog（RSS）",
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "url": "https://openai.com/index/greptile-code-review-codex-astra",
-          "source": "OpenAI News",
+          "id": "02865ef358d762edcc75a452fbf37e78f4b207b1",
+          "title": "Google DeepMind 发布实时交互世界模型 Genie 4 / Genie 4: A new generation of world simulation",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+          "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-26T22:00:00Z"
+          "published_at": "2026-10-27T16:01:38Z"
+        },
+        {
+          "id": "f234cd4564dc0b279e69976e458c23b1985c4f78",
+          "title": "Google DeepMind 发布实时交互世界模型 Genie 4",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T16:01:38Z"
+        },
+        {
+          "id": "f8a4af1b35f51278e596c1e2e54c7f9bcc699b26",
+          "title": "Genie 4",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-27T16:06:01Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8187,
-      "importance": 0.8187,
-      "importance_score": 0.8187,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8822,
+      "importance": 0.8822,
+      "importance_score": 0.8822,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7708,
+        "ai_relevance": 0.87,
+        "recency": 0.9346,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T16:01:38Z",
+      "latest_at": "2026-10-27T16:06:01Z",
+      "primary_item": {
+        "id": "02865ef358d762edcc75a452fbf37e78f4b207b1",
+        "title": "Google DeepMind 发布实时交互世界模型 Genie 4 / Genie 4: A new generation of world simulation",
+        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_34370e88c88d",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "primary_url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "063e213d0efe29b8ede82d8e72bb4feba8117d70",
+          "title": "Can we trust LLMs to judge whether a research idea is novel?",
+          "url": "https://huggingface.co/blog/allenai/novelty-bench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T16:12:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "063e213d0efe29b8ede82d8e72bb4feba8117d70",
+          "title": "Can we trust LLMs to judge whether a research idea is novel?",
+          "url": "https://huggingface.co/blog/allenai/novelty-bench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T16:12:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8567,
+      "importance": 0.8567,
+      "importance_score": 0.8567,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.9371,
         "story_heat": 0.0
       },
       "category": "official",
@@ -55,32 +156,319 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-26T22:00:00Z",
-      "latest_at": "2026-10-26T22:00:00Z",
+      "earliest_at": "2026-10-27T16:12:42Z",
+      "latest_at": "2026-10-27T16:12:42Z",
       "primary_item": {
-        "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-        "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-        "url": "https://openai.com/index/greptile-code-review-codex-astra",
+        "id": "063e213d0efe29b8ede82d8e72bb4feba8117d70",
+        "title": "Can we trust LLMs to judge whether a research idea is novel?",
+        "url": "https://huggingface.co/blog/allenai/novelty-bench",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a3a879144b29",
+      "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT / OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "primary_url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0c0002b3534ab28513fdacbaedb30b2b450e3a52",
+          "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT / OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+          "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T07:00:00Z"
+        },
+        {
+          "id": "becab007781afec66ea3bd483161dfb01e50fd8c",
+          "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT",
+          "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T07:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "0c0002b3534ab28513fdacbaedb30b2b450e3a52",
+          "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT / OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+          "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T07:00:00Z"
+        },
+        {
+          "id": "becab007781afec66ea3bd483161dfb01e50fd8c",
+          "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT",
+          "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T07:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8527,
+      "importance": 0.8527,
+      "importance_score": 0.8527,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8204,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T07:00:00Z",
+      "latest_at": "2026-10-27T07:00:00Z",
+      "primary_item": {
+        "id": "0c0002b3534ab28513fdacbaedb30b2b450e3a52",
+        "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT / OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+        "url": "https://openai.com/index/oracle-apps-in-chatgpt",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_344482fd6d72",
-      "title": "GitHub Copilot 中的 GPT-6.1 Terra / GPT-6.1 Terra in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
+      "story_id": "story_db98bf59a6c7",
+      "title": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f575916052681d60fce595fbbd176bcab3c5af10",
+          "title": "Build specialized multimodal models with LFM3",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T17:16:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "f575916052681d60fce595fbbd176bcab3c5af10",
+          "title": "Build specialized multimodal models with LFM3",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T17:16:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8513,
+      "importance": 0.8513,
+      "importance_score": 0.8513,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9517,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T17:16:52Z",
+      "latest_at": "2026-10-27T17:16:52Z",
+      "primary_item": {
+        "id": "f575916052681d60fce595fbbd176bcab3c5af10",
+        "title": "Build specialized multimodal models with LFM3",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.165.0 / Codex CLI 0.165.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4ec1befa683b25b7dd111127554f73f36b4475eb",
+          "title": "法典 CLI 0.165.0 / Codex CLI 0.165.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "4ec1befa683b25b7dd111127554f73f36b4475eb",
+          "title": "法典 CLI 0.165.0 / Codex CLI 0.165.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7415,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T00:00:00Z",
+      "latest_at": "2026-10-27T00:00:00Z",
+      "primary_item": {
+        "id": "4ec1befa683b25b7dd111127554f73f36b4475eb",
+        "title": "法典 CLI 0.165.0 / Codex CLI 0.165.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5d9174dd4f1a",
+      "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dd073dd93ed4efbfc7e4d095c7d648605328495e",
+          "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T16:51:22Z"
+        },
+        {
+          "id": "60b7b7511075d127c493f94458c5485dc3152886",
+          "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-27T16:51:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "dd073dd93ed4efbfc7e4d095c7d648605328495e",
+          "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T16:51:22Z"
+        },
+        {
+          "id": "60b7b7511075d127c493f94458c5485dc3152886",
+          "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-27T16:51:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8039,
+      "importance": 0.8039,
+      "importance_score": 0.8039,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9459,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T16:51:22Z",
+      "latest_at": "2026-10-27T16:51:22Z",
+      "primary_item": {
+        "id": "dd073dd93ed4efbfc7e4d095c7d648605328495e",
+        "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e3d7ad0ea6ab",
+      "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
+      "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ec98a1aa498e34d0d481169601e61e73ccd23256",
-          "title": "GitHub Copilot 中的 GPT-6.1 Terra / GPT-6.1 Terra in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
+          "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
+          "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
+          "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-26T19:15:53Z"
+          "published_at": "2026-10-26T22:31:30Z"
         }
       ],
       "source_count": 1,
@@ -89,26 +477,26 @@
       ],
       "items": [
         {
-          "id": "ec98a1aa498e34d0d481169601e61e73ccd23256",
-          "title": "GitHub Copilot 中的 GPT-6.1 Terra / GPT-6.1 Terra in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
+          "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
+          "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
+          "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-26T19:15:53Z"
+          "published_at": "2026-10-26T22:31:30Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
+      "score": 0.8027,
+      "importance": 0.8027,
+      "importance_score": 0.8027,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.741,
+        "ai_relevance": 0.91,
+        "recency": 0.7259,
         "story_heat": 0.0
       },
       "category": "official",
@@ -117,12 +505,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-26T19:15:53Z",
-      "latest_at": "2026-10-26T19:15:53Z",
+      "earliest_at": "2026-10-26T22:31:30Z",
+      "latest_at": "2026-10-26T22:31:30Z",
       "primary_item": {
-        "id": "ec98a1aa498e34d0d481169601e61e73ccd23256",
-        "title": "GitHub Copilot 中的 GPT-6.1 Terra / GPT-6.1 Terra in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
+        "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
+        "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
+        "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -181,15 +569,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.805,
-      "importance": 0.805,
-      "importance_score": 0.805,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9521,
+        "recency": 0.8898,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -205,67 +593,6 @@
         "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
         "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_95af72b561e4",
-      "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
-      "url": "https://latent.space/p/ainews-anthropic-s1",
-      "primary_url": "https://latent.space/p/ainews-anthropic-s1",
-      "source": "Latent Space（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "680a9fa46f237f0dcc8669c85f0c85acde5e6a40",
-          "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
-          "url": "https://latent.space/p/ainews-anthropic-s1",
-          "source": "Latent Space（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T07:24:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Latent Space（RSS）"
-      ],
-      "items": [
-        {
-          "id": "680a9fa46f237f0dcc8669c85f0c85acde5e6a40",
-          "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
-          "url": "https://latent.space/p/ainews-anthropic-s1",
-          "source": "Latent Space（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T07:24:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7946,
-      "importance": 0.7946,
-      "importance_score": 0.7946,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.88,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8831,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T07:24:59Z",
-      "latest_at": "2026-10-27T07:24:59Z",
-      "primary_item": {
-        "id": "680a9fa46f237f0dcc8669c85f0c85acde5e6a40",
-        "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
-        "url": "https://latent.space/p/ainews-anthropic-s1",
-        "source": "Latent Space（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -323,15 +650,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7936,
-      "importance": 0.7936,
-      "importance_score": 0.7936,
+      "score": 0.7843,
+      "importance": 0.7843,
+      "importance_score": 0.7843,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7891,
+        "recency": 0.7375,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -351,49 +678,110 @@
       }
     },
     {
-      "story_id": "story_e3d7ad0ea6ab",
-      "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
-      "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_95af72b561e4",
+      "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
+      "url": "https://latent.space/p/ainews-anthropic-s1",
+      "primary_url": "https://latent.space/p/ainews-anthropic-s1",
+      "source": "Latent Space（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
-          "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
-          "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T22:31:30Z"
+          "id": "680a9fa46f237f0dcc8669c85f0c85acde5e6a40",
+          "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
+          "url": "https://latent.space/p/ainews-anthropic-s1",
+          "source": "Latent Space（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T07:24:59Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Latent Space（RSS）"
       ],
       "items": [
         {
-          "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
-          "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
-          "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T22:31:30Z"
+          "id": "680a9fa46f237f0dcc8669c85f0c85acde5e6a40",
+          "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
+          "url": "https://latent.space/p/ainews-anthropic-s1",
+          "source": "Latent Space（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T07:24:59Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8118,
-      "importance": 0.8118,
-      "importance_score": 0.8118,
+      "score": 0.7842,
+      "importance": 0.7842,
+      "importance_score": 0.7842,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.88,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8253,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T07:24:59Z",
+      "latest_at": "2026-10-27T07:24:59Z",
+      "primary_item": {
+        "id": "680a9fa46f237f0dcc8669c85f0c85acde5e6a40",
+        "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
+        "url": "https://latent.space/p/ainews-anthropic-s1",
+        "source": "Latent Space（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_250e5d8f3024",
+      "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "primary_url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T22:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T22:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8097,
+      "importance": 0.8097,
+      "importance_score": 0.8097,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7767,
+        "ai_relevance": 0.95,
+        "recency": 0.7204,
         "story_heat": 0.0
       },
       "category": "official",
@@ -402,14 +790,136 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-26T22:31:30Z",
-      "latest_at": "2026-10-26T22:31:30Z",
+      "earliest_at": "2026-10-26T22:00:00Z",
+      "latest_at": "2026-10-26T22:00:00Z",
       "primary_item": {
-        "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
-        "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
-        "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-        "source": "GitHub Changelog",
+        "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+        "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "url": "https://openai.com/index/greptile-code-review-codex-astra",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_99137a809696",
+      "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
+      "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
+      "primary_url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
+      "source": "Azeem Azhar：Exponential View（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "314f1dbd620181ccb92f419287d9736a6aedb838",
+          "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
+          "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
+          "source": "Azeem Azhar：Exponential View（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T17:31:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Azeem Azhar：Exponential View（RSS）"
+      ],
+      "items": [
+        {
+          "id": "314f1dbd620181ccb92f419287d9736a6aedb838",
+          "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
+          "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
+          "source": "Azeem Azhar：Exponential View（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T17:31:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9552,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T17:31:56Z",
+      "latest_at": "2026-10-27T17:31:56Z",
+      "primary_item": {
+        "id": "314f1dbd620181ccb92f419287d9736a6aedb838",
+        "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
+        "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
+        "source": "Azeem Azhar：Exponential View（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9e347c8ec021ead08fb5656d4ea953133d3a892d",
+          "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T00:05:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "9e347c8ec021ead08fb5656d4ea953133d3a892d",
+          "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T00:05:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7692,
+      "importance": 0.7692,
+      "importance_score": 0.7692,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.88,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7424,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T00:05:00Z",
+      "latest_at": "2026-10-27T00:05:00Z",
+      "primary_item": {
+        "id": "9e347c8ec021ead08fb5656d4ea953133d3a892d",
+        "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -466,15 +976,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
+      "score": 0.7681,
+      "importance": 0.7681,
+      "importance_score": 0.7681,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9245,
+        "recency": 0.864,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -494,49 +1004,49 @@
       }
     },
     {
-      "story_id": "story_6cbde97d8260",
-      "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
-      "source": "公众号：数字生命卡兹克",
+      "story_id": "story_75e6cdb57059",
+      "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+      "url": "https://x.com/Khazix0918/status/2114878401190506902",
+      "primary_url": "https://x.com/Khazix0918/status/2114878401190506902",
+      "source": "X：卡兹克 (@Khazix0918)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9e347c8ec021ead08fb5656d4ea953133d3a892d",
-          "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
-          "source": "公众号：数字生命卡兹克",
+          "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
+          "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+          "url": "https://x.com/Khazix0918/status/2114878401190506902",
+          "source": "X：卡兹克 (@Khazix0918)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-27T00:05:00Z"
+          "published_at": "2026-10-27T00:34:38Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：数字生命卡兹克"
+        "X：卡兹克 (@Khazix0918)"
       ],
       "items": [
         {
-          "id": "9e347c8ec021ead08fb5656d4ea953133d3a892d",
-          "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
-          "source": "公众号：数字生命卡兹克",
+          "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
+          "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+          "url": "https://x.com/Khazix0918/status/2114878401190506902",
+          "source": "X：卡兹克 (@Khazix0918)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-27T00:05:00Z"
+          "published_at": "2026-10-27T00:34:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7786,
-      "importance": 0.7786,
-      "importance_score": 0.7786,
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.88,
+        "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7944,
+        "recency": 0.7477,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -544,13 +1054,257 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-27T00:05:00Z",
-      "latest_at": "2026-10-27T00:05:00Z",
+      "earliest_at": "2026-10-27T00:34:38Z",
+      "latest_at": "2026-10-27T00:34:38Z",
       "primary_item": {
-        "id": "9e347c8ec021ead08fb5656d4ea953133d3a892d",
-        "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
-        "source": "公众号：数字生命卡兹克",
+        "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
+        "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+        "url": "https://x.com/Khazix0918/status/2114878401190506902",
+        "source": "X：卡兹克 (@Khazix0918)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_29a958750fc6",
+      "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
+      "url": "https://www.langchain.com/blog/design-agent",
+      "primary_url": "https://www.langchain.com/blog/design-agent",
+      "source": "LangChain：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
+          "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
+          "url": "https://www.langchain.com/blog/design-agent",
+          "source": "LangChain：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T16:45:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LangChain：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
+          "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
+          "url": "https://www.langchain.com/blog/design-agent",
+          "source": "LangChain：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T16:45:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9444,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T16:45:00Z",
+      "latest_at": "2026-10-27T16:45:00Z",
+      "primary_item": {
+        "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
+        "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
+        "url": "https://www.langchain.com/blog/design-agent",
+        "source": "LangChain：Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6573f17f7994",
+      "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
+      "url": "https://x.com/GeminiApp/status/2115171788812669225",
+      "primary_url": "https://x.com/GeminiApp/status/2115171788812669225",
+      "source": "X：Gemini (@GeminiApp)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "15501b72cbc9cab282a9e705ca1850810ee41ccc",
+          "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
+          "url": "https://x.com/GeminiApp/status/2115171788812669225",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T20:00:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Gemini (@GeminiApp)"
+      ],
+      "items": [
+        {
+          "id": "15501b72cbc9cab282a9e705ca1850810ee41ccc",
+          "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
+          "url": "https://x.com/GeminiApp/status/2115171788812669225",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T20:00:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9899,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T20:00:27Z",
+      "latest_at": "2026-10-27T20:00:27Z",
+      "primary_item": {
+        "id": "15501b72cbc9cab282a9e705ca1850810ee41ccc",
+        "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
+        "url": "https://x.com/GeminiApp/status/2115171788812669225",
+        "source": "X：Gemini (@GeminiApp)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8cb333260a17",
+      "title": "Check Point 如何利用 Daybreak 加速漏洞研究 / How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "primary_url": "https://openai.com/index/check-point-daybreak",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4d3c4497ec7c980916510963af58cd2b48f42650",
+          "title": "Check Point 如何利用 Daybreak 加速漏洞研究 / How Check Point accelerates vulnerability research with Daybreak",
+          "url": "https://openai.com/index/check-point-daybreak",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "4d3c4497ec7c980916510963af58cd2b48f42650",
+          "title": "Check Point 如何利用 Daybreak 加速漏洞研究 / How Check Point accelerates vulnerability research with Daybreak",
+          "url": "https://openai.com/index/check-point-daybreak",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8055,
+      "importance": 0.8055,
+      "importance_score": 0.8055,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7415,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T00:00:00Z",
+      "latest_at": "2026-10-27T00:00:00Z",
+      "primary_item": {
+        "id": "4d3c4497ec7c980916510963af58cd2b48f42650",
+        "title": "Check Point 如何利用 Daybreak 加速漏洞研究 / How Check Point accelerates vulnerability research with Daybreak",
+        "url": "https://openai.com/index/check-point-daybreak",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_993dac35f314",
+      "title": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR",
+      "url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
+      "primary_url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
+      "source": "Replit：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a6292cdd9d76a49f1ff3a7eedbb2249dca1fa256",
+          "title": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR",
+          "url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
+          "source": "Replit：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T15:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Replit：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "a6292cdd9d76a49f1ff3a7eedbb2249dca1fa256",
+          "title": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR",
+          "url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
+          "source": "Replit：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T15:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9275,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-27T15:30:00Z",
+      "latest_at": "2026-10-27T15:30:00Z",
+      "primary_item": {
+        "id": "a6292cdd9d76a49f1ff3a7eedbb2249dca1fa256",
+        "title": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR",
+        "url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
+        "source": "Replit：Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -608,15 +1362,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7786,
-      "importance": 0.7786,
-      "importance_score": 0.7786,
+      "score": 0.7693,
+      "importance": 0.7693,
+      "importance_score": 0.7693,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7887,
+        "recency": 0.7371,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -633,915 +1387,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_75e6cdb57059",
-      "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
-      "url": "https://x.com/Khazix0918/status/2114878401190506902",
-      "primary_url": "https://x.com/Khazix0918/status/2114878401190506902",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
-          "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
-          "url": "https://x.com/Khazix0918/status/2114878401190506902",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T00:34:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：卡兹克 (@Khazix0918)"
-      ],
-      "items": [
-        {
-          "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
-          "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
-          "url": "https://x.com/Khazix0918/status/2114878401190506902",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T00:34:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7646,
-      "importance": 0.7646,
-      "importance_score": 0.7646,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8001,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T00:34:38Z",
-      "latest_at": "2026-10-27T00:34:38Z",
-      "primary_item": {
-        "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
-        "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
-        "url": "https://x.com/Khazix0918/status/2114878401190506902",
-        "source": "X：卡兹克 (@Khazix0918)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_402566ca10ff",
-      "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
-      "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "20b645b4756a5e3bd137c26cfcffb117ae7d8a03",
-          "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
-          "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T18:40:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "20b645b4756a5e3bd137c26cfcffb117ae7d8a03",
-          "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
-          "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T18:40:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7347,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T18:40:26Z",
-      "latest_at": "2026-10-26T18:40:26Z",
-      "primary_item": {
-        "id": "20b645b4756a5e3bd137c26cfcffb117ae7d8a03",
-        "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
-        "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0c466a250b77",
-      "title": "安全研究员利用生成式AI挖掘PS5高危漏洞获索尼33万元奖励",
-      "url": "https://www.aibase.com/news/31896",
-      "primary_url": "https://www.aibase.com/news/31896",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e9b3ffa51ecd81bb84cd0bb210d53c32a7416171",
-          "title": "安全研究员利用生成式AI挖掘PS5高危漏洞获索尼33万元奖励",
-          "url": "https://www.aibase.com/news/31896",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-27T10:35:18.694339Z"
-        },
-        {
-          "id": "3fabb2b44523440400147c3611c272e9cc6cbf52",
-          "title": "安全研究员利用生成式 AI 挖掘 PS5 高危漏洞获索尼 33 万元奖励",
-          "url": "https://www.aibase.com/zh/news/31896",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e9b3ffa51ecd81bb84cd0bb210d53c32a7416171",
-          "title": "安全研究员利用生成式AI挖掘PS5高危漏洞获索尼33万元奖励",
-          "url": "https://www.aibase.com/news/31896",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-27T10:35:18.694339Z"
-        },
-        {
-          "id": "3fabb2b44523440400147c3611c272e9cc6cbf52",
-          "title": "安全研究员利用生成式 AI 挖掘 PS5 高危漏洞获索尼 33 万元奖励",
-          "url": "https://www.aibase.com/zh/news/31896",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9245,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T10:35:18.694339Z",
-      "latest_at": "2026-10-27T10:35:18.694339Z",
-      "primary_item": {
-        "id": "e9b3ffa51ecd81bb84cd0bb210d53c32a7416171",
-        "title": "安全研究员利用生成式AI挖掘PS5高危漏洞获索尼33万元奖励",
-        "url": "https://www.aibase.com/news/31896",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4a8f41d180d7",
-      "title": "Anthropic S-1 文件中的五个不寻常细节",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d011588dc04920135b4b1c569b7b4314605525e8",
-          "title": "Anthropic S-1 文件中的五个不寻常细节",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T17:10:23Z"
-        },
-        {
-          "id": "136605b2b85eafb8b29be1c03c1ba1acc5f997c9",
-          "title": "Anthropic S-1 文件中的五个不寻常细节 / Five weird details from Anthropic’s IPO filing",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-26T17:10:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d011588dc04920135b4b1c569b7b4314605525e8",
-          "title": "Anthropic S-1 文件中的五个不寻常细节",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T17:10:23Z"
-        },
-        {
-          "id": "136605b2b85eafb8b29be1c03c1ba1acc5f997c9",
-          "title": "Anthropic S-1 文件中的五个不寻常细节 / Five weird details from Anthropic’s IPO filing",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-26T17:10:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.775,
-      "importance": 0.775,
-      "importance_score": 0.775,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7189,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T17:10:23Z",
-      "latest_at": "2026-10-26T17:10:23Z",
-      "primary_item": {
-        "id": "d011588dc04920135b4b1c569b7b4314605525e8",
-        "title": "Anthropic S-1 文件中的五个不寻常细节",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_33cce9ee1cca",
-      "title": "Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态",
-      "url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
-      "primary_url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
-      "source": "a16z：News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "61f153f4bc2dafaf605f98ce15526f95c2cf3e2e",
-          "title": "Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态",
-          "url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
-          "source": "a16z：News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T14:02:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "a16z：News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "61f153f4bc2dafaf605f98ce15526f95c2cf3e2e",
-          "title": "Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态",
-          "url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
-          "source": "a16z：News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T14:02:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7385,
-      "importance": 0.7385,
-      "importance_score": 0.7385,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9718,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T14:02:28Z",
-      "latest_at": "2026-10-27T14:02:28Z",
-      "primary_item": {
-        "id": "61f153f4bc2dafaf605f98ce15526f95c2cf3e2e",
-        "title": "Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态",
-        "url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
-        "source": "a16z：News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_bf81ae046163",
-      "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
-      "url": "https://x.com/thsottiaux/status/2114800277677092936",
-      "primary_url": "https://x.com/thsottiaux/status/2114800277677092936",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
-          "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
-          "url": "https://x.com/thsottiaux/status/2114800277677092936",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T19:24:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
-          "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
-          "url": "https://x.com/thsottiaux/status/2114800277677092936",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T19:24:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7272,
-      "importance": 0.7272,
-      "importance_score": 0.7272,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7425,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-26T19:24:11Z",
-      "latest_at": "2026-10-26T19:24:11Z",
-      "primary_item": {
-        "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
-        "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
-        "url": "https://x.com/thsottiaux/status/2114800277677092936",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_15c985181520",
-      "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-      "url": "https://x.com/gdb/status/2114814747254432243",
-      "primary_url": "https://x.com/gdb/status/2114814747254432243",
-      "source": "X：Greg Brockman (@gdb)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
-          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-          "url": "https://x.com/gdb/status/2114814747254432243",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T20:21:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Greg Brockman (@gdb)"
-      ],
-      "items": [
-        {
-          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
-          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-          "url": "https://x.com/gdb/status/2114814747254432243",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T20:21:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7201,
-      "importance": 0.7201,
-      "importance_score": 0.7201,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7528,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-26T20:21:41Z",
-      "latest_at": "2026-10-26T20:21:41Z",
-      "primary_item": {
-        "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
-        "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-        "url": "https://x.com/gdb/status/2114814747254432243",
-        "source": "X：Greg Brockman (@gdb)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b09118234f85",
-      "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
-      "url": "https://x.com/OpenRouter/status/2114791584755839168",
-      "primary_url": "https://x.com/OpenRouter/status/2114791584755839168",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
-          "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
-          "url": "https://x.com/OpenRouter/status/2114791584755839168",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T18:49:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
-          "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
-          "url": "https://x.com/OpenRouter/status/2114791584755839168",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T18:49:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7201,
-      "importance": 0.7201,
-      "importance_score": 0.7201,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7363,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-26T18:49:39Z",
-      "latest_at": "2026-10-26T18:49:39Z",
-      "primary_item": {
-        "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
-        "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
-        "url": "https://x.com/OpenRouter/status/2114791584755839168",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_93c50ee6415b",
-      "title": "纯国产算力跑出星火X2.6：刘庆峰直言“小米加步枪”硬刚封锁，端侧模型成破局关键",
-      "url": "https://www.aibase.com/news/31906",
-      "primary_url": "https://www.aibase.com/news/31906",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "54777b275b175faa2951c5c2cbb56e364e5e1414",
-          "title": "纯国产算力跑出星火X2.6：刘庆峰直言“小米加步枪”硬刚封锁，端侧模型成破局关键",
-          "url": "https://www.aibase.com/news/31906",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-27T10:35:18.694339Z"
-        },
-        {
-          "id": "a832fa3edc2e520c7fa853d4d355619ec7310967",
-          "title": "纯国产算力跑出星火 X2.6：刘庆峰直言「小米加步枪」硬刚封锁，端侧模型成破局关键",
-          "url": "https://www.aibase.com/zh/news/31906",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "54777b275b175faa2951c5c2cbb56e364e5e1414",
-          "title": "纯国产算力跑出星火X2.6：刘庆峰直言“小米加步枪”硬刚封锁，端侧模型成破局关键",
-          "url": "https://www.aibase.com/news/31906",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-27T10:35:18.694339Z"
-        },
-        {
-          "id": "a832fa3edc2e520c7fa853d4d355619ec7310967",
-          "title": "纯国产算力跑出星火 X2.6：刘庆峰直言「小米加步枪」硬刚封锁，端侧模型成破局关键",
-          "url": "https://www.aibase.com/zh/news/31906",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9245,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T10:35:18.694339Z",
-      "latest_at": "2026-10-27T10:35:18.694339Z",
-      "primary_item": {
-        "id": "54777b275b175faa2951c5c2cbb56e364e5e1414",
-        "title": "纯国产算力跑出星火X2.6：刘庆峰直言“小米加步枪”硬刚封锁，端侧模型成破局关键",
-        "url": "https://www.aibase.com/news/31906",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_965cddc2eb44",
-      "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
-      "url": "https://www.aibase.com/news/31878",
-      "primary_url": "https://www.aibase.com/news/31878",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "edda28551b955e1d704bcc4245d12ee9a52d20ad",
-          "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
-          "url": "https://www.aibase.com/news/31878",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-27T05:06:42.152844Z"
-        },
-        {
-          "id": "ad4027808ee60358e03c7ea58a29364eded45422",
-          "title": "Anthropic IPO 招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外「沙箱逃逸」",
-          "url": "https://www.aibase.com/zh/news/31878",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "edda28551b955e1d704bcc4245d12ee9a52d20ad",
-          "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
-          "url": "https://www.aibase.com/news/31878",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-27T05:06:42.152844Z"
-        },
-        {
-          "id": "ad4027808ee60358e03c7ea58a29364eded45422",
-          "title": "Anthropic IPO 招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外「沙箱逃逸」",
-          "url": "https://www.aibase.com/zh/news/31878",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7664,
-      "importance": 0.7664,
-      "importance_score": 0.7664,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8542,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T05:06:42.152844Z",
-      "latest_at": "2026-10-27T05:06:42.152844Z",
-      "primary_item": {
-        "id": "edda28551b955e1d704bcc4245d12ee9a52d20ad",
-        "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
-        "url": "https://www.aibase.com/news/31878",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "在 AI Agent 辅助编程与自动化内容生产极速狂飙的今天，作者花时间系统整理了一份包含 369 个开源仓库的超级清单。这份清单全面涵盖了能让 Claude Code、Codex 等编程 Agent 实现视频生成、自动化剪辑与代码动效渲染的工具包、Skill 和提示词库。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-10-27",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "974cec64fbfc867ed9a35a196fb74fdc1f59c082",
-          "title": "Claude 为 Claude Code 编写了大约 90% 的代码。那么在如此规模下，他们如何进行代码审查？谁还会去读代码？如果代码出错怎么办？Anthropic 公开了 Claude Code 的分层审查体系，用多智能体自动校验承接了大部分基础检查，按风险分级管控审批，把人力释放给架构、安全、产品方向等高价值判断。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-27T16:01:28.365677Z"
-        },
-        {
-          "id": "27cf11a1ac070514014dbd47e50be21c56c365ec",
-          "title": "GPT-6.1 Terra带来了看图建模、操控桌面软件的能力。虽然它下调了API定价，幻觉硬猜比例也大幅降低，但复杂编程任务仍不如Sol与Astra。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-27T16:01:28.365677Z"
-        },
-        {
-          "id": "1383e7f48268484fd52019c28fb4f90ace4ae854",
-          "title": "不少团队接入 AI 后，效率只停在“写得更快”：需求还在多人之间流转，信息仍然散在 Slack、代码库和表格里。Manus 把自己当实验场：用 Mono 给 AI 补齐了跨仓库的上下文、权限和验证能力，让一人推进全端需求；产品经理直接提交代码，用视频表达需求；市场把工作流接成会主动跟进的“数字同事”。想做 AI Native 改造的团队，值得点开细看。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-27T16:01:28.365677Z"
-        },
-        {
-          "id": "4e922758ed0afb4b527939e2bbe53aa344cef092",
-          "title": "在 AI Agent 辅助编程与自动化内容生产极速狂飙的今天，作者花时间系统整理了一份包含 369 个开源仓库的超级清单。这份清单全面涵盖了能让 Claude Code、Codex 等编程 Agent 实现视频生成、自动化剪辑与代码动效渲染的工具包、Skill 和提示词库。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-27T16:01:28.365677Z"
-        },
-        {
-          "id": "f1de403bbdf35023fa934ad2d6bce0aae4192c63",
-          "title": "语音 Agent 看似是给聊天机器人接了个麦克风，背后其实是一个卡在毫秒级预算里的实时流系统。这篇从 800ms 语音到语音延迟出发，拆开音频传输、回合判断、流式 STT-LLM-TTS、工具调用和记忆；讲清了打断、噪声、转人工、GPU 扩缩、边缘故障及每分钟的成本。一起来看看如何设计一个实时语音 AI 智能体！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-27T16:01:28.365677Z"
-        },
-        {
-          "id": "0a69e15beccef85d03101a7c890bf50689d87892",
-          "title": "这篇文章拆解了客户端开发Web、跨端、原生三条路线的取舍和研发效率、体验、性能的不可能三角。AI 可以快速生成代码，但底层判断、测试验证、踩坑兜底依旧离不开人。这些一线经验，或许能帮做客户端开发的你避开选型和分发里的隐形坑。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-27T16:01:28.365677Z"
-        },
-        {
-          "id": "39276e7f4ed31f1b540d834cb30b2f920328c29f",
-          "title": "作者在两三个月的时间里用 Hypit 产出了万余条 AI 带货的短视频，拿下 9000 + 订单、百万 GMV，单条成本仅数元。区别于普通 AI 剪辑工具，它能拆解爆款视频的注意力逻辑与叙事节奏，像剪辑师一样编排素材、适配转场。搭配 TikHub 筛选验证爆款，可搭建批量内容流水线。如果你在做跨境AI 短视频矩阵，或许会有收获。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-26",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-26T19:59:25.876582Z"
-        },
-        {
-          "id": "c514bde604c9b7d2a3733a56be7d82f400837bac",
-          "title": "最近卡尔在琢磨怎么用DeepSeek做出类Claude Opus 5.5的代码动画。这篇文章就分享了6个新提示语去掉DeepSeek新模型的AI味。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-26",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-26T19:59:25.876582Z"
-        },
-        {
-          "id": "d043175fc7134e7c64403088460ae994a459138d",
-          "title": "本周AI音乐资讯浓缩了最核心的博弈与新机会。Suno深陷版权纠纷，Spotify、Deezer陆续上线AI音乐治理功能，网易云的音乐评价模型拿下国际赛事第一。苹果收购音频技术团队，多个流媒体、游戏音乐新合作落地。还有5篇论文，包含真实场景旋律检索、符号控制翻唱生成、音乐分析推理缺陷、智能体音乐后期制作、音乐驱动群舞编舞等。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-26",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-26T19:59:25.876582Z"
-        },
-        {
-          "id": "06b99c999360a0e9cd05f11945d7688b6c2594d9",
-          "title": "知乎与魔搭 ModelScope 再次联合发布《AI 时代开发者生态白皮书 2026》。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-26",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-26T19:59:25.876582Z"
-        }
-      ],
-      "source_count": 10,
-      "source_names": [
-        "社区更新 · 2026-10-26",
-        "社区更新 · 2026-10-27"
-      ],
-      "items": [
-        {
-          "id": "974cec64fbfc867ed9a35a196fb74fdc1f59c082",
-          "title": "Claude 为 Claude Code 编写了大约 90% 的代码。那么在如此规模下，他们如何进行代码审查？谁还会去读代码？如果代码出错怎么办？Anthropic 公开了 Claude Code 的分层审查体系，用多智能体自动校验承接了大部分基础检查，按风险分级管控审批，把人力释放给架构、安全、产品方向等高价值判断。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-27T16:01:28.365677Z"
-        },
-        {
-          "id": "27cf11a1ac070514014dbd47e50be21c56c365ec",
-          "title": "GPT-6.1 Terra带来了看图建模、操控桌面软件的能力。虽然它下调了API定价，幻觉硬猜比例也大幅降低，但复杂编程任务仍不如Sol与Astra。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-27T16:01:28.365677Z"
-        },
-        {
-          "id": "1383e7f48268484fd52019c28fb4f90ace4ae854",
-          "title": "不少团队接入 AI 后，效率只停在“写得更快”：需求还在多人之间流转，信息仍然散在 Slack、代码库和表格里。Manus 把自己当实验场：用 Mono 给 AI 补齐了跨仓库的上下文、权限和验证能力，让一人推进全端需求；产品经理直接提交代码，用视频表达需求；市场把工作流接成会主动跟进的“数字同事”。想做 AI Native 改造的团队，值得点开细看。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-27T16:01:28.365677Z"
-        },
-        {
-          "id": "4e922758ed0afb4b527939e2bbe53aa344cef092",
-          "title": "在 AI Agent 辅助编程与自动化内容生产极速狂飙的今天，作者花时间系统整理了一份包含 369 个开源仓库的超级清单。这份清单全面涵盖了能让 Claude Code、Codex 等编程 Agent 实现视频生成、自动化剪辑与代码动效渲染的工具包、Skill 和提示词库。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-27T16:01:28.365677Z"
-        },
-        {
-          "id": "f1de403bbdf35023fa934ad2d6bce0aae4192c63",
-          "title": "语音 Agent 看似是给聊天机器人接了个麦克风，背后其实是一个卡在毫秒级预算里的实时流系统。这篇从 800ms 语音到语音延迟出发，拆开音频传输、回合判断、流式 STT-LLM-TTS、工具调用和记忆；讲清了打断、噪声、转人工、GPU 扩缩、边缘故障及每分钟的成本。一起来看看如何设计一个实时语音 AI 智能体！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-27T16:01:28.365677Z"
-        },
-        {
-          "id": "0a69e15beccef85d03101a7c890bf50689d87892",
-          "title": "这篇文章拆解了客户端开发Web、跨端、原生三条路线的取舍和研发效率、体验、性能的不可能三角。AI 可以快速生成代码，但底层判断、测试验证、踩坑兜底依旧离不开人。这些一线经验，或许能帮做客户端开发的你避开选型和分发里的隐形坑。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-27",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-27T16:01:28.365677Z"
-        },
-        {
-          "id": "39276e7f4ed31f1b540d834cb30b2f920328c29f",
-          "title": "作者在两三个月的时间里用 Hypit 产出了万余条 AI 带货的短视频，拿下 9000 + 订单、百万 GMV，单条成本仅数元。区别于普通 AI 剪辑工具，它能拆解爆款视频的注意力逻辑与叙事节奏，像剪辑师一样编排素材、适配转场。搭配 TikHub 筛选验证爆款，可搭建批量内容流水线。如果你在做跨境AI 短视频矩阵，或许会有收获。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-26",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-26T19:59:25.876582Z"
-        },
-        {
-          "id": "c514bde604c9b7d2a3733a56be7d82f400837bac",
-          "title": "最近卡尔在琢磨怎么用DeepSeek做出类Claude Opus 5.5的代码动画。这篇文章就分享了6个新提示语去掉DeepSeek新模型的AI味。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-26",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-26T19:59:25.876582Z"
-        },
-        {
-          "id": "d043175fc7134e7c64403088460ae994a459138d",
-          "title": "本周AI音乐资讯浓缩了最核心的博弈与新机会。Suno深陷版权纠纷，Spotify、Deezer陆续上线AI音乐治理功能，网易云的音乐评价模型拿下国际赛事第一。苹果收购音频技术团队，多个流媒体、游戏音乐新合作落地。还有5篇论文，包含真实场景旋律检索、符号控制翻唱生成、音乐分析推理缺陷、智能体音乐后期制作、音乐驱动群舞编舞等。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-26",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-26T19:59:25.876582Z"
-        },
-        {
-          "id": "06b99c999360a0e9cd05f11945d7688b6c2594d9",
-          "title": "知乎与魔搭 ModelScope 再次联合发布《AI 时代开发者生态白皮书 2026》。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-26",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-26T19:59:25.876582Z"
-        }
-      ],
-      "item_count": 10,
-      "duplicate_count": 10,
-      "score": 0.6734,
-      "importance": 0.6734,
-      "importance_score": 0.6734,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.4752,
-        "source_tier": 0.54,
-        "ai_relevance": 0.66,
-        "recency": 1.0,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-26T19:59:25.876582Z",
-      "latest_at": "2026-10-27T16:01:28.365677Z",
-      "primary_item": {
-        "id": "4e922758ed0afb4b527939e2bbe53aa344cef092",
-        "title": "在 AI Agent 辅助编程与自动化内容生产极速狂飙的今天，作者花时间系统整理了一份包含 369 个开源仓库的超级清单。这份清单全面涵盖了能让 Claude Code、Codex 等编程 Agent 实现视频生成、自动化剪辑与代码动效渲染的工具包、Skill 和提示词库。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-10-27",
-        "source_name": "WaytoAGI"
       }
     }
   ]
