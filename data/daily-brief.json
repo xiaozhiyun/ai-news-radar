@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T06:48:16.801952Z",
+  "generated_at": "2026-10-28T11:39:56.888101Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8594,
-      "importance": 0.8594,
-      "importance_score": 0.8594,
+      "score": 0.8496,
+      "importance": 0.8496,
+      "importance_score": 0.8496,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8078,
+        "recency": 0.7531,
         "story_heat": 0.5
       },
       "category": "official",
@@ -101,6 +101,68 @@
         "title": "Google DeepMind 发布实时交互世界模型 Genie 4 / Genie 4: A new generation of world simulation",
         "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
         "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2fc8e689e413",
+      "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "primary_url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c78fc69600251ee955d2ecf2f1997a73a41abb05",
+          "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
+          "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T09:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c78fc69600251ee955d2ecf2f1997a73a41abb05",
+          "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
+          "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T09:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8465,
+      "importance": 0.8465,
+      "importance_score": 0.8465,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9692,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T09:30:00Z",
+      "latest_at": "2026-10-28T09:30:00Z",
+      "primary_item": {
+        "id": "c78fc69600251ee955d2ecf2f1997a73a41abb05",
+        "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
+        "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -139,15 +201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "score": 0.8239,
+      "importance": 0.8239,
+      "importance_score": 0.8239,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.81,
+        "recency": 0.7551,
         "story_heat": 0.0
       },
       "category": "official",
@@ -163,88 +225,6 @@
         "title": "我们可以信任法学硕士来判断一个研究想法是否新颖吗？ / Can we trust LLMs to judge whether a research idea is novel?",
         "url": "https://huggingface.co/blog/allenai/novelty-bench",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a3a879144b29",
-      "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT / OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "primary_url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0c0002b3534ab28513fdacbaedb30b2b450e3a52",
-          "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT / OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-          "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T07:00:00Z"
-        },
-        {
-          "id": "becab007781afec66ea3bd483161dfb01e50fd8c",
-          "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT",
-          "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T07:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "0c0002b3534ab28513fdacbaedb30b2b450e3a52",
-          "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT / OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-          "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T07:00:00Z"
-        },
-        {
-          "id": "becab007781afec66ea3bd483161dfb01e50fd8c",
-          "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT",
-          "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T07:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7091,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T07:00:00Z",
-      "latest_at": "2026-10-27T07:00:00Z",
-      "primary_item": {
-        "id": "0c0002b3534ab28513fdacbaedb30b2b450e3a52",
-        "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT / OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-        "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -283,15 +263,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
+      "score": 0.8189,
+      "importance": 0.8189,
+      "importance_score": 0.8189,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8757,
+        "recency": 0.8164,
         "story_heat": 0.0
       },
       "category": "official",
@@ -308,6 +288,87 @@
         "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2979f3a7e5a5",
+      "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
+      "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+      "primary_url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fa81ea92ca9d94d4a479d2bf569840f5fe997a1a",
+          "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
+          "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T10:56:24Z"
+        },
+        {
+          "id": "eed2f776987338fc86101dc54521e7cc075b321b",
+          "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一 / AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+          "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-28T10:56:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "fa81ea92ca9d94d4a479d2bf569840f5fe997a1a",
+          "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
+          "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T10:56:24Z"
+        },
+        {
+          "id": "eed2f776987338fc86101dc54521e7cc075b321b",
+          "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一 / AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+          "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-28T10:56:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8057,
+      "importance": 0.8057,
+      "importance_score": 0.8057,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9896,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T10:56:24Z",
+      "latest_at": "2026-10-28T10:56:24Z",
+      "primary_item": {
+        "id": "fa81ea92ca9d94d4a479d2bf569840f5fe997a1a",
+        "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
+        "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -364,15 +425,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8108,
-      "importance": 0.8108,
-      "importance_score": 0.8108,
+      "score": 0.7998,
+      "importance": 0.7998,
+      "importance_score": 0.7998,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9009,
+        "recency": 0.8398,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -389,6 +450,87 @@
         "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d695ac0acd99",
+      "title": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
+      "url": "https://www.aibase.com/news/31929",
+      "primary_url": "https://www.aibase.com/news/31929",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1dbdf174d6adf86ef9f30a7262a10e1dfc7438d5",
+          "title": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
+          "url": "https://www.aibase.com/news/31929",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T11:39:56.888101Z"
+        },
+        {
+          "id": "4af57c8663ef5445882283905267a3482e527334",
+          "title": "CVE 漏洞数近乎垂直拉升，AI 成安全研究「放大器」",
+          "url": "https://www.aibase.com/zh/news/31929",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "1dbdf174d6adf86ef9f30a7262a10e1dfc7438d5",
+          "title": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
+          "url": "https://www.aibase.com/news/31929",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T11:39:56.888101Z"
+        },
+        {
+          "id": "4af57c8663ef5445882283905267a3482e527334",
+          "title": "CVE 漏洞数近乎垂直拉升，AI 成安全研究「放大器」",
+          "url": "https://www.aibase.com/zh/news/31929",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T11:39:56.888101Z",
+      "latest_at": "2026-10-28T11:39:56.888101Z",
+      "primary_item": {
+        "id": "1dbdf174d6adf86ef9f30a7262a10e1dfc7438d5",
+        "title": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
+        "url": "https://www.aibase.com/news/31929",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -426,15 +568,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8281,
-      "importance": 0.8281,
-      "importance_score": 0.8281,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8226,
+        "recency": 0.7668,
         "story_heat": 0.0
       },
       "category": "official",
@@ -454,84 +596,64 @@
       }
     },
     {
-      "story_id": "story_1e03fd306b2b",
-      "title": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-      "url": "https://www.aibase.com/news/31923",
-      "primary_url": "https://www.aibase.com/news/31923",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_448f123bbaa5",
+      "title": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
+      "url": "https://x.com/SaitoWu/status/2115376256929948006",
+      "primary_url": "https://x.com/SaitoWu/status/2115376256929948006",
+      "source": "X：Saito 硬地骇客 (@SaitoWu)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6696fed3d8a5293a6b3ee4bc05cf4d55c70f3a5b",
-          "title": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-          "url": "https://www.aibase.com/news/31923",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T06:48:16.801952Z"
-        },
-        {
-          "id": "0a4f71feb605ee7933678a392f00026b69460753",
-          "title": "AI 编程能力改变招聘标准，Anthropic 招聘负责人取消传统编程面试",
-          "url": "https://www.aibase.com/zh/news/31923",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "3bf52f7e1310c3c9edd668d27b1f730c3e096793",
+          "title": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
+          "url": "https://x.com/SaitoWu/status/2115376256929948006",
+          "source": "X：Saito 硬地骇客 (@SaitoWu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T09:32:56Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "X：Saito 硬地骇客 (@SaitoWu)"
       ],
       "items": [
         {
-          "id": "6696fed3d8a5293a6b3ee4bc05cf4d55c70f3a5b",
-          "title": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-          "url": "https://www.aibase.com/news/31923",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T06:48:16.801952Z"
-        },
-        {
-          "id": "0a4f71feb605ee7933678a392f00026b69460753",
-          "title": "AI 编程能力改变招聘标准，Anthropic 招聘负责人取消传统编程面试",
-          "url": "https://www.aibase.com/zh/news/31923",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "3bf52f7e1310c3c9edd668d27b1f730c3e096793",
+          "title": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
+          "url": "https://x.com/SaitoWu/status/2115376256929948006",
+          "source": "X：Saito 硬地骇客 (@SaitoWu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T09:32:56Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7802,
+      "importance": 0.7802,
+      "importance_score": 0.7802,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "recency": 0.9699,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T06:48:16.801952Z",
-      "latest_at": "2026-10-28T06:48:16.801952Z",
+      "earliest_at": "2026-10-28T09:32:56Z",
+      "latest_at": "2026-10-28T09:32:56Z",
       "primary_item": {
-        "id": "6696fed3d8a5293a6b3ee4bc05cf4d55c70f3a5b",
-        "title": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
-        "url": "https://www.aibase.com/news/31923",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "3bf52f7e1310c3c9edd668d27b1f730c3e096793",
+        "title": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
+        "url": "https://x.com/SaitoWu/status/2115376256929948006",
+        "source": "X：Saito 硬地骇客 (@SaitoWu)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -569,15 +691,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8153,
-      "importance": 0.8153,
-      "importance_score": 0.8153,
+      "score": 0.8056,
+      "importance": 0.8056,
+      "importance_score": 0.8056,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7959,
+        "recency": 0.742,
         "story_heat": 0.0
       },
       "category": "official",
@@ -650,15 +772,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8176,
+        "recency": 0.7621,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -675,6 +797,87 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c3b9d39cdd4c",
+      "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
+      "url": "https://www.aibase.com/news/31933",
+      "primary_url": "https://www.aibase.com/news/31933",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3bd6c21f73ab76430ad67d454e8e5e7279363485",
+          "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
+          "url": "https://www.aibase.com/news/31933",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T11:39:56.888101Z"
+        },
+        {
+          "id": "2efd3e82ead22dd617f42add5ad5fc34d5b6a953",
+          "title": "OpenAI 被曝将向谷歌采购 TPU 芯片，算力供应链格局再变",
+          "url": "https://www.aibase.com/zh/news/31933",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3bd6c21f73ab76430ad67d454e8e5e7279363485",
+          "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
+          "url": "https://www.aibase.com/news/31933",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T11:39:56.888101Z"
+        },
+        {
+          "id": "2efd3e82ead22dd617f42add5ad5fc34d5b6a953",
+          "title": "OpenAI 被曝将向谷歌采购 TPU 芯片，算力供应链格局再变",
+          "url": "https://www.aibase.com/zh/news/31933",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T11:39:56.888101Z",
+      "latest_at": "2026-10-28T11:39:56.888101Z",
+      "primary_item": {
+        "id": "3bd6c21f73ab76430ad67d454e8e5e7279363485",
+        "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
+        "url": "https://www.aibase.com/news/31933",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -731,15 +934,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8027,
-      "importance": 0.8027,
-      "importance_score": 0.8027,
+      "score": 0.7915,
+      "importance": 0.7915,
+      "importance_score": 0.7915,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.923,
+        "recency": 0.8605,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -755,6 +958,188 @@
         "title": "Anthropic IPO 最大赢家或为 Amazon 而非 VC",
         "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_55d5a9ab0b65",
+      "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
+      "url": "https://x.com/addyosmani/status/2115326629488824753",
+      "primary_url": "https://x.com/addyosmani/status/2115326629488824753",
+      "source": "X：Addy Osmani (@addyosmani)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2097190f99937e9c2d7a7bf7c74ad4f8d5321831",
+          "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
+          "url": "https://x.com/addyosmani/status/2115326629488824753",
+          "source": "X：Addy Osmani (@addyosmani)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T06:15:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Addy Osmani (@addyosmani)"
+      ],
+      "items": [
+        {
+          "id": "2097190f99937e9c2d7a7bf7c74ad4f8d5321831",
+          "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
+          "url": "https://x.com/addyosmani/status/2115326629488824753",
+          "source": "X：Addy Osmani (@addyosmani)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T06:15:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9249,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T06:15:43Z",
+      "latest_at": "2026-10-28T06:15:43Z",
+      "primary_item": {
+        "id": "2097190f99937e9c2d7a7bf7c74ad4f8d5321831",
+        "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
+        "url": "https://x.com/addyosmani/status/2115326629488824753",
+        "source": "X：Addy Osmani (@addyosmani)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4f6091d1df29",
+      "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证",
+      "url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "df31d4397fa0d5aa9dc292abed21eec90bb69de2",
+          "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证",
+          "url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T23:31:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "df31d4397fa0d5aa9dc292abed21eec90bb69de2",
+          "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证",
+          "url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T23:31:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7507,
+      "importance": 0.7507,
+      "importance_score": 0.7507,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8392,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T23:31:32Z",
+      "latest_at": "2026-10-27T23:31:32Z",
+      "primary_item": {
+        "id": "df31d4397fa0d5aa9dc292abed21eec90bb69de2",
+        "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证",
+        "url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_99137a809696",
+      "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
+      "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
+      "primary_url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
+      "source": "Azeem Azhar：Exponential View（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "314f1dbd620181ccb92f419287d9736a6aedb838",
+          "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
+          "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
+          "source": "Azeem Azhar：Exponential View（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T17:31:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Azeem Azhar：Exponential View（RSS）"
+      ],
+      "items": [
+        {
+          "id": "314f1dbd620181ccb92f419287d9736a6aedb838",
+          "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
+          "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
+          "source": "Azeem Azhar：Exponential View（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T17:31:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7696,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-27T17:31:56Z",
+      "latest_at": "2026-10-27T17:31:56Z",
+      "primary_item": {
+        "id": "314f1dbd620181ccb92f419287d9736a6aedb838",
+        "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
+        "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
+        "source": "Azeem Azhar：Exponential View（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -812,15 +1197,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7691,
+        "recency": 0.717,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -840,125 +1225,144 @@
       }
     },
     {
-      "story_id": "story_55d5a9ab0b65",
-      "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
-      "url": "https://x.com/addyosmani/status/2115326629488824753",
-      "primary_url": "https://x.com/addyosmani/status/2115326629488824753",
-      "source": "X：Addy Osmani (@addyosmani)",
+      "story_id": "story_29a958750fc6",
+      "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
+      "url": "https://www.langchain.com/blog/design-agent",
+      "primary_url": "https://www.langchain.com/blog/design-agent",
+      "source": "LangChain：Blog（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2097190f99937e9c2d7a7bf7c74ad4f8d5321831",
-          "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
-          "url": "https://x.com/addyosmani/status/2115326629488824753",
-          "source": "X：Addy Osmani (@addyosmani)",
+          "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
+          "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
+          "url": "https://www.langchain.com/blog/design-agent",
+          "source": "LangChain：Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T06:15:43Z"
+          "published_at": "2026-10-27T16:45:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Addy Osmani (@addyosmani)"
+        "LangChain：Blog（RSS）"
       ],
       "items": [
         {
-          "id": "2097190f99937e9c2d7a7bf7c74ad4f8d5321831",
-          "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
-          "url": "https://x.com/addyosmani/status/2115326629488824753",
-          "source": "X：Addy Osmani (@addyosmani)",
+          "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
+          "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
+          "url": "https://www.langchain.com/blog/design-agent",
+          "source": "LangChain：Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T06:15:43Z"
+          "published_at": "2026-10-27T16:45:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.7216,
+      "importance": 0.7216,
+      "importance_score": 0.7216,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.761,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-27T16:45:00Z",
+      "latest_at": "2026-10-27T16:45:00Z",
+      "primary_item": {
+        "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
+        "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
+        "url": "https://www.langchain.com/blog/design-agent",
+        "source": "LangChain：Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1e03fd306b2b",
+      "title": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
+      "url": "https://www.aibase.com/news/31923",
+      "primary_url": "https://www.aibase.com/news/31923",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6696fed3d8a5293a6b3ee4bc05cf4d55c70f3a5b",
+          "title": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
+          "url": "https://www.aibase.com/news/31923",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T06:48:16.801952Z"
+        },
+        {
+          "id": "0a4f71feb605ee7933678a392f00026b69460753",
+          "title": "AI 编程能力改变招聘标准，Anthropic 招聘负责人取消传统编程面试",
+          "url": "https://www.aibase.com/zh/news/31923",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6696fed3d8a5293a6b3ee4bc05cf4d55c70f3a5b",
+          "title": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
+          "url": "https://www.aibase.com/news/31923",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T06:48:16.801952Z"
+        },
+        {
+          "id": "0a4f71feb605ee7933678a392f00026b69460753",
+          "title": "AI 编程能力改变招聘标准，Anthropic 招聘负责人取消传统编程面试",
+          "url": "https://www.aibase.com/zh/news/31923",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9922,
-        "story_heat": 0.0
+        "recency": 0.9322,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T06:15:43Z",
-      "latest_at": "2026-10-28T06:15:43Z",
+      "earliest_at": "2026-10-28T06:48:16.801952Z",
+      "latest_at": "2026-10-28T06:48:16.801952Z",
       "primary_item": {
-        "id": "2097190f99937e9c2d7a7bf7c74ad4f8d5321831",
-        "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
-        "url": "https://x.com/addyosmani/status/2115326629488824753",
-        "source": "X：Addy Osmani (@addyosmani)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_95af72b561e4",
-      "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
-      "url": "https://latent.space/p/ainews-anthropic-s1",
-      "primary_url": "https://latent.space/p/ainews-anthropic-s1",
-      "source": "Latent Space（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "680a9fa46f237f0dcc8669c85f0c85acde5e6a40",
-          "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
-          "url": "https://latent.space/p/ainews-anthropic-s1",
-          "source": "Latent Space（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T07:24:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Latent Space（RSS）"
-      ],
-      "items": [
-        {
-          "id": "680a9fa46f237f0dcc8669c85f0c85acde5e6a40",
-          "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
-          "url": "https://latent.space/p/ainews-anthropic-s1",
-          "source": "Latent Space（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T07:24:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.764,
-      "importance": 0.764,
-      "importance_score": 0.764,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.88,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7134,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T07:24:59Z",
-      "latest_at": "2026-10-27T07:24:59Z",
-      "primary_item": {
-        "id": "680a9fa46f237f0dcc8669c85f0c85acde5e6a40",
-        "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
-        "url": "https://latent.space/p/ainews-anthropic-s1",
-        "source": "Latent Space（RSS）",
-        "source_name": "AI HOT"
+        "id": "6696fed3d8a5293a6b3ee4bc05cf4d55c70f3a5b",
+        "title": "AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试",
+        "url": "https://www.aibase.com/news/31923",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1015,15 +1419,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9322,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1040,389 +1444,6 @@
         "url": "https://www.aibase.com/news/31922",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4f6091d1df29",
-      "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证",
-      "url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "df31d4397fa0d5aa9dc292abed21eec90bb69de2",
-          "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证",
-          "url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T23:31:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "df31d4397fa0d5aa9dc292abed21eec90bb69de2",
-          "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证",
-          "url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T23:31:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9002,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T23:31:32Z",
-      "latest_at": "2026-10-27T23:31:32Z",
-      "primary_item": {
-        "id": "df31d4397fa0d5aa9dc292abed21eec90bb69de2",
-        "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证",
-        "url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_99137a809696",
-      "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
-      "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
-      "primary_url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
-      "source": "Azeem Azhar：Exponential View（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "314f1dbd620181ccb92f419287d9736a6aedb838",
-          "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
-          "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
-          "source": "Azeem Azhar：Exponential View（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T17:31:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Azeem Azhar：Exponential View（RSS）"
-      ],
-      "items": [
-        {
-          "id": "314f1dbd620181ccb92f419287d9736a6aedb838",
-          "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
-          "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
-          "source": "Azeem Azhar：Exponential View（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T17:31:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8256,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T17:31:56Z",
-      "latest_at": "2026-10-27T17:31:56Z",
-      "primary_item": {
-        "id": "314f1dbd620181ccb92f419287d9736a6aedb838",
-        "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
-        "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
-        "source": "Azeem Azhar：Exponential View（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2ef2570c0381",
-      "title": "马斯克前员工创立的AI初创公司仅用 12 小时攻破Anthropic办公系统",
-      "url": "https://www.aibase.com/news/31924",
-      "primary_url": "https://www.aibase.com/news/31924",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4c1c6eaba3dc11ecd63fc9428fd44a5bd802833b",
-          "title": "马斯克前员工创立的AI初创公司仅用 12 小时攻破Anthropic办公系统",
-          "url": "https://www.aibase.com/news/31924",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T06:48:16.801952Z"
-        },
-        {
-          "id": "a6d601b01df1c033c6ad0f9cbeb21ec04c66ee6d",
-          "title": "马斯克前员工创立的 AI 初创公司仅用 12 小时攻破 Anthropic 办公系统",
-          "url": "https://www.aibase.com/zh/news/31924",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "4c1c6eaba3dc11ecd63fc9428fd44a5bd802833b",
-          "title": "马斯克前员工创立的AI初创公司仅用 12 小时攻破Anthropic办公系统",
-          "url": "https://www.aibase.com/news/31924",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T06:48:16.801952Z"
-        },
-        {
-          "id": "a6d601b01df1c033c6ad0f9cbeb21ec04c66ee6d",
-          "title": "马斯克前员工创立的 AI 初创公司仅用 12 小时攻破 Anthropic 办公系统",
-          "url": "https://www.aibase.com/zh/news/31924",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T06:48:16.801952Z",
-      "latest_at": "2026-10-28T06:48:16.801952Z",
-      "primary_item": {
-        "id": "4c1c6eaba3dc11ecd63fc9428fd44a5bd802833b",
-        "title": "马斯克前员工创立的AI初创公司仅用 12 小时攻破Anthropic办公系统",
-        "url": "https://www.aibase.com/news/31924",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_29a958750fc6",
-      "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
-      "url": "https://www.langchain.com/blog/design-agent",
-      "primary_url": "https://www.langchain.com/blog/design-agent",
-      "source": "LangChain：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
-          "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
-          "url": "https://www.langchain.com/blog/design-agent",
-          "source": "LangChain：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T16:45:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LangChain：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
-          "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
-          "url": "https://www.langchain.com/blog/design-agent",
-          "source": "LangChain：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T16:45:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8163,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T16:45:00Z",
-      "latest_at": "2026-10-27T16:45:00Z",
-      "primary_item": {
-        "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
-        "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
-        "url": "https://www.langchain.com/blog/design-agent",
-        "source": "LangChain：Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "319dde6f1d733805359b50f1a7f300474b089d10",
-          "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T00:22:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "319dde6f1d733805359b50f1a7f300474b089d10",
-          "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T00:22:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7306,
-      "importance": 0.7306,
-      "importance_score": 0.7306,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9112,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T00:22:00Z",
-      "latest_at": "2026-10-28T00:22:00Z",
-      "primary_item": {
-        "id": "319dde6f1d733805359b50f1a7f300474b089d10",
-        "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6573f17f7994",
-      "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
-      "url": "https://x.com/GeminiApp/status/2115171788812669225",
-      "primary_url": "https://x.com/GeminiApp/status/2115171788812669225",
-      "source": "X：Gemini (@GeminiApp)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "15501b72cbc9cab282a9e705ca1850810ee41ccc",
-          "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
-          "url": "https://x.com/GeminiApp/status/2115171788812669225",
-          "source": "X：Gemini (@GeminiApp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T20:00:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Gemini (@GeminiApp)"
-      ],
-      "items": [
-        {
-          "id": "15501b72cbc9cab282a9e705ca1850810ee41ccc",
-          "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
-          "url": "https://x.com/GeminiApp/status/2115171788812669225",
-          "source": "X：Gemini (@GeminiApp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T20:00:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7296,
-      "importance": 0.7296,
-      "importance_score": 0.7296,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8556,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T20:00:27Z",
-      "latest_at": "2026-10-27T20:00:27Z",
-      "primary_item": {
-        "id": "15501b72cbc9cab282a9e705ca1850810ee41ccc",
-        "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
-        "url": "https://x.com/GeminiApp/status/2115171788812669225",
-        "source": "X：Gemini (@GeminiApp)",
-        "source_name": "AI HOT"
       }
     }
   ]
