@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T17:24:45.631175Z",
+  "generated_at": "2026-10-28T21:54:01.440919Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8868,
-      "importance": 0.8868,
-      "importance_score": 0.8868,
+      "score": 0.8759,
+      "importance": 0.8759,
+      "importance_score": 0.8759,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9654,
+        "recency": 0.9048,
         "story_heat": 0.25
       },
       "category": "official",
@@ -87,7 +87,7 @@
     },
     {
       "story_id": "story_34b0bf3f94c3",
-      "title": "Gemini 4 Carbon：我们的下一个前沿型号 / Gemini 4 Carbon: Our next frontier model",
+      "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型 / Gemini 4 Carbon: Our next frontier model",
       "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
       "primary_url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
       "source": "Google DeepMind",
@@ -95,45 +95,65 @@
       "sources": [
         {
           "id": "9bdc18e8234914b118f781552daa7e8656b9dca1",
-          "title": "Gemini 4 Carbon：我们的下一个前沿型号 / Gemini 4 Carbon: Our next frontier model",
+          "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型 / Gemini 4 Carbon: Our next frontier model",
           "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
           "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-10-28T17:00:58Z"
+        },
+        {
+          "id": "f8ada884b4b34fada811e6af35ece237061ce63c",
+          "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T17:00:58Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Google DeepMind"
+        "Google DeepMind",
+        "Google DeepMind：Blog（RSS）"
       ],
       "items": [
         {
           "id": "9bdc18e8234914b118f781552daa7e8656b9dca1",
-          "title": "Gemini 4 Carbon：我们的下一个前沿型号 / Gemini 4 Carbon: Our next frontier model",
+          "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型 / Gemini 4 Carbon: Our next frontier model",
           "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
           "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-10-28T17:00:58Z"
+        },
+        {
+          "id": "f8ada884b4b34fada811e6af35ece237061ce63c",
+          "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T17:00:58Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.851,
-      "importance": 0.851,
-      "importance_score": 0.851,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8647,
+      "importance": 0.8647,
+      "importance_score": 0.8647,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9943,
-        "story_heat": 0.0
+        "recency": 0.9319,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
@@ -141,9 +161,91 @@
       "latest_at": "2026-10-28T17:00:58Z",
       "primary_item": {
         "id": "9bdc18e8234914b118f781552daa7e8656b9dca1",
-        "title": "Gemini 4 Carbon：我们的下一个前沿型号 / Gemini 4 Carbon: Our next frontier model",
+        "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型 / Gemini 4 Carbon: Our next frontier model",
         "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
         "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0dc3cf0b7c98",
+      "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "primary_url": "https://openai.com/index/the-future-of-the-firm",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "37166f867e221c666885c4ab5fa1bd8c88ce23b3",
+          "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
+          "url": "https://openai.com/index/the-future-of-the-firm",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T10:00:00Z"
+        },
+        {
+          "id": "393e23dfc7d9583ee0cb6cea1b5558f71f4bffa9",
+          "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
+          "url": "https://openai.com/index/the-future-of-the-firm",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T10:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "37166f867e221c666885c4ab5fa1bd8c88ce23b3",
+          "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
+          "url": "https://openai.com/index/the-future-of-the-firm",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T10:00:00Z"
+        },
+        {
+          "id": "393e23dfc7d9583ee0cb6cea1b5558f71f4bffa9",
+          "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
+          "url": "https://openai.com/index/the-future-of-the-firm",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T10:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8486,
+      "importance": 0.8486,
+      "importance_score": 0.8486,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8421,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T10:00:00Z",
+      "latest_at": "2026-10-28T10:00:00Z",
+      "primary_item": {
+        "id": "37166f867e221c666885c4ab5fa1bd8c88ce23b3",
+        "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
+        "url": "https://openai.com/index/the-future-of-the-firm",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -182,15 +284,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8484,
-      "importance": 0.8484,
-      "importance_score": 0.8484,
+      "score": 0.8373,
+      "importance": 0.8373,
+      "importance_score": 0.8373,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9798,
+        "recency": 0.9183,
         "story_heat": 0.0
       },
       "category": "official",
@@ -206,68 +308,6 @@
         "title": "使用 GitHub Copilot Fusion 路由和编排模型 / Route and orchestrate models with GitHub Copilot Fusion",
         "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2fc8e689e413",
-      "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-      "primary_url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c78fc69600251ee955d2ecf2f1997a73a41abb05",
-          "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
-          "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T09:30:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c78fc69600251ee955d2ecf2f1997a73a41abb05",
-          "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
-          "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T09:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.892,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T09:30:00Z",
-      "latest_at": "2026-10-28T09:30:00Z",
-      "primary_item": {
-        "id": "c78fc69600251ee955d2ecf2f1997a73a41abb05",
-        "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
-        "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -306,15 +346,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8482,
-      "importance": 0.8482,
-      "importance_score": 0.8482,
+      "score": 0.8371,
+      "importance": 0.8371,
+      "importance_score": 0.8371,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9786,
+        "recency": 0.9172,
         "story_heat": 0.0
       },
       "category": "official",
@@ -330,6 +370,68 @@
         "title": "GitHub Copilot 应用程序、Universe 发布 / GitHub Copilot app, Universe releases",
         "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_75e2017ed4c5",
+      "title": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系 / OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "primary_url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0fd968b40feb377d645c078f6daf22388be116cf",
+          "title": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系 / OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T13:15:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "0fd968b40feb377d645c078f6daf22388be116cf",
+          "title": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系 / OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T13:15:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8309,
+      "importance": 0.8309,
+      "importance_score": 0.8309,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8826,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T13:15:00Z",
+      "latest_at": "2026-10-28T13:15:00Z",
+      "primary_item": {
+        "id": "0fd968b40feb377d645c078f6daf22388be116cf",
+        "title": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系 / OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -368,15 +470,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.806,
-      "importance": 0.806,
-      "importance_score": 0.806,
+      "score": 0.7948,
+      "importance": 0.7948,
+      "importance_score": 0.7948,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9968,
+        "recency": 0.9343,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -391,6 +493,67 @@
         "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
         "url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_067bd3e13080",
+      "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
+      "url": "https://www.wheresyoured.at/exit-liquidity",
+      "primary_url": "https://www.wheresyoured.at/exit-liquidity",
+      "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e1bce0a78d751dae23274eb2ed44ab6f3d4ce402",
+          "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
+          "url": "https://www.wheresyoured.at/exit-liquidity",
+          "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T17:51:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ed Zitron 长文 / Where’s Your Ed At（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e1bce0a78d751dae23274eb2ed44ab6f3d4ce402",
+          "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
+          "url": "https://www.wheresyoured.at/exit-liquidity",
+          "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T17:51:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7814,
+      "importance": 0.7814,
+      "importance_score": 0.7814,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9432,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T17:51:00Z",
+      "latest_at": "2026-10-28T17:51:00Z",
+      "primary_item": {
+        "id": "e1bce0a78d751dae23274eb2ed44ab6f3d4ce402",
+        "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
+        "url": "https://www.wheresyoured.at/exit-liquidity",
+        "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -448,15 +611,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7915,
-      "importance": 0.7915,
-      "importance_score": 0.7915,
+      "score": 0.7813,
+      "importance": 0.7813,
+      "importance_score": 0.7813,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9108,
+        "recency": 0.8536,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -476,65 +639,64 @@
       }
     },
     {
-      "story_id": "story_393d97d2e447",
-      "title": "GitHub Enterprise 现在包含对 GitHub Copilot 的访问 / GitHub Enterprise now includes access to GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_841f88c40f1c",
+      "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
+      "url": "https://x.com/sundarpichai/status/2115535455156642066",
+      "primary_url": "https://x.com/sundarpichai/status/2115535455156642066",
+      "source": "X：Sundar Pichai (@sundarpichai)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e60ec0da27a658af8f30013865adc40b01dade2f",
-          "title": "GitHub Enterprise 现在包含对 GitHub Copilot 的访问 / GitHub Enterprise now includes access to GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T15:50:00Z"
+          "id": "fd53467550a751aad87fd7e5f6f51c99ecafa8ab",
+          "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
+          "url": "https://x.com/sundarpichai/status/2115535455156642066",
+          "source": "X：Sundar Pichai (@sundarpichai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T20:05:31Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：Sundar Pichai (@sundarpichai)"
       ],
       "items": [
         {
-          "id": "e60ec0da27a658af8f30013865adc40b01dade2f",
-          "title": "GitHub Enterprise 现在包含对 GitHub Copilot 的访问 / GitHub Enterprise now includes access to GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T15:50:00Z"
+          "id": "fd53467550a751aad87fd7e5f6f51c99ecafa8ab",
+          "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
+          "url": "https://x.com/sundarpichai/status/2115535455156642066",
+          "source": "X：Sundar Pichai (@sundarpichai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T20:05:31Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8479,
-      "importance": 0.8479,
-      "importance_score": 0.8479,
-      "importance_label": "官方更新",
+      "score": 0.781,
+      "importance": 0.781,
+      "importance_score": 0.781,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9775,
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9742,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T15:50:00Z",
-      "latest_at": "2026-10-28T15:50:00Z",
+      "earliest_at": "2026-10-28T20:05:31Z",
+      "latest_at": "2026-10-28T20:05:31Z",
       "primary_item": {
-        "id": "e60ec0da27a658af8f30013865adc40b01dade2f",
-        "title": "GitHub Enterprise 现在包含对 GitHub Copilot 的访问 / GitHub Enterprise now includes access to GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "fd53467550a751aad87fd7e5f6f51c99ecafa8ab",
+        "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
+        "url": "https://x.com/sundarpichai/status/2115535455156642066",
+        "source": "X：Sundar Pichai (@sundarpichai)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -591,15 +753,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7729,
+        "recency": 0.7244,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -616,6 +778,68 @@
         "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_393d97d2e447",
+      "title": "GitHub Enterprise 现在包含对 GitHub Copilot 的访问 / GitHub Enterprise now includes access to GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e60ec0da27a658af8f30013865adc40b01dade2f",
+          "title": "GitHub Enterprise 现在包含对 GitHub Copilot 的访问 / GitHub Enterprise now includes access to GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T15:50:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e60ec0da27a658af8f30013865adc40b01dade2f",
+          "title": "GitHub Enterprise 现在包含对 GitHub Copilot 的访问 / GitHub Enterprise now includes access to GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T15:50:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8369,
+      "importance": 0.8369,
+      "importance_score": 0.8369,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9161,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T15:50:00Z",
+      "latest_at": "2026-10-28T15:50:00Z",
+      "primary_item": {
+        "id": "e60ec0da27a658af8f30013865adc40b01dade2f",
+        "title": "GitHub Enterprise 现在包含对 GitHub Copilot 的访问 / GitHub Enterprise now includes access to GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -653,15 +877,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7823,
-      "importance": 0.7823,
-      "importance_score": 0.7823,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9816,
+        "recency": 0.92,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -733,15 +957,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
+      "score": 0.7679,
+      "importance": 0.7679,
+      "importance_score": 0.7679,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9204,
+        "recency": 0.8626,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -758,6 +982,68 @@
         "url": "https://www.aibase.com/news/31929",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2fc8e689e413",
+      "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "primary_url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c78fc69600251ee955d2ecf2f1997a73a41abb05",
+          "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
+          "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T09:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c78fc69600251ee955d2ecf2f1997a73a41abb05",
+          "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
+          "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T09:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8225,
+      "importance": 0.8225,
+      "importance_score": 0.8225,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.836,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T09:30:00Z",
+      "latest_at": "2026-10-28T09:30:00Z",
+      "primary_item": {
+        "id": "c78fc69600251ee955d2ecf2f1997a73a41abb05",
+        "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
+        "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -795,15 +1081,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.7562,
+      "importance": 0.7562,
+      "importance_score": 0.7562,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8927,
+        "recency": 0.8366,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -818,67 +1104,6 @@
         "title": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
         "url": "https://x.com/SaitoWu/status/2115376256929948006",
         "source": "X：Saito 硬地骇客 (@SaitoWu)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1a6afbef31b9",
-      "title": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先",
-      "url": "https://x.com/sundarpichai/status/2115489219804352921",
-      "primary_url": "https://x.com/sundarpichai/status/2115489219804352921",
-      "source": "X：Sundar Pichai (@sundarpichai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b89eea1b6e19e6db216c09f225390ac65ad243c8",
-          "title": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先",
-          "url": "https://x.com/sundarpichai/status/2115489219804352921",
-          "source": "X：Sundar Pichai (@sundarpichai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T17:01:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sundar Pichai (@sundarpichai)"
-      ],
-      "items": [
-        {
-          "id": "b89eea1b6e19e6db216c09f225390ac65ad243c8",
-          "title": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先",
-          "url": "https://x.com/sundarpichai/status/2115489219804352921",
-          "source": "X：Sundar Pichai (@sundarpichai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T17:01:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9945,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T17:01:48Z",
-      "latest_at": "2026-10-28T17:01:48Z",
-      "primary_item": {
-        "id": "b89eea1b6e19e6db216c09f225390ac65ad243c8",
-        "title": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先",
-        "url": "https://x.com/sundarpichai/status/2115489219804352921",
-        "source": "X：Sundar Pichai (@sundarpichai)",
         "source_name": "AI HOT"
       }
     },
@@ -936,22 +1161,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7602,
-      "importance": 0.7602,
-      "importance_score": 0.7602,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.92,
+        "recency": 0.8623,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-28T00:22:00Z",
       "latest_at": "2026-10-28T11:38:17Z",
@@ -998,15 +1222,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8477,
-      "importance": 0.8477,
-      "importance_score": 0.8477,
+      "score": 0.8367,
+      "importance": 0.8367,
+      "importance_score": 0.8367,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9763,
+        "recency": 0.915,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1023,6 +1247,66 @@
         "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f7c3c9c067f4",
+      "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
+      "url": "https://x.com/bcherny/status/2115491259381072269",
+      "primary_url": "https://x.com/bcherny/status/2115491259381072269",
+      "source": "X：Boris Cherny (@bcherny)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d2353704e32a7603145331df04f6fc2fb8260bee",
+          "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
+          "url": "https://x.com/bcherny/status/2115491259381072269",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T17:09:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Boris Cherny (@bcherny)"
+      ],
+      "items": [
+        {
+          "id": "d2353704e32a7603145331df04f6fc2fb8260bee",
+          "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
+          "url": "https://x.com/bcherny/status/2115491259381072269",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T17:09:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9339,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-28T17:09:54Z",
+      "latest_at": "2026-10-28T17:09:54Z",
+      "primary_item": {
+        "id": "d2353704e32a7603145331df04f6fc2fb8260bee",
+        "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
+        "url": "https://x.com/bcherny/status/2115491259381072269",
+        "source": "X：Boris Cherny (@bcherny)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1079,15 +1363,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7791,
-      "importance": 0.7791,
-      "importance_score": 0.7791,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7919,
+        "recency": 0.7422,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1103,268 +1387,6 @@
         "title": "Anthropic IPO 最大赢家或为 Amazon 而非 VC",
         "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
         "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c3b9d39cdd4c",
-      "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
-      "url": "https://www.aibase.com/news/31933",
-      "primary_url": "https://www.aibase.com/news/31933",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3bd6c21f73ab76430ad67d454e8e5e7279363485",
-          "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
-          "url": "https://www.aibase.com/news/31933",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T11:39:56.888101Z"
-        },
-        {
-          "id": "2efd3e82ead22dd617f42add5ad5fc34d5b6a953",
-          "title": "OpenAI 被曝将向谷歌采购 TPU 芯片，算力供应链格局再变",
-          "url": "https://www.aibase.com/zh/news/31933",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "3bd6c21f73ab76430ad67d454e8e5e7279363485",
-          "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
-          "url": "https://www.aibase.com/news/31933",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T11:39:56.888101Z"
-        },
-        {
-          "id": "2efd3e82ead22dd617f42add5ad5fc34d5b6a953",
-          "title": "OpenAI 被曝将向谷歌采购 TPU 芯片，算力供应链格局再变",
-          "url": "https://www.aibase.com/zh/news/31933",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9204,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T11:39:56.888101Z",
-      "latest_at": "2026-10-28T11:39:56.888101Z",
-      "primary_item": {
-        "id": "3bd6c21f73ab76430ad67d454e8e5e7279363485",
-        "title": "OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变",
-        "url": "https://www.aibase.com/news/31933",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_55d5a9ab0b65",
-      "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
-      "url": "https://x.com/addyosmani/status/2115326629488824753",
-      "primary_url": "https://x.com/addyosmani/status/2115326629488824753",
-      "source": "X：Addy Osmani (@addyosmani)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2097190f99937e9c2d7a7bf7c74ad4f8d5321831",
-          "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
-          "url": "https://x.com/addyosmani/status/2115326629488824753",
-          "source": "X：Addy Osmani (@addyosmani)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T06:15:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Addy Osmani (@addyosmani)"
-      ],
-      "items": [
-        {
-          "id": "2097190f99937e9c2d7a7bf7c74ad4f8d5321831",
-          "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
-          "url": "https://x.com/addyosmani/status/2115326629488824753",
-          "source": "X：Addy Osmani (@addyosmani)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T06:15:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7408,
-      "importance": 0.7408,
-      "importance_score": 0.7408,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8513,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T06:15:43Z",
-      "latest_at": "2026-10-28T06:15:43Z",
-      "primary_item": {
-        "id": "2097190f99937e9c2d7a7bf7c74ad4f8d5321831",
-        "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
-        "url": "https://x.com/addyosmani/status/2115326629488824753",
-        "source": "X：Addy Osmani (@addyosmani)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6275c06097e7",
-      "title": "GitHub Universe 2026 发布 GitHub Copilot app、Copilot Fusion 等智能体产品",
-      "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack",
-      "primary_url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack",
-      "source": "GitHub Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6d8f82a0be0c465a9a521272271f115f587b63cd",
-          "title": "GitHub Universe 2026 发布 GitHub Copilot app、Copilot Fusion 等智能体产品",
-          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T16:09:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "6d8f82a0be0c465a9a521272271f115f587b63cd",
-          "title": "GitHub Universe 2026 发布 GitHub Copilot app、Copilot Fusion 等智能体产品",
-          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T16:09:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.982,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T16:09:28Z",
-      "latest_at": "2026-10-28T16:09:28Z",
-      "primary_item": {
-        "id": "6d8f82a0be0c465a9a521272271f115f587b63cd",
-        "title": "GitHub Universe 2026 发布 GitHub Copilot app、Copilot Fusion 等智能体产品",
-        "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack",
-        "source": "GitHub Blog",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_99137a809696",
-      "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
-      "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
-      "primary_url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
-      "source": "Azeem Azhar：Exponential View（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "314f1dbd620181ccb92f419287d9736a6aedb838",
-          "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
-          "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
-          "source": "Azeem Azhar：Exponential View（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T17:31:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Azeem Azhar：Exponential View（RSS）"
-      ],
-      "items": [
-        {
-          "id": "314f1dbd620181ccb92f419287d9736a6aedb838",
-          "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
-          "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
-          "source": "Azeem Azhar：Exponential View（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T17:31:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7083,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T17:31:56Z",
-      "latest_at": "2026-10-27T17:31:56Z",
-      "primary_item": {
-        "id": "314f1dbd620181ccb92f419287d9736a6aedb838",
-        "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
-        "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
-        "source": "Azeem Azhar：Exponential View（RSS）",
         "source_name": "AI HOT"
       }
     }
