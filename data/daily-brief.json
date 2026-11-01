@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-01T16:24:39.713590Z",
+  "generated_at": "2026-11-01T20:50:27.551362Z",
   "window_hours": 24,
-  "total_items": 18,
+  "total_items": 19,
   "items": [
     {
       "story_id": "story_2df82173bb28",
@@ -128,15 +128,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6473,
-      "importance": 0.6473,
-      "importance_score": 0.6473,
+      "score": 0.6375,
+      "importance": 0.6375,
+      "importance_score": 0.6375,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8783,
+        "recency": 0.8239,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -154,99 +154,101 @@
       }
     },
     {
-      "story_id": "story_6cbde97d8260",
-      "title": "算力的尽头是电力？从第一性原理看 AI 基础设施",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651071442&idx=2&sn=512b621f95db3eb1b9fde2a183ca3955",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651071442&idx=2&sn=512b621f95db3eb1b9fde2a183ca3955",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_8f7e0709d34e",
+      "title": "《我的世界》中的AI智能体群落未能建立文明，反而在官僚主义中陷入泥潭",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "source": "www.tomshardware.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "e434f619c26c1a8954db1197fcdd773c8575a61c",
-          "title": "算力的尽头是电力？从第一性原理看 AI 基础设施",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651071442&idx=2&sn=512b621f95db3eb1b9fde2a183ca3955",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "8a46d62d586a36d5e6f7870d97c9b40574a2c744",
+          "title": "《我的世界》中的AI智能体群落未能建立文明，反而在官僚主义中陷入泥潭",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+          "source": "www.tomshardware.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T17:59:39.145000Z"
         },
         {
-          "id": "880b47089e7e9f42358a421acef9c8725b385af8",
-          "title": "AI 如何解析物理世界？清华联合清屿科技等团队推出自进化多物理场建模系统 EvoSim",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651071375&idx=3&sn=98272d0d78078af711285a0667685c99",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "0398f931134eab193bfcff9a02feeab826a1d7b0",
+          "title": "《我的世界》中的AI智能体群落未能建立文明，反而在官僚主义中陷入泥潭 / AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T13:47:24Z"
         },
         {
-          "id": "2b898e087c442f388b4491997b594521be4af7b7",
-          "title": "整仓迁移交给 Coding Agent，训练与推理行为还能对齐吗？谷歌团队发布 T2J-Bench",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651071376&idx=2&sn=51b516b90330a35116cc8a44674b3ba4",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "aff9c4695c51ff8fd303962bbb0aa1ee3b32c58c",
+          "title": "《我的世界》中的 AI 特工群未能建立文明，淹没在官僚主义中 / AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+          "url": "https://news.ycombinator.com/item?id=50325662",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T13:47:24Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Readhub · AI"
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.tomshardware.com"
       ],
       "items": [
         {
-          "id": "e434f619c26c1a8954db1197fcdd773c8575a61c",
-          "title": "算力的尽头是电力？从第一性原理看 AI 基础设施",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651071442&idx=2&sn=512b621f95db3eb1b9fde2a183ca3955",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "8a46d62d586a36d5e6f7870d97c9b40574a2c744",
+          "title": "《我的世界》中的AI智能体群落未能建立文明，反而在官僚主义中陷入泥潭",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+          "source": "www.tomshardware.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T17:59:39.145000Z"
         },
         {
-          "id": "880b47089e7e9f42358a421acef9c8725b385af8",
-          "title": "AI 如何解析物理世界？清华联合清屿科技等团队推出自进化多物理场建模系统 EvoSim",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651071375&idx=3&sn=98272d0d78078af711285a0667685c99",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "0398f931134eab193bfcff9a02feeab826a1d7b0",
+          "title": "《我的世界》中的AI智能体群落未能建立文明，反而在官僚主义中陷入泥潭 / AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T13:47:24Z"
         },
         {
-          "id": "2b898e087c442f388b4491997b594521be4af7b7",
-          "title": "整仓迁移交给 Coding Agent，训练与推理行为还能对齐吗？谷歌团队发布 T2J-Bench",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651071376&idx=2&sn=51b516b90330a35116cc8a44674b3ba4",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "aff9c4695c51ff8fd303962bbb0aa1ee3b32c58c",
+          "title": "《我的世界》中的 AI 特工群未能建立文明，淹没在官僚主义中 / AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+          "url": "https://news.ycombinator.com/item?id=50325662",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T13:47:24Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
+      "score": 0.5636,
+      "importance": 0.5636,
+      "importance_score": 0.5636,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9597,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-31T19:33:12.400720Z",
-      "latest_at": "2026-11-01T16:24:39.713590Z",
+      "earliest_at": "2026-11-01T13:47:24Z",
+      "latest_at": "2026-11-01T17:59:39.145000Z",
       "primary_item": {
-        "id": "e434f619c26c1a8954db1197fcdd773c8575a61c",
-        "title": "算力的尽头是电力？从第一性原理看 AI 基础设施",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651071442&idx=2&sn=512b621f95db3eb1b9fde2a183ca3955",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "8a46d62d586a36d5e6f7870d97c9b40574a2c744",
+        "title": "《我的世界》中的AI智能体群落未能建立文明，反而在官僚主义中陷入泥潭",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+        "source": "www.tomshardware.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -267,12 +269,12 @@
           "published_at": "2026-11-01T12:27:13.631000Z"
         },
         {
-          "id": "eafcbe69da4dfa03812a20e734473be558c8483d",
+          "id": "c9660661e9a92fdc9e988ed247b516734e60ada8",
           "title": "ChatGPT 和 Codex 的使用限制将合并 / ChatGPT and Codex usage limits merging",
           "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-31T21:49:07Z"
         },
         {
@@ -287,7 +289,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "help.openai.com"
       ],
@@ -302,12 +304,12 @@
           "published_at": "2026-11-01T12:27:13.631000Z"
         },
         {
-          "id": "eafcbe69da4dfa03812a20e734473be558c8483d",
+          "id": "c9660661e9a92fdc9e988ed247b516734e60ada8",
           "title": "ChatGPT 和 Codex 的使用限制将合并 / ChatGPT and Codex usage limits merging",
           "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-31T21:49:07Z"
         },
         {
@@ -322,15 +324,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5608,
-      "importance": 0.5608,
-      "importance_score": 0.5608,
+      "score": 0.5503,
+      "importance": 0.5503,
+      "importance_score": 0.5503,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9445,
+        "recency": 0.8859,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -420,15 +422,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5608,
-      "importance": 0.5608,
-      "importance_score": 0.5608,
+      "score": 0.5503,
+      "importance": 0.5503,
+      "importance_score": 0.5503,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9445,
+        "recency": 0.8859,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -442,6 +444,243 @@
         "title": "JavaScript 框架的 AI 成本",
         "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
         "source": "nolanlawson.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b2de1d18a605",
+      "title": "使用 braindead-local-intelligence 轻松体验本地人工智能",
+      "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+      "primary_url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+      "source": "dataswamp.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "47128f6b4ddba7bca84f0a148716b5baeb366b62",
+          "title": "使用 braindead-local-intelligence 轻松体验本地人工智能",
+          "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+          "source": "dataswamp.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T20:39:55.694000Z"
+        },
+        {
+          "id": "eb9f7a247c3ce6d5df4ea4aff2d90947fb6f3550",
+          "title": "使用 braindead-local-intelligence 轻松体验本地人工智能 / An easy way to try local AI with braindead-local-intelligence",
+          "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T20:26:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "dataswamp.org"
+      ],
+      "items": [
+        {
+          "id": "47128f6b4ddba7bca84f0a148716b5baeb366b62",
+          "title": "使用 braindead-local-intelligence 轻松体验本地人工智能",
+          "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+          "source": "dataswamp.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T20:39:55.694000Z"
+        },
+        {
+          "id": "eb9f7a247c3ce6d5df4ea4aff2d90947fb6f3550",
+          "title": "使用 braindead-local-intelligence 轻松体验本地人工智能 / An easy way to try local AI with braindead-local-intelligence",
+          "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T20:26:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9975,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T20:26:47Z",
+      "latest_at": "2026-11-01T20:39:55.694000Z",
+      "primary_item": {
+        "id": "47128f6b4ddba7bca84f0a148716b5baeb366b62",
+        "title": "使用 braindead-local-intelligence 轻松体验本地人工智能",
+        "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+        "source": "dataswamp.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4b795773d113",
+      "title": "不是人工智能推翻了质子的指控 / It wasn't AI that flipped Proton's charge",
+      "url": "https://blog.raed.dev/posts/proton-loser-thinking",
+      "primary_url": "https://blog.raed.dev/posts/proton-loser-thinking",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "0fa14932b766c1bc61597adbe677997607a60d01",
+          "title": "不是人工智能推翻了质子的指控 / It wasn't AI that flipped Proton's charge",
+          "url": "https://blog.raed.dev/posts/proton-loser-thinking",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T18:53:55Z"
+        },
+        {
+          "id": "163de39b18a702f7b9d7b7e200753d2a0bb4f2c0",
+          "title": "不是人工智能推翻了质子的指控 / It wasn't AI that flipped Proton's charge",
+          "url": "https://news.ycombinator.com/item?id=50328488",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T18:53:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "0fa14932b766c1bc61597adbe677997607a60d01",
+          "title": "不是人工智能推翻了质子的指控 / It wasn't AI that flipped Proton's charge",
+          "url": "https://blog.raed.dev/posts/proton-loser-thinking",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T18:53:55Z"
+        },
+        {
+          "id": "163de39b18a702f7b9d7b7e200753d2a0bb4f2c0",
+          "title": "不是人工智能推翻了质子的指控 / It wasn't AI that flipped Proton's charge",
+          "url": "https://news.ycombinator.com/item?id=50328488",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T18:53:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5408,
+      "importance": 0.5408,
+      "importance_score": 0.5408,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9723,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T18:53:55Z",
+      "latest_at": "2026-11-01T18:53:55Z",
+      "primary_item": {
+        "id": "0fa14932b766c1bc61597adbe677997607a60d01",
+        "title": "不是人工智能推翻了质子的指控 / It wasn't AI that flipped Proton's charge",
+        "url": "https://blog.raed.dev/posts/proton-loser-thinking",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_ed22cb5a8503",
+      "title": "《周六夜现场》瞄准人工智能、初创企业文化以及“掠夺性的科技男”",
+      "url": "https://www.businessinsider.com/saturday-night-live-snl-ai-startup-culture-tech-comedy-2026-11",
+      "primary_url": "https://www.businessinsider.com/saturday-night-live-snl-ai-startup-culture-tech-comedy-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5e06493e65d65a44ef81fc78385c62061c983f2c",
+          "title": "《周六夜现场》瞄准人工智能、初创企业文化以及“掠夺性的科技男”",
+          "url": "https://www.businessinsider.com/saturday-night-live-snl-ai-startup-culture-tech-comedy-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T17:27:41.475000Z"
+        },
+        {
+          "id": "113dad7bce28fbb29341bc078ee9c7d767158c99",
+          "title": "《周六夜现场》瞄准人工智能、初创企业文化以及“掠夺性的科技男” / 'SNL' goes after AI, startup culture, and 'predatory tech guys'",
+          "url": "https://www.businessinsider.com/saturday-night-live-snl-ai-startup-culture-tech-comedy-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-01T17:13:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "5e06493e65d65a44ef81fc78385c62061c983f2c",
+          "title": "《周六夜现场》瞄准人工智能、初创企业文化以及“掠夺性的科技男”",
+          "url": "https://www.businessinsider.com/saturday-night-live-snl-ai-startup-culture-tech-comedy-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T17:27:41.475000Z"
+        },
+        {
+          "id": "113dad7bce28fbb29341bc078ee9c7d767158c99",
+          "title": "《周六夜现场》瞄准人工智能、初创企业文化以及“掠夺性的科技男” / 'SNL' goes after AI, startup culture, and 'predatory tech guys'",
+          "url": "https://www.businessinsider.com/saturday-night-live-snl-ai-startup-culture-tech-comedy-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-01T17:13:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5372,
+      "importance": 0.5372,
+      "importance_score": 0.5372,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9524,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T17:13:48Z",
+      "latest_at": "2026-11-01T17:27:41.475000Z",
+      "primary_item": {
+        "id": "5e06493e65d65a44ef81fc78385c62061c983f2c",
+        "title": "《周六夜现场》瞄准人工智能、初创企业文化以及“掠夺性的科技男”",
+        "url": "https://www.businessinsider.com/saturday-night-live-snl-ai-startup-culture-tech-comedy-2026-11",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -499,15 +738,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.938,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -525,188 +764,30 @@
       }
     },
     {
-      "story_id": "story_b997047b8551",
-      "title": "以Anthropic向客户收取的价格计算，该公司内部的人工智能使用价值现已超过员工薪资总额。",
-      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-      "primary_url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b6fe1bc07af0adfb43e9920785652393fe58440a",
-          "title": "以Anthropic向客户收取的价格计算，该公司内部的人工智能使用价值现已超过员工薪资总额。",
-          "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-01T15:20:48.045000Z"
-        },
-        {
-          "id": "2794bf81b25e209207bb5f470962c70a84c3e353",
-          "title": "以Anthropic向客户收取的价格计算，该公司内部的人工智能使用价值现已超过员工薪资总额。 / Anthropic's internal AI use, valued at retail prices, now exceeds its employee pay",
-          "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-01T15:00:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "b6fe1bc07af0adfb43e9920785652393fe58440a",
-          "title": "以Anthropic向客户收取的价格计算，该公司内部的人工智能使用价值现已超过员工薪资总额。",
-          "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-01T15:20:48.045000Z"
-        },
-        {
-          "id": "2794bf81b25e209207bb5f470962c70a84c3e353",
-          "title": "以Anthropic向客户收取的价格计算，该公司内部的人工智能使用价值现已超过员工薪资总额。 / Anthropic's internal AI use, valued at retail prices, now exceeds its employee pay",
-          "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-01T15:00:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9847,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-01T15:00:01Z",
-      "latest_at": "2026-11-01T15:20:48.045000Z",
-      "primary_item": {
-        "id": "b6fe1bc07af0adfb43e9920785652393fe58440a",
-        "title": "以Anthropic向客户收取的价格计算，该公司内部的人工智能使用价值现已超过员工薪资总额。",
-        "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8f7e0709d34e",
-      "title": "《我的世界》中的 AI 特工群未能建立文明，淹没在官僚主义中 / AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "0398f931134eab193bfcff9a02feeab826a1d7b0",
-          "title": "《我的世界》中的 AI 特工群未能建立文明，淹没在官僚主义中 / AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-01T13:47:24Z"
-        },
-        {
-          "id": "aff9c4695c51ff8fd303962bbb0aa1ee3b32c58c",
-          "title": "《我的世界》中的 AI 特工群未能建立文明，淹没在官僚主义中 / AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-          "url": "https://news.ycombinator.com/item?id=50325662",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-01T13:47:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0398f931134eab193bfcff9a02feeab826a1d7b0",
-          "title": "《我的世界》中的 AI 特工群未能建立文明，淹没在官僚主义中 / AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-01T13:47:24Z"
-        },
-        {
-          "id": "aff9c4695c51ff8fd303962bbb0aa1ee3b32c58c",
-          "title": "《我的世界》中的 AI 特工群未能建立文明，淹没在官僚主义中 / AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-          "url": "https://news.ycombinator.com/item?id=50325662",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-01T13:47:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9629,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-01T13:47:24Z",
-      "latest_at": "2026-11-01T13:47:24Z",
-      "primary_item": {
-        "id": "0398f931134eab193bfcff9a02feeab826a1d7b0",
-        "title": "《我的世界》中的 AI 特工群未能建立文明，淹没在官僚主义中 / AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_648bddf7df56",
-      "title": "Ask HN: 除了Claude Code之外，还有哪些不错的开放权重替代方案？",
-      "url": "https://news.ycombinator.com/item?id=50325635",
-      "primary_url": "https://news.ycombinator.com/item?id=50325635",
+      "story_id": "story_cb6a16e14435",
+      "title": "据称，Anthropic的Mythos级模型已在Hugging Face上泄露",
+      "url": "https://news.ycombinator.com/item?id=50326727",
+      "primary_url": "https://news.ycombinator.com/item?id=50326727",
       "source": "news.ycombinator.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "3b350ad21248ab24534123da119c7702953765a7",
-          "title": "Ask HN: 除了Claude Code之外，还有哪些不错的开放权重替代方案？",
-          "url": "https://news.ycombinator.com/item?id=50325635",
+          "id": "002d0ff343eed341ad9bdcfa0b15d5751d1653c8",
+          "title": "据称，Anthropic的Mythos级模型已在Hugging Face上泄露",
+          "url": "https://news.ycombinator.com/item?id=50326727",
           "source": "news.ycombinator.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-01T13:44:58.194000Z"
+          "published_at": "2026-11-01T15:52:55.165000Z"
         },
         {
-          "id": "575f6242f0e4f3d764de68be274fb739fbf5426c",
-          "title": "Ask HN: 除了Claude Code之外，还有哪些不错的开放权重替代方案？ / Ask HN: What is a good open-weight alternative to Claude Code?",
-          "url": "https://news.ycombinator.com/item?id=50325635",
+          "id": "7e3186bf60205d0d97b09996533507de5e16b454",
+          "title": "据称，Anthropic的Mythos级模型已在Hugging Face上泄露 / Anthropic's Mythos-class model allegedly leaked on Hugging Face",
+          "url": "https://news.ycombinator.com/item?id=50326727",
           "source": "HN Algolia · AI 24h",
           "source_name": "Hacker News",
           "site_id": "hackernews",
-          "published_at": "2026-11-01T13:43:57Z"
+          "published_at": "2026-11-01T15:45:10Z"
         }
       ],
       "source_count": 2,
@@ -716,49 +797,127 @@
       ],
       "items": [
         {
-          "id": "3b350ad21248ab24534123da119c7702953765a7",
-          "title": "Ask HN: 除了Claude Code之外，还有哪些不错的开放权重替代方案？",
-          "url": "https://news.ycombinator.com/item?id=50325635",
+          "id": "002d0ff343eed341ad9bdcfa0b15d5751d1653c8",
+          "title": "据称，Anthropic的Mythos级模型已在Hugging Face上泄露",
+          "url": "https://news.ycombinator.com/item?id=50326727",
           "source": "news.ycombinator.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-01T13:44:58.194000Z"
+          "published_at": "2026-11-01T15:52:55.165000Z"
         },
         {
-          "id": "575f6242f0e4f3d764de68be274fb739fbf5426c",
-          "title": "Ask HN: 除了Claude Code之外，还有哪些不错的开放权重替代方案？ / Ask HN: What is a good open-weight alternative to Claude Code?",
-          "url": "https://news.ycombinator.com/item?id=50325635",
+          "id": "7e3186bf60205d0d97b09996533507de5e16b454",
+          "title": "据称，Anthropic的Mythos级模型已在Hugging Face上泄露 / Anthropic's Mythos-class model allegedly leaked on Hugging Face",
+          "url": "https://news.ycombinator.com/item?id=50326727",
           "source": "HN Algolia · AI 24h",
           "source_name": "Hacker News",
           "site_id": "hackernews",
-          "published_at": "2026-11-01T13:43:57Z"
+          "published_at": "2026-11-01T15:45:10Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9623,
+        "recency": 0.9309,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-01T13:43:57Z",
-      "latest_at": "2026-11-01T13:44:58.194000Z",
+      "earliest_at": "2026-11-01T15:45:10Z",
+      "latest_at": "2026-11-01T15:52:55.165000Z",
       "primary_item": {
-        "id": "3b350ad21248ab24534123da119c7702953765a7",
-        "title": "Ask HN: 除了Claude Code之外，还有哪些不错的开放权重替代方案？",
-        "url": "https://news.ycombinator.com/item?id=50325635",
+        "id": "002d0ff343eed341ad9bdcfa0b15d5751d1653c8",
+        "title": "据称，Anthropic的Mythos级模型已在Hugging Face上泄露",
+        "url": "https://news.ycombinator.com/item?id=50326727",
         "source": "news.ycombinator.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_bac90f15faa0",
+      "title": "警方负责人在该公司无视合同解除通知后，切断了Flock监控摄像头的电源 / Police chief unplugs Flock cameras after company ignores contract cancellation",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+      "primary_url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "130615c7e912857f1a9601b01dafd1d42a345cf1",
+          "title": "警方负责人在该公司无视合同解除通知后，切断了Flock监控摄像头的电源 / Police chief unplugs Flock cameras after company ignores contract cancellation",
+          "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-01T14:36:13Z"
+        },
+        {
+          "id": "8401d0c649c544b0e9130b77a6a193f7ae7ebb4b",
+          "title": "弗洛克无视合同取消后，警察局长拔掉了摄像头 / Police chief unplugs cameras after Flock ignores contract cancellation",
+          "url": "https://www.thedrive.com/news/my-city-canceled-flocks-contract-flock-ignored-it-so-the-police-chief-unplugged-the-cameras",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-01T14:36:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "130615c7e912857f1a9601b01dafd1d42a345cf1",
+          "title": "警方负责人在该公司无视合同解除通知后，切断了Flock监控摄像头的电源 / Police chief unplugs Flock cameras after company ignores contract cancellation",
+          "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-01T14:36:13Z"
+        },
+        {
+          "id": "8401d0c649c544b0e9130b77a6a193f7ae7ebb4b",
+          "title": "弗洛克无视合同取消后，警察局长拔掉了摄像头 / Police chief unplugs cameras after Flock ignores contract cancellation",
+          "url": "https://www.thedrive.com/news/my-city-canceled-flocks-contract-flock-ignored-it-so-the-police-chief-unplugged-the-cameras",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-01T14:36:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9139,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T14:36:13Z",
+      "latest_at": "2026-11-01T14:36:13Z",
+      "primary_item": {
+        "id": "130615c7e912857f1a9601b01dafd1d42a345cf1",
+        "title": "警方负责人在该公司无视合同解除通知后，切断了Flock监控摄像头的电源 / Police chief unplugs Flock cameras after company ignores contract cancellation",
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -815,15 +974,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9445,
+        "recency": 0.886,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -841,199 +1000,82 @@
       }
     },
     {
-      "story_id": "story_e07ec5d69c95",
-      "title": "Anthropic 会因任何涉及训练更大模型的行为而封禁用户",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "primary_url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "source": "twitter.com",
-      "source_name": "Buzzing",
+      "story_id": "story_a009392b06c4",
+      "title": "AI 简历泛滥之下，Z 世代求职者开始担心自己「看起来像 AI」过不了初筛",
+      "url": "https://www.ithome.com/1/020/747.htm",
+      "primary_url": "https://www.ithome.com/1/020/747.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "91a2987dde61609a78867152fcd240df9120323e",
-          "title": "Anthropic 会因任何涉及训练更大模型的行为而封禁用户",
-          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-          "source": "twitter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-31T23:01:54.378000Z"
+          "id": "7c77f40f95767d6b3a54236157236e89c7b90b4b",
+          "title": "AI 简历泛滥之下，Z 世代求职者开始担心自己「看起来像 AI」过不了初筛",
+          "url": "https://www.ithome.com/1/020/747.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
-          "title": "Anthropic 会因任何涉及训练更大模型的行为而封禁用户 / Anthropic blocks users for anything touching training larger models",
-          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-          "source": "Hacker News (黑客新闻)",
+          "id": "9edbac5b4c706291c6fd6dd356daee4c0593f65d",
+          "title": "AI 简历泛滥之下，Z 世代求职者开始担心自己“看起来像 AI”过不了初筛",
+          "url": "https://www.ithome.com/1/020/747.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-31T19:39:19Z"
-        },
-        {
-          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
-          "title": "Anthropic blocks users for anything touching training larger models",
-          "url": "https://news.ycombinator.com/item?id=50319358",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T19:39:19Z"
+          "published_at": "2026-11-01T07:46:59Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "twitter.com"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "91a2987dde61609a78867152fcd240df9120323e",
-          "title": "Anthropic 会因任何涉及训练更大模型的行为而封禁用户",
-          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-          "source": "twitter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-31T23:01:54.378000Z"
+          "id": "7c77f40f95767d6b3a54236157236e89c7b90b4b",
+          "title": "AI 简历泛滥之下，Z 世代求职者开始担心自己「看起来像 AI」过不了初筛",
+          "url": "https://www.ithome.com/1/020/747.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
-          "title": "Anthropic 会因任何涉及训练更大模型的行为而封禁用户 / Anthropic blocks users for anything touching training larger models",
-          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-          "source": "Hacker News (黑客新闻)",
+          "id": "9edbac5b4c706291c6fd6dd356daee4c0593f65d",
+          "title": "AI 简历泛滥之下，Z 世代求职者开始担心自己“看起来像 AI”过不了初筛",
+          "url": "https://www.ithome.com/1/020/747.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-31T19:39:19Z"
-        },
-        {
-          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
-          "title": "Anthropic blocks users for anything touching training larger models",
-          "url": "https://news.ycombinator.com/item?id=50319358",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T19:39:19Z"
+          "published_at": "2026-11-01T07:46:59Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5308,
-      "importance": 0.5308,
-      "importance_score": 0.5308,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5182,
+      "importance": 0.5182,
+      "importance_score": 0.5182,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.778,
-        "story_heat": 0.5
+        "recency": 0.8467,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-31T19:39:19Z",
-      "latest_at": "2026-10-31T23:01:54.378000Z",
+      "earliest_at": "2026-11-01T07:46:59Z",
+      "latest_at": "2026-11-01T09:19:02.663735Z",
       "primary_item": {
-        "id": "91a2987dde61609a78867152fcd240df9120323e",
-        "title": "Anthropic 会因任何涉及训练更大模型的行为而封禁用户",
-        "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-        "source": "twitter.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_82785ab4f152",
-      "title": "GPT-5.6 Sol 能在和平模式下击败《Factorio》",
-      "url": "https://ryanmadden.net/gpt-56-beats-factorio",
-      "primary_url": "https://ryanmadden.net/gpt-56-beats-factorio",
-      "source": "ryanmadden.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d973e86815df13915f33cdabd83de5d282840167",
-          "title": "GPT-5.6 Sol 能在和平模式下击败《Factorio》",
-          "url": "https://ryanmadden.net/gpt-56-beats-factorio",
-          "source": "ryanmadden.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-31T21:09:38.366000Z"
-        },
-        {
-          "id": "d36d681baf902d7645d93823f295c74c99c0984d",
-          "title": "GPT-5.6 Sol 能在和平模式下击败《Factorio》 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "url": "https://ryanmadden.net/gpt-56-beats-factorio",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-31T18:50:34Z"
-        },
-        {
-          "id": "2e8329eb78068adcea49f51201d6ba41f2ab907d",
-          "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "url": "https://news.ycombinator.com/item?id=50318871",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T18:50:34Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "ryanmadden.net"
-      ],
-      "items": [
-        {
-          "id": "d973e86815df13915f33cdabd83de5d282840167",
-          "title": "GPT-5.6 Sol 能在和平模式下击败《Factorio》",
-          "url": "https://ryanmadden.net/gpt-56-beats-factorio",
-          "source": "ryanmadden.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-31T21:09:38.366000Z"
-        },
-        {
-          "id": "d36d681baf902d7645d93823f295c74c99c0984d",
-          "title": "GPT-5.6 Sol 能在和平模式下击败《Factorio》 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "url": "https://ryanmadden.net/gpt-56-beats-factorio",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-31T18:50:34Z"
-        },
-        {
-          "id": "2e8329eb78068adcea49f51201d6ba41f2ab907d",
-          "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "url": "https://news.ycombinator.com/item?id=50318871",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T18:50:34Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5271,
-      "importance": 0.5271,
-      "importance_score": 0.5271,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7573,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T18:50:34Z",
-      "latest_at": "2026-10-31T21:09:38.366000Z",
-      "primary_item": {
-        "id": "d973e86815df13915f33cdabd83de5d282840167",
-        "title": "GPT-5.6 Sol 能在和平模式下击败《Factorio》",
-        "url": "https://ryanmadden.net/gpt-56-beats-factorio",
-        "source": "ryanmadden.net",
-        "source_name": "Buzzing"
+        "id": "7c77f40f95767d6b3a54236157236e89c7b90b4b",
+        "title": "AI 简历泛滥之下，Z 世代求职者开始担心自己「看起来像 AI」过不了初筛",
+        "url": "https://www.ithome.com/1/020/747.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1090,15 +1132,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5141,
-      "importance": 0.5141,
-      "importance_score": 0.5141,
+      "score": 0.5049,
+      "importance": 0.5049,
+      "importance_score": 0.5049,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8237,
+        "recency": 0.7726,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1169,15 +1211,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5124,
-      "importance": 0.5124,
-      "importance_score": 0.5124,
+      "score": 0.5033,
+      "importance": 0.5033,
+      "importance_score": 0.5033,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8143,
+        "recency": 0.7638,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1192,6 +1234,243 @@
         "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
         "source": "mashable.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b997047b8551",
+      "title": "以Anthropic向客户收取的价格计算，该公司内部的人工智能使用价值现已超过员工薪资总额。",
+      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "primary_url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b6fe1bc07af0adfb43e9920785652393fe58440a",
+          "title": "以Anthropic向客户收取的价格计算，该公司内部的人工智能使用价值现已超过员工薪资总额。",
+          "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T15:20:48.045000Z"
+        },
+        {
+          "id": "2794bf81b25e209207bb5f470962c70a84c3e353",
+          "title": "以Anthropic向客户收取的价格计算，该公司内部的人工智能使用价值现已超过员工薪资总额。 / Anthropic's internal AI use, valued at retail prices, now exceeds its employee pay",
+          "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-01T15:00:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "b6fe1bc07af0adfb43e9920785652393fe58440a",
+          "title": "以Anthropic向客户收取的价格计算，该公司内部的人工智能使用价值现已超过员工薪资总额。",
+          "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T15:20:48.045000Z"
+        },
+        {
+          "id": "2794bf81b25e209207bb5f470962c70a84c3e353",
+          "title": "以Anthropic向客户收取的价格计算，该公司内部的人工智能使用价值现已超过员工薪资总额。 / Anthropic's internal AI use, valued at retail prices, now exceeds its employee pay",
+          "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-01T15:00:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9237,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T15:00:01Z",
+      "latest_at": "2026-11-01T15:20:48.045000Z",
+      "primary_item": {
+        "id": "b6fe1bc07af0adfb43e9920785652393fe58440a",
+        "title": "以Anthropic向客户收取的价格计算，该公司内部的人工智能使用价值现已超过员工薪资总额。",
+        "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_648bddf7df56",
+      "title": "Ask HN: 除了Claude Code之外，还有哪些不错的开放权重替代方案？",
+      "url": "https://news.ycombinator.com/item?id=50325635",
+      "primary_url": "https://news.ycombinator.com/item?id=50325635",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3b350ad21248ab24534123da119c7702953765a7",
+          "title": "Ask HN: 除了Claude Code之外，还有哪些不错的开放权重替代方案？",
+          "url": "https://news.ycombinator.com/item?id=50325635",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T13:44:58.194000Z"
+        },
+        {
+          "id": "575f6242f0e4f3d764de68be274fb739fbf5426c",
+          "title": "Ask HN: 除了Claude Code之外，还有哪些不错的开放权重替代方案？ / Ask HN: What is a good open-weight alternative to Claude Code?",
+          "url": "https://news.ycombinator.com/item?id=50325635",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-11-01T13:43:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "3b350ad21248ab24534123da119c7702953765a7",
+          "title": "Ask HN: 除了Claude Code之外，还有哪些不错的开放权重替代方案？",
+          "url": "https://news.ycombinator.com/item?id=50325635",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-01T13:44:58.194000Z"
+        },
+        {
+          "id": "575f6242f0e4f3d764de68be274fb739fbf5426c",
+          "title": "Ask HN: 除了Claude Code之外，还有哪些不错的开放权重替代方案？ / Ask HN: What is a good open-weight alternative to Claude Code?",
+          "url": "https://news.ycombinator.com/item?id=50325635",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-11-01T13:43:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5283,
+      "importance": 0.5283,
+      "importance_score": 0.5283,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9027,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T13:43:57Z",
+      "latest_at": "2026-11-01T13:44:58.194000Z",
+      "primary_item": {
+        "id": "3b350ad21248ab24534123da119c7702953765a7",
+        "title": "Ask HN: 除了Claude Code之外，还有哪些不错的开放权重替代方案？",
+        "url": "https://news.ycombinator.com/item?id=50325635",
+        "source": "news.ycombinator.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2a10a176a3e7",
+      "title": "巴西法院因律师在提交诉讼文件时未及时补充材料而对其处以罚款 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+      "primary_url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "86dac9685189f611ba8217fa9e0123727ce37172",
+          "title": "巴西法院因律师在提交诉讼文件时未及时补充材料而对其处以罚款 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T02:19:53Z"
+        },
+        {
+          "id": "6c813980448395c850ee21cd24719bbc76b0d4fc",
+          "title": "巴西法院制裁因在法庭备案中迅速注入的律师 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "url": "https://news.ycombinator.com/item?id=50322173",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T02:19:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "86dac9685189f611ba8217fa9e0123727ce37172",
+          "title": "巴西法院因律师在提交诉讼文件时未及时补充材料而对其处以罚款 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T02:19:53Z"
+        },
+        {
+          "id": "6c813980448395c850ee21cd24719bbc76b0d4fc",
+          "title": "巴西法院制裁因在法庭备案中迅速注入的律师 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "url": "https://news.ycombinator.com/item?id=50322173",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T02:19:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5036,
+      "importance": 0.5036,
+      "importance_score": 0.5036,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7655,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T02:19:53Z",
+      "latest_at": "2026-11-01T02:19:53Z",
+      "primary_item": {
+        "id": "86dac9685189f611ba8217fa9e0123727ce37172",
+        "title": "巴西法院因律师在提交诉讼文件时未及时补充材料而对其处以罚款 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+        "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1248,15 +1527,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9445,
+        "recency": 0.886,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1327,15 +1606,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5035,
-      "importance": 0.5035,
-      "importance_score": 0.5035,
+      "score": 0.4949,
+      "importance": 0.4949,
+      "importance_score": 0.4949,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7647,
+        "recency": 0.7174,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1348,243 +1627,6 @@
         "id": "738e75433a1ed4dcaa8e3ec5e255793101262030",
         "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
         "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_a009392b06c4",
-      "title": "AI 简历泛滥之下，Z 世代求职者开始担心自己「看起来像 AI」过不了初筛",
-      "url": "https://www.ithome.com/1/020/747.htm",
-      "primary_url": "https://www.ithome.com/1/020/747.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "7c77f40f95767d6b3a54236157236e89c7b90b4b",
-          "title": "AI 简历泛滥之下，Z 世代求职者开始担心自己「看起来像 AI」过不了初筛",
-          "url": "https://www.ithome.com/1/020/747.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "9edbac5b4c706291c6fd6dd356daee4c0593f65d",
-          "title": "AI 简历泛滥之下，Z 世代求职者开始担心自己“看起来像 AI”过不了初筛",
-          "url": "https://www.ithome.com/1/020/747.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-01T07:46:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "7c77f40f95767d6b3a54236157236e89c7b90b4b",
-          "title": "AI 简历泛滥之下，Z 世代求职者开始担心自己「看起来像 AI」过不了初筛",
-          "url": "https://www.ithome.com/1/020/747.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "9edbac5b4c706291c6fd6dd356daee4c0593f65d",
-          "title": "AI 简历泛滥之下，Z 世代求职者开始担心自己“看起来像 AI”过不了初筛",
-          "url": "https://www.ithome.com/1/020/747.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-01T07:46:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5283,
-      "importance": 0.5283,
-      "importance_score": 0.5283,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9026,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-01T07:46:59Z",
-      "latest_at": "2026-11-01T09:19:02.663735Z",
-      "primary_item": {
-        "id": "7c77f40f95767d6b3a54236157236e89c7b90b4b",
-        "title": "AI 简历泛滥之下，Z 世代求职者开始担心自己「看起来像 AI」过不了初筛",
-        "url": "https://www.ithome.com/1/020/747.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_2a10a176a3e7",
-      "title": "巴西法院因律师在提交诉讼文件时未及时补充材料而对其处以罚款 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
-      "primary_url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "86dac9685189f611ba8217fa9e0123727ce37172",
-          "title": "巴西法院因律师在提交诉讼文件时未及时补充材料而对其处以罚款 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-          "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-01T02:19:53Z"
-        },
-        {
-          "id": "6c813980448395c850ee21cd24719bbc76b0d4fc",
-          "title": "巴西法院制裁因在法庭备案中迅速注入的律师 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-          "url": "https://news.ycombinator.com/item?id=50322173",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-01T02:19:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "86dac9685189f611ba8217fa9e0123727ce37172",
-          "title": "巴西法院因律师在提交诉讼文件时未及时补充材料而对其处以罚款 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-          "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-01T02:19:53Z"
-        },
-        {
-          "id": "6c813980448395c850ee21cd24719bbc76b0d4fc",
-          "title": "巴西法院制裁因在法庭备案中迅速注入的律师 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-          "url": "https://news.ycombinator.com/item?id=50322173",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-01T02:19:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5127,
-      "importance": 0.5127,
-      "importance_score": 0.5127,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.816,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-01T02:19:53Z",
-      "latest_at": "2026-11-01T02:19:53Z",
-      "primary_item": {
-        "id": "86dac9685189f611ba8217fa9e0123727ce37172",
-        "title": "巴西法院因律师在提交诉讼文件时未及时补充材料而对其处以罚款 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-        "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_aa4997f9eba1",
-      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-      "primary_url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
-          "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-31T18:02:29Z"
-        },
-        {
-          "id": "cbff795f42069ae415c907777dcf46269020d1fc",
-          "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "url": "https://news.ycombinator.com/item?id=50318401",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T18:02:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
-          "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-31T18:02:29Z"
-        },
-        {
-          "id": "cbff795f42069ae415c907777dcf46269020d1fc",
-          "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "url": "https://news.ycombinator.com/item?id=50318401",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T18:02:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4961,
-      "importance": 0.4961,
-      "importance_score": 0.4961,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.724,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T18:02:29Z",
-      "latest_at": "2026-10-31T18:02:29Z",
-      "primary_item": {
-        "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
-        "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-        "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
