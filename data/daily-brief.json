@@ -1,8 +1,152 @@
 {
-  "generated_at": "2026-11-02T23:52:50.911797Z",
+  "generated_at": "2026-11-03T06:48:42.470819Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_de4cf53f9db9",
+      "title": "OpenAI 中的 Git 扩展 / Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "primary_url": "https://openai.com/index/scaling-git-at-openai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "49415b5efb4eab546f2d268df92792882e18f4e4",
+          "title": "OpenAI 中的 Git 扩展 / Scaling Git at OpenAI",
+          "url": "https://openai.com/index/scaling-git-at-openai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T15:30:00Z"
+        },
+        {
+          "id": "ae85c3ec84b0b472d3f9b45ba639ab069ac5bc3d",
+          "title": "OpenAI 中的 Git 扩展",
+          "url": "https://openai.com/index/scaling-git-at-openai",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-03T04:44:37.385000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "49415b5efb4eab546f2d268df92792882e18f4e4",
+          "title": "OpenAI 中的 Git 扩展 / Scaling Git at OpenAI",
+          "url": "https://openai.com/index/scaling-git-at-openai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T15:30:00Z"
+        },
+        {
+          "id": "ae85c3ec84b0b472d3f9b45ba639ab069ac5bc3d",
+          "title": "OpenAI 中的 Git 扩展",
+          "url": "https://openai.com/index/scaling-git-at-openai",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-03T04:44:37.385000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8413,
+      "importance": 0.8413,
+      "importance_score": 0.8413,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8016,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T15:30:00Z",
+      "latest_at": "2026-11-03T04:44:37.385000Z",
+      "primary_item": {
+        "id": "49415b5efb4eab546f2d268df92792882e18f4e4",
+        "title": "OpenAI 中的 Git 扩展 / Scaling Git at OpenAI",
+        "url": "https://openai.com/index/scaling-git-at-openai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1802721ebc5f",
+      "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "323059415bec7db6c1b2c25448a93a3c86683035",
+          "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T17:45:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "323059415bec7db6c1b2c25448a93a3c86683035",
+          "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T17:45:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8131,
+      "importance": 0.8131,
+      "importance_score": 0.8131,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8281,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T17:45:00Z",
+      "latest_at": "2026-11-02T17:45:00Z",
+      "primary_item": {
+        "id": "323059415bec7db6c1b2c25448a93a3c86683035",
+        "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_19244c7aa206",
       "title": "OpenAI 推出 Grid Protectors 计划 / Introducing the Grid Protectors Program",
@@ -57,15 +201,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8553,
-      "importance": 0.8553,
-      "importance_score": 0.8553,
+      "score": 0.8403,
+      "importance": 0.8403,
+      "importance_score": 0.8403,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8796,
+        "recency": 0.7959,
         "story_heat": 0.25
       },
       "category": "official",
@@ -82,68 +226,6 @@
         "title": "OpenAI 推出 Grid Protectors 计划 / Introducing the Grid Protectors Program",
         "url": "https://openai.com/index/grid-protectors-program",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_1802721ebc5f",
-      "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "323059415bec7db6c1b2c25448a93a3c86683035",
-          "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-02T17:45:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "323059415bec7db6c1b2c25448a93a3c86683035",
-          "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-02T17:45:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8287,
-      "importance": 0.8287,
-      "importance_score": 0.8287,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9153,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T17:45:00Z",
-      "latest_at": "2026-11-02T17:45:00Z",
-      "primary_item": {
-        "id": "323059415bec7db6c1b2c25448a93a3c86683035",
-        "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -182,15 +264,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8897,
+        "recency": 0.805,
         "story_heat": 0.0
       },
       "category": "official",
@@ -205,6 +287,149 @@
         "id": "743ef30d896f622611d53a06f5c6e9a21f4b8321",
         "title": "安全风险评估包括存储库保护状态 / Security risk assessments include repository protection status",
         "url": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2803b30423e0",
+      "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+      "url": "https://www.aibase.com/news/32047",
+      "primary_url": "https://www.aibase.com/news/32047",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ba43adcc06ad426a0146289d61f34b213df2f100",
+          "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+          "url": "https://www.aibase.com/news/32047",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T06:48:42.470819Z"
+        },
+        {
+          "id": "98867a3fac378971c3da6059141978910e8b562d",
+          "title": "8GB 显存也能玩转 128K 超长上下文！开源本地大模型工具 Strata 0.2.10 发布",
+          "url": "https://www.aibase.com/zh/news/32047",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ba43adcc06ad426a0146289d61f34b213df2f100",
+          "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+          "url": "https://www.aibase.com/news/32047",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T06:48:42.470819Z"
+        },
+        {
+          "id": "98867a3fac378971c3da6059141978910e8b562d",
+          "title": "8GB 显存也能玩转 128K 超长上下文！开源本地大模型工具 Strata 0.2.10 发布",
+          "url": "https://www.aibase.com/zh/news/32047",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T06:48:42.470819Z",
+      "latest_at": "2026-11-03T06:48:42.470819Z",
+      "primary_item": {
+        "id": "ba43adcc06ad426a0146289d61f34b213df2f100",
+        "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+        "url": "https://www.aibase.com/news/32047",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0e5ffbeff8b8",
+      "title": "pull_request_target 默认被阻止 12 月 2 日 / pull_request_target blocked by default December 2",
+      "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+      "primary_url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b96e8422984b28dab9da765338770cfc10976a7f",
+          "title": "pull_request_target 默认被阻止 12 月 2 日 / pull_request_target blocked by default December 2",
+          "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T15:14:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b96e8422984b28dab9da765338770cfc10976a7f",
+          "title": "pull_request_target 默认被阻止 12 月 2 日 / pull_request_target blocked by default December 2",
+          "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T15:14:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7987,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T15:14:46Z",
+      "latest_at": "2026-11-02T15:14:46Z",
+      "primary_item": {
+        "id": "b96e8422984b28dab9da765338770cfc10976a7f",
+        "title": "pull_request_target 默认被阻止 12 月 2 日 / pull_request_target blocked by default December 2",
+        "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -263,15 +488,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8482,
-      "importance": 0.8482,
-      "importance_score": 0.8482,
+      "score": 0.8344,
+      "importance": 0.8344,
+      "importance_score": 0.8344,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8066,
+        "recency": 0.7298,
         "story_heat": 0.25
       },
       "category": "official",
@@ -292,88 +517,26 @@
       }
     },
     {
-      "story_id": "story_0e5ffbeff8b8",
-      "title": "pull_request_target blocked by default December 2",
-      "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
-      "primary_url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b96e8422984b28dab9da765338770cfc10976a7f",
-          "title": "pull_request_target blocked by default December 2",
-          "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-02T15:14:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b96e8422984b28dab9da765338770cfc10976a7f",
-          "title": "pull_request_target blocked by default December 2",
-          "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-02T15:14:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8828,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T15:14:46Z",
-      "latest_at": "2026-11-02T15:14:46Z",
-      "primary_item": {
-        "id": "b96e8422984b28dab9da765338770cfc10976a7f",
-        "title": "pull_request_target blocked by default December 2",
-        "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e91b3aa48314",
-      "title": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
-      "url": "https://www.aibase.com/news/32021",
-      "primary_url": "https://www.aibase.com/news/32021",
+      "story_id": "story_65db784456a6",
+      "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
+      "url": "https://www.aibase.com/news/32029",
+      "primary_url": "https://www.aibase.com/news/32029",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ec80a339579a6a6aa82703b5ac8baa5aaf85a7f7",
-          "title": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
-          "url": "https://www.aibase.com/news/32021",
+          "id": "43d3f0ac181c0237861172ae255a4b9e53d5fb3e",
+          "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
+          "url": "https://www.aibase.com/news/32029",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T16:04:55.903122Z"
+          "published_at": "2026-11-03T06:48:42.470819Z"
         },
         {
-          "id": "1f887bbc3d9e9c9ea5c9810627cb5f5ab4f8bf56",
-          "title": "韩国公布史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
-          "url": "https://www.aibase.com/zh/news/32021",
+          "id": "a2a1409c9af168de1fb2c23131f09de1c58e4f4a",
+          "title": "Anthropic 修订 S-1 文件：AI 可能很快达到递归式自我改进阈值",
+          "url": "https://www.aibase.com/zh/news/32029",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -387,18 +550,18 @@
       ],
       "items": [
         {
-          "id": "ec80a339579a6a6aa82703b5ac8baa5aaf85a7f7",
-          "title": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
-          "url": "https://www.aibase.com/news/32021",
+          "id": "43d3f0ac181c0237861172ae255a4b9e53d5fb3e",
+          "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
+          "url": "https://www.aibase.com/news/32029",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T16:04:55.903122Z"
+          "published_at": "2026-11-03T06:48:42.470819Z"
         },
         {
-          "id": "1f887bbc3d9e9c9ea5c9810627cb5f5ab4f8bf56",
-          "title": "韩国公布史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
-          "url": "https://www.aibase.com/zh/news/32021",
+          "id": "a2a1409c9af168de1fb2c23131f09de1c58e4f4a",
+          "title": "Anthropic 修订 S-1 文件：AI 可能很快达到递归式自我改进阈值",
+          "url": "https://www.aibase.com/zh/news/32029",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -407,15 +570,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8935,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -424,32 +587,113 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T16:04:55.903122Z",
-      "latest_at": "2026-11-02T17:04:55.903122Z",
+      "earliest_at": "2026-11-03T06:48:42.470819Z",
+      "latest_at": "2026-11-03T06:48:42.470819Z",
       "primary_item": {
-        "id": "ec80a339579a6a6aa82703b5ac8baa5aaf85a7f7",
-        "title": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
-        "url": "https://www.aibase.com/news/32021",
+        "id": "43d3f0ac181c0237861172ae255a4b9e53d5fb3e",
+        "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
+        "url": "https://www.aibase.com/news/32029",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_de4cf53f9db9",
-      "title": "Scaling Git at OpenAI",
-      "url": "https://openai.com/index/scaling-git-at-openai",
-      "primary_url": "https://openai.com/index/scaling-git-at-openai",
+      "story_id": "story_a94d1ab97d84",
+      "title": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
+      "url": "https://www.aibase.com/news/32048",
+      "primary_url": "https://www.aibase.com/news/32048",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5bbea3f661171e16db6dc637f6a50a2ef0c86048",
+          "title": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
+          "url": "https://www.aibase.com/news/32048",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T06:48:42.470819Z"
+        },
+        {
+          "id": "31a63a4bf9881004e3c9ff4515fbc57857c88828",
+          "title": "QuestMobile：豆包、DeepSeek 月人均使用次数超其他 AI 应用",
+          "url": "https://www.aibase.com/zh/news/32048",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "5bbea3f661171e16db6dc637f6a50a2ef0c86048",
+          "title": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
+          "url": "https://www.aibase.com/news/32048",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T06:48:42.470819Z"
+        },
+        {
+          "id": "31a63a4bf9881004e3c9ff4515fbc57857c88828",
+          "title": "QuestMobile：豆包、DeepSeek 月人均使用次数超其他 AI 应用",
+          "url": "https://www.aibase.com/zh/news/32048",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T06:48:42.470819Z",
+      "latest_at": "2026-11-03T06:48:42.470819Z",
+      "primary_item": {
+        "id": "5bbea3f661171e16db6dc637f6a50a2ef0c86048",
+        "title": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
+        "url": "https://www.aibase.com/news/32048",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_262cfa35f430",
+      "title": "准备下一次安全冲刺以强化 OpenAI / Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "primary_url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "49415b5efb4eab546f2d268df92792882e18f4e4",
-          "title": "Scaling Git at OpenAI",
-          "url": "https://openai.com/index/scaling-git-at-openai",
+          "id": "b9b93a3d086d2c5cb15ca658002a431c2c48a3a4",
+          "title": "准备下一次安全冲刺以强化 OpenAI / Preparing our next security sprint to harden OpenAI",
+          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T15:30:00Z"
+          "published_at": "2026-11-02T18:00:00Z"
         }
       ],
       "source_count": 1,
@@ -458,26 +702,26 @@
       ],
       "items": [
         {
-          "id": "49415b5efb4eab546f2d268df92792882e18f4e4",
-          "title": "Scaling Git at OpenAI",
-          "url": "https://openai.com/index/scaling-git-at-openai",
+          "id": "b9b93a3d086d2c5cb15ca658002a431c2c48a3a4",
+          "title": "准备下一次安全冲刺以强化 OpenAI / Preparing our next security sprint to harden OpenAI",
+          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T15:30:00Z"
+          "published_at": "2026-11-02T18:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8315,
-      "importance": 0.8315,
-      "importance_score": 0.8315,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.886,
+        "recency": 0.8311,
         "story_heat": 0.0
       },
       "category": "official",
@@ -486,78 +730,79 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T15:30:00Z",
-      "latest_at": "2026-11-02T15:30:00Z",
+      "earliest_at": "2026-11-02T18:00:00Z",
+      "latest_at": "2026-11-02T18:00:00Z",
       "primary_item": {
-        "id": "49415b5efb4eab546f2d268df92792882e18f4e4",
-        "title": "Scaling Git at OpenAI",
-        "url": "https://openai.com/index/scaling-git-at-openai",
+        "id": "b9b93a3d086d2c5cb15ca658002a431c2c48a3a4",
+        "title": "准备下一次安全冲刺以强化 OpenAI / Preparing our next security sprint to harden OpenAI",
+        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_1ad134fdddc8",
-      "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-      "url": "https://www.aibase.com/news/32009",
-      "primary_url": "https://www.aibase.com/news/32009",
+      "story_id": "story_d3a5c3405718",
+      "title": "苹果 App Store 新规:AI 伴侣与约会应用将强制设为18岁以上限制",
+      "url": "https://www.aibase.com/news/32042",
+      "primary_url": "https://www.aibase.com/news/32042",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "60eea7025d8fed4598d4fd7e0bfee41fd6e31c47",
-          "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-          "url": "https://www.aibase.com/news/32009",
+          "id": "fdddc2e375a18956b883c8902b7156770f7c36c9",
+          "title": "苹果 App Store 新规:AI 伴侣与约会应用将强制设为18岁以上限制",
+          "url": "https://www.aibase.com/news/32042",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T11:04:55.903122Z"
+          "published_at": "2026-11-03T06:48:42.470819Z"
         },
         {
-          "id": "c660d72a6cb753e5c260e5a8c3bfd6f28968e308",
-          "title": "Anthropic出手：Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-          "url": "https://www.aibase.com/news/32009",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T06:54:20.691607Z"
+          "id": "678ae3932c77876e525f4418fe0bad338097721c",
+          "title": "苹果 App Store 新规：AI 伴侣与约会应用将强制设为 18 岁以上限制",
+          "url": "https://www.aibase.com/zh/news/32042",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "60eea7025d8fed4598d4fd7e0bfee41fd6e31c47",
-          "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-          "url": "https://www.aibase.com/news/32009",
+          "id": "fdddc2e375a18956b883c8902b7156770f7c36c9",
+          "title": "苹果 App Store 新规:AI 伴侣与约会应用将强制设为18岁以上限制",
+          "url": "https://www.aibase.com/news/32042",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T11:04:55.903122Z"
+          "published_at": "2026-11-03T06:48:42.470819Z"
         },
         {
-          "id": "c660d72a6cb753e5c260e5a8c3bfd6f28968e308",
-          "title": "Anthropic出手：Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-          "url": "https://www.aibase.com/news/32009",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T06:54:20.691607Z"
+          "id": "678ae3932c77876e525f4418fe0bad338097721c",
+          "title": "苹果 App Store 新规：AI 伴侣与约会应用将强制设为 18 岁以上限制",
+          "url": "https://www.aibase.com/zh/news/32042",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8313,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -566,92 +811,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T06:54:20.691607Z",
-      "latest_at": "2026-11-02T11:04:55.903122Z",
+      "earliest_at": "2026-11-03T06:48:42.470819Z",
+      "latest_at": "2026-11-03T06:48:42.470819Z",
       "primary_item": {
-        "id": "60eea7025d8fed4598d4fd7e0bfee41fd6e31c47",
-        "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-        "url": "https://www.aibase.com/news/32009",
+        "id": "fdddc2e375a18956b883c8902b7156770f7c36c9",
+        "title": "苹果 App Store 新规:AI 伴侣与约会应用将强制设为18岁以上限制",
+        "url": "https://www.aibase.com/news/32042",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_dd9d37d1ec86",
-      "title": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "47c968ce75e3678572db8e3f76a594c8ecfbceeb",
-          "title": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-11-02T08:01:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "47c968ce75e3678572db8e3f76a594c8ecfbceeb",
-          "title": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-11-02T08:01:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7307,
-      "importance": 0.7307,
-      "importance_score": 0.7307,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7953,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-02T08:01:01Z",
-      "latest_at": "2026-11-02T08:01:01Z",
-      "primary_item": {
-        "id": "47c968ce75e3678572db8e3f76a594c8ecfbceeb",
-        "title": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_598c6194c0d3",
-      "title": "Qodo builds context into AI code review with Codex",
-      "url": "https://openai.com/index/qodo-codex-plugin",
-      "primary_url": "https://openai.com/index/qodo-codex-plugin",
+      "story_id": "story_6fd6ad7938fa",
+      "title": "用更大的错误赏金奖励防御者 / Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "primary_url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2c4204e87cf0ac83be120bc8c60c83cedc682468",
-          "title": "Qodo builds context into AI code review with Codex",
-          "url": "https://openai.com/index/qodo-codex-plugin",
+          "id": "b2e4c818cc50ea544c8d3d183c6f3bbec8c87082",
+          "title": "用更大的错误赏金奖励防御者 / Rewarding defenders with bigger bug bounties",
+          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T00:00:00Z"
+          "published_at": "2026-11-02T18:00:00Z"
         }
       ],
       "source_count": 1,
@@ -660,26 +845,26 @@
       ],
       "items": [
         {
-          "id": "2c4204e87cf0ac83be120bc8c60c83cedc682468",
-          "title": "Qodo builds context into AI code review with Codex",
-          "url": "https://openai.com/index/qodo-codex-plugin",
+          "id": "b2e4c818cc50ea544c8d3d183c6f3bbec8c87082",
+          "title": "用更大的错误赏金奖励防御者 / Rewarding defenders with bigger bug bounties",
+          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T00:00:00Z"
+          "published_at": "2026-11-02T18:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7083,
+        "ai_relevance": 0.91,
+        "recency": 0.8311,
         "story_heat": 0.0
       },
       "category": "official",
@@ -688,37 +873,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T00:00:00Z",
-      "latest_at": "2026-11-02T00:00:00Z",
+      "earliest_at": "2026-11-02T18:00:00Z",
+      "latest_at": "2026-11-02T18:00:00Z",
       "primary_item": {
-        "id": "2c4204e87cf0ac83be120bc8c60c83cedc682468",
-        "title": "Qodo builds context into AI code review with Codex",
-        "url": "https://openai.com/index/qodo-codex-plugin",
+        "id": "b2e4c818cc50ea544c8d3d183c6f3bbec8c87082",
+        "title": "用更大的错误赏金奖励防御者 / Rewarding defenders with bigger bug bounties",
+        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_b30a8738fe1b",
-      "title": "DeepSeek开源Super-agent架构:以经典计算机系统思想突破单会话智能体瓶颈",
-      "url": "https://www.aibase.com/news/32001",
-      "primary_url": "https://www.aibase.com/news/32001",
+      "story_id": "story_cf913d5d8ab9",
+      "title": "营收狂飙却难掩巨额账单：Anthropic三季度重回亏损，近 9000 亿美元算力承诺成IPO最大考验",
+      "url": "https://www.aibase.com/news/32045",
+      "primary_url": "https://www.aibase.com/news/32045",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4824d1999917638be460368d60efac64814f471e",
-          "title": "DeepSeek开源Super-agent架构:以经典计算机系统思想突破单会话智能体瓶颈",
-          "url": "https://www.aibase.com/news/32001",
+          "id": "8b41dff96989f6103c611f2b2b3c3061501421ee",
+          "title": "营收狂飙却难掩巨额账单：Anthropic三季度重回亏损，近 9000 亿美元算力承诺成IPO最大考验",
+          "url": "https://www.aibase.com/news/32045",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T06:54:20.691607Z"
+          "published_at": "2026-11-03T06:48:42.470819Z"
         },
         {
-          "id": "54fd4e69e07fa5cd1c8fbaa703723a94aee01392",
-          "title": "DeepSeek 开源 Super-agent 架构：以经典计算机系统思想突破单会话智能体瓶颈",
-          "url": "https://www.aibase.com/zh/news/32001",
+          "id": "02053cd97855309fde68ca369c046246b411d194",
+          "title": "营收狂飙却难掩巨额账单：Anthropic 三季度重回亏损，近 9000 亿美元算力承诺成 IPO 最大考验",
+          "url": "https://www.aibase.com/zh/news/32045",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -732,18 +917,18 @@
       ],
       "items": [
         {
-          "id": "4824d1999917638be460368d60efac64814f471e",
-          "title": "DeepSeek开源Super-agent架构:以经典计算机系统思想突破单会话智能体瓶颈",
-          "url": "https://www.aibase.com/news/32001",
+          "id": "8b41dff96989f6103c611f2b2b3c3061501421ee",
+          "title": "营收狂飙却难掩巨额账单：Anthropic三季度重回亏损，近 9000 亿美元算力承诺成IPO最大考验",
+          "url": "https://www.aibase.com/news/32045",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T06:54:20.691607Z"
+          "published_at": "2026-11-03T06:48:42.470819Z"
         },
         {
-          "id": "54fd4e69e07fa5cd1c8fbaa703723a94aee01392",
-          "title": "DeepSeek 开源 Super-agent 架构：以经典计算机系统思想突破单会话智能体瓶颈",
-          "url": "https://www.aibase.com/zh/news/32001",
+          "id": "02053cd97855309fde68ca369c046246b411d194",
+          "title": "营收狂飙却难掩巨额账单：Anthropic 三季度重回亏损，近 9000 亿美元算力承诺成 IPO 最大考验",
+          "url": "https://www.aibase.com/zh/news/32045",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -752,15 +937,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7826,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -769,268 +954,52 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T06:54:20.691607Z",
-      "latest_at": "2026-11-02T06:54:20.691607Z",
+      "earliest_at": "2026-11-03T06:48:42.470819Z",
+      "latest_at": "2026-11-03T06:48:42.470819Z",
       "primary_item": {
-        "id": "4824d1999917638be460368d60efac64814f471e",
-        "title": "DeepSeek开源Super-agent架构:以经典计算机系统思想突破单会话智能体瓶颈",
-        "url": "https://www.aibase.com/news/32001",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_af670d1e1f35",
-      "title": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
-      "url": "https://www.aibase.com/news/32012",
-      "primary_url": "https://www.aibase.com/news/32012",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fc47079116ba24cd0878d4dbb8f23f0945ecaeae",
-          "title": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
-          "url": "https://www.aibase.com/news/32012",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T06:54:20.691607Z"
-        },
-        {
-          "id": "d35f4a924118c0b19e3f4709e5cbe91eb0d8470a",
-          "title": "OpenAI 宣布 12 月起 ChatGPT 与 Codex 共享使用额度，Instant chat 不受影响",
-          "url": "https://www.aibase.com/zh/news/32012",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "fc47079116ba24cd0878d4dbb8f23f0945ecaeae",
-          "title": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
-          "url": "https://www.aibase.com/news/32012",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T06:54:20.691607Z"
-        },
-        {
-          "id": "d35f4a924118c0b19e3f4709e5cbe91eb0d8470a",
-          "title": "OpenAI 宣布 12 月起 ChatGPT 与 Codex 共享使用额度，Instant chat 不受影响",
-          "url": "https://www.aibase.com/zh/news/32012",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7826,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T06:54:20.691607Z",
-      "latest_at": "2026-11-02T06:54:20.691607Z",
-      "primary_item": {
-        "id": "fc47079116ba24cd0878d4dbb8f23f0945ecaeae",
-        "title": "OpenAI宣布12月起ChatGPT与Codex共享使用额度，Instant chat不受影响",
-        "url": "https://www.aibase.com/news/32012",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ab6886ecaab6",
-      "title": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
-      "url": "https://www.aibase.com/news/32013",
-      "primary_url": "https://www.aibase.com/news/32013",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "15bf7acc0d545564c97547921f346b6b72aff0fc",
-          "title": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
-          "url": "https://www.aibase.com/news/32013",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T06:54:20.691607Z"
-        },
-        {
-          "id": "5d444c67b30a3a8eb6b0a859e94e08f8037cfb75",
-          "title": "中国大模型周调用量连续 27 周领跑全球：OpenRouter 最新数据显示国产 AI 生态爆发",
-          "url": "https://www.aibase.com/zh/news/32013",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "15bf7acc0d545564c97547921f346b6b72aff0fc",
-          "title": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
-          "url": "https://www.aibase.com/news/32013",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T06:54:20.691607Z"
-        },
-        {
-          "id": "5d444c67b30a3a8eb6b0a859e94e08f8037cfb75",
-          "title": "中国大模型周调用量连续 27 周领跑全球：OpenRouter 最新数据显示国产 AI 生态爆发",
-          "url": "https://www.aibase.com/zh/news/32013",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7826,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T06:54:20.691607Z",
-      "latest_at": "2026-11-02T06:54:20.691607Z",
-      "primary_item": {
-        "id": "15bf7acc0d545564c97547921f346b6b72aff0fc",
-        "title": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
-        "url": "https://www.aibase.com/news/32013",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_aac29efe8e65",
-      "title": "四大 AI 巨头联手设\"拒爬\"标准：网站主有了统一退出开关",
-      "url": "https://www.aibase.com/news/32011",
-      "primary_url": "https://www.aibase.com/news/32011",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fe77598b59f32964e5df6e278b219455bf433488",
-          "title": "四大 AI 巨头联手设\"拒爬\"标准：网站主有了统一退出开关",
-          "url": "https://www.aibase.com/news/32011",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T06:54:20.691607Z"
-        },
-        {
-          "id": "bd3c9163ab4670b7f8e972167830c080e8f49a55",
-          "title": "四大 AI 巨头联手设「拒爬」标准：网站主有了统一退出开关",
-          "url": "https://www.aibase.com/zh/news/32011",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "fe77598b59f32964e5df6e278b219455bf433488",
-          "title": "四大 AI 巨头联手设\"拒爬\"标准：网站主有了统一退出开关",
-          "url": "https://www.aibase.com/news/32011",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T06:54:20.691607Z"
-        },
-        {
-          "id": "bd3c9163ab4670b7f8e972167830c080e8f49a55",
-          "title": "四大 AI 巨头联手设「拒爬」标准：网站主有了统一退出开关",
-          "url": "https://www.aibase.com/zh/news/32011",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7826,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T06:54:20.691607Z",
-      "latest_at": "2026-11-02T06:54:20.691607Z",
-      "primary_item": {
-        "id": "fe77598b59f32964e5df6e278b219455bf433488",
-        "title": "四大 AI 巨头联手设\"拒爬\"标准：网站主有了统一退出开关",
-        "url": "https://www.aibase.com/news/32011",
+        "id": "8b41dff96989f6103c611f2b2b3c3061501421ee",
+        "title": "营收狂飙却难掩巨额账单：Anthropic三季度重回亏损，近 9000 亿美元算力承诺成IPO最大考验",
+        "url": "https://www.aibase.com/news/32045",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "OpenAI 在12月份的额度新规牵动了不少重度用户：ChatGPT高级对话与Codex将共用Token池，仅Instant快速对话不计入额度。作者的真实体验帮你提前看清订阅成本变化，看懂和Claude体系一样的计费逻辑，避免后续想用强推理模型时束手束脚。",
+      "title": "Kimi 全新推出面向游戏团队的创意开发方案，依托 K3.1 Pro、Kimi Code 与 Kimi Work 智能体，打通了 Godot、Unity、UE、Blender 等主流工具。它可以快速搭建可试玩原型、自动排查美术模型问题、直接迭代引擎工程，同时覆盖投放素材制作、玩家反馈归集、本地化与 UGC 审核等运营环节。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-11-01",
+      "source": "社区更新 · 2026-11-02",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "38657555350bb34d43adce88607c5d3115c46c25",
+          "title": "Kimi 全新推出面向游戏团队的创意开发方案，依托 K3.1 Pro、Kimi Code 与 Kimi Work 智能体，打通了 Godot、Unity、UE、Blender 等主流工具。它可以快速搭建可试玩原型、自动排查美术模型问题、直接迭代引擎工程，同时覆盖投放素材制作、玩家反馈归集、本地化与 UGC 审核等运营环节。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-02",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-03T06:48:42.470819Z"
+        },
+        {
+          "id": "4251232cb06f461a07a93a25c5ba8fc89117b81f",
+          "title": "本周AI音乐周刊汇集了近期行业版权新规、商业变动与产品更新。韩国音著协探索AI音乐确权信托，Spotify计划推出合规AI翻唱工具，MiniMax收缩国内音乐云端业务。Suno MCP、ElevenLabs音效新模型、NI合成器等新品上线。还有6篇前沿论文，覆盖音频合成、乐谱建模等方向，适合音乐创作者、音频开发者快速掌握行业动态与落地工具。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-02",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-03T06:48:42.470819Z"
+        },
+        {
+          "id": "1d4c96756aea9cb30264c73ae7fddd65315c0886",
+          "title": "歸藏设计的这款适配DeepSeek Harness的插件，整合了5款高人气Skill，打通了PPT、图文卡片、网页排版等内容产出链路，可以学习你的表达风格消除AI感，数据本地留存还能保障隐私。快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-02",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-03T06:48:42.470819Z"
+        },
+        {
           "id": "64f30ca33ae95b0bc271da7dd6fdab0f416266f1",
           "title": "OpenAI 在12月份的额度新规牵动了不少重度用户：ChatGPT高级对话与Codex将共用Token池，仅Instant快速对话不计入额度。作者的真实体验帮你提前看清订阅成本变化，看懂和Claude体系一样的计费逻辑，避免后续想用强推理模型时束手束脚。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -1049,12 +1018,40 @@
           "published_at": "2026-11-02T17:04:55.903122Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 5,
       "source_names": [
-        "社区更新 · 2026-11-01"
+        "社区更新 · 2026-11-01",
+        "社区更新 · 2026-11-02"
       ],
       "items": [
         {
+          "id": "38657555350bb34d43adce88607c5d3115c46c25",
+          "title": "Kimi 全新推出面向游戏团队的创意开发方案，依托 K3.1 Pro、Kimi Code 与 Kimi Work 智能体，打通了 Godot、Unity、UE、Blender 等主流工具。它可以快速搭建可试玩原型、自动排查美术模型问题、直接迭代引擎工程，同时覆盖投放素材制作、玩家反馈归集、本地化与 UGC 审核等运营环节。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-02",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-03T06:48:42.470819Z"
+        },
+        {
+          "id": "4251232cb06f461a07a93a25c5ba8fc89117b81f",
+          "title": "本周AI音乐周刊汇集了近期行业版权新规、商业变动与产品更新。韩国音著协探索AI音乐确权信托，Spotify计划推出合规AI翻唱工具，MiniMax收缩国内音乐云端业务。Suno MCP、ElevenLabs音效新模型、NI合成器等新品上线。还有6篇前沿论文，覆盖音频合成、乐谱建模等方向，适合音乐创作者、音频开发者快速掌握行业动态与落地工具。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-02",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-03T06:48:42.470819Z"
+        },
+        {
+          "id": "1d4c96756aea9cb30264c73ae7fddd65315c0886",
+          "title": "歸藏设计的这款适配DeepSeek Harness的插件，整合了5款高人气Skill，打通了PPT、图文卡片、网页排版等内容产出链路，可以学习你的表达风格消除AI感，数据本地留存还能保障隐私。快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-02",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-03T06:48:42.470819Z"
+        },
+        {
           "id": "64f30ca33ae95b0bc271da7dd6fdab0f416266f1",
           "title": "OpenAI 在12月份的额度新规牵动了不少重度用户：ChatGPT高级对话与Codex将共用Token池，仅Instant快速对话不计入额度。作者的真实体验帮你提前看清订阅成本变化，看懂和Claude体系一样的计费逻辑，避免后续想用强推理模型时束手束脚。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -1073,54 +1070,54 @@
           "published_at": "2026-11-02T17:04:55.903122Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5982,
-      "importance": 0.5982,
-      "importance_score": 0.5982,
-      "importance_label": "值得关注",
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.504,
+        "editorial": 0.468,
         "source_tier": 0.54,
-        "ai_relevance": 0.7,
-        "recency": 0.9065,
-        "story_heat": 0.25
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-11-02T17:04:55.903122Z",
-      "latest_at": "2026-11-02T17:04:55.903122Z",
+      "latest_at": "2026-11-03T06:48:42.470819Z",
       "primary_item": {
-        "id": "64f30ca33ae95b0bc271da7dd6fdab0f416266f1",
-        "title": "OpenAI 在12月份的额度新规牵动了不少重度用户：ChatGPT高级对话与Codex将共用Token池，仅Instant快速对话不计入额度。作者的真实体验帮你提前看清订阅成本变化，看懂和Claude体系一样的计费逻辑，避免后续想用强推理模型时束手束脚。",
+        "id": "38657555350bb34d43adce88607c5d3115c46c25",
+        "title": "Kimi 全新推出面向游戏团队的创意开发方案，依托 K3.1 Pro、Kimi Code 与 Kimi Work 智能体，打通了 Godot、Unity、UE、Blender 等主流工具。它可以快速搭建可试玩原型、自动排查美术模型问题、直接迭代引擎工程，同时覆盖投放素材制作、玩家反馈归集、本地化与 UGC 审核等运营环节。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-11-01",
+        "source": "社区更新 · 2026-11-02",
         "source_name": "WaytoAGI"
       }
     },
     {
-      "story_id": "story_2bc744097d02",
-      "title": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-      "url": "https://www.aibase.com/news/32015",
-      "primary_url": "https://www.aibase.com/news/32015",
+      "story_id": "story_23462bcab7e6",
+      "title": "阿里把千问\"开\"出 470 款模型，蔡崇信：开源才是 AI 普及的钥匙",
+      "url": "https://www.aibase.com/news/32046",
+      "primary_url": "https://www.aibase.com/news/32046",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "27373518628afd46dceef0661b0edb27fd2457fe",
-          "title": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-          "url": "https://www.aibase.com/news/32015",
+          "id": "e62981ff9080ea59735dcb2877c810807a8e9dec",
+          "title": "阿里把千问\"开\"出 470 款模型，蔡崇信：开源才是 AI 普及的钥匙",
+          "url": "https://www.aibase.com/news/32046",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T06:54:20.691607Z"
+          "published_at": "2026-11-03T06:48:42.470819Z"
         },
         {
-          "id": "d11e79dee9f56f236cfdc7b040364da967bad2ef",
-          "title": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-          "url": "https://www.aibase.com/zh/news/32015",
+          "id": "20c2cfe8a97a7d1610e2803f201bd3c6ead7d149",
+          "title": "阿里把千问「开」出 470 款模型，蔡崇信：开源才是 AI 普及的钥匙",
+          "url": "https://www.aibase.com/zh/news/32046",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1134,18 +1131,18 @@
       ],
       "items": [
         {
-          "id": "27373518628afd46dceef0661b0edb27fd2457fe",
-          "title": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-          "url": "https://www.aibase.com/news/32015",
+          "id": "e62981ff9080ea59735dcb2877c810807a8e9dec",
+          "title": "阿里把千问\"开\"出 470 款模型，蔡崇信：开源才是 AI 普及的钥匙",
+          "url": "https://www.aibase.com/news/32046",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T06:54:20.691607Z"
+          "published_at": "2026-11-03T06:48:42.470819Z"
         },
         {
-          "id": "d11e79dee9f56f236cfdc7b040364da967bad2ef",
-          "title": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-          "url": "https://www.aibase.com/zh/news/32015",
+          "id": "20c2cfe8a97a7d1610e2803f201bd3c6ead7d149",
+          "title": "阿里把千问「开」出 470 款模型，蔡崇信：开源才是 AI 普及的钥匙",
+          "url": "https://www.aibase.com/zh/news/32046",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1154,15 +1151,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7826,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1171,405 +1168,429 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T06:54:20.691607Z",
-      "latest_at": "2026-11-02T06:54:20.691607Z",
+      "earliest_at": "2026-11-03T06:48:42.470819Z",
+      "latest_at": "2026-11-03T06:48:42.470819Z",
       "primary_item": {
-        "id": "27373518628afd46dceef0661b0edb27fd2457fe",
-        "title": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-        "url": "https://www.aibase.com/news/32015",
+        "id": "e62981ff9080ea59735dcb2877c810807a8e9dec",
+        "title": "阿里把千问\"开\"出 470 款模型，蔡崇信：开源才是 AI 普及的钥匙",
+        "url": "https://www.aibase.com/news/32046",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_d7eb8c9ceea3",
-      "title": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术",
-      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
-      "primary_url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
-      "source": "twitter.com",
-      "source_name": "Buzzing",
+      "story_id": "story_56688d195d56",
+      "title": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
+      "url": "https://www.aibase.com/news/32039",
+      "primary_url": "https://www.aibase.com/news/32039",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "43642aa1cd5ab6ca5e32e38d7ad37ace8bbecfed",
-          "title": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术",
-          "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
-          "source": "twitter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-02T19:42:44.918000Z"
-        },
-        {
-          "id": "63516fc62ab58736208534f92059204217a4b180",
-          "title": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术 / Last night an AI agent performed brain surgery on a mouse",
-          "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-02T12:50:59Z"
-        },
-        {
-          "id": "913b01df13b5064ed173dc195cf48c7ebcadd4e9",
-          "title": "Last night an AI agent performed brain surgery on a mouse",
-          "url": "https://news.ycombinator.com/item?id=50336138",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T12:50:59Z"
+          "id": "b698b9b95d0eb8d9ab0b793e02ebc5c43687360a",
+          "title": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
+          "url": "https://www.aibase.com/news/32039",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T06:48:42.470819Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "twitter.com"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "43642aa1cd5ab6ca5e32e38d7ad37ace8bbecfed",
-          "title": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术",
-          "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
-          "source": "twitter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-02T19:42:44.918000Z"
-        },
-        {
-          "id": "63516fc62ab58736208534f92059204217a4b180",
-          "title": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术 / Last night an AI agent performed brain surgery on a mouse",
-          "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-02T12:50:59Z"
-        },
-        {
-          "id": "913b01df13b5064ed173dc195cf48c7ebcadd4e9",
-          "title": "Last night an AI agent performed brain surgery on a mouse",
-          "url": "https://news.ycombinator.com/item?id=50336138",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T12:50:59Z"
+          "id": "b698b9b95d0eb8d9ab0b793e02ebc5c43687360a",
+          "title": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
+          "url": "https://www.aibase.com/news/32039",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T06:48:42.470819Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5603,
-      "importance": 0.5603,
-      "importance_score": 0.5603,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9416,
-        "story_heat": 0.5
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-02T12:50:59Z",
-      "latest_at": "2026-11-02T19:42:44.918000Z",
+      "earliest_at": "2026-11-03T06:48:42.470819Z",
+      "latest_at": "2026-11-03T06:48:42.470819Z",
       "primary_item": {
-        "id": "43642aa1cd5ab6ca5e32e38d7ad37ace8bbecfed",
-        "title": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术",
-        "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
-        "source": "twitter.com",
-        "source_name": "Buzzing"
+        "id": "b698b9b95d0eb8d9ab0b793e02ebc5c43687360a",
+        "title": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
+        "url": "https://www.aibase.com/news/32039",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_bf4bb9141e9a",
-      "title": "充斥着错误的AI粉丝维基正在混淆游戏文化的风向",
-      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-      "primary_url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-      "source": "www.eurogamer.net",
+      "story_id": "story_38c41eb0ed98",
+      "title": "权重空间编程的火花：大型语言模型（LLMs）能够原生读写神经网络权重",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming",
+      "primary_url": "https://rikiyat.github.io/blog/weight-space-programming",
+      "source": "rikiyat.github.io",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "1338b8b558ee15ad83a7f7fd2caa104e4f54c5cb",
-          "title": "充斥着错误的AI粉丝维基正在混淆游戏文化的风向",
-          "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-          "source": "www.eurogamer.net",
+          "id": "94c5a00fcd788eb095c2fcd8f432cc67533ebf11",
+          "title": "权重空间编程的火花：大型语言模型（LLMs）能够原生读写神经网络权重",
+          "url": "https://rikiyat.github.io/blog/weight-space-programming",
+          "source": "rikiyat.github.io",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-02T17:04:04.290000Z"
+          "published_at": "2026-11-03T03:09:43.181000Z"
         },
         {
-          "id": "dc615055991efd3545ffe09d5f69fbebd85e1555",
-          "title": "充斥着错误的AI粉丝维基正在混淆游戏文化的风向 / AI fan wikis riddled with errors are muddying the waters of games culture",
-          "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+          "id": "37e264dfca36787a097f99fe7fc24c284c70b15e",
+          "title": "Astra 可以读取和写入权重，从而改进 Qwen / Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+          "url": "https://rikiyat.github.io/blog/weight-space-programming",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-02T19:24:33Z"
+        },
+        {
+          "id": "b667e625e03269723e66b6416b1489408d9ad204",
+          "title": "Astra 可以读取和写入权重，从而改进 Qwen / Astra can read and write weights to improve Qwen",
+          "url": "https://rikiyat.github.io/blog/weight-space-programming",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-02T01:47:07Z"
-        },
-        {
-          "id": "bfaf43d9f9fb04ebcfd0056727d988e2179efe46",
-          "title": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域 / AI fan wikis riddled with errors are muddying the waters of games culture",
-          "url": "https://news.ycombinator.com/item?id=50332086",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T01:47:07Z"
+          "published_at": "2026-11-02T18:21:28Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News · 24h最热",
-        "hackernews",
-        "www.eurogamer.net"
+        "Lobsters (技术社区)",
+        "rikiyat.github.io"
       ],
       "items": [
         {
-          "id": "1338b8b558ee15ad83a7f7fd2caa104e4f54c5cb",
-          "title": "充斥着错误的AI粉丝维基正在混淆游戏文化的风向",
-          "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-          "source": "www.eurogamer.net",
+          "id": "94c5a00fcd788eb095c2fcd8f432cc67533ebf11",
+          "title": "权重空间编程的火花：大型语言模型（LLMs）能够原生读写神经网络权重",
+          "url": "https://rikiyat.github.io/blog/weight-space-programming",
+          "source": "rikiyat.github.io",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-02T17:04:04.290000Z"
+          "published_at": "2026-11-03T03:09:43.181000Z"
         },
         {
-          "id": "dc615055991efd3545ffe09d5f69fbebd85e1555",
-          "title": "充斥着错误的AI粉丝维基正在混淆游戏文化的风向 / AI fan wikis riddled with errors are muddying the waters of games culture",
-          "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+          "id": "37e264dfca36787a097f99fe7fc24c284c70b15e",
+          "title": "Astra 可以读取和写入权重，从而改进 Qwen / Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+          "url": "https://rikiyat.github.io/blog/weight-space-programming",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-02T19:24:33Z"
+        },
+        {
+          "id": "b667e625e03269723e66b6416b1489408d9ad204",
+          "title": "Astra 可以读取和写入权重，从而改进 Qwen / Astra can read and write weights to improve Qwen",
+          "url": "https://rikiyat.github.io/blog/weight-space-programming",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-02T01:47:07Z"
-        },
-        {
-          "id": "bfaf43d9f9fb04ebcfd0056727d988e2179efe46",
-          "title": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域 / AI fan wikis riddled with errors are muddying the waters of games culture",
-          "url": "https://news.ycombinator.com/item?id=50332086",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T01:47:07Z"
+          "published_at": "2026-11-02T18:21:28Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5539,
-      "importance": 0.5539,
-      "importance_score": 0.5539,
+      "score": 0.5616,
+      "importance": 0.5616,
+      "importance_score": 0.5616,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9063,
+        "recency": 0.9487,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-02T01:47:07Z",
-      "latest_at": "2026-11-02T17:04:04.290000Z",
+      "earliest_at": "2026-11-02T18:21:28Z",
+      "latest_at": "2026-11-03T03:09:43.181000Z",
       "primary_item": {
-        "id": "1338b8b558ee15ad83a7f7fd2caa104e4f54c5cb",
-        "title": "充斥着错误的AI粉丝维基正在混淆游戏文化的风向",
-        "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-        "source": "www.eurogamer.net",
+        "id": "94c5a00fcd788eb095c2fcd8f432cc67533ebf11",
+        "title": "权重空间编程的火花：大型语言模型（LLMs）能够原生读写神经网络权重",
+        "url": "https://rikiyat.github.io/blog/weight-space-programming",
+        "source": "rikiyat.github.io",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_d822a9117e89",
-      "title": "Anthropic在修订后的S-1文件中报告第三季度营收为170亿美元，承诺金额达8950亿美元",
-      "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-      "primary_url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-      "source": "www.cnbc.com",
+      "story_id": "story_3c81c64b9bf6",
+      "title": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
+      "url": "https://www.aibase.com/news/32031",
+      "primary_url": "https://www.aibase.com/news/32031",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2ac565e290593c71bfd71b5bd3bb821dd4cc22e1",
+          "title": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
+          "url": "https://www.aibase.com/news/32031",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T06:48:42.470819Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2ac565e290593c71bfd71b5bd3bb821dd4cc22e1",
+          "title": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
+          "url": "https://www.aibase.com/news/32031",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T06:48:42.470819Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T06:48:42.470819Z",
+      "latest_at": "2026-11-03T06:48:42.470819Z",
+      "primary_item": {
+        "id": "2ac565e290593c71bfd71b5bd3bb821dd4cc22e1",
+        "title": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
+        "url": "https://www.aibase.com/news/32031",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c931d5a15c07",
+      "title": "人工智能时代中的“无我”数学",
+      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era",
+      "primary_url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era",
+      "source": "terrytao.wordpress.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "2414c6426cac1c70a913172a26702009db0cf31c",
-          "title": "Anthropic在修订后的S-1文件中报告第三季度营收为170亿美元，承诺金额达8950亿美元",
-          "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-          "source": "www.cnbc.com",
+          "id": "205384bc7157ffa156fe7b07fe129bae3741b5f4",
+          "title": "人工智能时代中的“无我”数学",
+          "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era",
+          "source": "terrytao.wordpress.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-02T16:16:00.368000Z"
+          "published_at": "2026-11-03T00:29:45.651000Z"
         },
         {
-          "id": "12ddbd53aea38c17180fbc4f686184750e0d8fe0",
-          "title": "Anthropic在修订后的S-1文件中报告第三季度营收为170亿美元，承诺金额达8950亿美元 / Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
-          "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+          "id": "3a2b54bbb632030063640dc4db2fa2b44d0a3cbc",
+          "title": "人工智能时代中的“无我”数学 / Egoless Mathematics in the AI Era",
+          "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-02T14:38:45Z"
+          "published_at": "2026-11-02T18:54:44Z"
         },
         {
-          "id": "9a21de93eec50cbc935f0686ebe3cd4910c7dc0a",
-          "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
-          "url": "https://news.ycombinator.com/item?id=50337439",
+          "id": "81ddd3fa153afc44b11fc50e90005b97cf916615",
+          "title": "AI时代的无我数学 / Egoless Mathematics in the AI Era",
+          "url": "https://news.ycombinator.com/item?id=50341736",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-02T14:38:45Z"
+          "published_at": "2026-11-02T18:54:44Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
         "hackernews",
-        "www.cnbc.com"
+        "terrytao.wordpress.com"
       ],
       "items": [
         {
-          "id": "2414c6426cac1c70a913172a26702009db0cf31c",
-          "title": "Anthropic在修订后的S-1文件中报告第三季度营收为170亿美元，承诺金额达8950亿美元",
-          "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-          "source": "www.cnbc.com",
+          "id": "205384bc7157ffa156fe7b07fe129bae3741b5f4",
+          "title": "人工智能时代中的“无我”数学",
+          "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era",
+          "source": "terrytao.wordpress.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-02T16:16:00.368000Z"
+          "published_at": "2026-11-03T00:29:45.651000Z"
         },
         {
-          "id": "12ddbd53aea38c17180fbc4f686184750e0d8fe0",
-          "title": "Anthropic在修订后的S-1文件中报告第三季度营收为170亿美元，承诺金额达8950亿美元 / Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
-          "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+          "id": "3a2b54bbb632030063640dc4db2fa2b44d0a3cbc",
+          "title": "人工智能时代中的“无我”数学 / Egoless Mathematics in the AI Era",
+          "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-02T14:38:45Z"
+          "published_at": "2026-11-02T18:54:44Z"
         },
         {
-          "id": "9a21de93eec50cbc935f0686ebe3cd4910c7dc0a",
-          "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
-          "url": "https://news.ycombinator.com/item?id=50337439",
+          "id": "81ddd3fa153afc44b11fc50e90005b97cf916615",
+          "title": "AI时代的无我数学 / Egoless Mathematics in the AI Era",
+          "url": "https://news.ycombinator.com/item?id=50341736",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-02T14:38:45Z"
+          "published_at": "2026-11-02T18:54:44Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5521,
-      "importance": 0.5521,
-      "importance_score": 0.5521,
+      "score": 0.5551,
+      "importance": 0.5551,
+      "importance_score": 0.5551,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8959,
+        "recency": 0.9128,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-02T14:38:45Z",
-      "latest_at": "2026-11-02T16:16:00.368000Z",
+      "earliest_at": "2026-11-02T18:54:44Z",
+      "latest_at": "2026-11-03T00:29:45.651000Z",
       "primary_item": {
-        "id": "2414c6426cac1c70a913172a26702009db0cf31c",
-        "title": "Anthropic在修订后的S-1文件中报告第三季度营收为170亿美元，承诺金额达8950亿美元",
-        "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-        "source": "www.cnbc.com",
+        "id": "205384bc7157ffa156fe7b07fe129bae3741b5f4",
+        "title": "人工智能时代中的“无我”数学",
+        "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era",
+        "source": "terrytao.wordpress.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_ca130899e453",
-      "title": "中国首项前沿人工智能出口管制：商务部第48号公告",
-      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
-      "primary_url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
-      "source": "labs.cloudsecurityalliance.org",
+      "story_id": "story_b9a70981a2e5",
+      "title": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
+      "primary_url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
+      "source": "www.techpolicy.press",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "d4b0ca68f3385c9fd0dbee6f1e2cf42f5ea348de",
-          "title": "中国首项前沿人工智能出口管制：商务部第48号公告",
-          "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
-          "source": "labs.cloudsecurityalliance.org",
+          "id": "d2ceea843283bd87c899d19151b11b41d67dd07f",
+          "title": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
+          "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
+          "source": "www.techpolicy.press",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-02T14:23:59.534000Z"
+          "published_at": "2026-11-03T00:13:47.603000Z"
         },
         {
-          "id": "fc0b55c2b53d496086b93a53fa6478eb7b464426",
-          "title": "中国首项前沿人工智能出口管制：商务部第48号公告 / China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-          "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
+          "id": "94b1849da5d810b1ed8cb656a52714c1c7b5b84c",
+          "title": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益 / The SEC Should Block Anthropic's IPO to Protect the Public",
+          "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-02T07:27:28Z"
+          "published_at": "2026-11-02T22:30:47Z"
         },
         {
-          "id": "881632740502dde2c09bee49a33e0c671f20fb5c",
-          "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-          "url": "https://news.ycombinator.com/item?id=50334038",
+          "id": "1c8e25a9cb4e3b3200160438b200eef22ea41310",
+          "title": "美国证券交易委员会应阻止 Anthropic 的 IPO 以保护公众 / The SEC Should Block Anthropic's IPO to Protect the Public",
+          "url": "https://news.ycombinator.com/item?id=50344919",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-02T07:27:28Z"
+          "published_at": "2026-11-02T22:30:47Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
         "hackernews",
-        "labs.cloudsecurityalliance.org"
+        "www.techpolicy.press"
       ],
       "items": [
         {
-          "id": "d4b0ca68f3385c9fd0dbee6f1e2cf42f5ea348de",
-          "title": "中国首项前沿人工智能出口管制：商务部第48号公告",
-          "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
-          "source": "labs.cloudsecurityalliance.org",
+          "id": "d2ceea843283bd87c899d19151b11b41d67dd07f",
+          "title": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
+          "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
+          "source": "www.techpolicy.press",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-02T14:23:59.534000Z"
+          "published_at": "2026-11-03T00:13:47.603000Z"
         },
         {
-          "id": "fc0b55c2b53d496086b93a53fa6478eb7b464426",
-          "title": "中国首项前沿人工智能出口管制：商务部第48号公告 / China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-          "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
+          "id": "94b1849da5d810b1ed8cb656a52714c1c7b5b84c",
+          "title": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益 / The SEC Should Block Anthropic's IPO to Protect the Public",
+          "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-02T07:27:28Z"
+          "published_at": "2026-11-02T22:30:47Z"
         },
         {
-          "id": "881632740502dde2c09bee49a33e0c671f20fb5c",
-          "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-          "url": "https://news.ycombinator.com/item?id=50334038",
+          "id": "1c8e25a9cb4e3b3200160438b200eef22ea41310",
+          "title": "美国证券交易委员会应阻止 Anthropic 的 IPO 以保护公众 / The SEC Should Block Anthropic's IPO to Protect the Public",
+          "url": "https://news.ycombinator.com/item?id=50344919",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-02T07:27:28Z"
+          "published_at": "2026-11-02T22:30:47Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5478,
-      "importance": 0.5478,
-      "importance_score": 0.5478,
+      "score": 0.5545,
+      "importance": 0.5545,
+      "importance_score": 0.5545,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.872,
+        "recency": 0.9093,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-02T07:27:28Z",
-      "latest_at": "2026-11-02T14:23:59.534000Z",
+      "earliest_at": "2026-11-02T22:30:47Z",
+      "latest_at": "2026-11-03T00:13:47.603000Z",
       "primary_item": {
-        "id": "d4b0ca68f3385c9fd0dbee6f1e2cf42f5ea348de",
-        "title": "中国首项前沿人工智能出口管制：商务部第48号公告",
-        "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
-        "source": "labs.cloudsecurityalliance.org",
+        "id": "d2ceea843283bd87c899d19151b11b41d67dd07f",
+        "title": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
+        "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
+        "source": "www.techpolicy.press",
         "source_name": "Buzzing"
       }
     }
