@@ -1,70 +1,8 @@
 {
-  "generated_at": "2026-11-07T23:58:54.241885Z",
+  "generated_at": "2026-11-08T06:01:48.894335Z",
   "window_hours": 24,
   "total_items": 17,
   "items": [
-    {
-      "story_id": "story_d28d7745dd02",
-      "title": "Copilot 代码审查：API 管理和审查概述更新 / Copilot code review: API management and review overview updates",
-      "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
-      "primary_url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e1e7e8357f58d807f61c1cd8c07e904d4a3d4f2b",
-          "title": "Copilot 代码审查：API 管理和审查概述更新 / Copilot code review: API management and review overview updates",
-          "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-07T00:27:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e1e7e8357f58d807f61c1cd8c07e904d4a3d4f2b",
-          "title": "Copilot 代码审查：API 管理和审查概述更新 / Copilot code review: API management and review overview updates",
-          "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-07T00:27:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.712,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-07T00:27:19Z",
-      "latest_at": "2026-11-07T00:27:19Z",
-      "primary_item": {
-        "id": "e1e7e8357f58d807f61c1cd8c07e904d4a3d4f2b",
-        "title": "Copilot 代码审查：API 管理和审查概述更新 / Copilot code review: API management and review overview updates",
-        "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
     {
       "story_id": "story_2df82173bb28",
       "title": "GPT Image 2.6正式上线，新增了透明底GIF、SVG矢量图能力，生成速度提升约50%，API还提供多档思考强度可调。小歪做了多场景的实测，电商图、漫画分镜、家装方案都能落地，噪点问题小幅改善，但依然存在手指畸形、中文信息图文字错乱、多次迭代修改后质感下滑、塑料感变强等短板。快来看看真实效果如何！",
@@ -172,15 +110,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6368,
-      "importance": 0.6368,
-      "importance_score": 0.6368,
+      "score": 0.6245,
+      "importance": 0.6245,
+      "importance_score": 0.6245,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.82,
+        "recency": 0.7514,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -195,6 +133,123 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-11-06",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_5186d80b7eef",
+      "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "primary_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "source": "apiiro.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1513613c40ea8527528953578f44a089b0b5f552",
+          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "source": "apiiro.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T00:06:44.743000Z"
+        },
+        {
+          "id": "6c84d010e4ca8e7820bec6dedde8ac53d459e1a4",
+          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码 / Claude Code「Don't Ask Again」exposes passwords in 1,122 public GitHub files",
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4b4b0561cf19026e2c0425c8d13bc94623ca954c",
+          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码 / Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T20:45:32Z"
+        },
+        {
+          "id": "bb744760bc89f3e1a9434a3cd9f8d3d7451ea43a",
+          "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+          "url": "https://news.ycombinator.com/item?id=50407882",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-07T20:45:32Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Readhub · AI",
+        "apiiro.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1513613c40ea8527528953578f44a089b0b5f552",
+          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "source": "apiiro.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T00:06:44.743000Z"
+        },
+        {
+          "id": "6c84d010e4ca8e7820bec6dedde8ac53d459e1a4",
+          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码 / Claude Code「Don't Ask Again」exposes passwords in 1,122 public GitHub files",
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4b4b0561cf19026e2c0425c8d13bc94623ca954c",
+          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码 / Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T20:45:32Z"
+        },
+        {
+          "id": "bb744760bc89f3e1a9434a3cd9f8d3d7451ea43a",
+          "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+          "url": "https://news.ycombinator.com/item?id=50407882",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-07T20:45:32Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5811,
+      "importance": 0.5811,
+      "importance_score": 0.5811,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9181,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-07T20:45:32Z",
+      "latest_at": "2026-11-08T00:06:44.743000Z",
+      "primary_item": {
+        "id": "1513613c40ea8527528953578f44a089b0b5f552",
+        "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
+        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+        "source": "apiiro.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -289,15 +344,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.585,
-      "importance": 0.585,
-      "importance_score": 0.585,
+      "score": 0.5708,
+      "importance": 0.5708,
+      "importance_score": 0.5708,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9398,
+        "recency": 0.8612,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -315,101 +370,82 @@
       }
     },
     {
-      "story_id": "story_5186d80b7eef",
-      "title": "Claude Code「Don't Ask Again」exposes passwords in 1,122 public GitHub files",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "primary_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_e66f4eeac8f3",
+      "title": "Goodbye Claude, Hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "primary_url": "https://caleb.software/posts/claude-to-pi.html",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "6c84d010e4ca8e7820bec6dedde8ac53d459e1a4",
-          "title": "Claude Code「Don't Ask Again」exposes passwords in 1,122 public GitHub files",
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4b4b0561cf19026e2c0425c8d13bc94623ca954c",
-          "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "id": "e7fe2cecfcd23f7afe0f7ec86eeaecb9a3bb623b",
+          "title": "Goodbye Claude, Hello Pi",
+          "url": "https://caleb.software/posts/claude-to-pi.html",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-07T20:45:32Z"
+          "published_at": "2026-11-08T03:11:48Z"
         },
         {
-          "id": "bb744760bc89f3e1a9434a3cd9f8d3d7451ea43a",
-          "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "url": "https://news.ycombinator.com/item?id=50407882",
+          "id": "f9e6a111a822d959b2ebb2618203323831a1dd64",
+          "title": "Goodbye Claude, Hello Pi",
+          "url": "https://news.ycombinator.com/item?id=50410107",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-07T20:45:32Z"
+          "published_at": "2026-11-08T03:11:48Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "Readhub · AI",
         "hackernews"
       ],
       "items": [
         {
-          "id": "6c84d010e4ca8e7820bec6dedde8ac53d459e1a4",
-          "title": "Claude Code「Don't Ask Again」exposes passwords in 1,122 public GitHub files",
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4b4b0561cf19026e2c0425c8d13bc94623ca954c",
-          "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "id": "e7fe2cecfcd23f7afe0f7ec86eeaecb9a3bb623b",
+          "title": "Goodbye Claude, Hello Pi",
+          "url": "https://caleb.software/posts/claude-to-pi.html",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-07T20:45:32Z"
+          "published_at": "2026-11-08T03:11:48Z"
         },
         {
-          "id": "bb744760bc89f3e1a9434a3cd9f8d3d7451ea43a",
-          "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "url": "https://news.ycombinator.com/item?id=50407882",
+          "id": "f9e6a111a822d959b2ebb2618203323831a1dd64",
+          "title": "Goodbye Claude, Hello Pi",
+          "url": "https://news.ycombinator.com/item?id=50410107",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-07T20:45:32Z"
+          "published_at": "2026-11-08T03:11:48Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5386,
+      "importance": 0.5386,
+      "importance_score": 0.5386,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.5
+        "recency": 0.9599,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-07T20:45:32Z",
-      "latest_at": "2026-11-07T23:58:54.241885Z",
+      "earliest_at": "2026-11-08T03:11:48Z",
+      "latest_at": "2026-11-08T03:11:48Z",
       "primary_item": {
-        "id": "6c84d010e4ca8e7820bec6dedde8ac53d459e1a4",
-        "title": "Claude Code「Don't Ask Again」exposes passwords in 1,122 public GitHub files",
-        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "e7fe2cecfcd23f7afe0f7ec86eeaecb9a3bb623b",
+        "title": "Goodbye Claude, Hello Pi",
+        "url": "https://caleb.software/posts/claude-to-pi.html",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -466,15 +502,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5375,
-      "importance": 0.5375,
-      "importance_score": 0.5375,
+      "score": 0.5232,
+      "importance": 0.5232,
+      "importance_score": 0.5232,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9542,
+        "recency": 0.8744,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -545,15 +581,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5298,
-      "importance": 0.5298,
-      "importance_score": 0.5298,
+      "score": 0.5161,
+      "importance": 0.5161,
+      "importance_score": 0.5161,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9113,
+        "recency": 0.8351,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -568,6 +604,84 @@
         "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2ffcb6121325",
+      "title": "[程序员] 寻找一个 ai 开发的底盘框架。",
+      "url": "https://www.v2ex.com/t/1255281",
+      "primary_url": "https://www.v2ex.com/t/1255281",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "75fef7319cbb33c8d558f14bf9e7d4c8f1d586b8",
+          "title": "[程序员] 寻找一个 ai 开发的底盘框架。",
+          "url": "https://www.v2ex.com/t/1255281",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T16:32:07Z"
+        },
+        {
+          "id": "848dbb9a70650535044adacd00ec9dd453c2678c",
+          "title": "[问与答] 寻找一个 ai 开发的底盘框架。",
+          "url": "https://www.v2ex.com/t/1255281",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T16:32:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "75fef7319cbb33c8d558f14bf9e7d4c8f1d586b8",
+          "title": "[程序员] 寻找一个 ai 开发的底盘框架。",
+          "url": "https://www.v2ex.com/t/1255281",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T16:32:07Z"
+        },
+        {
+          "id": "848dbb9a70650535044adacd00ec9dd453c2678c",
+          "title": "[问与答] 寻找一个 ai 开发的底盘框架。",
+          "url": "https://www.v2ex.com/t/1255281",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T16:32:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5139,
+      "importance": 0.5139,
+      "importance_score": 0.5139,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8229,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-07T16:32:07Z",
+      "latest_at": "2026-11-07T16:32:07Z",
+      "primary_item": {
+        "id": "75fef7319cbb33c8d558f14bf9e7d4c8f1d586b8",
+        "title": "[程序员] 寻找一个 ai 开发的底盘框架。",
+        "url": "https://www.v2ex.com/t/1255281",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -624,15 +738,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5273,
-      "importance": 0.5273,
-      "importance_score": 0.5273,
+      "score": 0.5138,
+      "importance": 0.5138,
+      "importance_score": 0.5138,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8974,
+        "recency": 0.8223,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -646,6 +760,85 @@
         "title": "dsx-ai-工厂 / NVKE / dsx-ai-factory / nvke",
         "url": "https://github.com/dsx-ai-factory/nvke",
         "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_2383ce3a4c61",
+      "title": "谷歌 AI 新研究：无需袖带，利用消费级智能手表检测高血压，成果登 Nature",
+      "url": "https://www.ithome.com/1/023/788.htm",
+      "primary_url": "https://www.ithome.com/1/023/788.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "d46843da247a0b837591781f54960ecdb726b2ff",
+          "title": "谷歌 AI 新研究：无需袖带，利用消费级智能手表检测高血压，成果登 Nature",
+          "url": "https://www.ithome.com/1/023/788.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "5c48dbcf61d5d775a2e5a797a4178e0c452d038b",
+          "title": "谷歌 AI 新研究：无需袖带利用消费级智能手表检测高血压，成果登 Nature",
+          "url": "https://www.ithome.com/1/023/788.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T10:26:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d46843da247a0b837591781f54960ecdb726b2ff",
+          "title": "谷歌 AI 新研究：无需袖带，利用消费级智能手表检测高血压，成果登 Nature",
+          "url": "https://www.ithome.com/1/023/788.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "5c48dbcf61d5d775a2e5a797a4178e0c452d038b",
+          "title": "谷歌 AI 新研究：无需袖带利用消费级智能手表检测高血压，成果登 Nature",
+          "url": "https://www.ithome.com/1/023/788.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T10:26:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5138,
+      "importance": 0.5138,
+      "importance_score": 0.5138,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8223,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-07T10:26:47Z",
+      "latest_at": "2026-11-07T16:29:02.523193Z",
+      "primary_item": {
+        "id": "d46843da247a0b837591781f54960ecdb726b2ff",
+        "title": "谷歌 AI 新研究：无需袖带，利用消费级智能手表检测高血压，成果登 Nature",
+        "url": "https://www.ithome.com/1/023/788.htm",
+        "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
@@ -702,15 +895,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5268,
-      "importance": 0.5268,
-      "importance_score": 0.5268,
+      "score": 0.5133,
+      "importance": 0.5133,
+      "importance_score": 0.5133,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8945,
+        "recency": 0.8197,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -745,18 +938,18 @@
           "published_at": "2026-11-07T16:12:43.696000Z"
         },
         {
-          "id": "b3468306bce10afbca790582cd6cefc5c8f9066c",
+          "id": "880cb9cd54078953dfc519f9083471480a8facbd",
           "title": "代理记忆的组成部分 / The Components of Agent Memory",
           "url": "https://www.anthropic.com/research/components-of-agent-memory",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-07T06:39:04Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "www.anthropic.com"
       ],
       "items": [
@@ -770,26 +963,26 @@
           "published_at": "2026-11-07T16:12:43.696000Z"
         },
         {
-          "id": "b3468306bce10afbca790582cd6cefc5c8f9066c",
+          "id": "880cb9cd54078953dfc519f9083471480a8facbd",
           "title": "代理记忆的组成部分 / The Components of Agent Memory",
           "url": "https://www.anthropic.com/research/components-of-agent-memory",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-07T06:39:04Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5267,
-      "importance": 0.5267,
-      "importance_score": 0.5267,
+      "score": 0.5132,
+      "importance": 0.5132,
+      "importance_score": 0.5132,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8939,
+        "recency": 0.8191,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -804,85 +997,6 @@
         "url": "https://www.anthropic.com/research/components-of-agent-memory",
         "source": "www.anthropic.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_f45973610354",
-      "title": "Show HN: 我们将一个31B的视频音频扩散模型压缩到了14B，6个步骤，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-      "primary_url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "8471286aa152fe12fa5fd1a5c09e81563c12b77f",
-          "title": "Show HN: 我们将一个31B的视频音频扩散模型压缩到了14B，6个步骤，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-          "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T15:16:01Z"
-        },
-        {
-          "id": "307451c705f6211f27896dc8d1f5f26bd1cd88e2",
-          "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-          "url": "https://news.ycombinator.com/item?id=50405263",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T15:16:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8471286aa152fe12fa5fd1a5c09e81563c12b77f",
-          "title": "Show HN: 我们将一个31B的视频音频扩散模型压缩到了14B，6个步骤，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-          "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T15:16:01Z"
-        },
-        {
-          "id": "307451c705f6211f27896dc8d1f5f26bd1cd88e2",
-          "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-          "url": "https://news.ycombinator.com/item?id=50405263",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T15:16:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5245,
-      "importance": 0.5245,
-      "importance_score": 0.5245,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8818,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T15:16:01Z",
-      "latest_at": "2026-11-07T15:16:01Z",
-      "primary_item": {
-        "id": "8471286aa152fe12fa5fd1a5c09e81563c12b77f",
-        "title": "Show HN: 我们将一个31B的视频音频扩散模型压缩到了14B，6个步骤，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-        "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -939,15 +1053,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5171,
-      "importance": 0.5171,
-      "importance_score": 0.5171,
+      "score": 0.5045,
+      "importance": 0.5045,
+      "importance_score": 0.5045,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8407,
+        "recency": 0.7704,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1018,15 +1132,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5126,
-      "importance": 0.5126,
-      "importance_score": 0.5126,
+      "score": 0.5003,
+      "importance": 0.5003,
+      "importance_score": 0.5003,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8155,
+        "recency": 0.7473,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1044,82 +1158,82 @@
       }
     },
     {
-      "story_id": "story_2383ce3a4c61",
-      "title": "谷歌 AI 新研究：无需袖带，利用消费级智能手表检测高血压，成果登 Nature",
-      "url": "https://www.ithome.com/1/023/788.htm",
-      "primary_url": "https://www.ithome.com/1/023/788.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_f45973610354",
+      "title": "Show HN: 我们将一个31B的视频音频扩散模型压缩到了14B，6个步骤，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+      "primary_url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "d46843da247a0b837591781f54960ecdb726b2ff",
-          "title": "谷歌 AI 新研究：无需袖带，利用消费级智能手表检测高血压，成果登 Nature",
-          "url": "https://www.ithome.com/1/023/788.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "5c48dbcf61d5d775a2e5a797a4178e0c452d038b",
-          "title": "谷歌 AI 新研究：无需袖带利用消费级智能手表检测高血压，成果登 Nature",
-          "url": "https://www.ithome.com/1/023/788.htm",
-          "source": "IT之家 (ITHome)",
+          "id": "8471286aa152fe12fa5fd1a5c09e81563c12b77f",
+          "title": "Show HN: 我们将一个31B的视频音频扩散模型压缩到了14B，6个步骤，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+          "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-07T10:26:47Z"
+          "published_at": "2026-11-07T15:16:01Z"
+        },
+        {
+          "id": "307451c705f6211f27896dc8d1f5f26bd1cd88e2",
+          "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+          "url": "https://news.ycombinator.com/item?id=50405263",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-07T15:16:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "d46843da247a0b837591781f54960ecdb726b2ff",
-          "title": "谷歌 AI 新研究：无需袖带，利用消费级智能手表检测高血压，成果登 Nature",
-          "url": "https://www.ithome.com/1/023/788.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "5c48dbcf61d5d775a2e5a797a4178e0c452d038b",
-          "title": "谷歌 AI 新研究：无需袖带利用消费级智能手表检测高血压，成果登 Nature",
-          "url": "https://www.ithome.com/1/023/788.htm",
-          "source": "IT之家 (ITHome)",
+          "id": "8471286aa152fe12fa5fd1a5c09e81563c12b77f",
+          "title": "Show HN: 我们将一个31B的视频音频扩散模型压缩到了14B，6个步骤，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+          "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-07T10:26:47Z"
+          "published_at": "2026-11-07T15:16:01Z"
+        },
+        {
+          "id": "307451c705f6211f27896dc8d1f5f26bd1cd88e2",
+          "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+          "url": "https://news.ycombinator.com/item?id=50405263",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-07T15:16:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5273,
-      "importance": 0.5273,
-      "importance_score": 0.5273,
+      "score": 0.5112,
+      "importance": 0.5112,
+      "importance_score": 0.5112,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8974,
+        "recency": 0.808,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-07T10:26:47Z",
-      "latest_at": "2026-11-07T16:29:02.523193Z",
+      "earliest_at": "2026-11-07T15:16:01Z",
+      "latest_at": "2026-11-07T15:16:01Z",
       "primary_item": {
-        "id": "d46843da247a0b837591781f54960ecdb726b2ff",
-        "title": "谷歌 AI 新研究：无需袖带，利用消费级智能手表检测高血压，成果登 Nature",
-        "url": "https://www.ithome.com/1/023/788.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "8471286aa152fe12fa5fd1a5c09e81563c12b77f",
+        "title": "Show HN: 我们将一个31B的视频音频扩散模型压缩到了14B，6个步骤，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+        "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1176,15 +1290,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5225,
-      "importance": 0.5225,
-      "importance_score": 0.5225,
+      "score": 0.5094,
+      "importance": 0.5094,
+      "importance_score": 0.5094,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8703,
+        "recency": 0.7976,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1255,15 +1369,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5134,
-      "importance": 0.5134,
-      "importance_score": 0.5134,
+      "score": 0.5011,
+      "importance": 0.5011,
+      "importance_score": 0.5011,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.82,
+        "recency": 0.7514,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1278,85 +1392,6 @@
         "url": "https://www.ithome.com/1/023/752.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_4925a1c37151",
-      "title": "Anthropic公司一款尚未发布的模型刚刚帮助解决了量子计算领域的一个重大难题",
-      "url": "https://www.businessinsider.com/anthropic-quantum-computing-breakthrough-aaronson-ambainis-math-physics-psi-2026-11",
-      "primary_url": "https://www.businessinsider.com/anthropic-quantum-computing-breakthrough-aaronson-ambainis-math-physics-psi-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c2013025214de0c85bbb12de396c0e3882f10d3a",
-          "title": "Anthropic公司一款尚未发布的模型刚刚帮助解决了量子计算领域的一个重大难题",
-          "url": "https://www.businessinsider.com/anthropic-quantum-computing-breakthrough-aaronson-ambainis-math-physics-psi-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T01:06:50.933000Z"
-        },
-        {
-          "id": "9493798f61f6e472d9c438713bf7534af163580c",
-          "title": "Anthropic公司一款尚未发布的模型刚刚帮助解决了量子计算领域的一个重大难题 / An unreleased Anthropic model just helped solve a major quantum-computing question",
-          "url": "https://www.businessinsider.com/anthropic-quantum-computing-breakthrough-aaronson-ambainis-math-physics-psi-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-07T00:49:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "c2013025214de0c85bbb12de396c0e3882f10d3a",
-          "title": "Anthropic公司一款尚未发布的模型刚刚帮助解决了量子计算领域的一个重大难题",
-          "url": "https://www.businessinsider.com/anthropic-quantum-computing-breakthrough-aaronson-ambainis-math-physics-psi-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T01:06:50.933000Z"
-        },
-        {
-          "id": "9493798f61f6e472d9c438713bf7534af163580c",
-          "title": "Anthropic公司一款尚未发布的模型刚刚帮助解决了量子计算领域的一个重大难题 / An unreleased Anthropic model just helped solve a major quantum-computing question",
-          "url": "https://www.businessinsider.com/anthropic-quantum-computing-breakthrough-aaronson-ambainis-math-physics-psi-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-07T00:49:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4952,
-      "importance": 0.4952,
-      "importance_score": 0.4952,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7188,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T00:49:10Z",
-      "latest_at": "2026-11-07T01:06:50.933000Z",
-      "primary_item": {
-        "id": "c2013025214de0c85bbb12de396c0e3882f10d3a",
-        "title": "Anthropic公司一款尚未发布的模型刚刚帮助解决了量子计算领域的一个重大难题",
-        "url": "https://www.businessinsider.com/anthropic-quantum-computing-breakthrough-aaronson-ambainis-math-physics-psi-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1413,15 +1448,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5134,
-      "importance": 0.5134,
-      "importance_score": 0.5134,
+      "score": 0.5011,
+      "importance": 0.5011,
+      "importance_score": 0.5011,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.82,
+        "recency": 0.7514,
         "story_heat": 0.25
       },
       "category": "watch",
