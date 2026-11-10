@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:44:36.981091Z",
+  "generated_at": "2026-11-10T02:57:16.156093Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8559,
-      "importance": 0.8559,
-      "importance_score": 0.8559,
+      "score": 0.8417,
+      "importance": 0.8417,
+      "importance_score": 0.8417,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9217,
+        "recency": 0.8427,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8555,
-      "importance": 0.8555,
-      "importance_score": 0.8555,
+      "score": 0.8405,
+      "importance": 0.8405,
+      "importance_score": 0.8405,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9751,
+        "recency": 0.8915,
         "story_heat": 0.0
       },
       "category": "official",
@@ -124,6 +124,68 @@
         "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
         "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_773234e7b2ac",
+      "title": "Claude Fable 5.2 in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2b16a7a9f935eae9e71325c01e46eed898720acf",
+          "title": "Claude Fable 5.2 in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T16:46:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "2b16a7a9f935eae9e71325c01e46eed898720acf",
+          "title": "Claude Fable 5.2 in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T16:46:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8354,
+      "importance": 0.8354,
+      "importance_score": 0.8354,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8633,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T16:46:43Z",
+      "latest_at": "2026-11-09T16:46:43Z",
+      "primary_item": {
+        "id": "2b16a7a9f935eae9e71325c01e46eed898720acf",
+        "title": "Claude Fable 5.2 in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -162,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.84,
-      "importance": 0.84,
-      "importance_score": 0.84,
+      "score": 0.8262,
+      "importance": 0.8262,
+      "importance_score": 0.8262,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8887,
+        "recency": 0.8125,
         "story_heat": 0.0
       },
       "category": "official",
@@ -187,6 +249,435 @@
         "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_eaaa126649ca",
+      "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+      "url": "https://www.aibase.com/news/32190",
+      "primary_url": "https://www.aibase.com/news/32190",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9302925ee315c6e5b64eac0ff8ec7d869432c040",
+          "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+          "url": "https://www.aibase.com/news/32190",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T02:57:16.156093Z"
+        },
+        {
+          "id": "4fd6614f9626cc020240a42dd794f6e7cb519d7f",
+          "title": "Anthropic 发布 Claude Fable5.2 与 Mythos5.2：1000 个子智能体 8 天写出可启动操作系统",
+          "url": "https://www.aibase.com/zh/news/32190",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "9302925ee315c6e5b64eac0ff8ec7d869432c040",
+          "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+          "url": "https://www.aibase.com/news/32190",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T02:57:16.156093Z"
+        },
+        {
+          "id": "4fd6614f9626cc020240a42dd794f6e7cb519d7f",
+          "title": "Anthropic 发布 Claude Fable5.2 与 Mythos5.2：1000 个子智能体 8 天写出可启动操作系统",
+          "url": "https://www.aibase.com/zh/news/32190",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T02:57:16.156093Z",
+      "latest_at": "2026-11-10T02:57:16.156093Z",
+      "primary_item": {
+        "id": "9302925ee315c6e5b64eac0ff8ec7d869432c040",
+        "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+        "url": "https://www.aibase.com/news/32190",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f37b680abcf7",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "primary_url": "https://openai.com/index/control-room",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9f7666cac7c829e5dc72760195dcbf2eded8d707",
+          "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "url": "https://openai.com/index/control-room",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "9f7666cac7c829e5dc72760195dcbf2eded8d707",
+          "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "url": "https://openai.com/index/control-room",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8191,
+      "importance": 0.8191,
+      "importance_score": 0.8191,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8175,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T13:00:00Z",
+      "latest_at": "2026-11-09T13:00:00Z",
+      "primary_item": {
+        "id": "9f7666cac7c829e5dc72760195dcbf2eded8d707",
+        "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+        "url": "https://openai.com/index/control-room",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_06e2b9999d4d",
+      "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+      "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+      "primary_url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "54f90d8c719562032e8d44bbc09276f0b94e565f",
+          "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+          "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T09:01:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "54f90d8c719562032e8d44bbc09276f0b94e565f",
+          "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+          "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T09:01:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8029,
+      "importance": 0.8029,
+      "importance_score": 0.8029,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7719,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T09:01:37Z",
+      "latest_at": "2026-11-09T09:01:37Z",
+      "primary_item": {
+        "id": "54f90d8c719562032e8d44bbc09276f0b94e565f",
+        "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+        "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_dc63a3bb68ae",
+      "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+      "url": "https://www.aibase.com/news/32188",
+      "primary_url": "https://www.aibase.com/news/32188",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c7563e2a10608c181468b59f98c560dba5a989c8",
+          "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "url": "https://www.aibase.com/news/32188",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T02:57:16.156093Z"
+        },
+        {
+          "id": "8e4d9fa0c2d267aff4bf337ac3081bfa451f9df6",
+          "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "url": "https://www.aibase.com/zh/news/32188",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c7563e2a10608c181468b59f98c560dba5a989c8",
+          "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "url": "https://www.aibase.com/news/32188",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T02:57:16.156093Z"
+        },
+        {
+          "id": "8e4d9fa0c2d267aff4bf337ac3081bfa451f9df6",
+          "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "url": "https://www.aibase.com/zh/news/32188",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T02:57:16.156093Z",
+      "latest_at": "2026-11-10T02:57:16.156093Z",
+      "primary_item": {
+        "id": "c7563e2a10608c181468b59f98c560dba5a989c8",
+        "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+        "url": "https://www.aibase.com/news/32188",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_23b94c697622",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "primary_url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "54b42c0d20e87c61af841220ddb1ed55ddfaccc3",
+          "title": "CodeRabbit scales agentic software development and ships 20x more",
+          "url": "https://openai.com/index/coderabbit-codex-daybreak",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T08:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "54b42c0d20e87c61af841220ddb1ed55ddfaccc3",
+          "title": "CodeRabbit scales agentic software development and ships 20x more",
+          "url": "https://openai.com/index/coderabbit-codex-daybreak",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T08:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7605,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T08:00:00Z",
+      "latest_at": "2026-11-09T08:00:00Z",
+      "primary_item": {
+        "id": "54b42c0d20e87c61af841220ddb1ed55ddfaccc3",
+        "title": "CodeRabbit scales agentic software development and ships 20x more",
+        "url": "https://openai.com/index/coderabbit-codex-daybreak",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_12a05a996aab",
+      "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+      "url": "https://www.aibase.com/news/32194",
+      "primary_url": "https://www.aibase.com/news/32194",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cc2015f68ed3caa524c54ad2fedb381f34e9fb07",
+          "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+          "url": "https://www.aibase.com/news/32194",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T02:57:16.156093Z"
+        },
+        {
+          "id": "7f1c825b6d9176686e106eb0c39dd219af69da03",
+          "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+          "url": "https://www.aibase.com/zh/news/32194",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "cc2015f68ed3caa524c54ad2fedb381f34e9fb07",
+          "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+          "url": "https://www.aibase.com/news/32194",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T02:57:16.156093Z"
+        },
+        {
+          "id": "7f1c825b6d9176686e106eb0c39dd219af69da03",
+          "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+          "url": "https://www.aibase.com/zh/news/32194",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T02:57:16.156093Z",
+      "latest_at": "2026-11-10T02:57:16.156093Z",
+      "primary_item": {
+        "id": "cc2015f68ed3caa524c54ad2fedb381f34e9fb07",
+        "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+        "url": "https://www.aibase.com/news/32194",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -224,15 +715,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8217,
-      "importance": 0.8217,
-      "importance_score": 0.8217,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8319,
+        "recency": 0.7605,
         "story_heat": 0.0
       },
       "category": "official",
@@ -252,26 +743,26 @@
       }
     },
     {
-      "story_id": "story_7a875051dfb6",
-      "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
-      "url": "https://www.aibase.com/news/32184",
-      "primary_url": "https://www.aibase.com/news/32184",
+      "story_id": "story_69f0f90c134e",
+      "title": "华尔街给 AI 热泼冷水：Anthropic 冲刺\"史上最大 IPO\"遇降温",
+      "url": "https://www.aibase.com/news/32196",
+      "primary_url": "https://www.aibase.com/news/32196",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ce073b21d9f36a3fb06e9c268114287fc958bad9",
-          "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
-          "url": "https://www.aibase.com/news/32184",
+          "id": "58e8444149b1aee00a76a2a0c0ca6f6236e1bfe5",
+          "title": "华尔街给 AI 热泼冷水：Anthropic 冲刺\"史上最大 IPO\"遇降温",
+          "url": "https://www.aibase.com/news/32196",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T09:48:41.664840Z"
+          "published_at": "2026-11-10T02:57:16.156093Z"
         },
         {
-          "id": "65f114b48774795e5445b5c1bad23bdb5a7eff37",
-          "title": "千问办公 2.0 发布：定位 Team Agent，协作、自动任务、人机共创三线升级",
-          "url": "https://www.aibase.com/zh/news/32184",
+          "id": "4739babe76ca93bd4b1b577f084eb4c882939d88",
+          "title": "华尔街给 AI 热泼冷水：Anthropic 冲刺「史上最大 IPO」遇降温",
+          "url": "https://www.aibase.com/zh/news/32196",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -285,18 +776,18 @@
       ],
       "items": [
         {
-          "id": "ce073b21d9f36a3fb06e9c268114287fc958bad9",
-          "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
-          "url": "https://www.aibase.com/news/32184",
+          "id": "58e8444149b1aee00a76a2a0c0ca6f6236e1bfe5",
+          "title": "华尔街给 AI 热泼冷水：Anthropic 冲刺\"史上最大 IPO\"遇降温",
+          "url": "https://www.aibase.com/news/32196",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T09:48:41.664840Z"
+          "published_at": "2026-11-10T02:57:16.156093Z"
         },
         {
-          "id": "65f114b48774795e5445b5c1bad23bdb5a7eff37",
-          "title": "千问办公 2.0 发布：定位 Team Agent，协作、自动任务、人机共创三线升级",
-          "url": "https://www.aibase.com/zh/news/32184",
+          "id": "4739babe76ca93bd4b1b577f084eb4c882939d88",
+          "title": "华尔街给 AI 热泼冷水：Anthropic 冲刺「史上最大 IPO」遇降温",
+          "url": "https://www.aibase.com/zh/news/32196",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -305,15 +796,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.854,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -322,37 +813,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-09T09:48:41.664840Z",
-      "latest_at": "2026-11-09T09:48:41.664840Z",
+      "earliest_at": "2026-11-10T02:57:16.156093Z",
+      "latest_at": "2026-11-10T02:57:16.156093Z",
       "primary_item": {
-        "id": "ce073b21d9f36a3fb06e9c268114287fc958bad9",
-        "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
-        "url": "https://www.aibase.com/news/32184",
+        "id": "58e8444149b1aee00a76a2a0c0ca6f6236e1bfe5",
+        "title": "华尔街给 AI 热泼冷水：Anthropic 冲刺\"史上最大 IPO\"遇降温",
+        "url": "https://www.aibase.com/news/32196",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_aee603e13760",
-      "title": "火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏",
-      "url": "https://www.aibase.com/news/32185",
-      "primary_url": "https://www.aibase.com/news/32185",
+      "story_id": "story_3b41ba66855e",
+      "title": "法学教授让 Claude 更新页码：吃个午饭回来，全年课堂笔记被全盘删光",
+      "url": "https://www.aibase.com/news/32195",
+      "primary_url": "https://www.aibase.com/news/32195",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f1b510a471379de6750ff189741d6d501e9955b8",
-          "title": "火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏",
-          "url": "https://www.aibase.com/news/32185",
+          "id": "60e04fe5321dc7307886c6ec4ab28b751784cda0",
+          "title": "法学教授让 Claude 更新页码：吃个午饭回来，全年课堂笔记被全盘删光",
+          "url": "https://www.aibase.com/news/32195",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T09:48:41.664840Z"
+          "published_at": "2026-11-10T02:57:16.156093Z"
         },
         {
-          "id": "0c61c28463d0c0320379bb23c4b381589e023a68",
-          "title": "火山引擎发布 Seedream5.5：像素级可控编辑，百轮修改不崩坏",
-          "url": "https://www.aibase.com/zh/news/32185",
+          "id": "484f434e2eade0ee9f7e665b02bd67f0874ef423",
+          "title": "法学教授让 Claude 更新页码：吃个午饭回来，全年课堂笔记被全盘删光",
+          "url": "https://www.aibase.com/zh/news/32195",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -366,18 +857,18 @@
       ],
       "items": [
         {
-          "id": "f1b510a471379de6750ff189741d6d501e9955b8",
-          "title": "火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏",
-          "url": "https://www.aibase.com/news/32185",
+          "id": "60e04fe5321dc7307886c6ec4ab28b751784cda0",
+          "title": "法学教授让 Claude 更新页码：吃个午饭回来，全年课堂笔记被全盘删光",
+          "url": "https://www.aibase.com/news/32195",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T09:48:41.664840Z"
+          "published_at": "2026-11-10T02:57:16.156093Z"
         },
         {
-          "id": "0c61c28463d0c0320379bb23c4b381589e023a68",
-          "title": "火山引擎发布 Seedream5.5：像素级可控编辑，百轮修改不崩坏",
-          "url": "https://www.aibase.com/zh/news/32185",
+          "id": "484f434e2eade0ee9f7e665b02bd67f0874ef423",
+          "title": "法学教授让 Claude 更新页码：吃个午饭回来，全年课堂笔记被全盘删光",
+          "url": "https://www.aibase.com/zh/news/32195",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -386,15 +877,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.854,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -403,134 +894,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-09T09:48:41.664840Z",
-      "latest_at": "2026-11-09T09:48:41.664840Z",
+      "earliest_at": "2026-11-10T02:57:16.156093Z",
+      "latest_at": "2026-11-10T02:57:16.156093Z",
       "primary_item": {
-        "id": "f1b510a471379de6750ff189741d6d501e9955b8",
-        "title": "火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏",
-        "url": "https://www.aibase.com/news/32185",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e5b53323b3ee",
-      "title": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
-      "url": "https://www.aibase.com/news/32187",
-      "primary_url": "https://www.aibase.com/news/32187",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a9aef4bfdd7669502341ee720a9c948c2c48b223",
-          "title": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
-          "url": "https://www.aibase.com/news/32187",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T18:44:36.981091Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a9aef4bfdd7669502341ee720a9c948c2c48b223",
-          "title": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
-          "url": "https://www.aibase.com/news/32187",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T18:44:36.981091Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9715,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-09T18:44:36.981091Z",
-      "latest_at": "2026-11-09T18:44:36.981091Z",
-      "primary_item": {
-        "id": "a9aef4bfdd7669502341ee720a9c948c2c48b223",
-        "title": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
-        "url": "https://www.aibase.com/news/32187",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_23fea7a67705",
-      "title": "字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板",
-      "url": "https://www.aibase.com/news/32186",
-      "primary_url": "https://www.aibase.com/news/32186",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "44a171dc5eb08a855f2ad3fde4fc744f223b356a",
-          "title": "字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板",
-          "url": "https://www.aibase.com/news/32186",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T18:44:36.981091Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "44a171dc5eb08a855f2ad3fde4fc744f223b356a",
-          "title": "字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板",
-          "url": "https://www.aibase.com/news/32186",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T18:44:36.981091Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9715,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-09T18:44:36.981091Z",
-      "latest_at": "2026-11-09T18:44:36.981091Z",
-      "primary_item": {
-        "id": "44a171dc5eb08a855f2ad3fde4fc744f223b356a",
-        "title": "字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板",
-        "url": "https://www.aibase.com/news/32186",
+        "id": "60e04fe5321dc7307886c6ec4ab28b751784cda0",
+        "title": "法学教授让 Claude 更新页码：吃个午饭回来，全年课堂笔记被全盘删光",
+        "url": "https://www.aibase.com/news/32195",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -642,15 +1011,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6538,
+      "importance": 0.6538,
+      "importance_score": 0.6538,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9142,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -668,26 +1037,26 @@
       }
     },
     {
-      "story_id": "story_9d3ac0824bc7",
-      "title": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-      "url": "https://www.aibase.com/news/32178",
-      "primary_url": "https://www.aibase.com/news/32178",
+      "story_id": "story_d6a0c48aad47",
+      "title": "苹果给 AI 收费划了新道：不包月，按用量买断",
+      "url": "https://www.aibase.com/news/32191",
+      "primary_url": "https://www.aibase.com/news/32191",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d753d42b6a65cb304e3101e48c75d503d7aab471",
-          "title": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-          "url": "https://www.aibase.com/news/32178",
+          "id": "fb3aba070e13422968ae71f94639e265f8f85720",
+          "title": "苹果给 AI 收费划了新道：不包月，按用量买断",
+          "url": "https://www.aibase.com/news/32191",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T07:52:24.976277Z"
+          "published_at": "2026-11-10T02:57:16.156093Z"
         },
         {
-          "id": "ed38b2ea4f4fff10252289250d800e0f7100639f",
-          "title": "行业最大规模具身模型挑战赛迎来决赛：15 支战队将展开 48 小时真机角逐",
-          "url": "https://www.aibase.com/zh/news/32178",
+          "id": "b008f16ed197fedcdbd042b0ddb28d1a97dcedf6",
+          "title": "苹果给 AI 收费划了新道：不包月，按用量买断",
+          "url": "https://www.aibase.com/zh/news/32191",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -701,18 +1070,18 @@
       ],
       "items": [
         {
-          "id": "d753d42b6a65cb304e3101e48c75d503d7aab471",
-          "title": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-          "url": "https://www.aibase.com/news/32178",
+          "id": "fb3aba070e13422968ae71f94639e265f8f85720",
+          "title": "苹果给 AI 收费划了新道：不包月，按用量买断",
+          "url": "https://www.aibase.com/news/32191",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T07:52:24.976277Z"
+          "published_at": "2026-11-10T02:57:16.156093Z"
         },
         {
-          "id": "ed38b2ea4f4fff10252289250d800e0f7100639f",
-          "title": "行业最大规模具身模型挑战赛迎来决赛：15 支战队将展开 48 小时真机角逐",
-          "url": "https://www.aibase.com/zh/news/32178",
+          "id": "b008f16ed197fedcdbd042b0ddb28d1a97dcedf6",
+          "title": "苹果给 AI 收费划了新道：不包月，按用量买断",
+          "url": "https://www.aibase.com/zh/news/32191",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -721,15 +1090,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8304,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -738,12 +1107,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-09T07:52:24.976277Z",
-      "latest_at": "2026-11-09T07:52:24.976277Z",
+      "earliest_at": "2026-11-10T02:57:16.156093Z",
+      "latest_at": "2026-11-10T02:57:16.156093Z",
       "primary_item": {
-        "id": "d753d42b6a65cb304e3101e48c75d503d7aab471",
-        "title": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-        "url": "https://www.aibase.com/news/32178",
+        "id": "fb3aba070e13422968ae71f94639e265f8f85720",
+        "title": "苹果给 AI 收费划了新道：不包月，按用量买断",
+        "url": "https://www.aibase.com/news/32191",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -802,15 +1171,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.636,
-      "importance": 0.636,
-      "importance_score": 0.636,
+      "score": 0.6209,
+      "importance": 0.6209,
+      "importance_score": 0.6209,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.9751,
+        "recency": 0.8915,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -828,26 +1197,26 @@
       }
     },
     {
-      "story_id": "story_d966d80b9226",
-      "title": "几秒钟“复刻”巨星?Suno再因侵权被告上法庭",
-      "url": "https://www.aibase.com/news/32174",
-      "primary_url": "https://www.aibase.com/news/32174",
+      "story_id": "story_23d08a82f0bc",
+      "title": "迪士尼携手Adobe开发专属AI模型，布局主题公园、影视及体育业务",
+      "url": "https://www.aibase.com/news/32198",
+      "primary_url": "https://www.aibase.com/news/32198",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "54edf22330731feadb1d992fd0685d67c0762183",
-          "title": "几秒钟“复刻”巨星?Suno再因侵权被告上法庭",
-          "url": "https://www.aibase.com/news/32174",
+          "id": "c6e4392ccf141cd1cb41d11fbb50cb9c8058cc00",
+          "title": "迪士尼携手Adobe开发专属AI模型，布局主题公园、影视及体育业务",
+          "url": "https://www.aibase.com/news/32198",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T07:52:24.976277Z"
+          "published_at": "2026-11-10T02:57:16.156093Z"
         },
         {
-          "id": "8df51dbe40ba7a74c550d9b38786461ade975d7b",
-          "title": "几秒钟「复刻」巨星？Suno 再因侵权被告上法庭",
-          "url": "https://www.aibase.com/zh/news/32174",
+          "id": "d70b2bc0aa65a562a6d2c05f4a90268d13016fc7",
+          "title": "迪士尼携手 Adobe 开发专属 AI 模型，布局主题公园、影视及体育业务",
+          "url": "https://www.aibase.com/zh/news/32198",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -861,18 +1230,18 @@
       ],
       "items": [
         {
-          "id": "54edf22330731feadb1d992fd0685d67c0762183",
-          "title": "几秒钟“复刻”巨星?Suno再因侵权被告上法庭",
-          "url": "https://www.aibase.com/news/32174",
+          "id": "c6e4392ccf141cd1cb41d11fbb50cb9c8058cc00",
+          "title": "迪士尼携手Adobe开发专属AI模型，布局主题公园、影视及体育业务",
+          "url": "https://www.aibase.com/news/32198",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T07:52:24.976277Z"
+          "published_at": "2026-11-10T02:57:16.156093Z"
         },
         {
-          "id": "8df51dbe40ba7a74c550d9b38786461ade975d7b",
-          "title": "几秒钟「复刻」巨星？Suno 再因侵权被告上法庭",
-          "url": "https://www.aibase.com/zh/news/32174",
+          "id": "d70b2bc0aa65a562a6d2c05f4a90268d13016fc7",
+          "title": "迪士尼携手 Adobe 开发专属 AI 模型，布局主题公园、影视及体育业务",
+          "url": "https://www.aibase.com/zh/news/32198",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -881,703 +1250,287 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8304,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-09T07:52:24.976277Z",
-      "latest_at": "2026-11-09T07:52:24.976277Z",
-      "primary_item": {
-        "id": "54edf22330731feadb1d992fd0685d67c0762183",
-        "title": "几秒钟“复刻”巨星?Suno再因侵权被告上法庭",
-        "url": "https://www.aibase.com/news/32174",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "[百万人工智能工程师特别] 斯坦福大学如何教授人工智能原生工程 — Mihail Eric，摩纳哥 / [One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-      "url": "https://www.youtube.com/watch?v=dpY7YzZo4kE",
-      "primary_url": "https://www.youtube.com/watch?v=dpY7YzZo4kE",
-      "source": "Follow Builders · Podcast · Latent Space",
-      "source_name": "Follow Builders",
-      "sources": [
-        {
-          "id": "84a9e83b89a29349ba27459332c9a0f38255ca5d",
-          "title": "[百万人工智能工程师特别] 斯坦福大学如何教授人工智能原生工程 — Mihail Eric，摩纳哥 / [One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-          "url": "https://www.youtube.com/watch?v=dpY7YzZo4kE",
-          "source": "Follow Builders · Podcast · Latent Space",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-11-08T21:23:29Z"
-        },
-        {
-          "id": "b6fdfca1e83c90ddc6e8517bb17b404bd71804b2",
-          "title": "DIY Injection Molding: Making Plastic Recycling Accessible to All",
-          "url": "https://www.youtube.com/watch?v=XxiLs3mAZJ8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-09T09:46:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · Podcast · Latent Space",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "84a9e83b89a29349ba27459332c9a0f38255ca5d",
-          "title": "[百万人工智能工程师特别] 斯坦福大学如何教授人工智能原生工程 — Mihail Eric，摩纳哥 / [One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-          "url": "https://www.youtube.com/watch?v=dpY7YzZo4kE",
-          "source": "Follow Builders · Podcast · Latent Space",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-11-08T21:23:29Z"
-        },
-        {
-          "id": "b6fdfca1e83c90ddc6e8517bb17b404bd71804b2",
-          "title": "DIY Injection Molding: Making Plastic Recycling Accessible to All",
-          "url": "https://www.youtube.com/watch?v=XxiLs3mAZJ8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-09T09:46:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6102,
-      "importance": 0.6102,
-      "importance_score": 0.6102,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5544,
-        "source_tier": 0.62,
-        "ai_relevance": 0.77,
-        "recency": 0.7138,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T21:23:29Z",
-      "latest_at": "2026-11-09T09:46:44Z",
-      "primary_item": {
-        "id": "84a9e83b89a29349ba27459332c9a0f38255ca5d",
-        "title": "[百万人工智能工程师特别] 斯坦福大学如何教授人工智能原生工程 — Mihail Eric，摩纳哥 / [One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-        "url": "https://www.youtube.com/watch?v=dpY7YzZo4kE",
-        "source": "Follow Builders · Podcast · Latent Space",
-        "source_name": "Follow Builders"
-      }
-    },
-    {
-      "story_id": "story_c49bc4d4f01a",
-      "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
-      "url": "https://www.aibase.com/news/32180",
-      "primary_url": "https://www.aibase.com/news/32180",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0964a3f8f0de8510498713d41cb2f356774b8051",
-          "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
-          "url": "https://www.aibase.com/news/32180",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T07:52:24.976277Z"
-        },
-        {
-          "id": "e1bc5c88c9100d1bcccd945712e4d86980e07fd4",
-          "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
-          "url": "https://www.aibase.com/zh/news/32180",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0964a3f8f0de8510498713d41cb2f356774b8051",
-          "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
-          "url": "https://www.aibase.com/news/32180",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T07:52:24.976277Z"
-        },
-        {
-          "id": "e1bc5c88c9100d1bcccd945712e4d86980e07fd4",
-          "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
-          "url": "https://www.aibase.com/zh/news/32180",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8304,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-09T07:52:24.976277Z",
-      "latest_at": "2026-11-09T07:52:24.976277Z",
-      "primary_item": {
-        "id": "0964a3f8f0de8510498713d41cb2f356774b8051",
-        "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
-        "url": "https://www.aibase.com/news/32180",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1f917ef42e11",
-      "title": "克劳德·科德（Claude Code）在 GitHub 上无意间泄露了大量机密信息",
-      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
-      "primary_url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "8bd89dc0097227db8ed9c7f3dd9be2545c9f1737",
-          "title": "克劳德·科德（Claude Code）在 GitHub 上无意间泄露了大量机密信息",
-          "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-09T18:14:15.374000Z"
-        },
-        {
-          "id": "555b81b9f7acd632ab8404601025104cc99587c4",
-          "title": "克劳德·科德（Claude Code）在 GitHub 上无意间泄露了大量机密信息 / Claude Code is accidentally exposing secrets all over GitHub",
-          "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-09T17:24:26Z"
-        },
-        {
-          "id": "83fb2ed5cb90795d85681d7b821125fae79d5674",
-          "title": "克劳德·科德（Claude Code）在 GitHub 上无意间泄露了大量机密信息 / Claude Code settings files expose thousands of secrets on GitHub",
-          "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-09T17:24:26Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Ars Technica",
-        "Ars Technica (科技媒体)",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "8bd89dc0097227db8ed9c7f3dd9be2545c9f1737",
-          "title": "克劳德·科德（Claude Code）在 GitHub 上无意间泄露了大量机密信息",
-          "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-09T18:14:15.374000Z"
-        },
-        {
-          "id": "555b81b9f7acd632ab8404601025104cc99587c4",
-          "title": "克劳德·科德（Claude Code）在 GitHub 上无意间泄露了大量机密信息 / Claude Code is accidentally exposing secrets all over GitHub",
-          "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-09T17:24:26Z"
-        },
-        {
-          "id": "83fb2ed5cb90795d85681d7b821125fae79d5674",
-          "title": "克劳德·科德（Claude Code）在 GitHub 上无意间泄露了大量机密信息 / Claude Code settings files expose thousands of secrets on GitHub",
-          "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-09T17:24:26Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5644,
-      "importance": 0.5644,
-      "importance_score": 0.5644,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9645,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T17:24:26Z",
-      "latest_at": "2026-11-09T18:14:15.374000Z",
-      "primary_item": {
-        "id": "8bd89dc0097227db8ed9c7f3dd9be2545c9f1737",
-        "title": "克劳德·科德（Claude Code）在 GitHub 上无意间泄露了大量机密信息",
-        "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8ceada5f9502",
-      "title": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-      "url": "https://news.ycombinator.com/item?id=50422628",
-      "primary_url": "https://news.ycombinator.com/item?id=50422628",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e2e3e9486213268f50aab7f02f8c8aa847814bcc",
-          "title": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-          "url": "https://news.ycombinator.com/item?id=50422628",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-09T14:46:44.465000Z"
-        },
-        {
-          "id": "7699ee10d4312d8775370d5467357a1658a988cd",
-          "title": "ChatGPT Desktop 会将您的 SSH 代理转发到远程机器上",
-          "url": "https://news.ycombinator.com/item?id=50422628",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-09T08:23:46.459000Z"
-        },
-        {
-          "id": "4c64eec1eb7478061428b15d3f5722b60c0ddedd",
-          "title": "ChatGPT Desktop 会将您的 SSH 代理转发到远程机器上 / ChatGPT Desktop forwards your SSH agent to remote machines",
-          "url": "https://news.ycombinator.com/item?id=50422628",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-09T08:17:49Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "e2e3e9486213268f50aab7f02f8c8aa847814bcc",
-          "title": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-          "url": "https://news.ycombinator.com/item?id=50422628",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-09T14:46:44.465000Z"
-        },
-        {
-          "id": "7699ee10d4312d8775370d5467357a1658a988cd",
-          "title": "ChatGPT Desktop 会将您的 SSH 代理转发到远程机器上",
-          "url": "https://news.ycombinator.com/item?id=50422628",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-09T08:23:46.459000Z"
-        },
-        {
-          "id": "4c64eec1eb7478061428b15d3f5722b60c0ddedd",
-          "title": "ChatGPT Desktop 会将您的 SSH 代理转发到远程机器上 / ChatGPT Desktop forwards your SSH agent to remote machines",
-          "url": "https://news.ycombinator.com/item?id=50422628",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-09T08:17:49Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5559,
-      "importance": 0.5559,
-      "importance_score": 0.5559,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9175,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T08:17:49Z",
-      "latest_at": "2026-11-09T14:46:44.465000Z",
-      "primary_item": {
-        "id": "e2e3e9486213268f50aab7f02f8c8aa847814bcc",
-        "title": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-        "url": "https://news.ycombinator.com/item?id=50422628",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_16595a8831c5",
-      "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-      "url": "https://www.aibase.com/news/32181",
-      "primary_url": "https://www.aibase.com/news/32181",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1193b4cf0b1dfa9b16e1c268204e5a9d4c4ddccd",
-          "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-          "url": "https://www.aibase.com/news/32181",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T07:52:24.976277Z"
-        },
-        {
-          "id": "3f78adcbd526b9d311095d3a596b35f55fa5bf42",
-          "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-          "url": "https://www.aibase.com/zh/news/32181",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "1193b4cf0b1dfa9b16e1c268204e5a9d4c4ddccd",
-          "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-          "url": "https://www.aibase.com/news/32181",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T07:52:24.976277Z"
-        },
-        {
-          "id": "3f78adcbd526b9d311095d3a596b35f55fa5bf42",
-          "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-          "url": "https://www.aibase.com/zh/news/32181",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8304,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-09T07:52:24.976277Z",
-      "latest_at": "2026-11-09T09:48:41.664840Z",
-      "primary_item": {
-        "id": "1193b4cf0b1dfa9b16e1c268204e5a9d4c4ddccd",
-        "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-        "url": "https://www.aibase.com/news/32181",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_81f33d0f3f66",
-      "title": "家庭助理-ai / ha-mcp / homeassistant-ai / ha-mcp",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "primary_url": "https://github.com/homeassistant-ai/ha-mcp",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "e80b44a6629636b089da7d22532f5e9ec6318bcf",
-          "title": "家庭助理-ai / ha-mcp / homeassistant-ai / ha-mcp",
-          "url": "https://github.com/homeassistant-ai/ha-mcp",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7ba2210bce0fcbf2d4df27a5861bc040546362ce",
-          "title": "家庭助理-ai / ha-mcp / homeassistant-ai /      ha-mcp",
-          "url": "https://github.com/homeassistant-ai/ha-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T20:21:07.352000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "e80b44a6629636b089da7d22532f5e9ec6318bcf",
-          "title": "家庭助理-ai / ha-mcp / homeassistant-ai / ha-mcp",
-          "url": "https://github.com/homeassistant-ai/ha-mcp",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7ba2210bce0fcbf2d4df27a5861bc040546362ce",
-          "title": "家庭助理-ai / ha-mcp / homeassistant-ai /      ha-mcp",
-          "url": "https://github.com/homeassistant-ai/ha-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T20:21:07.352000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
         "recency": 1.0,
         "story_heat": 0.25
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-09T20:21:07.352000Z",
-      "latest_at": "2026-11-09T20:44:36.981091Z",
+      "earliest_at": "2026-11-10T02:57:16.156093Z",
+      "latest_at": "2026-11-10T02:57:16.156093Z",
       "primary_item": {
-        "id": "e80b44a6629636b089da7d22532f5e9ec6318bcf",
-        "title": "家庭助理-ai / ha-mcp / homeassistant-ai / ha-mcp",
-        "url": "https://github.com/homeassistant-ai/ha-mcp",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
+        "id": "c6e4392ccf141cd1cb41d11fbb50cb9c8058cc00",
+        "title": "迪士尼携手Adobe开发专属AI模型，布局主题公园、影视及体育业务",
+        "url": "https://www.aibase.com/news/32198",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_feb2ba211559",
-      "title": "我们体积最小、效率最高的机型：Muse Ember",
-      "url": "https://research.meta.ai/blog/muse-ember",
-      "primary_url": "https://research.meta.ai/blog/muse-ember",
-      "source": "research.meta.ai",
+      "story_id": "story_255b56db4a4a",
+      "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "primary_url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "source": "artificialanalysis.ai",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "1ea1460f8cc2051b63d4dbb0bf0e1f0c57b6d4dd",
-          "title": "我们体积最小、效率最高的机型：Muse Ember",
-          "url": "https://research.meta.ai/blog/muse-ember",
-          "source": "research.meta.ai",
+          "id": "ce253f458a3bf647c6ca500a993d11ced75204cf",
+          "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+          "source": "artificialanalysis.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-09T20:05:58.280000Z"
+          "published_at": "2026-11-09T21:56:55.597000Z"
         },
         {
-          "id": "87a6f460d6ea0188cc1f0034a8d3ceb29f3f3659",
-          "title": "我们体积最小、效率最高的机型：Muse Ember / Our Smallest, Most Efficient Model: Muse Ember",
-          "url": "https://research.meta.ai/blog/muse-ember",
+          "id": "d8294c1520c70f73d6787a5d10d1c760876d876f",
+          "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分 / Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-09T17:58:46Z"
+          "published_at": "2026-11-09T20:04:55Z"
+        },
+        {
+          "id": "cb684e1db49924718fb72f8f829b305a3af9b33d",
+          "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+          "url": "https://news.ycombinator.com/item?id=50431144",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T20:04:55Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "research.meta.ai"
+        "artificialanalysis.ai",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "1ea1460f8cc2051b63d4dbb0bf0e1f0c57b6d4dd",
-          "title": "我们体积最小、效率最高的机型：Muse Ember",
-          "url": "https://research.meta.ai/blog/muse-ember",
-          "source": "research.meta.ai",
+          "id": "ce253f458a3bf647c6ca500a993d11ced75204cf",
+          "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+          "source": "artificialanalysis.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-09T20:05:58.280000Z"
+          "published_at": "2026-11-09T21:56:55.597000Z"
         },
         {
-          "id": "87a6f460d6ea0188cc1f0034a8d3ceb29f3f3659",
-          "title": "我们体积最小、效率最高的机型：Muse Ember / Our Smallest, Most Efficient Model: Muse Ember",
-          "url": "https://research.meta.ai/blog/muse-ember",
+          "id": "d8294c1520c70f73d6787a5d10d1c760876d876f",
+          "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分 / Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-09T17:58:46Z"
+          "published_at": "2026-11-09T20:04:55Z"
+        },
+        {
+          "id": "cb684e1db49924718fb72f8f829b305a3af9b33d",
+          "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+          "url": "https://news.ycombinator.com/item?id=50431144",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T20:04:55Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5441,
-      "importance": 0.5441,
-      "importance_score": 0.5441,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5582,
+      "importance": 0.5582,
+      "importance_score": 0.5582,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9907,
-        "story_heat": 0.25
+        "recency": 0.9303,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-09T17:58:46Z",
-      "latest_at": "2026-11-09T20:05:58.280000Z",
+      "earliest_at": "2026-11-09T20:04:55Z",
+      "latest_at": "2026-11-09T21:56:55.597000Z",
       "primary_item": {
-        "id": "1ea1460f8cc2051b63d4dbb0bf0e1f0c57b6d4dd",
-        "title": "我们体积最小、效率最高的机型：Muse Ember",
-        "url": "https://research.meta.ai/blog/muse-ember",
-        "source": "research.meta.ai",
+        "id": "ce253f458a3bf647c6ca500a993d11ced75204cf",
+        "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+        "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+        "source": "artificialanalysis.ai",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_796a7f7ee338",
-      "title": "Claude Fable 5.2 和 Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "primary_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "source": "www.anthropic.com",
-      "source_name": "Buzzing",
+      "story_id": "story_745840ac55f6",
+      "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+      "url": "https://www.aibase.com/news/32193",
+      "primary_url": "https://www.aibase.com/news/32193",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "c7b965ae8a6ebdfffd4e5b102c4bb132d1573e58",
-          "title": "Claude Fable 5.2 和 Mythos 5.2",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-09T19:17:55.414000Z"
-        },
-        {
-          "id": "e26debecfcda3df32734bd047767c875f7f583aa",
-          "title": "Claude Fable 5.2 和 Mythos 5.2 / Claude Fable 5.2 and Mythos 5.2",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-09T18:56:29Z"
+          "id": "818d4dd04644a1a7ed1e169db1ad1949ef82e162",
+          "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+          "url": "https://www.aibase.com/news/32193",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T02:57:16.156093Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.anthropic.com"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "c7b965ae8a6ebdfffd4e5b102c4bb132d1573e58",
-          "title": "Claude Fable 5.2 和 Mythos 5.2",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-          "source": "www.anthropic.com",
+          "id": "818d4dd04644a1a7ed1e169db1ad1949ef82e162",
+          "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+          "url": "https://www.aibase.com/news/32193",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T02:57:16.156093Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T02:57:16.156093Z",
+      "latest_at": "2026-11-10T02:57:16.156093Z",
+      "primary_item": {
+        "id": "818d4dd04644a1a7ed1e169db1ad1949ef82e162",
+        "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+        "url": "https://www.aibase.com/news/32193",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1b18e8c9acf7",
+      "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+      "url": "https://github.com/thisisme6598/gemini_files",
+      "primary_url": "https://github.com/thisisme6598/gemini_files",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5f10c344602b99ba35e8d8a4c3184bc45e92bda5",
+          "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+          "url": "https://github.com/thisisme6598/gemini_files",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-09T19:17:55.414000Z"
+          "published_at": "2026-11-09T21:40:44.132000Z"
         },
         {
-          "id": "e26debecfcda3df32734bd047767c875f7f583aa",
-          "title": "Claude Fable 5.2 和 Mythos 5.2 / Claude Fable 5.2 and Mythos 5.2",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "id": "661bc25e602941c9789c15aac139b88ddcd1cdf0",
+          "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员 / Google Gemini routes personal Drive files and emails to human annotators",
+          "url": "https://github.com/thisisme6598/gemini_files",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-09T18:56:29Z"
+          "published_at": "2026-11-09T18:24:38Z"
+        },
+        {
+          "id": "92b735d384a29f773d538722cfa1458e34b61468",
+          "title": "Google Gemini 将个人云端硬盘文件和电子邮件路由给人工注释者 / Google Gemini routes personal Drive files and emails to human annotators",
+          "url": "https://news.ycombinator.com/item?id=50429426",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T18:24:38Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5421,
-      "importance": 0.5421,
-      "importance_score": 0.5421,
-      "importance_label": "值得关注",
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "5f10c344602b99ba35e8d8a4c3184bc45e92bda5",
+          "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+          "url": "https://github.com/thisisme6598/gemini_files",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-09T21:40:44.132000Z"
+        },
+        {
+          "id": "661bc25e602941c9789c15aac139b88ddcd1cdf0",
+          "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员 / Google Gemini routes personal Drive files and emails to human annotators",
+          "url": "https://github.com/thisisme6598/gemini_files",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-09T18:24:38Z"
+        },
+        {
+          "id": "92b735d384a29f773d538722cfa1458e34b61468",
+          "title": "Google Gemini 将个人云端硬盘文件和电子邮件路由给人工注释者 / Google Gemini routes personal Drive files and emails to human annotators",
+          "url": "https://news.ycombinator.com/item?id=50429426",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T18:24:38Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5576,
+      "importance": 0.5576,
+      "importance_score": 0.5576,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9794,
-        "story_heat": 0.25
+        "recency": 0.9266,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-09T18:56:29Z",
-      "latest_at": "2026-11-09T19:17:55.414000Z",
+      "earliest_at": "2026-11-09T18:24:38Z",
+      "latest_at": "2026-11-09T21:40:44.132000Z",
       "primary_item": {
-        "id": "c7b965ae8a6ebdfffd4e5b102c4bb132d1573e58",
-        "title": "Claude Fable 5.2 和 Mythos 5.2",
-        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-        "source": "www.anthropic.com",
+        "id": "5f10c344602b99ba35e8d8a4c3184bc45e92bda5",
+        "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+        "url": "https://github.com/thisisme6598/gemini_files",
+        "source": "github.com",
         "source_name": "Buzzing"
       }
     }
