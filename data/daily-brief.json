@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-16T02:09:20.552834Z",
+  "generated_at": "2026-11-16T07:53:00.773271Z",
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 20,
   "items": [
     {
       "story_id": "story_87d7014c15ee",
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8415,
-      "importance": 0.8415,
-      "importance_score": 0.8415,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9418,
+        "recency": 0.867,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8415,
-      "importance": 0.8415,
-      "importance_score": 0.8415,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9418,
+        "recency": 0.867,
         "story_heat": 0.0
       },
       "category": "official",
@@ -125,6 +125,411 @@
         "url": "https://openai.com/index/our-new-blog-for-science",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_387915d2b18c",
+      "title": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
+      "url": "https://www.aibase.com/news/32331",
+      "primary_url": "https://www.aibase.com/news/32331",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9715fd0e9a8b0a0b04cb2e385cbe3cddb258df25",
+          "title": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
+          "url": "https://www.aibase.com/news/32331",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T07:53:00.773271Z"
+        },
+        {
+          "id": "23bc8477e0e06cd68666ea55987c1f1407dd447a",
+          "title": "不调用图像模型，Claude Fable5.2 用 70 万次笔触画出一辆购物车",
+          "url": "https://www.aibase.com/zh/news/32331",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "9715fd0e9a8b0a0b04cb2e385cbe3cddb258df25",
+          "title": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
+          "url": "https://www.aibase.com/news/32331",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T07:53:00.773271Z"
+        },
+        {
+          "id": "23bc8477e0e06cd68666ea55987c1f1407dd447a",
+          "title": "不调用图像模型，Claude Fable5.2 用 70 万次笔触画出一辆购物车",
+          "url": "https://www.aibase.com/zh/news/32331",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T07:53:00.773271Z",
+      "latest_at": "2026-11-16T07:53:00.773271Z",
+      "primary_item": {
+        "id": "9715fd0e9a8b0a0b04cb2e385cbe3cddb258df25",
+        "title": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
+        "url": "https://www.aibase.com/news/32331",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e406cf14f674",
+      "title": "火山引擎宣布Seedance2.54K API全面开放，支持10-bit色深与样片模式",
+      "url": "https://www.aibase.com/news/32340",
+      "primary_url": "https://www.aibase.com/news/32340",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f1b18b26edd2099b2872c0c05dadb86d1478054c",
+          "title": "火山引擎宣布Seedance2.54K API全面开放，支持10-bit色深与样片模式",
+          "url": "https://www.aibase.com/news/32340",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T07:53:00.773271Z"
+        },
+        {
+          "id": "6ad32387a377faa1757698e6ff9cfb7f9dace631",
+          "title": "火山引擎宣布 Seedance2.54K API 全面开放，支持 10-bit 色深与样片模式",
+          "url": "https://www.aibase.com/zh/news/32340",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f1b18b26edd2099b2872c0c05dadb86d1478054c",
+          "title": "火山引擎宣布Seedance2.54K API全面开放，支持10-bit色深与样片模式",
+          "url": "https://www.aibase.com/news/32340",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T07:53:00.773271Z"
+        },
+        {
+          "id": "6ad32387a377faa1757698e6ff9cfb7f9dace631",
+          "title": "火山引擎宣布 Seedance2.54K API 全面开放，支持 10-bit 色深与样片模式",
+          "url": "https://www.aibase.com/zh/news/32340",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T07:53:00.773271Z",
+      "latest_at": "2026-11-16T07:53:00.773271Z",
+      "primary_item": {
+        "id": "f1b18b26edd2099b2872c0c05dadb86d1478054c",
+        "title": "火山引擎宣布Seedance2.54K API全面开放，支持10-bit色深与样片模式",
+        "url": "https://www.aibase.com/news/32340",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b509a79e3f4d",
+      "title": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
+      "url": "https://www.aibase.com/news/32335",
+      "primary_url": "https://www.aibase.com/news/32335",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "780918d508dea7760bd8d3216b85d36af59e2444",
+          "title": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
+          "url": "https://www.aibase.com/news/32335",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T07:53:00.773271Z"
+        },
+        {
+          "id": "71ca10c7d059e2f23298292d0150901894b6d12c",
+          "title": "腾讯混元发布 Hy4flash：224B 参数、1M 上下文，解码超 150tps，单任务成本仅 Hy4preview 的 1/13",
+          "url": "https://www.aibase.com/zh/news/32335",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "780918d508dea7760bd8d3216b85d36af59e2444",
+          "title": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
+          "url": "https://www.aibase.com/news/32335",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T07:53:00.773271Z"
+        },
+        {
+          "id": "71ca10c7d059e2f23298292d0150901894b6d12c",
+          "title": "腾讯混元发布 Hy4flash：224B 参数、1M 上下文，解码超 150tps，单任务成本仅 Hy4preview 的 1/13",
+          "url": "https://www.aibase.com/zh/news/32335",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T07:53:00.773271Z",
+      "latest_at": "2026-11-16T07:53:00.773271Z",
+      "primary_item": {
+        "id": "780918d508dea7760bd8d3216b85d36af59e2444",
+        "title": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
+        "url": "https://www.aibase.com/news/32335",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1256a7a0e7da",
+      "title": "苹果联合OpenEvidence推出健康AI研究应用，计划招募20万名用户",
+      "url": "https://www.aibase.com/news/32338",
+      "primary_url": "https://www.aibase.com/news/32338",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "dfe79ee28e03b74fcce188687d17de048a90a59d",
+          "title": "苹果联合OpenEvidence推出健康AI研究应用，计划招募20万名用户",
+          "url": "https://www.aibase.com/news/32338",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T07:53:00.773271Z"
+        },
+        {
+          "id": "9d729e5f6361c512ece4581b19a4a03e2668429b",
+          "title": "苹果联合 OpenEvidence 推出健康 AI 研究应用，计划招募 20 万名用户",
+          "url": "https://www.aibase.com/zh/news/32338",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "dfe79ee28e03b74fcce188687d17de048a90a59d",
+          "title": "苹果联合OpenEvidence推出健康AI研究应用，计划招募20万名用户",
+          "url": "https://www.aibase.com/news/32338",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T07:53:00.773271Z"
+        },
+        {
+          "id": "9d729e5f6361c512ece4581b19a4a03e2668429b",
+          "title": "苹果联合 OpenEvidence 推出健康 AI 研究应用，计划招募 20 万名用户",
+          "url": "https://www.aibase.com/zh/news/32338",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T07:53:00.773271Z",
+      "latest_at": "2026-11-16T07:53:00.773271Z",
+      "primary_item": {
+        "id": "dfe79ee28e03b74fcce188687d17de048a90a59d",
+        "title": "苹果联合OpenEvidence推出健康AI研究应用，计划招募20万名用户",
+        "url": "https://www.aibase.com/news/32338",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5ebb89d9ae85",
+      "title": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
+      "url": "https://www.aibase.com/news/32332",
+      "primary_url": "https://www.aibase.com/news/32332",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5b498cfdf2f962431e6f754e5e88bc099bb76512",
+          "title": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
+          "url": "https://www.aibase.com/news/32332",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T07:53:00.773271Z"
+        },
+        {
+          "id": "bbf1fc0cf03914e8bbf94dde2c0e37331dfcb788",
+          "title": "阿里千问发布 Qwen4-Max：架构升级压低 token 消耗，单任务费用降 58%",
+          "url": "https://www.aibase.com/zh/news/32332",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "5b498cfdf2f962431e6f754e5e88bc099bb76512",
+          "title": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
+          "url": "https://www.aibase.com/news/32332",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T07:53:00.773271Z"
+        },
+        {
+          "id": "bbf1fc0cf03914e8bbf94dde2c0e37331dfcb788",
+          "title": "阿里千问发布 Qwen4-Max：架构升级压低 token 消耗，单任务费用降 58%",
+          "url": "https://www.aibase.com/zh/news/32332",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T07:53:00.773271Z",
+      "latest_at": "2026-11-16T07:53:00.773271Z",
+      "primary_item": {
+        "id": "5b498cfdf2f962431e6f754e5e88bc099bb76512",
+        "title": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
+        "url": "https://www.aibase.com/news/32332",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -181,15 +586,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9206,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -204,310 +609,6 @@
         "id": "13c3198e98564b3d203d7ef0c3d70ff4dd5b0150",
         "title": "苹果首款AI眼镜计划2027年WWDC亮相，年底前上市",
         "url": "https://www.aibase.com/news/32328",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_106f436125e4",
-      "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
-      "url": "https://www.aibase.com/news/32327",
-      "primary_url": "https://www.aibase.com/news/32327",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c4c891b7c2a8f205e5882ac10b39959e97312210",
-          "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
-          "url": "https://www.aibase.com/news/32327",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T02:09:20.552834Z"
-        },
-        {
-          "id": "a7735df200c9f5166159a46523bc36596edccebe",
-          "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
-          "url": "https://www.aibase.com/zh/news/32327",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c4c891b7c2a8f205e5882ac10b39959e97312210",
-          "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
-          "url": "https://www.aibase.com/news/32327",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T02:09:20.552834Z"
-        },
-        {
-          "id": "a7735df200c9f5166159a46523bc36596edccebe",
-          "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
-          "url": "https://www.aibase.com/zh/news/32327",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T02:09:20.552834Z",
-      "latest_at": "2026-11-16T02:09:20.552834Z",
-      "primary_item": {
-        "id": "c4c891b7c2a8f205e5882ac10b39959e97312210",
-        "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
-        "url": "https://www.aibase.com/news/32327",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ac66c75f1c4e",
-      "title": "谷歌Gemini接入Google Wallet，美国用户可使用AI分析个人财务",
-      "url": "https://www.aibase.com/news/32329",
-      "primary_url": "https://www.aibase.com/news/32329",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "366a82f13192eff26ed236e08642f320c532d675",
-          "title": "谷歌Gemini接入Google Wallet，美国用户可使用AI分析个人财务",
-          "url": "https://www.aibase.com/news/32329",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T02:09:20.552834Z"
-        },
-        {
-          "id": "4dd2cf989e6fd2975ffc2274da820299764f2124",
-          "title": "谷歌 Gemini 接入 Google Wallet，美国用户可使用 AI 分析个人财务",
-          "url": "https://www.aibase.com/zh/news/32329",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "366a82f13192eff26ed236e08642f320c532d675",
-          "title": "谷歌Gemini接入Google Wallet，美国用户可使用AI分析个人财务",
-          "url": "https://www.aibase.com/news/32329",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T02:09:20.552834Z"
-        },
-        {
-          "id": "4dd2cf989e6fd2975ffc2274da820299764f2124",
-          "title": "谷歌 Gemini 接入 Google Wallet，美国用户可使用 AI 分析个人财务",
-          "url": "https://www.aibase.com/zh/news/32329",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T02:09:20.552834Z",
-      "latest_at": "2026-11-16T02:09:20.552834Z",
-      "primary_item": {
-        "id": "366a82f13192eff26ed236e08642f320c532d675",
-        "title": "谷歌Gemini接入Google Wallet，美国用户可使用AI分析个人财务",
-        "url": "https://www.aibase.com/news/32329",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d865db036362",
-      "title": "豆包 App 上线“找店”:商家批量标注地图，团购下单与一键导航在对话内闭环",
-      "url": "https://www.aibase.com/news/32325",
-      "primary_url": "https://www.aibase.com/news/32325",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "475c24d84aa399e128bb1a68416d890f7179e8e5",
-          "title": "豆包 App 上线“找店”:商家批量标注地图，团购下单与一键导航在对话内闭环",
-          "url": "https://www.aibase.com/news/32325",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T02:09:20.552834Z"
-        },
-        {
-          "id": "b980d5b6a094b65661b7cf66dc2829ed2c062c14",
-          "title": "豆包 App 上线「找店」：商家批量标注地图，团购下单与一键导航在对话内闭环",
-          "url": "https://www.aibase.com/zh/news/32325",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "475c24d84aa399e128bb1a68416d890f7179e8e5",
-          "title": "豆包 App 上线“找店”:商家批量标注地图，团购下单与一键导航在对话内闭环",
-          "url": "https://www.aibase.com/news/32325",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T02:09:20.552834Z"
-        },
-        {
-          "id": "b980d5b6a094b65661b7cf66dc2829ed2c062c14",
-          "title": "豆包 App 上线「找店」：商家批量标注地图，团购下单与一键导航在对话内闭环",
-          "url": "https://www.aibase.com/zh/news/32325",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T02:09:20.552834Z",
-      "latest_at": "2026-11-16T02:09:20.552834Z",
-      "primary_item": {
-        "id": "475c24d84aa399e128bb1a68416d890f7179e8e5",
-        "title": "豆包 App 上线“找店”:商家批量标注地图，团购下单与一键导航在对话内闭环",
-        "url": "https://www.aibase.com/news/32325",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_261270f29677",
-      "title": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
-      "url": "https://www.aibase.com/news/32326",
-      "primary_url": "https://www.aibase.com/news/32326",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f3f2a1e98ba6f28e39bb06a742d6a7e2964a1cfa",
-          "title": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
-          "url": "https://www.aibase.com/news/32326",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T02:09:20.552834Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f3f2a1e98ba6f28e39bb06a742d6a7e2964a1cfa",
-          "title": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
-          "url": "https://www.aibase.com/news/32326",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T02:09:20.552834Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T02:09:20.552834Z",
-      "latest_at": "2026-11-16T02:09:20.552834Z",
-      "primary_item": {
-        "id": "f3f2a1e98ba6f28e39bb06a742d6a7e2964a1cfa",
-        "title": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
-        "url": "https://www.aibase.com/news/32326",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -601,15 +702,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6333,
-      "importance": 0.6333,
-      "importance_score": 0.6333,
+      "score": 0.6199,
+      "importance": 0.6199,
+      "importance_score": 0.6199,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9396,
+        "recency": 0.865,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -627,62 +728,244 @@
       }
     },
     {
-      "story_id": "story_62488e4b4574",
-      "title": "马斯克等科技高管联名请愿，要求英伟达恢复黄仁勋CEO职务",
-      "url": "https://www.aibase.com/news/32324",
-      "primary_url": "https://www.aibase.com/news/32324",
+      "story_id": "story_106f436125e4",
+      "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
+      "url": "https://www.aibase.com/news/32327",
+      "primary_url": "https://www.aibase.com/news/32327",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0b8206d50fa20fb4ee97125c80a5334199b21854",
-          "title": "马斯克等科技高管联名请愿，要求英伟达恢复黄仁勋CEO职务",
-          "url": "https://www.aibase.com/news/32324",
+          "id": "c4c891b7c2a8f205e5882ac10b39959e97312210",
+          "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
+          "url": "https://www.aibase.com/news/32327",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-11-16T02:09:20.552834Z"
+        },
+        {
+          "id": "a7735df200c9f5166159a46523bc36596edccebe",
+          "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
+          "url": "https://www.aibase.com/zh/news/32327",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "0b8206d50fa20fb4ee97125c80a5334199b21854",
-          "title": "马斯克等科技高管联名请愿，要求英伟达恢复黄仁勋CEO职务",
-          "url": "https://www.aibase.com/news/32324",
+          "id": "c4c891b7c2a8f205e5882ac10b39959e97312210",
+          "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
+          "url": "https://www.aibase.com/news/32327",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-11-16T02:09:20.552834Z"
+        },
+        {
+          "id": "a7735df200c9f5166159a46523bc36596edccebe",
+          "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
+          "url": "https://www.aibase.com/zh/news/32327",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9206,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-11-16T02:09:20.552834Z",
       "latest_at": "2026-11-16T02:09:20.552834Z",
       "primary_item": {
-        "id": "0b8206d50fa20fb4ee97125c80a5334199b21854",
-        "title": "马斯克等科技高管联名请愿，要求英伟达恢复黄仁勋CEO职务",
-        "url": "https://www.aibase.com/news/32324",
+        "id": "c4c891b7c2a8f205e5882ac10b39959e97312210",
+        "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
+        "url": "https://www.aibase.com/news/32327",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ac66c75f1c4e",
+      "title": "谷歌Gemini接入Google Wallet，美国用户可使用AI分析个人财务",
+      "url": "https://www.aibase.com/news/32329",
+      "primary_url": "https://www.aibase.com/news/32329",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "366a82f13192eff26ed236e08642f320c532d675",
+          "title": "谷歌Gemini接入Google Wallet，美国用户可使用AI分析个人财务",
+          "url": "https://www.aibase.com/news/32329",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T02:09:20.552834Z"
+        },
+        {
+          "id": "4dd2cf989e6fd2975ffc2274da820299764f2124",
+          "title": "谷歌 Gemini 接入 Google Wallet，美国用户可使用 AI 分析个人财务",
+          "url": "https://www.aibase.com/zh/news/32329",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "366a82f13192eff26ed236e08642f320c532d675",
+          "title": "谷歌Gemini接入Google Wallet，美国用户可使用AI分析个人财务",
+          "url": "https://www.aibase.com/news/32329",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T02:09:20.552834Z"
+        },
+        {
+          "id": "4dd2cf989e6fd2975ffc2274da820299764f2124",
+          "title": "谷歌 Gemini 接入 Google Wallet，美国用户可使用 AI 分析个人财务",
+          "url": "https://www.aibase.com/zh/news/32329",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9206,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T02:09:20.552834Z",
+      "latest_at": "2026-11-16T02:09:20.552834Z",
+      "primary_item": {
+        "id": "366a82f13192eff26ed236e08642f320c532d675",
+        "title": "谷歌Gemini接入Google Wallet，美国用户可使用AI分析个人财务",
+        "url": "https://www.aibase.com/news/32329",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d865db036362",
+      "title": "豆包 App 上线“找店”:商家批量标注地图，团购下单与一键导航在对话内闭环",
+      "url": "https://www.aibase.com/news/32325",
+      "primary_url": "https://www.aibase.com/news/32325",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "475c24d84aa399e128bb1a68416d890f7179e8e5",
+          "title": "豆包 App 上线“找店”:商家批量标注地图，团购下单与一键导航在对话内闭环",
+          "url": "https://www.aibase.com/news/32325",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T02:09:20.552834Z"
+        },
+        {
+          "id": "b980d5b6a094b65661b7cf66dc2829ed2c062c14",
+          "title": "豆包 App 上线「找店」：商家批量标注地图，团购下单与一键导航在对话内闭环",
+          "url": "https://www.aibase.com/zh/news/32325",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "475c24d84aa399e128bb1a68416d890f7179e8e5",
+          "title": "豆包 App 上线“找店”:商家批量标注地图，团购下单与一键导航在对话内闭环",
+          "url": "https://www.aibase.com/news/32325",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T02:09:20.552834Z"
+        },
+        {
+          "id": "b980d5b6a094b65661b7cf66dc2829ed2c062c14",
+          "title": "豆包 App 上线「找店」：商家批量标注地图，团购下单与一键导航在对话内闭环",
+          "url": "https://www.aibase.com/zh/news/32325",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9206,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T02:09:20.552834Z",
+      "latest_at": "2026-11-16T02:09:20.552834Z",
+      "primary_item": {
+        "id": "475c24d84aa399e128bb1a68416d890f7179e8e5",
+        "title": "豆包 App 上线“找店”:商家批量标注地图，团购下单与一键导航在对话内闭环",
+        "url": "https://www.aibase.com/news/32325",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -741,15 +1024,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5442,
-      "importance": 0.5442,
-      "importance_score": 0.5442,
+      "score": 0.53,
+      "importance": 0.53,
+      "importance_score": 0.53,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9909,
+        "recency": 0.9123,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -819,15 +1102,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5256,
-      "importance": 0.5256,
-      "importance_score": 0.5256,
+      "score": 0.5129,
+      "importance": 0.5129,
+      "importance_score": 0.5129,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8875,
+        "recency": 0.8171,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -898,15 +1181,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.524,
-      "importance": 0.524,
-      "importance_score": 0.524,
+      "score": 0.5114,
+      "importance": 0.5114,
+      "importance_score": 0.5114,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8788,
+        "recency": 0.809,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -977,15 +1260,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.524,
-      "importance": 0.524,
-      "importance_score": 0.524,
+      "score": 0.5114,
+      "importance": 0.5114,
+      "importance_score": 0.5114,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8788,
+        "recency": 0.809,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1000,104 +1283,6 @@
         "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_fa6f9a523c4f",
-      "title": "Show HN: Turbo-Browser-MCP – 适用于 MCP 的批量表单、DOM 增量和提交保护机制",
-      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-      "primary_url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "4d56bff98d6517a238656d0e34c20ab398645aa0",
-          "title": "Show HN: Turbo-Browser-MCP – 适用于 MCP 的批量表单、DOM 增量和提交保护机制",
-          "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-15T04:24:05.904000Z"
-        },
-        {
-          "id": "4f86319d54a2b3c3a9a224c31becb5d521f2e97a",
-          "title": "Show HN: Turbo-Browser-MCP – 适用于 MCP 的批量表单、DOM 增量和提交保护机制 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-          "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-15T04:09:11Z"
-        },
-        {
-          "id": "25e322e12ce836de6562dfede21c4e303ec46be1",
-          "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-          "url": "https://news.ycombinator.com/item?id=50503930",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-15T04:09:11Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "4d56bff98d6517a238656d0e34c20ab398645aa0",
-          "title": "Show HN: Turbo-Browser-MCP – 适用于 MCP 的批量表单、DOM 增量和提交保护机制",
-          "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-15T04:24:05.904000Z"
-        },
-        {
-          "id": "4f86319d54a2b3c3a9a224c31becb5d521f2e97a",
-          "title": "Show HN: Turbo-Browser-MCP – 适用于 MCP 的批量表单、DOM 增量和提交保护机制 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-          "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-15T04:09:11Z"
-        },
-        {
-          "id": "25e322e12ce836de6562dfede21c4e303ec46be1",
-          "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-          "url": "https://news.ycombinator.com/item?id=50503930",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-15T04:09:11Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7304,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-15T04:09:11Z",
-      "latest_at": "2026-11-15T04:24:05.904000Z",
-      "primary_item": {
-        "id": "4d56bff98d6517a238656d0e34c20ab398645aa0",
-        "title": "Show HN: Turbo-Browser-MCP – 适用于 MCP 的批量表单、DOM 增量和提交保护机制",
-        "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-        "source": "github.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1154,15 +1339,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5214,
-      "importance": 0.5214,
-      "importance_score": 0.5214,
+      "score": 0.509,
+      "importance": 0.509,
+      "importance_score": 0.509,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8644,
+        "recency": 0.7958,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1177,6 +1362,67 @@
         "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
         "source": "Lobsters (技术社区)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_28dd897b33fa",
+      "title": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
+      "url": "https://www.aibase.com/news/32330",
+      "primary_url": "https://www.aibase.com/news/32330",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e4517aba9184a3f309f34a681337f83303dec23e",
+          "title": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
+          "url": "https://www.aibase.com/news/32330",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T07:53:00.773271Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e4517aba9184a3f309f34a681337f83303dec23e",
+          "title": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
+          "url": "https://www.aibase.com/news/32330",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T07:53:00.773271Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T07:53:00.773271Z",
+      "latest_at": "2026-11-16T07:53:00.773271Z",
+      "primary_item": {
+        "id": "e4517aba9184a3f309f34a681337f83303dec23e",
+        "title": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
+        "url": "https://www.aibase.com/news/32330",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1232,15 +1478,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5152,
-      "importance": 0.5152,
-      "importance_score": 0.5152,
+      "score": 0.5033,
+      "importance": 0.5033,
+      "importance_score": 0.5033,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.83,
+        "recency": 0.7642,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1258,240 +1504,64 @@
       }
     },
     {
-      "story_id": "story_3187bfc8ec27",
-      "title": "利用 AI 将国漫角色改成情色形象，7 名「黄图画师」获刑",
-      "url": "https://www.ithome.com/1/027/395.htm",
-      "primary_url": "https://www.ithome.com/1/027/395.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_4c64bf9de825",
+      "title": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
+      "url": "https://www.aibase.com/news/32337",
+      "primary_url": "https://www.aibase.com/news/32337",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "2da396bcebc0d2f39fb7a87a874752fe3fc98cdd",
-          "title": "利用 AI 将国漫角色改成情色形象，7 名「黄图画师」获刑",
-          "url": "https://www.ithome.com/1/027/395.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f3bc84eaea50d63f1ad08d17e45f05496745f497",
-          "title": "利用 AI 将国漫角色改成情色形象，7 名“黄图画师”获刑",
-          "url": "https://www.ithome.com/1/027/395.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-15T08:21:22Z"
+          "id": "ed0a1b7a4541eff5f8cf4cb52b9c44c19bf3c6cf",
+          "title": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
+          "url": "https://www.aibase.com/news/32337",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T07:53:00.773271Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "2da396bcebc0d2f39fb7a87a874752fe3fc98cdd",
-          "title": "利用 AI 将国漫角色改成情色形象，7 名「黄图画师」获刑",
-          "url": "https://www.ithome.com/1/027/395.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f3bc84eaea50d63f1ad08d17e45f05496745f497",
-          "title": "利用 AI 将国漫角色改成情色形象，7 名“黄图画师”获刑",
-          "url": "https://www.ithome.com/1/027/395.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-15T08:21:22Z"
+          "id": "ed0a1b7a4541eff5f8cf4cb52b9c44c19bf3c6cf",
+          "title": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
+          "url": "https://www.aibase.com/news/32337",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T07:53:00.773271Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5082,
-      "importance": 0.5082,
-      "importance_score": 0.5082,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7912,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-15T08:21:22Z",
-      "latest_at": "2026-11-15T09:56:18.921300Z",
+      "earliest_at": "2026-11-16T07:53:00.773271Z",
+      "latest_at": "2026-11-16T07:53:00.773271Z",
       "primary_item": {
-        "id": "2da396bcebc0d2f39fb7a87a874752fe3fc98cdd",
-        "title": "利用 AI 将国漫角色改成情色形象，7 名「黄图画师」获刑",
-        "url": "https://www.ithome.com/1/027/395.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_e03af645a4a0",
-      "title": "利用 Claude 辅助编程：爱好者将 Seeed Studio「电子墨水屏便利贴」改造为苹果 Apple TV 遥控器",
-      "url": "https://www.ithome.com/1/027/414.htm",
-      "primary_url": "https://www.ithome.com/1/027/414.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "7c99137621b369b77dcb260a6f74ff07df8dba09",
-          "title": "利用 Claude 辅助编程：爱好者将 Seeed Studio「电子墨水屏便利贴」改造为苹果 Apple TV 遥控器",
-          "url": "https://www.ithome.com/1/027/414.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e68668c596aef0d9b0565aa13a639b94979541c1",
-          "title": "利用 Claude 辅助编程：爱好者将 Seeed Studio“电子墨水屏便利贴”改造为苹果 Apple TV 遥控器",
-          "url": "https://www.ithome.com/1/027/414.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-15T09:26:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "7c99137621b369b77dcb260a6f74ff07df8dba09",
-          "title": "利用 Claude 辅助编程：爱好者将 Seeed Studio「电子墨水屏便利贴」改造为苹果 Apple TV 遥控器",
-          "url": "https://www.ithome.com/1/027/414.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e68668c596aef0d9b0565aa13a639b94979541c1",
-          "title": "利用 Claude 辅助编程：爱好者将 Seeed Studio“电子墨水屏便利贴”改造为苹果 Apple TV 遥控器",
-          "url": "https://www.ithome.com/1/027/414.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-15T09:26:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5082,
-      "importance": 0.5082,
-      "importance_score": 0.5082,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7912,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-15T09:26:41Z",
-      "latest_at": "2026-11-15T09:56:18.921300Z",
-      "primary_item": {
-        "id": "7c99137621b369b77dcb260a6f74ff07df8dba09",
-        "title": "利用 Claude 辅助编程：爱好者将 Seeed Studio「电子墨水屏便利贴」改造为苹果 Apple TV 遥控器",
-        "url": "https://www.ithome.com/1/027/414.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_1aae5214b40b",
-      "title": "开发者借助 Claude 开发出体积仅 97KB 的水下探索模拟项目 Abyssal Garden",
-      "url": "https://www.ithome.com/1/027/406.htm",
-      "primary_url": "https://www.ithome.com/1/027/406.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "a641ea5e7994b2b089ffd0ff692ddd8856aaadcf",
-          "title": "开发者借助 Claude 开发出体积仅 97KB 的水下探索模拟项目 Abyssal Garden",
-          "url": "https://www.ithome.com/1/027/406.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "77006b05cf836e22d97db9f54b1e0c3a1a731afc",
-          "title": "开发者借助 Claude 开发出体积仅 97KB 水下探索模拟项目 Abyssal Garden",
-          "url": "https://www.ithome.com/1/027/406.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-15T08:58:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "a641ea5e7994b2b089ffd0ff692ddd8856aaadcf",
-          "title": "开发者借助 Claude 开发出体积仅 97KB 的水下探索模拟项目 Abyssal Garden",
-          "url": "https://www.ithome.com/1/027/406.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "77006b05cf836e22d97db9f54b1e0c3a1a731afc",
-          "title": "开发者借助 Claude 开发出体积仅 97KB 水下探索模拟项目 Abyssal Garden",
-          "url": "https://www.ithome.com/1/027/406.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-15T08:58:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5082,
-      "importance": 0.5082,
-      "importance_score": 0.5082,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7912,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-15T08:58:39Z",
-      "latest_at": "2026-11-15T09:56:18.921300Z",
-      "primary_item": {
-        "id": "a641ea5e7994b2b089ffd0ff692ddd8856aaadcf",
-        "title": "开发者借助 Claude 开发出体积仅 97KB 的水下探索模拟项目 Abyssal Garden",
-        "url": "https://www.ithome.com/1/027/406.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "ed0a1b7a4541eff5f8cf4cb52b9c44c19bf3c6cf",
+        "title": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
+        "url": "https://www.aibase.com/news/32337",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
