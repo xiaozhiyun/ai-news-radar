@@ -1,66 +1,515 @@
 {
-  "generated_at": "2026-11-15T21:50:28.904073Z",
+  "generated_at": "2026-11-16T02:09:20.552834Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 19,
   "items": [
     {
-      "story_id": "story_91cc17dfbbc6",
-      "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
+      "story_id": "story_87d7014c15ee",
+      "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "primary_url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
-          "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-11-15T03:35:00Z"
+          "id": "b30827aade7fb5ded891f222827dfceba5b94136",
+          "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
+          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-15T22:00:01Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Daily Digest"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
-          "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-11-15T03:35:00Z"
+          "id": "b30827aade7fb5ded891f222827dfceba5b94136",
+          "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
+          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-15T22:00:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7259,
-      "importance": 0.7259,
-      "importance_score": 0.7259,
+      "score": 0.8415,
+      "importance": 0.8415,
+      "importance_score": 0.8415,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9418,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-15T22:00:01Z",
+      "latest_at": "2026-11-15T22:00:01Z",
+      "primary_item": {
+        "id": "b30827aade7fb5ded891f222827dfceba5b94136",
+        "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
+        "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4b0fc5b701ff",
+      "title": "我们的新科学博客 / Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "primary_url": "https://openai.com/index/our-new-blog-for-science",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
+          "title": "我们的新科学博客 / Our new blog for science",
+          "url": "https://openai.com/index/our-new-blog-for-science",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-15T22:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
+          "title": "我们的新科学博客 / Our new blog for science",
+          "url": "https://openai.com/index/our-new-blog-for-science",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-15T22:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8415,
+      "importance": 0.8415,
+      "importance_score": 0.8415,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9418,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-15T22:00:00Z",
+      "latest_at": "2026-11-15T22:00:00Z",
+      "primary_item": {
+        "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
+        "title": "我们的新科学博客 / Our new blog for science",
+        "url": "https://openai.com/index/our-new-blog-for-science",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_001477c26683",
+      "title": "苹果首款AI眼镜计划2027年WWDC亮相，年底前上市",
+      "url": "https://www.aibase.com/news/32328",
+      "primary_url": "https://www.aibase.com/news/32328",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "13c3198e98564b3d203d7ef0c3d70ff4dd5b0150",
+          "title": "苹果首款AI眼镜计划2027年WWDC亮相，年底前上市",
+          "url": "https://www.aibase.com/news/32328",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T02:09:20.552834Z"
+        },
+        {
+          "id": "8dec851c200c2f4c94d2a19fe967a949fcc3e007",
+          "title": "苹果首款 AI 眼镜计划 2027 年 WWDC 亮相，年底前上市",
+          "url": "https://www.aibase.com/zh/news/32328",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "13c3198e98564b3d203d7ef0c3d70ff4dd5b0150",
+          "title": "苹果首款AI眼镜计划2027年WWDC亮相，年底前上市",
+          "url": "https://www.aibase.com/news/32328",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T02:09:20.552834Z"
+        },
+        {
+          "id": "8dec851c200c2f4c94d2a19fe967a949fcc3e007",
+          "title": "苹果首款 AI 眼镜计划 2027 年 WWDC 亮相，年底前上市",
+          "url": "https://www.aibase.com/zh/news/32328",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7682,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T02:09:20.552834Z",
+      "latest_at": "2026-11-16T02:09:20.552834Z",
+      "primary_item": {
+        "id": "13c3198e98564b3d203d7ef0c3d70ff4dd5b0150",
+        "title": "苹果首款AI眼镜计划2027年WWDC亮相，年底前上市",
+        "url": "https://www.aibase.com/news/32328",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_106f436125e4",
+      "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
+      "url": "https://www.aibase.com/news/32327",
+      "primary_url": "https://www.aibase.com/news/32327",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c4c891b7c2a8f205e5882ac10b39959e97312210",
+          "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
+          "url": "https://www.aibase.com/news/32327",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T02:09:20.552834Z"
+        },
+        {
+          "id": "a7735df200c9f5166159a46523bc36596edccebe",
+          "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
+          "url": "https://www.aibase.com/zh/news/32327",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c4c891b7c2a8f205e5882ac10b39959e97312210",
+          "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
+          "url": "https://www.aibase.com/news/32327",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T02:09:20.552834Z"
+        },
+        {
+          "id": "a7735df200c9f5166159a46523bc36596edccebe",
+          "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
+          "url": "https://www.aibase.com/zh/news/32327",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T02:09:20.552834Z",
+      "latest_at": "2026-11-16T02:09:20.552834Z",
+      "primary_item": {
+        "id": "c4c891b7c2a8f205e5882ac10b39959e97312210",
+        "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
+        "url": "https://www.aibase.com/news/32327",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ac66c75f1c4e",
+      "title": "谷歌Gemini接入Google Wallet，美国用户可使用AI分析个人财务",
+      "url": "https://www.aibase.com/news/32329",
+      "primary_url": "https://www.aibase.com/news/32329",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "366a82f13192eff26ed236e08642f320c532d675",
+          "title": "谷歌Gemini接入Google Wallet，美国用户可使用AI分析个人财务",
+          "url": "https://www.aibase.com/news/32329",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T02:09:20.552834Z"
+        },
+        {
+          "id": "4dd2cf989e6fd2975ffc2274da820299764f2124",
+          "title": "谷歌 Gemini 接入 Google Wallet，美国用户可使用 AI 分析个人财务",
+          "url": "https://www.aibase.com/zh/news/32329",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "366a82f13192eff26ed236e08642f320c532d675",
+          "title": "谷歌Gemini接入Google Wallet，美国用户可使用AI分析个人财务",
+          "url": "https://www.aibase.com/news/32329",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T02:09:20.552834Z"
+        },
+        {
+          "id": "4dd2cf989e6fd2975ffc2274da820299764f2124",
+          "title": "谷歌 Gemini 接入 Google Wallet，美国用户可使用 AI 分析个人财务",
+          "url": "https://www.aibase.com/zh/news/32329",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T02:09:20.552834Z",
+      "latest_at": "2026-11-16T02:09:20.552834Z",
+      "primary_item": {
+        "id": "366a82f13192eff26ed236e08642f320c532d675",
+        "title": "谷歌Gemini接入Google Wallet，美国用户可使用AI分析个人财务",
+        "url": "https://www.aibase.com/news/32329",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d865db036362",
+      "title": "豆包 App 上线“找店”:商家批量标注地图，团购下单与一键导航在对话内闭环",
+      "url": "https://www.aibase.com/news/32325",
+      "primary_url": "https://www.aibase.com/news/32325",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "475c24d84aa399e128bb1a68416d890f7179e8e5",
+          "title": "豆包 App 上线“找店”:商家批量标注地图，团购下单与一键导航在对话内闭环",
+          "url": "https://www.aibase.com/news/32325",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T02:09:20.552834Z"
+        },
+        {
+          "id": "b980d5b6a094b65661b7cf66dc2829ed2c062c14",
+          "title": "豆包 App 上线「找店」：商家批量标注地图，团购下单与一键导航在对话内闭环",
+          "url": "https://www.aibase.com/zh/news/32325",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "475c24d84aa399e128bb1a68416d890f7179e8e5",
+          "title": "豆包 App 上线“找店”:商家批量标注地图，团购下单与一键导航在对话内闭环",
+          "url": "https://www.aibase.com/news/32325",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T02:09:20.552834Z"
+        },
+        {
+          "id": "b980d5b6a094b65661b7cf66dc2829ed2c062c14",
+          "title": "豆包 App 上线「找店」：商家批量标注地图，团购下单与一键导航在对话内闭环",
+          "url": "https://www.aibase.com/zh/news/32325",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T02:09:20.552834Z",
+      "latest_at": "2026-11-16T02:09:20.552834Z",
+      "primary_item": {
+        "id": "475c24d84aa399e128bb1a68416d890f7179e8e5",
+        "title": "豆包 App 上线“找店”:商家批量标注地图，团购下单与一键导航在对话内闭环",
+        "url": "https://www.aibase.com/news/32325",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_261270f29677",
+      "title": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
+      "url": "https://www.aibase.com/news/32326",
+      "primary_url": "https://www.aibase.com/news/32326",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f3f2a1e98ba6f28e39bb06a742d6a7e2964a1cfa",
+          "title": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
+          "url": "https://www.aibase.com/news/32326",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T02:09:20.552834Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f3f2a1e98ba6f28e39bb06a742d6a7e2964a1cfa",
+          "title": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
+          "url": "https://www.aibase.com/news/32326",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T02:09:20.552834Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-15T03:35:00Z",
-      "latest_at": "2026-11-15T03:35:00Z",
+      "earliest_at": "2026-11-16T02:09:20.552834Z",
+      "latest_at": "2026-11-16T02:09:20.552834Z",
       "primary_item": {
-        "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
-        "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
+        "id": "f3f2a1e98ba6f28e39bb06a742d6a7e2964a1cfa",
+        "title": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
+        "url": "https://www.aibase.com/news/32326",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -152,15 +601,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6442,
-      "importance": 0.6442,
-      "importance_score": 0.6442,
+      "score": 0.6333,
+      "importance": 0.6333,
+      "importance_score": 0.6333,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9396,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -178,80 +627,219 @@
       }
     },
     {
-      "story_id": "story_774f7412d1a3",
-      "title": "关于厄尔尼诺现象如何形成的一段简短讲解 [视频] / A short explainer on how El Niño works [video]",
-      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-      "primary_url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_62488e4b4574",
+      "title": "马斯克等科技高管联名请愿，要求英伟达恢复黄仁勋CEO职务",
+      "url": "https://www.aibase.com/news/32324",
+      "primary_url": "https://www.aibase.com/news/32324",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "001d8737a01105a38d8edd917cb68008595a7bcc",
-          "title": "关于厄尔尼诺现象如何形成的一段简短讲解 [视频] / A short explainer on how El Niño works [video]",
-          "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-15T18:23:21Z"
+          "id": "0b8206d50fa20fb4ee97125c80a5334199b21854",
+          "title": "马斯克等科技高管联名请愿，要求英伟达恢复黄仁勋CEO职务",
+          "url": "https://www.aibase.com/news/32324",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T02:09:20.552834Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0b8206d50fa20fb4ee97125c80a5334199b21854",
+          "title": "马斯克等科技高管联名请愿，要求英伟达恢复黄仁勋CEO职务",
+          "url": "https://www.aibase.com/news/32324",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T02:09:20.552834Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T02:09:20.552834Z",
+      "latest_at": "2026-11-16T02:09:20.552834Z",
+      "primary_item": {
+        "id": "0b8206d50fa20fb4ee97125c80a5334199b21854",
+        "title": "马斯克等科技高管联名请愿，要求英伟达恢复黄仁勋CEO职务",
+        "url": "https://www.aibase.com/news/32324",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a58bd1a86d99",
+      "title": "“谁在招聘？”随着人工智能占据所有工作岗位的一半，职位空缺接近 12 年低点 / \"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+      "url": "https://www.hntrends.com/2026/november.html",
+      "primary_url": "https://www.hntrends.com/2026/november.html",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "fe42aad332849d917376ae8f2a273f1e54854d86",
+          "title": "“谁在招聘？”随着人工智能占据所有工作岗位的一半，职位空缺接近 12 年低点 / \"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+          "url": "https://www.hntrends.com/2026/november.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-16T01:31:30Z"
         },
         {
-          "id": "816d2fdd39abd16b595ac76c4e468e02089eb4f0",
-          "title": "DeepSeek 的全新 LLM 引擎使 GPU 的价值提高了 3 倍 [视频] / DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]",
-          "url": "https://www.youtube.com/watch?v=2K_Rm8cho1I",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-11-15T00:07:46Z"
+          "id": "88c53bd364d82c4ad2abeb5f5c184aba86945762",
+          "title": "“谁在招聘？”随着人工智能占据所有工作岗位的一半，职位空缺接近 12 年低点 / \"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+          "url": "https://news.ycombinator.com/item?id=50512950",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-16T01:31:30Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "HN Algolia · AI 24h",
-        "Hacker News · 24h最热"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "001d8737a01105a38d8edd917cb68008595a7bcc",
-          "title": "关于厄尔尼诺现象如何形成的一段简短讲解 [视频] / A short explainer on how El Niño works [video]",
-          "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-15T18:23:21Z"
+          "id": "fe42aad332849d917376ae8f2a273f1e54854d86",
+          "title": "“谁在招聘？”随着人工智能占据所有工作岗位的一半，职位空缺接近 12 年低点 / \"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+          "url": "https://www.hntrends.com/2026/november.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-16T01:31:30Z"
         },
         {
-          "id": "816d2fdd39abd16b595ac76c4e468e02089eb4f0",
-          "title": "DeepSeek 的全新 LLM 引擎使 GPU 的价值提高了 3 倍 [视频] / DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]",
-          "url": "https://www.youtube.com/watch?v=2K_Rm8cho1I",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-11-15T00:07:46Z"
+          "id": "88c53bd364d82c4ad2abeb5f5c184aba86945762",
+          "title": "“谁在招聘？”随着人工智能占据所有工作岗位的一半，职位空缺接近 12 年低点 / \"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+          "url": "https://news.ycombinator.com/item?id=50512950",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-16T01:31:30Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.537,
-      "importance": 0.537,
-      "importance_score": 0.537,
+      "score": 0.5442,
+      "importance": 0.5442,
+      "importance_score": 0.5442,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9514,
+        "recency": 0.9909,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-15T00:07:46Z",
-      "latest_at": "2026-11-15T18:23:21Z",
+      "earliest_at": "2026-11-16T01:31:30Z",
+      "latest_at": "2026-11-16T01:31:30Z",
       "primary_item": {
-        "id": "001d8737a01105a38d8edd917cb68008595a7bcc",
-        "title": "关于厄尔尼诺现象如何形成的一段简短讲解 [视频] / A short explainer on how El Niño works [video]",
-        "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+        "id": "fe42aad332849d917376ae8f2a273f1e54854d86",
+        "title": "“谁在招聘？”随着人工智能占据所有工作岗位的一半，职位空缺接近 12 年低点 / \"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+        "url": "https://www.hntrends.com/2026/november.html",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_b99586870c44",
+      "title": "“鸟脑”这个说法并不准确。乌鸦做决定的速度比我们还快 / 'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "primary_url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "2ede826c21748366c2cd83ff6aed73d825e2f82d",
+          "title": "“鸟脑”这个说法并不准确。乌鸦做决定的速度比我们还快 / 'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+          "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-15T17:53:31Z"
+        },
+        {
+          "id": "d843d3fde395d467deb4e30ff1df2e9bbf4421e1",
+          "title": "“鸟脑”这个说法并不准确。乌鸦做决定的速度比我们还快 / Crows make decisions faster than we can",
+          "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-15T17:53:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "2ede826c21748366c2cd83ff6aed73d825e2f82d",
+          "title": "“鸟脑”这个说法并不准确。乌鸦做决定的速度比我们还快 / 'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+          "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-15T17:53:31Z"
+        },
+        {
+          "id": "d843d3fde395d467deb4e30ff1df2e9bbf4421e1",
+          "title": "“鸟脑”这个说法并不准确。乌鸦做决定的速度比我们还快 / Crows make decisions faster than we can",
+          "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-15T17:53:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5256,
+      "importance": 0.5256,
+      "importance_score": 0.5256,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8875,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-15T17:53:31Z",
+      "latest_at": "2026-11-15T17:53:31Z",
+      "primary_item": {
+        "id": "2ede826c21748366c2cd83ff6aed73d825e2f82d",
+        "title": "“鸟脑”这个说法并不准确。乌鸦做决定的速度比我们还快 / 'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+        "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
@@ -310,15 +898,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5341,
-      "importance": 0.5341,
-      "importance_score": 0.5341,
+      "score": 0.524,
+      "importance": 0.524,
+      "importance_score": 0.524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9353,
+        "recency": 0.8788,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -389,15 +977,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5341,
-      "importance": 0.5341,
-      "importance_score": 0.5341,
+      "score": 0.524,
+      "importance": 0.524,
+      "importance_score": 0.524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9353,
+        "recency": 0.8788,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -412,85 +1000,6 @@
         "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_de1b04aef218",
-      "title": "所有由人工智能生成的代码都应开源 / All AI-generated code should be Open Source",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
-      "primary_url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
-      "source": "Lobsters (技术社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "dad66bd8ebd72bf85db1b7d38f56a345be8db9d4",
-          "title": "所有由人工智能生成的代码都应开源 / All AI-generated code should be Open Source",
-          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-15T16:04:01Z"
-        },
-        {
-          "id": "cf50b308cb21811065431474caa5264a211f16e3",
-          "title": "所有由人工智能生成的代码都应开源",
-          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
-          "source": "jakub.jankiewicz.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-15T16:03:47.551000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "jakub.jankiewicz.org"
-      ],
-      "items": [
-        {
-          "id": "dad66bd8ebd72bf85db1b7d38f56a345be8db9d4",
-          "title": "所有由人工智能生成的代码都应开源 / All AI-generated code should be Open Source",
-          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-15T16:04:01Z"
-        },
-        {
-          "id": "cf50b308cb21811065431474caa5264a211f16e3",
-          "title": "所有由人工智能生成的代码都应开源",
-          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
-          "source": "jakub.jankiewicz.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-15T16:03:47.551000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5314,
-      "importance": 0.5314,
-      "importance_score": 0.5314,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.92,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-15T16:03:47.551000Z",
-      "latest_at": "2026-11-15T16:04:01Z",
-      "primary_item": {
-        "id": "dad66bd8ebd72bf85db1b7d38f56a345be8db9d4",
-        "title": "所有由人工智能生成的代码都应开源 / All AI-generated code should be Open Source",
-        "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
-        "source": "Lobsters (技术社区)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -566,15 +1075,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5307,
-      "importance": 0.5307,
-      "importance_score": 0.5307,
+      "score": 0.5223,
+      "importance": 0.5223,
+      "importance_score": 0.5223,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7774,
+        "recency": 0.7304,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -592,82 +1101,82 @@
       }
     },
     {
-      "story_id": "story_14ba8d169059",
-      "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
-      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-      "primary_url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-      "source": "litnews.ai",
-      "source_name": "Buzzing",
+      "story_id": "story_de1b04aef218",
+      "title": "所有由人工智能生成的代码都应开源 / All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+      "primary_url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+      "source": "Lobsters (技术社区)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "d296057ae2ab292aeaaa2e954f6de19ce983086a",
-          "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
-          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-          "source": "litnews.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-15T08:37:45.544000Z"
-        },
-        {
-          "id": "8c7c156d6403ab820f12ca3d85789ad9d7a49f76",
-          "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议 / Court denies motion to dismiss DRAM price fixing case",
-          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-          "source": "Hacker News (黑客新闻)",
+          "id": "dad66bd8ebd72bf85db1b7d38f56a345be8db9d4",
+          "title": "所有由人工智能生成的代码都应开源 / All AI-generated code should be Open Source",
+          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+          "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-15T01:18:36Z"
+          "published_at": "2026-11-15T16:04:01Z"
+        },
+        {
+          "id": "cf50b308cb21811065431474caa5264a211f16e3",
+          "title": "所有由人工智能生成的代码都应开源",
+          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+          "source": "jakub.jankiewicz.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-15T16:03:47.551000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "litnews.ai"
+        "Lobsters (技术社区)",
+        "jakub.jankiewicz.org"
       ],
       "items": [
         {
-          "id": "d296057ae2ab292aeaaa2e954f6de19ce983086a",
-          "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
-          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-          "source": "litnews.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-15T08:37:45.544000Z"
-        },
-        {
-          "id": "8c7c156d6403ab820f12ca3d85789ad9d7a49f76",
-          "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议 / Court denies motion to dismiss DRAM price fixing case",
-          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-          "source": "Hacker News (黑客新闻)",
+          "id": "dad66bd8ebd72bf85db1b7d38f56a345be8db9d4",
+          "title": "所有由人工智能生成的代码都应开源 / All AI-generated code should be Open Source",
+          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+          "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-15T01:18:36Z"
+          "published_at": "2026-11-15T16:04:01Z"
+        },
+        {
+          "id": "cf50b308cb21811065431474caa5264a211f16e3",
+          "title": "所有由人工智能生成的代码都应开源",
+          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+          "source": "jakub.jankiewicz.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-15T16:03:47.551000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5145,
-      "importance": 0.5145,
-      "importance_score": 0.5145,
+      "score": 0.5214,
+      "importance": 0.5214,
+      "importance_score": 0.5214,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8263,
+        "recency": 0.8644,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-15T01:18:36Z",
-      "latest_at": "2026-11-15T08:37:45.544000Z",
+      "earliest_at": "2026-11-15T16:03:47.551000Z",
+      "latest_at": "2026-11-15T16:04:01Z",
       "primary_item": {
-        "id": "d296057ae2ab292aeaaa2e954f6de19ce983086a",
-        "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
-        "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-        "source": "litnews.ai",
-        "source_name": "Buzzing"
+        "id": "dad66bd8ebd72bf85db1b7d38f56a345be8db9d4",
+        "title": "所有由人工智能生成的代码都应开源 / All AI-generated code should be Open Source",
+        "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+        "source": "Lobsters (技术社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -723,15 +1232,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5248,
-      "importance": 0.5248,
-      "importance_score": 0.5248,
+      "score": 0.5152,
+      "importance": 0.5152,
+      "importance_score": 0.5152,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8834,
+        "recency": 0.83,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -802,15 +1311,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5174,
-      "importance": 0.5174,
-      "importance_score": 0.5174,
+      "score": 0.5082,
+      "importance": 0.5082,
+      "importance_score": 0.5082,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8421,
+        "recency": 0.7912,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -881,15 +1390,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5174,
-      "importance": 0.5174,
-      "importance_score": 0.5174,
+      "score": 0.5082,
+      "importance": 0.5082,
+      "importance_score": 0.5082,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8421,
+        "recency": 0.7912,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -960,15 +1469,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5174,
-      "importance": 0.5174,
-      "importance_score": 0.5174,
+      "score": 0.5082,
+      "importance": 0.5082,
+      "importance_score": 0.5082,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8421,
+        "recency": 0.7912,
         "story_heat": 0.25
       },
       "category": "watch",
