@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T09:05:36.514707Z",
+  "generated_at": "2026-11-17T11:52:56.460945Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8647,
-      "importance": 0.8647,
-      "importance_score": 0.8647,
+      "score": 0.859,
+      "importance": 0.859,
+      "importance_score": 0.859,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7926,
+        "recency": 0.7613,
         "story_heat": 0.5
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
+      "score": 0.8184,
+      "importance": 0.8184,
+      "importance_score": 0.8184,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8468,
+        "recency": 0.8134,
         "story_heat": 0.0
       },
       "category": "official",
@@ -201,15 +201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
+      "score": 0.7952,
+      "importance": 0.7952,
+      "importance_score": 0.7952,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.759,
+        "recency": 0.7291,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,15 +263,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8298,
-      "importance": 0.8298,
-      "importance_score": 0.8298,
+      "score": 0.8236,
+      "importance": 0.8236,
+      "importance_score": 0.8236,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8769,
+        "recency": 0.8423,
         "story_heat": 0.0
       },
       "category": "official",
@@ -287,6 +287,68 @@
         "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
         "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_18a4aa790fbb",
+      "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
+      "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+      "primary_url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "21d11222c3d37837c649f1d2584079e663911ad4",
+          "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
+          "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T00:09:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "21d11222c3d37837c649f1d2584079e663911ad4",
+          "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
+          "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T00:09:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8442,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T00:09:27Z",
+      "latest_at": "2026-11-17T00:09:27Z",
+      "primary_item": {
+        "id": "21d11222c3d37837c649f1d2584079e663911ad4",
+        "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
+        "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -344,15 +406,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7855,
+      "importance": 0.7855,
+      "importance_score": 0.7855,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9605,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -372,21 +434,21 @@
       }
     },
     {
-      "story_id": "story_18a4aa790fbb",
-      "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
-      "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
-      "primary_url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+      "story_id": "story_f9ace2a74e66",
+      "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
+      "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+      "primary_url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "21d11222c3d37837c649f1d2584079e663911ad4",
-          "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
-          "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+          "id": "66ca20a9b5d676e9dcf39fa182e2d7e7f4b3c4bf",
+          "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
+          "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T00:09:27Z"
+          "published_at": "2026-11-16T20:25:20Z"
         }
       ],
       "source_count": 1,
@@ -395,26 +457,26 @@
       ],
       "items": [
         {
-          "id": "21d11222c3d37837c649f1d2584079e663911ad4",
-          "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
-          "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+          "id": "66ca20a9b5d676e9dcf39fa182e2d7e7f4b3c4bf",
+          "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
+          "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T00:09:27Z"
+          "published_at": "2026-11-16T20:25:20Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8222,
-      "importance": 0.8222,
-      "importance_score": 0.8222,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8789,
+        "ai_relevance": 0.91,
+        "recency": 0.7999,
         "story_heat": 0.0
       },
       "category": "official",
@@ -423,12 +485,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T00:09:27Z",
-      "latest_at": "2026-11-17T00:09:27Z",
+      "earliest_at": "2026-11-16T20:25:20Z",
+      "latest_at": "2026-11-16T20:25:20Z",
       "primary_item": {
-        "id": "21d11222c3d37837c649f1d2584079e663911ad4",
-        "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
-        "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+        "id": "66ca20a9b5d676e9dcf39fa182e2d7e7f4b3c4bf",
+        "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
+        "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -487,15 +549,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7855,
+      "importance": 0.7855,
+      "importance_score": 0.7855,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9605,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -512,68 +574,6 @@
         "url": "https://www.aibase.com/news/32353",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f9ace2a74e66",
-      "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
-      "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
-      "primary_url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "66ca20a9b5d676e9dcf39fa182e2d7e7f4b3c4bf",
-          "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
-          "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T20:25:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "66ca20a9b5d676e9dcf39fa182e2d7e7f4b3c4bf",
-          "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
-          "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T20:25:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8328,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T20:25:20Z",
-      "latest_at": "2026-11-16T20:25:20Z",
-      "primary_item": {
-        "id": "66ca20a9b5d676e9dcf39fa182e2d7e7f4b3c4bf",
-        "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
-        "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -611,15 +611,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8147,
-      "importance": 0.8147,
-      "importance_score": 0.8147,
+      "score": 0.809,
+      "importance": 0.809,
+      "importance_score": 0.809,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7926,
+        "recency": 0.7613,
         "story_heat": 0.0
       },
       "category": "official",
@@ -634,6 +634,211 @@
         "id": "3b301029bfd439fb8609fe9d109687afc3160535",
         "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
         "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_50636b8e7e40",
+      "title": "李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期",
+      "url": "https://www.aibase.com/news/32360",
+      "primary_url": "https://www.aibase.com/news/32360",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "13d4daa48a13284566536b998414b13b1704f558",
+          "title": "李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期",
+          "url": "https://www.aibase.com/news/32360",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-17T09:05:36.514707Z"
+        },
+        {
+          "id": "6832add14957b4aeb3786b284b7d92574fc1e7a6",
+          "title": "李彦宏警告 AI 泡沫风险：算力投入巨大，应用落地仍不及预期",
+          "url": "https://www.aibase.com/zh/news/32360",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "13d4daa48a13284566536b998414b13b1704f558",
+          "title": "李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期",
+          "url": "https://www.aibase.com/news/32360",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-17T09:05:36.514707Z"
+        },
+        {
+          "id": "6832add14957b4aeb3786b284b7d92574fc1e7a6",
+          "title": "李彦宏警告 AI 泡沫风险：算力投入巨大，应用落地仍不及预期",
+          "url": "https://www.aibase.com/zh/news/32360",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7855,
+      "importance": 0.7855,
+      "importance_score": 0.7855,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9605,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T09:05:36.514707Z",
+      "latest_at": "2026-11-17T11:52:56.460945Z",
+      "primary_item": {
+        "id": "13d4daa48a13284566536b998414b13b1704f558",
+        "title": "李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期",
+        "url": "https://www.aibase.com/news/32360",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4b8c3044ce82",
+      "title": "控制 GitHub Copilot 自定义项的来源 / Control where GitHub Copilot customizations come from",
+      "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
+      "primary_url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "226cbf3a02a262749195868ebcc69afb72b37b47",
+          "title": "控制 GitHub Copilot 自定义项的来源 / Control where GitHub Copilot customizations come from",
+          "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T19:48:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "226cbf3a02a262749195868ebcc69afb72b37b47",
+          "title": "控制 GitHub Copilot 自定义项的来源 / Control where GitHub Copilot customizations come from",
+          "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T19:48:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8147,
+      "importance": 0.8147,
+      "importance_score": 0.8147,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7929,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T19:48:33Z",
+      "latest_at": "2026-11-16T19:48:33Z",
+      "primary_item": {
+        "id": "226cbf3a02a262749195868ebcc69afb72b37b47",
+        "title": "控制 GitHub Copilot 自定义项的来源 / Control where GitHub Copilot customizations come from",
+        "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f891bd93f3d2",
+      "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "primary_url": "https://openai.com/index/science-at-the-frontier",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
+          "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
+          "url": "https://openai.com/index/science-at-the-frontier",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
+          "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
+          "url": "https://openai.com/index/science-at-the-frontier",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8075,
+      "importance": 0.8075,
+      "importance_score": 0.8075,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7083,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T12:00:00Z",
+      "latest_at": "2026-11-16T12:00:00Z",
+      "primary_item": {
+        "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
+        "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
+        "url": "https://openai.com/index/science-at-the-frontier",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
@@ -692,15 +897,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7855,
+      "importance": 0.7855,
+      "importance_score": 0.7855,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9605,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -720,21 +925,21 @@
       }
     },
     {
-      "story_id": "story_4b8c3044ce82",
-      "title": "控制 GitHub Copilot 自定义项的来源 / Control where GitHub Copilot customizations come from",
-      "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
-      "primary_url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
+      "story_id": "story_338471667e07",
+      "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
+      "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
+      "primary_url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "226cbf3a02a262749195868ebcc69afb72b37b47",
-          "title": "控制 GitHub Copilot 自定义项的来源 / Control where GitHub Copilot customizations come from",
-          "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
+          "id": "3c503d70f53853b0ba28abb7538773e238c295c4",
+          "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
+          "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T19:48:33Z"
+          "published_at": "2026-11-16T21:30:49Z"
         }
       ],
       "source_count": 1,
@@ -743,26 +948,26 @@
       ],
       "items": [
         {
-          "id": "226cbf3a02a262749195868ebcc69afb72b37b47",
-          "title": "控制 GitHub Copilot 自定义项的来源 / Control where GitHub Copilot customizations come from",
-          "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
+          "id": "3c503d70f53853b0ba28abb7538773e238c295c4",
+          "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
+          "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T19:48:33Z"
+          "published_at": "2026-11-16T21:30:49Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8206,
-      "importance": 0.8206,
-      "importance_score": 0.8206,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8254,
+        "ai_relevance": 0.87,
+        "recency": 0.8126,
         "story_heat": 0.0
       },
       "category": "official",
@@ -771,75 +976,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T19:48:33Z",
-      "latest_at": "2026-11-16T19:48:33Z",
+      "earliest_at": "2026-11-16T21:30:49Z",
+      "latest_at": "2026-11-16T21:30:49Z",
       "primary_item": {
-        "id": "226cbf3a02a262749195868ebcc69afb72b37b47",
-        "title": "控制 GitHub Copilot 自定义项的来源 / Control where GitHub Copilot customizations come from",
-        "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
+        "id": "3c503d70f53853b0ba28abb7538773e238c295c4",
+        "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
+        "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f891bd93f3d2",
-      "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
-      "url": "https://openai.com/index/science-at-the-frontier",
-      "primary_url": "https://openai.com/index/science-at-the-frontier",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
-          "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
-          "url": "https://openai.com/index/science-at-the-frontier",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
-          "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
-          "url": "https://openai.com/index/science-at-the-frontier",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8127,
-      "importance": 0.8127,
-      "importance_score": 0.8127,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7374,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T12:00:00Z",
-      "latest_at": "2026-11-16T12:00:00Z",
-      "primary_item": {
-        "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
-        "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
-        "url": "https://openai.com/index/science-at-the-frontier",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -897,15 +1040,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7855,
+      "importance": 0.7855,
+      "importance_score": 0.7855,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9605,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -925,21 +1068,21 @@
       }
     },
     {
-      "story_id": "story_338471667e07",
-      "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
-      "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
-      "primary_url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
+      "story_id": "story_f7b1ad47e7a9",
+      "title": "VS Code 将于 2027 年 2 月停用本地线束 / VS Code retires the Local harness in February 2027",
+      "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
+      "primary_url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3c503d70f53853b0ba28abb7538773e238c295c4",
-          "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
-          "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
+          "id": "3dc42a57a919e8bc007d7f42e9c14ec70258a15c",
+          "title": "VS Code 将于 2027 年 2 月停用本地线束 / VS Code retires the Local harness in February 2027",
+          "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T21:30:49Z"
+          "published_at": "2026-11-16T19:22:56Z"
         }
       ],
       "source_count": 1,
@@ -948,26 +1091,26 @@
       ],
       "items": [
         {
-          "id": "3c503d70f53853b0ba28abb7538773e238c295c4",
-          "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
-          "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
+          "id": "3dc42a57a919e8bc007d7f42e9c14ec70258a15c",
+          "title": "VS Code 将于 2027 年 2 月停用本地线束 / VS Code retires the Local harness in February 2027",
+          "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T21:30:49Z"
+          "published_at": "2026-11-16T19:22:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
+      "score": 0.8058,
+      "importance": 0.8058,
+      "importance_score": 0.8058,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.846,
+        "recency": 0.788,
         "story_heat": 0.0
       },
       "category": "official",
@@ -976,75 +1119,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T21:30:49Z",
-      "latest_at": "2026-11-16T21:30:49Z",
+      "earliest_at": "2026-11-16T19:22:56Z",
+      "latest_at": "2026-11-16T19:22:56Z",
       "primary_item": {
-        "id": "3c503d70f53853b0ba28abb7538773e238c295c4",
-        "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
-        "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
+        "id": "3dc42a57a919e8bc007d7f42e9c14ec70258a15c",
+        "title": "VS Code 将于 2027 年 2 月停用本地线束 / VS Code retires the Local harness in February 2027",
+        "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f054a54f8228",
-      "title": "How Revolut raises ambition without lowering the bar",
-      "url": "https://openai.com/business/customer-stories/revolut",
-      "primary_url": "https://openai.com/business/customer-stories/revolut",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "13abb8efcd54e03d09e645d1cb23dc3f65b1cd0b",
-          "title": "How Revolut raises ambition without lowering the bar",
-          "url": "https://openai.com/business/customer-stories/revolut",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T09:30:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "13abb8efcd54e03d09e645d1cb23dc3f65b1cd0b",
-          "title": "How Revolut raises ambition without lowering the bar",
-          "url": "https://openai.com/business/customer-stories/revolut",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T09:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7113,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T09:30:00Z",
-      "latest_at": "2026-11-16T09:30:00Z",
-      "primary_item": {
-        "id": "13abb8efcd54e03d09e645d1cb23dc3f65b1cd0b",
-        "title": "How Revolut raises ambition without lowering the bar",
-        "url": "https://openai.com/business/customer-stories/revolut",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -1102,15 +1183,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7855,
+      "importance": 0.7855,
+      "importance_score": 0.7855,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9605,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1127,68 +1208,6 @@
         "url": "https://www.aibase.com/news/32356",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f7b1ad47e7a9",
-      "title": "VS Code 将于 2027 年 2 月停用本地线束 / VS Code retires the Local harness in February 2027",
-      "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
-      "primary_url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3dc42a57a919e8bc007d7f42e9c14ec70258a15c",
-          "title": "VS Code 将于 2027 年 2 月停用本地线束 / VS Code retires the Local harness in February 2027",
-          "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T19:22:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3dc42a57a919e8bc007d7f42e9c14ec70258a15c",
-          "title": "VS Code 将于 2027 年 2 月停用本地线束 / VS Code retires the Local harness in February 2027",
-          "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T19:22:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8117,
-      "importance": 0.8117,
-      "importance_score": 0.8117,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8204,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T19:22:56Z",
-      "latest_at": "2026-11-16T19:22:56Z",
-      "primary_item": {
-        "id": "3dc42a57a919e8bc007d7f42e9c14ec70258a15c",
-        "title": "VS Code 将于 2027 年 2 月停用本地线束 / VS Code retires the Local harness in February 2027",
-        "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1316,15 +1335,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6379,
-      "importance": 0.6379,
-      "importance_score": 0.6379,
+      "score": 0.6321,
+      "importance": 0.6321,
+      "importance_score": 0.6321,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8263,
+        "recency": 0.7937,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1343,7 +1362,7 @@
     },
     {
       "story_id": "story_030a040e02b2",
-      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "title": "FBI 称 Artex AI 开源黑客工具用于在“不到三小时”内破坏网络 / FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
       "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
       "primary_url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
       "source": "TechCrunch AI",
@@ -1351,7 +1370,7 @@
       "sources": [
         {
           "id": "e6b87077a6d1787c1bf1bab22affd5f84b8f19de",
-          "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+          "title": "FBI 称 Artex AI 开源黑客工具用于在“不到三小时”内破坏网络 / FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
           "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
           "source": "TechCrunch AI",
           "source_name": "Curated Media",
@@ -1386,7 +1405,7 @@
       "items": [
         {
           "id": "e6b87077a6d1787c1bf1bab22affd5f84b8f19de",
-          "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+          "title": "FBI 称 Artex AI 开源黑客工具用于在“不到三小时”内破坏网络 / FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
           "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
           "source": "TechCrunch AI",
           "source_name": "Curated Media",
@@ -1414,15 +1433,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6377,
-      "importance": 0.6377,
-      "importance_score": 0.6377,
+      "score": 0.632,
+      "importance": 0.632,
+      "importance_score": 0.632,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7997,
+        "recency": 0.7681,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1433,91 +1452,72 @@
       "latest_at": "2026-11-16T22:00:00Z",
       "primary_item": {
         "id": "e6b87077a6d1787c1bf1bab22affd5f84b8f19de",
-        "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+        "title": "FBI 称 Artex AI 开源黑客工具用于在“不到三小时”内破坏网络 / FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
         "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
       }
     },
     {
-      "story_id": "story_e38a237d4864",
-      "title": "AI安全初创公司Corma完成1.25亿美元A轮融资:3个月估值达10亿美元",
-      "url": "https://www.aibase.com/news/32345",
-      "primary_url": "https://www.aibase.com/news/32345",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_2799af16e9a0",
+      "title": "批量启动 AI 扫描存储库 / Bulk start AI Scan for repositories",
+      "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+      "primary_url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c110bc34941aa2dea96b4722e4d6d2ee3f1140bd",
-          "title": "AI安全初创公司Corma完成1.25亿美元A轮融资:3个月估值达10亿美元",
-          "url": "https://www.aibase.com/news/32345",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-17T02:56:03.164027Z"
-        },
-        {
-          "id": "5005ea4533e3203e51c98379b2586f207d1e2a47",
-          "title": "AI 安全初创公司 Corma 完成 1.25 亿美元 A 轮融资，3 个月估值达 10 亿美元",
-          "url": "https://www.aibase.com/zh/news/32345",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
+          "title": "批量启动 AI 扫描存储库 / Bulk start AI Scan for repositories",
+          "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T15:50:22Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "c110bc34941aa2dea96b4722e4d6d2ee3f1140bd",
-          "title": "AI安全初创公司Corma完成1.25亿美元A轮融资:3个月估值达10亿美元",
-          "url": "https://www.aibase.com/news/32345",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-17T02:56:03.164027Z"
-        },
-        {
-          "id": "5005ea4533e3203e51c98379b2586f207d1e2a47",
-          "title": "AI 安全初创公司 Corma 完成 1.25 亿美元 A 轮融资，3 个月估值达 10 亿美元",
-          "url": "https://www.aibase.com/zh/news/32345",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
+          "title": "批量启动 AI 扫描存储库 / Bulk start AI Scan for repositories",
+          "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T15:50:22Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7773,
-      "importance": 0.7773,
-      "importance_score": 0.7773,
-      "importance_label": "行业动态",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7988,
+      "importance": 0.7988,
+      "importance_score": 0.7988,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9149,
-        "story_heat": 0.25
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7487,
+        "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T02:56:03.164027Z",
-      "latest_at": "2026-11-17T02:56:03.164027Z",
+      "earliest_at": "2026-11-16T15:50:22Z",
+      "latest_at": "2026-11-16T15:50:22Z",
       "primary_item": {
-        "id": "c110bc34941aa2dea96b4722e4d6d2ee3f1140bd",
-        "title": "AI安全初创公司Corma完成1.25亿美元A轮融资:3个月估值达10亿美元",
-        "url": "https://www.aibase.com/news/32345",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
+        "title": "批量启动 AI 扫描存储库 / Bulk start AI Scan for repositories",
+        "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     }
   ]
