@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T02:54:25.594160Z",
+  "generated_at": "2026-11-18T08:27:46.223104Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -94,15 +94,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9127,
-      "importance": 0.9127,
-      "importance_score": 0.9127,
+      "score": 0.9005,
+      "importance": 0.9005,
+      "importance_score": 0.9005,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8761,
+        "recency": 0.8086,
         "story_heat": 0.75
       },
       "category": "official",
@@ -119,6 +119,68 @@
         "title": "GPT‑6.2 Astra 和 Sol / Introducing GPT-6.2 Astra and Sol",
         "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.170.0 / Codex CLI 0.170.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
+          "title": "法典 CLI 0.170.0 / Codex CLI 0.170.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
+          "title": "法典 CLI 0.170.0 / Codex CLI 0.170.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8453,
+      "importance": 0.8453,
+      "importance_score": 0.8453,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.885,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T00:00:00Z",
+      "latest_at": "2026-11-18T00:00:00Z",
+      "primary_item": {
+        "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
+        "title": "法典 CLI 0.170.0 / Codex CLI 0.170.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -157,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
+      "score": 0.8311,
+      "importance": 0.8311,
+      "importance_score": 0.8311,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9095,
+        "recency": 0.8394,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.828,
-      "importance": 0.828,
-      "importance_score": 0.828,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8667,
+        "recency": 0.7999,
         "story_heat": 0.0
       },
       "category": "official",
@@ -281,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8365,
-      "importance": 0.8365,
-      "importance_score": 0.8365,
+      "score": 0.8242,
+      "importance": 0.8242,
+      "importance_score": 0.8242,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8803,
+        "recency": 0.8125,
         "story_heat": 0.0
       },
       "category": "official",
@@ -304,6 +366,578 @@
         "id": "01ccc05b66d68a23d4e4e3a73e3bb947e358ed30",
         "title": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型 / GitHub Copilot Fusion updates: more availability, benchmarks, and models",
         "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_94eda07b2df7",
+      "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+      "url": "https://www.aibase.com/news/32379",
+      "primary_url": "https://www.aibase.com/news/32379",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
+          "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "url": "https://www.aibase.com/news/32379",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T08:27:46.223104Z"
+        },
+        {
+          "id": "fe9e65cc78554995f0fc6cf4cee22f0df58c3792",
+          "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "url": "https://www.aibase.com/zh/news/32379",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
+          "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "url": "https://www.aibase.com/news/32379",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T08:27:46.223104Z"
+        },
+        {
+          "id": "fe9e65cc78554995f0fc6cf4cee22f0df58c3792",
+          "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "url": "https://www.aibase.com/zh/news/32379",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T08:27:46.223104Z",
+      "latest_at": "2026-11-18T08:27:46.223104Z",
+      "primary_item": {
+        "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
+        "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+        "url": "https://www.aibase.com/news/32379",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2b90807377a9",
+      "title": "GitHub Copilot Evals 现已推出公共预览版 / GitHub Copilot Evals is now in public preview",
+      "url": "https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9f412733ebf487a4121637d33d78eb49846db776",
+          "title": "GitHub Copilot Evals 现已推出公共预览版 / GitHub Copilot Evals is now in public preview",
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:00:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "9f412733ebf487a4121637d33d78eb49846db776",
+          "title": "GitHub Copilot Evals 现已推出公共预览版 / GitHub Copilot Evals is now in public preview",
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:00:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8241,
+      "importance": 0.8241,
+      "importance_score": 0.8241,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.8116,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T18:00:33Z",
+      "latest_at": "2026-11-17T18:00:33Z",
+      "primary_item": {
+        "id": "9f412733ebf487a4121637d33d78eb49846db776",
+        "title": "GitHub Copilot Evals 现已推出公共预览版 / GitHub Copilot Evals is now in public preview",
+        "url": "https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_428eda40b59c",
+      "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+      "url": "https://www.aibase.com/news/32378",
+      "primary_url": "https://www.aibase.com/news/32378",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "02b3a114351369dddd765e8c64b165ed2fd5ebb9",
+          "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+          "url": "https://www.aibase.com/news/32378",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T08:27:46.223104Z"
+        },
+        {
+          "id": "ae77a6e6de86a79993ddff53e27acd3f8a6f4976",
+          "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+          "url": "https://www.aibase.com/zh/news/32378",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "02b3a114351369dddd765e8c64b165ed2fd5ebb9",
+          "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+          "url": "https://www.aibase.com/news/32378",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T08:27:46.223104Z"
+        },
+        {
+          "id": "ae77a6e6de86a79993ddff53e27acd3f8a6f4976",
+          "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+          "url": "https://www.aibase.com/zh/news/32378",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T08:27:46.223104Z",
+      "latest_at": "2026-11-18T08:27:46.223104Z",
+      "primary_item": {
+        "id": "02b3a114351369dddd765e8c64b165ed2fd5ebb9",
+        "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+        "url": "https://www.aibase.com/news/32378",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_70ef7af10807",
+      "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+      "url": "https://www.aibase.com/news/32374",
+      "primary_url": "https://www.aibase.com/news/32374",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
+          "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+          "url": "https://www.aibase.com/news/32374",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T08:27:46.223104Z"
+        },
+        {
+          "id": "b895a7d5c522a99038b353c0a0a420da0cb70b92",
+          "title": "微软发布首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+          "url": "https://www.aibase.com/zh/news/32374",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
+          "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+          "url": "https://www.aibase.com/news/32374",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T08:27:46.223104Z"
+        },
+        {
+          "id": "b895a7d5c522a99038b353c0a0a420da0cb70b92",
+          "title": "微软发布首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+          "url": "https://www.aibase.com/zh/news/32374",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T08:27:46.223104Z",
+      "latest_at": "2026-11-18T08:27:46.223104Z",
+      "primary_item": {
+        "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
+        "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+        "url": "https://www.aibase.com/news/32374",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0fb6d41b1c23",
+      "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
+      "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
+      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
+          "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:03:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
+          "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:03:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8122,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T18:03:42Z",
+      "latest_at": "2026-11-17T18:03:42Z",
+      "primary_item": {
+        "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
+        "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
+        "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5d15407039aa",
+      "title": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+      "url": "https://www.aibase.com/news/32380",
+      "primary_url": "https://www.aibase.com/news/32380",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "58c35d68b07ead95bba8a168f72ff73356496906",
+          "title": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+          "url": "https://www.aibase.com/news/32380",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T08:27:46.223104Z"
+        },
+        {
+          "id": "85af2530fd1dd9c9a17eb94450591e9ff2e92ac8",
+          "title": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+          "url": "https://www.aibase.com/zh/news/32380",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "58c35d68b07ead95bba8a168f72ff73356496906",
+          "title": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+          "url": "https://www.aibase.com/news/32380",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T08:27:46.223104Z"
+        },
+        {
+          "id": "85af2530fd1dd9c9a17eb94450591e9ff2e92ac8",
+          "title": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+          "url": "https://www.aibase.com/zh/news/32380",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T08:27:46.223104Z",
+      "latest_at": "2026-11-18T08:27:46.223104Z",
+      "primary_item": {
+        "id": "58c35d68b07ead95bba8a168f72ff73356496906",
+        "title": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+        "url": "https://www.aibase.com/news/32380",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2217122441a2",
+      "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+      "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ffc8e8511c050da245e1102932a23a84290281e0",
+          "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:00:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ffc8e8511c050da245e1102932a23a84290281e0",
+          "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:00:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8181,
+      "importance": 0.8181,
+      "importance_score": 0.8181,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8116,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T18:00:35Z",
+      "latest_at": "2026-11-17T18:00:35Z",
+      "primary_item": {
+        "id": "ffc8e8511c050da245e1102932a23a84290281e0",
+        "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+        "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1fae7e83ee21",
+      "title": "GitHub Copilot 中的 MAI Code 2 和 MAI Code 2 Flash / MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
+          "title": "GitHub Copilot 中的 MAI Code 2 和 MAI Code 2 Flash / MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:01:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
+          "title": "GitHub Copilot 中的 MAI Code 2 和 MAI Code 2 Flash / MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:01:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8181,
+      "importance": 0.8181,
+      "importance_score": 0.8181,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8119,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T18:01:45Z",
+      "latest_at": "2026-11-17T18:01:45Z",
+      "primary_item": {
+        "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
+        "title": "GitHub Copilot 中的 MAI Code 2 和 MAI Code 2 Flash / MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -362,15 +996,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7787,
+      "importance": 0.7787,
+      "importance_score": 0.7787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9229,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -387,559 +1021,6 @@
         "url": "https://www.aibase.com/news/32368",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c6c361c53bc4",
-      "title": "介绍用于销售的 ChatGPT / Introducing ChatGPT for Sales",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "primary_url": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d1e6370b23b24cbc4cffc01b82f4787a8ecbf5c4",
-          "title": "介绍用于销售的 ChatGPT / Introducing ChatGPT for Sales",
-          "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T08:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "d1e6370b23b24cbc4cffc01b82f4787a8ecbf5c4",
-          "title": "介绍用于销售的 ChatGPT / Introducing ChatGPT for Sales",
-          "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T08:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.817,
-      "importance": 0.817,
-      "importance_score": 0.817,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7611,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T08:00:00Z",
-      "latest_at": "2026-11-17T08:00:00Z",
-      "primary_item": {
-        "id": "d1e6370b23b24cbc4cffc01b82f4787a8ecbf5c4",
-        "title": "介绍用于销售的 ChatGPT / Introducing ChatGPT for Sales",
-        "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2b90807377a9",
-      "title": "GitHub Copilot Evals 现已推出公共预览版 / GitHub Copilot Evals is now in public preview",
-      "url": "https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9f412733ebf487a4121637d33d78eb49846db776",
-          "title": "GitHub Copilot Evals 现已推出公共预览版 / GitHub Copilot Evals is now in public preview",
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "9f412733ebf487a4121637d33d78eb49846db776",
-          "title": "GitHub Copilot Evals 现已推出公共预览版 / GitHub Copilot Evals is now in public preview",
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8363,
-      "importance": 0.8363,
-      "importance_score": 0.8363,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.8794,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:00:33Z",
-      "latest_at": "2026-11-17T18:00:33Z",
-      "primary_item": {
-        "id": "9f412733ebf487a4121637d33d78eb49846db776",
-        "title": "GitHub Copilot Evals 现已推出公共预览版 / GitHub Copilot Evals is now in public preview",
-        "url": "https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b2cc2d8bba80",
-      "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
-      "url": "https://www.aibase.com/news/32364",
-      "primary_url": "https://www.aibase.com/news/32364",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "29b2f6a19c04b6c4af8e30e02c24b94cbcff293a",
-          "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
-          "url": "https://www.aibase.com/news/32364",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T02:54:25.594160Z"
-        },
-        {
-          "id": "539e95c368d0006c0c9faab87caadf8a02600780",
-          "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
-          "url": "https://www.aibase.com/zh/news/32364",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "29b2f6a19c04b6c4af8e30e02c24b94cbcff293a",
-          "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
-          "url": "https://www.aibase.com/news/32364",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T02:54:25.594160Z"
-        },
-        {
-          "id": "539e95c368d0006c0c9faab87caadf8a02600780",
-          "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
-          "url": "https://www.aibase.com/zh/news/32364",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T02:54:25.594160Z",
-      "latest_at": "2026-11-18T02:54:25.594160Z",
-      "primary_item": {
-        "id": "29b2f6a19c04b6c4af8e30e02c24b94cbcff293a",
-        "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
-        "url": "https://www.aibase.com/news/32364",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0fb6d41b1c23",
-      "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
-      "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
-          "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:03:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
-          "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:03:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8304,
-      "importance": 0.8304,
-      "importance_score": 0.8304,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8801,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:03:42Z",
-      "latest_at": "2026-11-17T18:03:42Z",
-      "primary_item": {
-        "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
-        "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
-        "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_206e059628fc",
-      "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
-      "url": "https://www.aibase.com/news/32363",
-      "primary_url": "https://www.aibase.com/news/32363",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "765ec5db89c5e5ea6ba7e7410c495dcf0eedcd51",
-          "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
-          "url": "https://www.aibase.com/news/32363",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T02:54:25.594160Z"
-        },
-        {
-          "id": "e51459edc2c9a959783269e01b7c6d0cfef2354c",
-          "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
-          "url": "https://www.aibase.com/zh/news/32363",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "765ec5db89c5e5ea6ba7e7410c495dcf0eedcd51",
-          "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
-          "url": "https://www.aibase.com/news/32363",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T02:54:25.594160Z"
-        },
-        {
-          "id": "e51459edc2c9a959783269e01b7c6d0cfef2354c",
-          "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
-          "url": "https://www.aibase.com/zh/news/32363",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T02:54:25.594160Z",
-      "latest_at": "2026-11-18T02:54:25.594160Z",
-      "primary_item": {
-        "id": "765ec5db89c5e5ea6ba7e7410c495dcf0eedcd51",
-        "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
-        "url": "https://www.aibase.com/news/32363",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d463ce808607",
-      "title": "副驾驶代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-      "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-      "primary_url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-          "title": "副驾驶代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:02:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-          "title": "副驾驶代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:02:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8304,
-      "importance": 0.8304,
-      "importance_score": 0.8304,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8797,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:02:05Z",
-      "latest_at": "2026-11-17T18:02:05Z",
-      "primary_item": {
-        "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-        "title": "副驾驶代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-        "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_925021f9a27c",
-      "title": "英伟达非上市持股飙升至 655 亿美元：黄仁勋离任后，AI 创投风向面临重大变数",
-      "url": "https://www.aibase.com/news/32370",
-      "primary_url": "https://www.aibase.com/news/32370",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b6870de415fb4ef4618c9ea26d27e7d255c272eb",
-          "title": "英伟达非上市持股飙升至 655 亿美元：黄仁勋离任后，AI 创投风向面临重大变数",
-          "url": "https://www.aibase.com/news/32370",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T02:54:25.594160Z"
-        },
-        {
-          "id": "d15d534fb4792bfc2cad1544b200f50550606385",
-          "title": "英伟达非上市持股飙升至 655 亿美元：黄仁勋离任后，AI 创投风向面临重大变数",
-          "url": "https://www.aibase.com/zh/news/32370",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b6870de415fb4ef4618c9ea26d27e7d255c272eb",
-          "title": "英伟达非上市持股飙升至 655 亿美元：黄仁勋离任后，AI 创投风向面临重大变数",
-          "url": "https://www.aibase.com/news/32370",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T02:54:25.594160Z"
-        },
-        {
-          "id": "d15d534fb4792bfc2cad1544b200f50550606385",
-          "title": "英伟达非上市持股飙升至 655 亿美元：黄仁勋离任后，AI 创投风向面临重大变数",
-          "url": "https://www.aibase.com/zh/news/32370",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T02:54:25.594160Z",
-      "latest_at": "2026-11-18T02:54:25.594160Z",
-      "primary_item": {
-        "id": "b6870de415fb4ef4618c9ea26d27e7d255c272eb",
-        "title": "英伟达非上市持股飙升至 655 亿美元：黄仁勋离任后，AI 创投风向面临重大变数",
-        "url": "https://www.aibase.com/news/32370",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2217122441a2",
-      "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-      "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
-      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ffc8e8511c050da245e1102932a23a84290281e0",
-          "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ffc8e8511c050da245e1102932a23a84290281e0",
-          "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8303,
-      "importance": 0.8303,
-      "importance_score": 0.8303,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8794,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:00:35Z",
-      "latest_at": "2026-11-17T18:00:35Z",
-      "primary_item": {
-        "id": "ffc8e8511c050da245e1102932a23a84290281e0",
-        "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-        "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1067,15 +1148,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6543,
-      "importance": 0.6543,
-      "importance_score": 0.6543,
+      "score": 0.6416,
+      "importance": 0.6416,
+      "importance_score": 0.6416,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9174,
+        "recency": 0.8466,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1090,129 +1171,6 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-11-17",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_1fae7e83ee21",
-      "title": "GitHub Copilot 中的 MAI Code 2 和 MAI Code 2 Flash / MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
-          "title": "GitHub Copilot 中的 MAI Code 2 和 MAI Code 2 Flash / MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:01:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
-          "title": "GitHub Copilot 中的 MAI Code 2 和 MAI Code 2 Flash / MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:01:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8303,
-      "importance": 0.8303,
-      "importance_score": 0.8303,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8797,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:01:45Z",
-      "latest_at": "2026-11-17T18:01:45Z",
-      "primary_item": {
-        "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
-        "title": "GitHub Copilot 中的 MAI Code 2 和 MAI Code 2 Flash / MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6ea4459b8832",
-      "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-      "url": "https://www.aibase.com/news/32366",
-      "primary_url": "https://www.aibase.com/news/32366",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
-          "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-          "url": "https://www.aibase.com/news/32366",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T02:54:25.594160Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
-          "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-          "url": "https://www.aibase.com/news/32366",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T02:54:25.594160Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T02:54:25.594160Z",
-      "latest_at": "2026-11-18T02:54:25.594160Z",
-      "primary_item": {
-        "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
-        "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-        "url": "https://www.aibase.com/news/32366",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1250,15 +1208,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8303,
-      "importance": 0.8303,
-      "importance_score": 0.8303,
+      "score": 0.8181,
+      "importance": 0.8181,
+      "importance_score": 0.8181,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8795,
+        "recency": 0.8117,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1278,62 +1236,225 @@
       }
     },
     {
-      "story_id": "story_acb02655dfee",
-      "title": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
-      "url": "https://www.aibase.com/news/32367",
-      "primary_url": "https://www.aibase.com/news/32367",
+      "story_id": "story_71759dcbf6fe",
+      "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
+      "url": "https://www.aibase.com/news/32373",
+      "primary_url": "https://www.aibase.com/news/32373",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9cf65fe5edee25d3878cf48996baa7b9a38ec207",
-          "title": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
-          "url": "https://www.aibase.com/news/32367",
+          "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
+          "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
+          "url": "https://www.aibase.com/news/32373",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-11-18T02:54:25.594160Z"
+        },
+        {
+          "id": "7563a4736dfee1c3fdb9143a165e85f2c6432c29",
+          "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
+          "url": "https://www.aibase.com/zh/news/32373",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "9cf65fe5edee25d3878cf48996baa7b9a38ec207",
-          "title": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
-          "url": "https://www.aibase.com/news/32367",
+          "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
+          "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
+          "url": "https://www.aibase.com/news/32373",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-11-18T02:54:25.594160Z"
+        },
+        {
+          "id": "7563a4736dfee1c3fdb9143a165e85f2c6432c29",
+          "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
+          "url": "https://www.aibase.com/zh/news/32373",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7787,
+      "importance": 0.7787,
+      "importance_score": 0.7787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9229,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T02:54:25.594160Z",
+      "latest_at": "2026-11-18T08:27:46.223104Z",
+      "primary_item": {
+        "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
+        "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
+        "url": "https://www.aibase.com/news/32373",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d463ce808607",
+      "title": "副驾驶代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+      "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+      "primary_url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
+          "title": "副驾驶代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:02:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
+          "title": "副驾驶代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:02:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8181,
+      "importance": 0.8181,
+      "importance_score": 0.8181,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8119,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T18:02:05Z",
+      "latest_at": "2026-11-17T18:02:05Z",
+      "primary_item": {
+        "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
+        "title": "副驾驶代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+        "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b2cc2d8bba80",
+      "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
+      "url": "https://www.aibase.com/news/32364",
+      "primary_url": "https://www.aibase.com/news/32364",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "29b2f6a19c04b6c4af8e30e02c24b94cbcff293a",
+          "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
+          "url": "https://www.aibase.com/news/32364",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T02:54:25.594160Z"
+        },
+        {
+          "id": "539e95c368d0006c0c9faab87caadf8a02600780",
+          "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
+          "url": "https://www.aibase.com/zh/news/32364",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "29b2f6a19c04b6c4af8e30e02c24b94cbcff293a",
+          "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
+          "url": "https://www.aibase.com/news/32364",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T02:54:25.594160Z"
+        },
+        {
+          "id": "539e95c368d0006c0c9faab87caadf8a02600780",
+          "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
+          "url": "https://www.aibase.com/zh/news/32364",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7787,
+      "importance": 0.7787,
+      "importance_score": 0.7787,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9229,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-11-18T02:54:25.594160Z",
       "latest_at": "2026-11-18T02:54:25.594160Z",
       "primary_item": {
-        "id": "9cf65fe5edee25d3878cf48996baa7b9a38ec207",
-        "title": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
-        "url": "https://www.aibase.com/news/32367",
+        "id": "29b2f6a19c04b6c4af8e30e02c24b94cbcff293a",
+        "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
+        "url": "https://www.aibase.com/news/32364",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1373,15 +1494,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8303,
-      "importance": 0.8303,
-      "importance_score": 0.8303,
+      "score": 0.8181,
+      "importance": 0.8181,
+      "importance_score": 0.8181,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8794,
+        "recency": 0.8116,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1398,67 +1519,6 @@
         "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b873786b7e72",
-      "title": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
-      "url": "https://www.aibase.com/news/32362",
-      "primary_url": "https://www.aibase.com/news/32362",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "227174257f4dd9e786234cb22662ba3e3e76cfef",
-          "title": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
-          "url": "https://www.aibase.com/news/32362",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T02:54:25.594160Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "227174257f4dd9e786234cb22662ba3e3e76cfef",
-          "title": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
-          "url": "https://www.aibase.com/news/32362",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T02:54:25.594160Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T02:54:25.594160Z",
-      "latest_at": "2026-11-18T02:54:25.594160Z",
-      "primary_item": {
-        "id": "227174257f4dd9e786234cb22662ba3e3e76cfef",
-        "title": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
-        "url": "https://www.aibase.com/news/32362",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
