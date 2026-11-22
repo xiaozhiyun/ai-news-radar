@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-22T00:20:36.437466Z",
+  "generated_at": "2026-11-22T07:29:11.367585Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
       "item_count": 264,
-      "duration_ms": 3588,
+      "duration_ms": 2675,
       "error": null
     },
     {
@@ -14,23 +14,23 @@
       "site_name": "Curated Media",
       "ok": true,
       "item_count": 33,
-      "duration_ms": 12789,
+      "duration_ms": 11901,
       "error": null
     },
     {
       "site_id": "aibreakfast",
       "site_name": "AI Breakfast",
-      "ok": true,
-      "item_count": 9,
-      "duration_ms": 272,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 78,
+      "error": "401 Client Error: Unauthorized for url: https://r.jina.ai/https://aibreakfast.beehiiv.com/"
     },
     {
       "site_id": "followbuilders",
       "site_name": "Follow Builders",
       "ok": true,
-      "item_count": 32,
-      "duration_ms": 114,
+      "item_count": 24,
+      "duration_ms": 215,
       "error": null
     },
     {
@@ -38,7 +38,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 256,
+      "duration_ms": 546,
       "error": null
     },
     {
@@ -46,15 +46,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 307,
+      "duration_ms": 384,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 290,
-      "duration_ms": 32353,
+      "item_count": 310,
+      "duration_ms": 39075,
       "error": null
     },
     {
@@ -62,31 +62,31 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 543,
+      "duration_ms": 445,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3029,
-      "duration_ms": 1222,
+      "item_count": 3032,
+      "duration_ms": 1518,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 28,
-      "duration_ms": 680,
+      "item_count": 37,
+      "duration_ms": 1485,
       "error": null
     },
     {
       "site_id": "hackernews",
       "site_name": "Hacker News",
       "ok": true,
-      "item_count": 2,
-      "duration_ms": 6693,
+      "item_count": 1,
+      "duration_ms": 29548,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 41,
-      "duration_ms": 477,
+      "duration_ms": 398,
       "error": null
     },
     {
@@ -102,7 +102,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1488,
+      "duration_ms": 1328,
       "error": null
     },
     {
@@ -110,35 +110,37 @@
       "site_name": "AI HOT",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 3370,
+      "duration_ms": 3375,
       "error": "404 Client Error: Not Found for url: https://aihot.news/api/public/items?mode=selected&take=100"
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "ok": true,
-      "item_count": 126,
-      "duration_ms": 1446,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 9940,
+      "error": "HTTPSConnectionPool(host='newsnow.busiyi.world', port=443): Max retries exceeded with url: /api/s?id=36kr (Caused by ResponseError('too many 500 error responses'))"
     },
     {
       "site_id": "waytoagi",
       "site_name": "WaytoAGI",
       "ok": true,
       "item_count": 6,
-      "duration_ms": 7391,
+      "duration_ms": 8292,
       "error": null
     }
   ],
-  "successful_sites": 15,
+  "successful_sites": 13,
   "failed_sites": [
-    "aihot"
+    "aibreakfast",
+    "aihot",
+    "newsnow"
   ],
   "zero_item_sites": [],
   "empty_advanced_sources": [],
-  "fetched_raw_items": 5030,
-  "items_before_topic_filter": 3535,
-  "items_in_24h": 326,
+  "fetched_raw_items": 4918,
+  "items_before_topic_filter": 3518,
+  "items_in_24h": 323,
   "rss_opml": {
     "enabled": false,
     "path": null,

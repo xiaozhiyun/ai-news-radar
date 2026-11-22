@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-22T00:20:36.437466Z",
+  "generated_at": "2026-11-22T07:29:11.367585Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 16,
   "items": [
     {
       "story_id": "story_2df82173bb28",
@@ -110,15 +110,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6585,
-      "importance": 0.6585,
-      "importance_score": 0.6585,
+      "score": 0.6419,
+      "importance": 0.6419,
+      "importance_score": 0.6419,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9406,
+        "recency": 0.8484,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -133,6 +133,401 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-11-21",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_6d859339b158",
+      "title": "Upload2Shell (CVE-2026-125396)",
+      "url": "https://pwn.ai/upload2shell",
+      "primary_url": "https://pwn.ai/upload2shell",
+      "source": "pwn.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9941729af0fc4a985beab373d94ae70830b1c1d5",
+          "title": "Upload2Shell (CVE-2026-125396)",
+          "url": "https://pwn.ai/upload2shell",
+          "source": "pwn.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T05:35:57.070000Z"
+        },
+        {
+          "id": "291eb99bb7c3f35df9c13e8ff28c1eb6151d06d4",
+          "title": "Upload2Shell · CVE-2026-125396",
+          "url": "https://pwn.ai/upload2shell",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T18:29:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "pwn.ai"
+      ],
+      "items": [
+        {
+          "id": "9941729af0fc4a985beab373d94ae70830b1c1d5",
+          "title": "Upload2Shell (CVE-2026-125396)",
+          "url": "https://pwn.ai/upload2shell",
+          "source": "pwn.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T05:35:57.070000Z"
+        },
+        {
+          "id": "291eb99bb7c3f35df9c13e8ff28c1eb6151d06d4",
+          "title": "Upload2Shell · CVE-2026-125396",
+          "url": "https://pwn.ai/upload2shell",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T18:29:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9731,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T18:29:29Z",
+      "latest_at": "2026-11-22T05:35:57.070000Z",
+      "primary_item": {
+        "id": "9941729af0fc4a985beab373d94ae70830b1c1d5",
+        "title": "Upload2Shell (CVE-2026-125396)",
+        "url": "https://pwn.ai/upload2shell",
+        "source": "pwn.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5cc0b3bf0f56",
+      "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀” / AI Supply Chain Security: What Canary Tokens Found",
+      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "primary_url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "3d46f4fb636adbfe3c66ad525875aed463596d98",
+          "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀” / AI Supply Chain Security: What Canary Tokens Found",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T05:11:43Z"
+        },
+        {
+          "id": "48501ff3ac61877d2f5bcd3032a7b107008fc56b",
+          "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀”",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "source": "www.dragos.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-21T16:03:55.721000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.dragos.com"
+      ],
+      "items": [
+        {
+          "id": "3d46f4fb636adbfe3c66ad525875aed463596d98",
+          "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀” / AI Supply Chain Security: What Canary Tokens Found",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T05:11:43Z"
+        },
+        {
+          "id": "48501ff3ac61877d2f5bcd3032a7b107008fc56b",
+          "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀”",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "source": "www.dragos.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-21T16:03:55.721000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9675,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T16:03:55.721000Z",
+      "latest_at": "2026-11-22T05:11:43Z",
+      "primary_item": {
+        "id": "3d46f4fb636adbfe3c66ad525875aed463596d98",
+        "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀” / AI Supply Chain Security: What Canary Tokens Found",
+        "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+      "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+      "primary_url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
+          "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T03:06:35Z"
+        },
+        {
+          "id": "bc1cee2e291ec5c9d16351a097d86ae4e4289328",
+          "title": "Show HN: 人工智能能否用90%的Rust语言重写OpenCode？",
+          "url": "https://www.youtube.com/watch?v=SwX4OoxMaKM",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-21T22:26:53.368000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.youtube.com"
+      ],
+      "items": [
+        {
+          "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
+          "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T03:06:35Z"
+        },
+        {
+          "id": "bc1cee2e291ec5c9d16351a097d86ae4e4289328",
+          "title": "Show HN: 人工智能能否用90%的Rust语言重写OpenCode？",
+          "url": "https://www.youtube.com/watch?v=SwX4OoxMaKM",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-21T22:26:53.368000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5348,
+      "importance": 0.5348,
+      "importance_score": 0.5348,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9388,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T22:26:53.368000Z",
+      "latest_at": "2026-11-22T03:06:35Z",
+      "primary_item": {
+        "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
+        "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+        "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_6e086317ffb3",
+      "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+      "primary_url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ae3ff2ce5100b7ea684e46948be6d432169d797f",
+          "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T02:09:43.926000Z"
+        },
+        {
+          "id": "871d89b9a892a2fb67bb3e10489af50755d208da",
+          "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面 / Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T02:03:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "ae3ff2ce5100b7ea684e46948be6d432169d797f",
+          "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T02:09:43.926000Z"
+        },
+        {
+          "id": "871d89b9a892a2fb67bb3e10489af50755d208da",
+          "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面 / Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T02:03:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5325,
+      "importance": 0.5325,
+      "importance_score": 0.5325,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.926,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T02:03:46Z",
+      "latest_at": "2026-11-22T02:09:43.926000Z",
+      "primary_item": {
+        "id": "ae3ff2ce5100b7ea684e46948be6d432169d797f",
+        "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面",
+        "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9f7e68615129",
+      "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场",
+      "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+      "primary_url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e4601128db993e279115809c55cca0773d118007",
+          "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场",
+          "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T00:34:50.197000Z"
+        },
+        {
+          "id": "a947ad56cc613ca0679afafb1feab4c3bff50099",
+          "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场 / The AI sell-off now has Taiwan taking emergency steps to calm its chip-heavy market",
+          "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-21T22:02:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "e4601128db993e279115809c55cca0773d118007",
+          "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场",
+          "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T00:34:50.197000Z"
+        },
+        {
+          "id": "a947ad56cc613ca0679afafb1feab4c3bff50099",
+          "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场 / The AI sell-off now has Taiwan taking emergency steps to calm its chip-heavy market",
+          "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-21T22:02:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5287,
+      "importance": 0.5287,
+      "importance_score": 0.5287,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9051,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T22:02:52Z",
+      "latest_at": "2026-11-22T00:34:50.197000Z",
+      "primary_item": {
+        "id": "e4601128db993e279115809c55cca0773d118007",
+        "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场",
+        "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -188,15 +583,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5282,
+      "importance": 0.5282,
+      "importance_score": 0.5282,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.902,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -214,100 +609,160 @@
       }
     },
     {
-      "story_id": "story_c82934c02ed9",
-      "title": "ClawDOS——一款适用于DOS的人工智能编程代理",
-      "url": "http://ricapar.net/ClawDOS",
-      "primary_url": "http://ricapar.net/ClawDOS",
-      "source": "ricapar.net",
+      "story_id": "story_79c1f4e3bee2",
+      "title": "Show HN: Agent-mcts——基于Claude代码的蒙特卡洛树搜索",
+      "url": "https://github.com/natsu0529/agent-mcts",
+      "primary_url": "https://github.com/natsu0529/agent-mcts",
+      "source": "github.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "0a4d9b70e1e3b89d3fbd53ece7c4c4e5cb67ed0a",
-          "title": "ClawDOS——一款适用于DOS的人工智能编程代理",
-          "url": "http://ricapar.net/ClawDOS",
-          "source": "ricapar.net",
+          "id": "c313de9ae0f7283184eb7dd1d7b8d996ee9fcbf8",
+          "title": "Show HN: Agent-mcts——基于Claude代码的蒙特卡洛树搜索",
+          "url": "https://github.com/natsu0529/agent-mcts",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-21T13:07:54.916000Z"
+          "published_at": "2026-11-21T13:55:57.067000Z"
         },
         {
-          "id": "ca2b0eef5b4cd71fe4ef0c4a9cda6f71e2f70e5e",
-          "title": "ClawDOS——一款适用于DOS的人工智能编程代理 / ClawDOS – An AI coding agent for DOS",
-          "url": "http://ricapar.net/ClawDOS",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T05:38:01Z"
-        },
-        {
-          "id": "676963c438105d647a6a86adcc682ef67e6ccf2b",
-          "title": "ClawDOS – DOS 的人工智能编码代理 / ClawDOS – An AI coding agent for DOS",
-          "url": "https://news.ycombinator.com/item?id=50586292",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-21T05:38:01Z"
+          "id": "cd1ed20c0b8a3ea423d3d0939012753ac75c7f8b",
+          "title": "Show HN: Agent-mcts——基于Claude代码的蒙特卡洛树搜索 / Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code",
+          "url": "https://github.com/natsu0529/agent-mcts",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-11-21T13:53:08Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "ricapar.net"
+        "HN Algolia · AI 24h",
+        "github.com"
       ],
       "items": [
         {
-          "id": "0a4d9b70e1e3b89d3fbd53ece7c4c4e5cb67ed0a",
-          "title": "ClawDOS——一款适用于DOS的人工智能编程代理",
-          "url": "http://ricapar.net/ClawDOS",
-          "source": "ricapar.net",
+          "id": "c313de9ae0f7283184eb7dd1d7b8d996ee9fcbf8",
+          "title": "Show HN: Agent-mcts——基于Claude代码的蒙特卡洛树搜索",
+          "url": "https://github.com/natsu0529/agent-mcts",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-21T13:07:54.916000Z"
+          "published_at": "2026-11-21T13:55:57.067000Z"
         },
         {
-          "id": "ca2b0eef5b4cd71fe4ef0c4a9cda6f71e2f70e5e",
-          "title": "ClawDOS——一款适用于DOS的人工智能编程代理 / ClawDOS – An AI coding agent for DOS",
-          "url": "http://ricapar.net/ClawDOS",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T05:38:01Z"
-        },
-        {
-          "id": "676963c438105d647a6a86adcc682ef67e6ccf2b",
-          "title": "ClawDOS – DOS 的人工智能编码代理 / ClawDOS – An AI coding agent for DOS",
-          "url": "https://news.ycombinator.com/item?id=50586292",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-21T05:38:01Z"
+          "id": "cd1ed20c0b8a3ea423d3d0939012753ac75c7f8b",
+          "title": "Show HN: Agent-mcts——基于Claude代码的蒙特卡洛树搜索 / Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code",
+          "url": "https://github.com/natsu0529/agent-mcts",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-11-21T13:53:08Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5055,
+      "importance": 0.5055,
+      "importance_score": 0.5055,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8505,
-        "story_heat": 0.5
+        "recency": 0.7761,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-21T05:38:01Z",
-      "latest_at": "2026-11-21T13:07:54.916000Z",
+      "earliest_at": "2026-11-21T13:53:08Z",
+      "latest_at": "2026-11-21T13:55:57.067000Z",
       "primary_item": {
-        "id": "0a4d9b70e1e3b89d3fbd53ece7c4c4e5cb67ed0a",
-        "title": "ClawDOS——一款适用于DOS的人工智能编程代理",
-        "url": "http://ricapar.net/ClawDOS",
-        "source": "ricapar.net",
+        "id": "c313de9ae0f7283184eb7dd1d7b8d996ee9fcbf8",
+        "title": "Show HN: Agent-mcts——基于Claude代码的蒙特卡洛树搜索",
+        "url": "https://github.com/natsu0529/agent-mcts",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5d87055f8941",
+      "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
+      "url": "https://pwn.ai/upload2shell/research.html",
+      "primary_url": "https://pwn.ai/upload2shell/research.html",
+      "source": "pwn.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d67ccf48968ab5f78d77ef5d4d1db416677a7a57",
+          "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
+          "url": "https://pwn.ai/upload2shell/research.html",
+          "source": "pwn.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T01:06:51.065000Z"
+        },
+        {
+          "id": "83128c355d63644f2a316b3cbc290df88b69c668",
+          "title": "GhostScript CVE 2026-125396: \"Upload2Shell\"",
+          "url": "https://pwn.ai/upload2shell/research.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T00:52:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "pwn.ai"
+      ],
+      "items": [
+        {
+          "id": "d67ccf48968ab5f78d77ef5d4d1db416677a7a57",
+          "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
+          "url": "https://pwn.ai/upload2shell/research.html",
+          "source": "pwn.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T01:06:51.065000Z"
+        },
+        {
+          "id": "83128c355d63644f2a316b3cbc290df88b69c668",
+          "title": "GhostScript CVE 2026-125396: \"Upload2Shell\"",
+          "url": "https://pwn.ai/upload2shell/research.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T00:52:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.53,
+      "importance": 0.53,
+      "importance_score": 0.53,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9121,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T00:52:23Z",
+      "latest_at": "2026-11-22T01:06:51.065000Z",
+      "primary_item": {
+        "id": "d67ccf48968ab5f78d77ef5d4d1db416677a7a57",
+        "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
+        "url": "https://pwn.ai/upload2shell/research.html",
+        "source": "pwn.ai",
         "source_name": "Buzzing"
       }
     },
@@ -365,15 +820,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5428,
-      "importance": 0.5428,
-      "importance_score": 0.5428,
+      "score": 0.5254,
+      "importance": 0.5254,
+      "importance_score": 0.5254,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9832,
+        "recency": 0.8869,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -444,15 +899,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.528,
-      "importance": 0.528,
-      "importance_score": 0.528,
+      "score": 0.5121,
+      "importance": 0.5121,
+      "importance_score": 0.5121,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.901,
+        "recency": 0.8127,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -465,321 +920,6 @@
         "id": "6981da4332466228aed88ed59dbbc1b3f520b525",
         "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
         "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_79c1f4e3bee2",
-      "title": "Show HN: Agent-mcts——基于Claude代码的蒙特卡洛树搜索",
-      "url": "https://github.com/natsu0529/agent-mcts",
-      "primary_url": "https://github.com/natsu0529/agent-mcts",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c313de9ae0f7283184eb7dd1d7b8d996ee9fcbf8",
-          "title": "Show HN: Agent-mcts——基于Claude代码的蒙特卡洛树搜索",
-          "url": "https://github.com/natsu0529/agent-mcts",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T13:55:57.067000Z"
-        },
-        {
-          "id": "cd1ed20c0b8a3ea423d3d0939012753ac75c7f8b",
-          "title": "Show HN: Agent-mcts——基于Claude代码的蒙特卡洛树搜索 / Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code",
-          "url": "https://github.com/natsu0529/agent-mcts",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-11-21T13:53:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "c313de9ae0f7283184eb7dd1d7b8d996ee9fcbf8",
-          "title": "Show HN: Agent-mcts——基于Claude代码的蒙特卡洛树搜索",
-          "url": "https://github.com/natsu0529/agent-mcts",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T13:55:57.067000Z"
-        },
-        {
-          "id": "cd1ed20c0b8a3ea423d3d0939012753ac75c7f8b",
-          "title": "Show HN: Agent-mcts——基于Claude代码的蒙特卡洛树搜索 / Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code",
-          "url": "https://github.com/natsu0529/agent-mcts",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-11-21T13:53:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5207,
-      "importance": 0.5207,
-      "importance_score": 0.5207,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8604,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T13:53:08Z",
-      "latest_at": "2026-11-21T13:55:57.067000Z",
-      "primary_item": {
-        "id": "c313de9ae0f7283184eb7dd1d7b8d996ee9fcbf8",
-        "title": "Show HN: Agent-mcts——基于Claude代码的蒙特卡洛树搜索",
-        "url": "https://github.com/natsu0529/agent-mcts",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_cfea722a5658",
-      "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-      "url": "https://www.pandex.io",
-      "primary_url": "https://www.pandex.io",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "909d7442088e87203136232133bfd76c1ddde102",
-          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-          "url": "https://www.pandex.io",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T20:47:41Z"
-        },
-        {
-          "id": "368ac638dc0ce02c1d0bde0fa3e0a39bfd660edd",
-          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-          "url": "https://news.ycombinator.com/item?id=50593481",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-21T20:47:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "909d7442088e87203136232133bfd76c1ddde102",
-          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-          "url": "https://www.pandex.io",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T20:47:41Z"
-        },
-        {
-          "id": "368ac638dc0ce02c1d0bde0fa3e0a39bfd660edd",
-          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-          "url": "https://news.ycombinator.com/item?id=50593481",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-21T20:47:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5368,
-      "importance": 0.5368,
-      "importance_score": 0.5368,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.95,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T20:47:41Z",
-      "latest_at": "2026-11-21T20:47:41Z",
-      "primary_item": {
-        "id": "909d7442088e87203136232133bfd76c1ddde102",
-        "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-        "url": "https://www.pandex.io",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_cf0d00e047ce",
-      "title": "[人工智能] AI 行情结束的标志性事件—Anthropic 上市",
-      "url": "https://www.v2ex.com/t/1258710",
-      "primary_url": "https://www.v2ex.com/t/1258710",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "b151890721cdc5c3add190fea43a4135fc39fb25",
-          "title": "[人工智能] AI 行情结束的标志性事件—Anthropic 上市",
-          "url": "https://www.v2ex.com/t/1258710",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T03:26:11Z"
-        },
-        {
-          "id": "24a5bd93ba3eb7ea45cff29b84e018e25945dd77",
-          "title": "[问与答] AI 行情结束的标志性事件—Anthropic 上市",
-          "url": "https://www.v2ex.com/t/1258710",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T03:26:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "b151890721cdc5c3add190fea43a4135fc39fb25",
-          "title": "[人工智能] AI 行情结束的标志性事件—Anthropic 上市",
-          "url": "https://www.v2ex.com/t/1258710",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T03:26:11Z"
-        },
-        {
-          "id": "24a5bd93ba3eb7ea45cff29b84e018e25945dd77",
-          "title": "[问与答] AI 行情结束的标志性事件—Anthropic 上市",
-          "url": "https://www.v2ex.com/t/1258710",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T03:26:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4989,
-      "importance": 0.4989,
-      "importance_score": 0.4989,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7394,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T03:26:11Z",
-      "latest_at": "2026-11-21T03:26:11Z",
-      "primary_item": {
-        "id": "b151890721cdc5c3add190fea43a4135fc39fb25",
-        "title": "[人工智能] AI 行情结束的标志性事件—Anthropic 上市",
-        "url": "https://www.v2ex.com/t/1258710",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_263ea4d757a5",
-      "title": "这位旅游行业的首席技术官表示，人工智能让他的团队能够更快地推出产品。但仍有积压了10年的工作待完成。",
-      "url": "https://www.businessinsider.com/travel-and-leisure-co-cto-ai-faster-more-work-backlog-2026-11",
-      "primary_url": "https://www.businessinsider.com/travel-and-leisure-co-cto-ai-faster-more-work-backlog-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "92a024c32d9dba33c3ee96fd0c2b62726fbb1ca1",
-          "title": "这位旅游行业的首席技术官表示，人工智能让他的团队能够更快地推出产品。但仍有积压了10年的工作待完成。",
-          "url": "https://www.businessinsider.com/travel-and-leisure-co-cto-ai-faster-more-work-backlog-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T17:07:38.906000Z"
-        },
-        {
-          "id": "e56c7a907c09356c2877e78a71bfd464b2b934ed",
-          "title": "这位旅游行业的首席技术官表示，人工智能让他的团队能够更快地推出产品。但仍有积压了10年的工作待完成。 / This travel CTO says AI lets his team ship faster. There's still a 10-year backlog of work to do.",
-          "url": "https://www.businessinsider.com/travel-and-leisure-co-cto-ai-faster-more-work-backlog-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-21T10:47:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "92a024c32d9dba33c3ee96fd0c2b62726fbb1ca1",
-          "title": "这位旅游行业的首席技术官表示，人工智能让他的团队能够更快地推出产品。但仍有积压了10年的工作待完成。",
-          "url": "https://www.businessinsider.com/travel-and-leisure-co-cto-ai-faster-more-work-backlog-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T17:07:38.906000Z"
-        },
-        {
-          "id": "e56c7a907c09356c2877e78a71bfd464b2b934ed",
-          "title": "这位旅游行业的首席技术官表示，人工智能让他的团队能够更快地推出产品。但仍有积压了10年的工作待完成。 / This travel CTO says AI lets his team ship faster. There's still a 10-year backlog of work to do.",
-          "url": "https://www.businessinsider.com/travel-and-leisure-co-cto-ai-faster-more-work-backlog-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-21T10:47:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.528,
-      "importance": 0.528,
-      "importance_score": 0.528,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.901,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T10:47:01Z",
-      "latest_at": "2026-11-21T17:07:38.906000Z",
-      "primary_item": {
-        "id": "92a024c32d9dba33c3ee96fd0c2b62726fbb1ca1",
-        "title": "这位旅游行业的首席技术官表示，人工智能让他的团队能够更快地推出产品。但仍有积压了10年的工作待完成。",
-        "url": "https://www.businessinsider.com/travel-and-leisure-co-cto-ai-faster-more-work-backlog-2026-11",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -838,15 +978,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5187,
-      "importance": 0.5187,
-      "importance_score": 0.5187,
+      "score": 0.5037,
+      "importance": 0.5037,
+      "importance_score": 0.5037,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8495,
+        "recency": 0.7662,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -861,6 +1001,242 @@
         "url": "https://usstock.jrj.com.cn/2026/11/21200159225594.shtml",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_4cb2fb025b2b",
+      "title": "GnuPG 针对 GPGME 的安全公告 (T8557, CVE-2026-129975) / GnuPG Security Advisory for GPGME",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "primary_url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "0b24dcfb023b3306f22577bcb9d5e734765a80ff",
+          "title": "GnuPG 针对 GPGME 的安全公告 (T8557, CVE-2026-129975) / GnuPG Security Advisory for GPGME",
+          "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T08:32:58Z"
+        },
+        {
+          "id": "62dfa4ca692de887ef5de72481a583e5f84ebde6",
+          "title": "GnuPG 针对 GPGME 的安全公告 (T8557, CVE-2026-129975) / RCE in Gnupg",
+          "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T08:32:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "0b24dcfb023b3306f22577bcb9d5e734765a80ff",
+          "title": "GnuPG 针对 GPGME 的安全公告 (T8557, CVE-2026-129975) / GnuPG Security Advisory for GPGME",
+          "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T08:32:58Z"
+        },
+        {
+          "id": "62dfa4ca692de887ef5de72481a583e5f84ebde6",
+          "title": "GnuPG 针对 GPGME 的安全公告 (T8557, CVE-2026-129975) / RCE in Gnupg",
+          "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T08:32:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.495,
+      "importance": 0.495,
+      "importance_score": 0.495,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.718,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T08:32:58Z",
+      "latest_at": "2026-11-21T08:32:58Z",
+      "primary_item": {
+        "id": "0b24dcfb023b3306f22577bcb9d5e734765a80ff",
+        "title": "GnuPG 针对 GPGME 的安全公告 (T8557, CVE-2026-129975) / GnuPG Security Advisory for GPGME",
+        "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_cfea722a5658",
+      "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+      "url": "https://www.pandex.io",
+      "primary_url": "https://www.pandex.io",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "909d7442088e87203136232133bfd76c1ddde102",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "url": "https://www.pandex.io",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T20:47:41Z"
+        },
+        {
+          "id": "368ac638dc0ce02c1d0bde0fa3e0a39bfd660edd",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "url": "https://news.ycombinator.com/item?id=50593481",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-21T20:47:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "909d7442088e87203136232133bfd76c1ddde102",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "url": "https://www.pandex.io",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T20:47:41Z"
+        },
+        {
+          "id": "368ac638dc0ce02c1d0bde0fa3e0a39bfd660edd",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "url": "https://news.ycombinator.com/item?id=50593481",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-21T20:47:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.52,
+      "importance": 0.52,
+      "importance_score": 0.52,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8569,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T20:47:41Z",
+      "latest_at": "2026-11-21T20:47:41Z",
+      "primary_item": {
+        "id": "909d7442088e87203136232133bfd76c1ddde102",
+        "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+        "url": "https://www.pandex.io",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_263ea4d757a5",
+      "title": "这位旅游行业的首席技术官表示，人工智能让他的团队能够更快地推出产品。但仍有积压了10年的工作待完成。",
+      "url": "https://www.businessinsider.com/travel-and-leisure-co-cto-ai-faster-more-work-backlog-2026-11",
+      "primary_url": "https://www.businessinsider.com/travel-and-leisure-co-cto-ai-faster-more-work-backlog-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "92a024c32d9dba33c3ee96fd0c2b62726fbb1ca1",
+          "title": "这位旅游行业的首席技术官表示，人工智能让他的团队能够更快地推出产品。但仍有积压了10年的工作待完成。",
+          "url": "https://www.businessinsider.com/travel-and-leisure-co-cto-ai-faster-more-work-backlog-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-21T17:07:38.906000Z"
+        },
+        {
+          "id": "e56c7a907c09356c2877e78a71bfd464b2b934ed",
+          "title": "这位旅游行业的首席技术官表示，人工智能让他的团队能够更快地推出产品。但仍有积压了10年的工作待完成。 / This travel CTO says AI lets his team ship faster. There's still a 10-year backlog of work to do.",
+          "url": "https://www.businessinsider.com/travel-and-leisure-co-cto-ai-faster-more-work-backlog-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-21T10:47:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "92a024c32d9dba33c3ee96fd0c2b62726fbb1ca1",
+          "title": "这位旅游行业的首席技术官表示，人工智能让他的团队能够更快地推出产品。但仍有积压了10年的工作待完成。",
+          "url": "https://www.businessinsider.com/travel-and-leisure-co-cto-ai-faster-more-work-backlog-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-21T17:07:38.906000Z"
+        },
+        {
+          "id": "e56c7a907c09356c2877e78a71bfd464b2b934ed",
+          "title": "这位旅游行业的首席技术官表示，人工智能让他的团队能够更快地推出产品。但仍有积压了10年的工作待完成。 / This travel CTO says AI lets his team ship faster. There's still a 10-year backlog of work to do.",
+          "url": "https://www.businessinsider.com/travel-and-leisure-co-cto-ai-faster-more-work-backlog-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-21T10:47:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5121,
+      "importance": 0.5121,
+      "importance_score": 0.5121,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8127,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T10:47:01Z",
+      "latest_at": "2026-11-21T17:07:38.906000Z",
+      "primary_item": {
+        "id": "92a024c32d9dba33c3ee96fd0c2b62726fbb1ca1",
+        "title": "这位旅游行业的首席技术官表示，人工智能让他的团队能够更快地推出产品。但仍有积压了10年的工作待完成。",
+        "url": "https://www.businessinsider.com/travel-and-leisure-co-cto-ai-faster-more-work-backlog-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -917,15 +1293,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5219,
-      "importance": 0.5219,
-      "importance_score": 0.5219,
+      "score": 0.5066,
+      "importance": 0.5066,
+      "importance_score": 0.5066,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8671,
+        "recency": 0.7821,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -940,85 +1316,6 @@
         "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_54ae3b6f147c",
-      "title": "近 200 万条请求揭开 AI 隐私漏洞：「零数据保留」也会泄密",
-      "url": "https://www.ithome.com/1/030/322.htm",
-      "primary_url": "https://www.ithome.com/1/030/322.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "e1cac2695e79c0661e06639aeaf9d5444c4a7fbf",
-          "title": "近 200 万条请求揭开 AI 隐私漏洞：「零数据保留」也会泄密",
-          "url": "https://www.ithome.com/1/030/322.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "756f826e5fc05006f50f802145ca8a4ef351c5f4",
-          "title": "近 200 万条请求揭开 AI 隐私漏洞：“零数据保留”也会泄密",
-          "url": "https://www.ithome.com/1/030/322.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T02:03:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e1cac2695e79c0661e06639aeaf9d5444c4a7fbf",
-          "title": "近 200 万条请求揭开 AI 隐私漏洞：「零数据保留」也会泄密",
-          "url": "https://www.ithome.com/1/030/322.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "756f826e5fc05006f50f802145ca8a4ef351c5f4",
-          "title": "近 200 万条请求揭开 AI 隐私漏洞：“零数据保留”也会泄密",
-          "url": "https://www.ithome.com/1/030/322.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T02:03:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5005,
-      "importance": 0.5005,
-      "importance_score": 0.5005,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7486,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T02:03:24Z",
-      "latest_at": "2026-11-21T04:17:15.865088Z",
-      "primary_item": {
-        "id": "e1cac2695e79c0661e06639aeaf9d5444c4a7fbf",
-        "title": "近 200 万条请求揭开 AI 隐私漏洞：「零数据保留」也会泄密",
-        "url": "https://www.ithome.com/1/030/322.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
