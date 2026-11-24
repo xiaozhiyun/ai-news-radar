@@ -1,8 +1,152 @@
 {
-  "generated_at": "2026-11-23T22:15:59.953418Z",
+  "generated_at": "2026-11-24T06:07:47.031973Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_1d0c151fefed",
+      "title": "OpenAI 和 Cisco 推出 Shirudo / OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "primary_url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e49ae394ba7181b0e741586310bf0c39190db59d",
+          "title": "OpenAI 和 Cisco 推出 Shirudo / OpenAI and Cisco introduce Shirudo",
+          "url": "https://openai.com/index/introducing-shirudo",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-23T21:20:00Z"
+        },
+        {
+          "id": "99028839716403f809f4ac0f46cec51f90006bdf",
+          "title": "Shirudo：OpenAI 和 Cisco 的开源运行时，用于屏蔽未打补丁的 Linux / Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+          "url": "https://openai.com/index/introducing-shirudo",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-23T21:30:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "e49ae394ba7181b0e741586310bf0c39190db59d",
+          "title": "OpenAI 和 Cisco 推出 Shirudo / OpenAI and Cisco introduce Shirudo",
+          "url": "https://openai.com/index/introducing-shirudo",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-23T21:20:00Z"
+        },
+        {
+          "id": "99028839716403f809f4ac0f46cec51f90006bdf",
+          "title": "Shirudo：OpenAI 和 Cisco 的开源运行时，用于屏蔽未打补丁的 Linux / Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+          "url": "https://openai.com/index/introducing-shirudo",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-23T21:30:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8555,
+      "importance": 0.8555,
+      "importance_score": 0.8555,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8807,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T21:20:00Z",
+      "latest_at": "2026-11-23T21:30:41Z",
+      "primary_item": {
+        "id": "e49ae394ba7181b0e741586310bf0c39190db59d",
+        "title": "OpenAI 和 Cisco 推出 Shirudo / OpenAI and Cisco introduce Shirudo",
+        "url": "https://openai.com/index/introducing-shirudo",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.172.0 / Codex CLI 0.172.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a86ce16aa6bbfbe39d95e707d790bdd9e72a0561",
+          "title": "法典 CLI 0.172.0 / Codex CLI 0.172.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-24T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "a86ce16aa6bbfbe39d95e707d790bdd9e72a0561",
+          "title": "法典 CLI 0.172.0 / Codex CLI 0.172.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-24T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8508,
+      "importance": 0.8508,
+      "importance_score": 0.8508,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9153,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T00:00:00Z",
+      "latest_at": "2026-11-24T00:00:00Z",
+      "primary_item": {
+        "id": "a86ce16aa6bbfbe39d95e707d790bdd9e72a0561",
+        "title": "法典 CLI 0.172.0 / Codex CLI 0.172.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_ca38829e7312",
       "title": "RoboTrack：现实世界机器人操作的点跟踪 / RoboTrack: Point tracking for real-world robotic manipulation",
@@ -38,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8536,
-      "importance": 0.8536,
-      "importance_score": 0.8536,
+      "score": 0.8357,
+      "importance": 0.8357,
+      "importance_score": 0.8357,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9314,
+        "recency": 0.8314,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8398,
-      "importance": 0.8398,
-      "importance_score": 0.8398,
+      "score": 0.8209,
+      "importance": 0.8209,
+      "importance_score": 0.8209,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9765,
+        "recency": 0.8717,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +306,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8308,
-      "importance": 0.8308,
-      "importance_score": 0.8308,
+      "score": 0.8129,
+      "importance": 0.8129,
+      "importance_score": 0.8129,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9268,
+        "recency": 0.8273,
         "story_heat": 0.0
       },
       "category": "official",
@@ -224,15 +368,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8308,
-      "importance": 0.8308,
-      "importance_score": 0.8308,
+      "score": 0.8129,
+      "importance": 0.8129,
+      "importance_score": 0.8129,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9267,
+        "recency": 0.8272,
         "story_heat": 0.0
       },
       "category": "official",
@@ -248,6 +392,149 @@
         "title": "通过代理和形式验证寻找更快的量子算法 / Finding faster quantum algorithms with agents and formal verification",
         "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
         "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9478f472e218",
+      "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+      "url": "https://www.aibase.com/news/32493",
+      "primary_url": "https://www.aibase.com/news/32493",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "31c1600aea349009f25d06633d704b728d86e842",
+          "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+          "url": "https://www.aibase.com/news/32493",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T06:07:47.031973Z"
+        },
+        {
+          "id": "3d4278ed7c98e9fd42ffcfacb7ab7cd29998620f",
+          "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+          "url": "https://www.aibase.com/zh/news/32493",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "31c1600aea349009f25d06633d704b728d86e842",
+          "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+          "url": "https://www.aibase.com/news/32493",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T06:07:47.031973Z"
+        },
+        {
+          "id": "3d4278ed7c98e9fd42ffcfacb7ab7cd29998620f",
+          "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+          "url": "https://www.aibase.com/zh/news/32493",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T06:07:47.031973Z",
+      "latest_at": "2026-11-24T06:07:47.031973Z",
+      "primary_item": {
+        "id": "31c1600aea349009f25d06633d704b728d86e842",
+        "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+        "url": "https://www.aibase.com/news/32493",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b3c4595342c9",
+      "title": "秘密扫描减少了 Slack 的误报 / Secret scanning reduces false positives for Slack",
+      "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
+      "primary_url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "75d1d6e4a5034193847eea858e77575e3ae2594d",
+          "title": "秘密扫描减少了 Slack 的误报 / Secret scanning reduces false positives for Slack",
+          "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-23T18:32:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "75d1d6e4a5034193847eea858e77575e3ae2594d",
+          "title": "秘密扫描减少了 Slack 的误报 / Secret scanning reduces false positives for Slack",
+          "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-23T18:32:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.846,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T18:32:59Z",
+      "latest_at": "2026-11-23T18:32:59Z",
+      "primary_item": {
+        "id": "75d1d6e4a5034193847eea858e77575e3ae2594d",
+        "title": "秘密扫描减少了 Slack 的误报 / Secret scanning reduces false positives for Slack",
+        "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -286,15 +573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8185,
-      "importance": 0.8185,
-      "importance_score": 0.8185,
+      "score": 0.8028,
+      "importance": 0.8028,
+      "importance_score": 0.8028,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8138,
+        "recency": 0.7265,
         "story_heat": 0.0
       },
       "category": "official",
@@ -314,21 +601,102 @@
       }
     },
     {
-      "story_id": "story_b3c4595342c9",
-      "title": "秘密扫描减少了 Slack 的误报 / Secret scanning reduces false positives for Slack",
-      "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
-      "primary_url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
+      "story_id": "story_5d8d2523b737",
+      "title": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
+      "url": "https://www.aibase.com/news/32484",
+      "primary_url": "https://www.aibase.com/news/32484",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "99151631d278e7c2f783d6c0584352d6f714dbbd",
+          "title": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
+          "url": "https://www.aibase.com/news/32484",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T06:07:47.031973Z"
+        },
+        {
+          "id": "eee4650d6728b18a110120c181f8e741369d04fb",
+          "title": "一句提示词造一个「灾情」：公安部网安局公布 10 起 AI 造谣典型案",
+          "url": "https://www.aibase.com/zh/news/32484",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "99151631d278e7c2f783d6c0584352d6f714dbbd",
+          "title": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
+          "url": "https://www.aibase.com/news/32484",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T06:07:47.031973Z"
+        },
+        {
+          "id": "eee4650d6728b18a110120c181f8e741369d04fb",
+          "title": "一句提示词造一个「灾情」：公安部网安局公布 10 起 AI 造谣典型案",
+          "url": "https://www.aibase.com/zh/news/32484",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T06:07:47.031973Z",
+      "latest_at": "2026-11-24T06:07:47.031973Z",
+      "primary_item": {
+        "id": "99151631d278e7c2f783d6c0584352d6f714dbbd",
+        "title": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
+        "url": "https://www.aibase.com/news/32484",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_cbd75850d76c",
+      "title": "代码覆盖率上传现在标记无效的报告格式 / Code coverage uploads now flag invalid report formats",
+      "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
+      "primary_url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "75d1d6e4a5034193847eea858e77575e3ae2594d",
-          "title": "秘密扫描减少了 Slack 的误报 / Secret scanning reduces false positives for Slack",
-          "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
+          "id": "ca75ffb7174862783c75d0de59920d7122035dd0",
+          "title": "代码覆盖率上传现在标记无效的报告格式 / Code coverage uploads now flag invalid report formats",
+          "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-23T18:32:59Z"
+          "published_at": "2026-11-23T15:28:36Z"
         }
       ],
       "source_count": 1,
@@ -337,26 +705,26 @@
       ],
       "items": [
         {
-          "id": "75d1d6e4a5034193847eea858e77575e3ae2594d",
-          "title": "秘密扫描减少了 Slack 的误报 / Secret scanning reduces false positives for Slack",
-          "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
+          "id": "ca75ffb7174862783c75d0de59920d7122035dd0",
+          "title": "代码覆盖率上传现在标记无效的报告格式 / Code coverage uploads now flag invalid report formats",
+          "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-23T18:32:59Z"
+          "published_at": "2026-11-23T15:28:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8346,
-      "importance": 0.8346,
-      "importance_score": 0.8346,
+      "score": 0.8097,
+      "importance": 0.8097,
+      "importance_score": 0.8097,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9477,
+        "recency": 0.8093,
         "story_heat": 0.0
       },
       "category": "official",
@@ -365,75 +733,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-23T18:32:59Z",
-      "latest_at": "2026-11-23T18:32:59Z",
+      "earliest_at": "2026-11-23T15:28:36Z",
+      "latest_at": "2026-11-23T15:28:36Z",
       "primary_item": {
-        "id": "75d1d6e4a5034193847eea858e77575e3ae2594d",
-        "title": "秘密扫描减少了 Slack 的误报 / Secret scanning reduces false positives for Slack",
-        "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
+        "id": "ca75ffb7174862783c75d0de59920d7122035dd0",
+        "title": "代码覆盖率上传现在标记无效的报告格式 / Code coverage uploads now flag invalid report formats",
+        "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6fd4c32fe34a",
-      "title": "如何建立和维护代理评估 / How to build and maintain an agentic evaluation",
-      "url": "https://huggingface.co/blog/agentic-evals",
-      "primary_url": "https://huggingface.co/blog/agentic-evals",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "680641d5c3420dd491f25691ee7b069a787a7d67",
-          "title": "如何建立和维护代理评估 / How to build and maintain an agentic evaluation",
-          "url": "https://huggingface.co/blog/agentic-evals",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "680641d5c3420dd491f25691ee7b069a787a7d67",
-          "title": "如何建立和维护代理评估 / How to build and maintain an agentic evaluation",
-          "url": "https://huggingface.co/blog/agentic-evals",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8205,
-      "importance": 0.8205,
-      "importance_score": 0.8205,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.725,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T00:00:00Z",
-      "latest_at": "2026-11-23T00:00:00Z",
-      "primary_item": {
-        "id": "680641d5c3420dd491f25691ee7b069a787a7d67",
-        "title": "如何建立和维护代理评估 / How to build and maintain an agentic evaluation",
-        "url": "https://huggingface.co/blog/agentic-evals",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -472,15 +778,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8185,
-      "importance": 0.8185,
-      "importance_score": 0.8185,
+      "score": 0.8028,
+      "importance": 0.8028,
+      "importance_score": 0.8028,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8138,
+        "recency": 0.7265,
         "story_heat": 0.0
       },
       "category": "official",
@@ -500,21 +806,102 @@
       }
     },
     {
-      "story_id": "story_cbd75850d76c",
-      "title": "代码覆盖率上传现在标记无效的报告格式 / Code coverage uploads now flag invalid report formats",
-      "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
-      "primary_url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
+      "story_id": "story_2a6b8f20951e",
+      "title": "谷歌让 Gemini 4 智能体“开会”改造量子算法：最高提速 290 倍，还附带数学正确性证明",
+      "url": "https://www.aibase.com/news/32481",
+      "primary_url": "https://www.aibase.com/news/32481",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2768257bfbae3e6d3f5772db07279c754c26c0bb",
+          "title": "谷歌让 Gemini 4 智能体“开会”改造量子算法：最高提速 290 倍，还附带数学正确性证明",
+          "url": "https://www.aibase.com/news/32481",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T06:07:47.031973Z"
+        },
+        {
+          "id": "d014d34fb369fe09880321a630f74ed33cdaa43b",
+          "title": "谷歌让 Gemini 4 智能体「开会」改造量子算法：最高提速 290 倍，还附带数学正确性证明",
+          "url": "https://www.aibase.com/zh/news/32481",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "2768257bfbae3e6d3f5772db07279c754c26c0bb",
+          "title": "谷歌让 Gemini 4 智能体“开会”改造量子算法：最高提速 290 倍，还附带数学正确性证明",
+          "url": "https://www.aibase.com/news/32481",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T06:07:47.031973Z"
+        },
+        {
+          "id": "d014d34fb369fe09880321a630f74ed33cdaa43b",
+          "title": "谷歌让 Gemini 4 智能体「开会」改造量子算法：最高提速 290 倍，还附带数学正确性证明",
+          "url": "https://www.aibase.com/zh/news/32481",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T06:07:47.031973Z",
+      "latest_at": "2026-11-24T06:07:47.031973Z",
+      "primary_item": {
+        "id": "2768257bfbae3e6d3f5772db07279c754c26c0bb",
+        "title": "谷歌让 Gemini 4 智能体“开会”改造量子算法：最高提速 290 倍，还附带数学正确性证明",
+        "url": "https://www.aibase.com/news/32481",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ebcacbb197f5",
+      "title": "从 12 月 1 日开始，使用情况报告将包含用户 ID 列 / Usage reports will include a user ID column starting December 1",
+      "url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
+      "primary_url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ca75ffb7174862783c75d0de59920d7122035dd0",
-          "title": "代码覆盖率上传现在标记无效的报告格式 / Code coverage uploads now flag invalid report formats",
-          "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
+          "id": "506b940c695586dbdce4440d3cd52f4980b58671",
+          "title": "从 12 月 1 日开始，使用情况报告将包含用户 ID 列 / Usage reports will include a user ID column starting December 1",
+          "url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-23T15:28:36Z"
+          "published_at": "2026-11-23T10:29:36Z"
         }
       ],
       "source_count": 1,
@@ -523,26 +910,26 @@
       ],
       "items": [
         {
-          "id": "ca75ffb7174862783c75d0de59920d7122035dd0",
-          "title": "代码覆盖率上传现在标记无效的报告格式 / Code coverage uploads now flag invalid report formats",
-          "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
+          "id": "506b940c695586dbdce4440d3cd52f4980b58671",
+          "title": "从 12 月 1 日开始，使用情况报告将包含用户 ID 列 / Usage reports will include a user ID column starting December 1",
+          "url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-23T15:28:36Z"
+          "published_at": "2026-11-23T10:29:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8272,
-      "importance": 0.8272,
-      "importance_score": 0.8272,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9066,
+        "recency": 0.7531,
         "story_heat": 0.0
       },
       "category": "official",
@@ -551,37 +938,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-23T15:28:36Z",
-      "latest_at": "2026-11-23T15:28:36Z",
+      "earliest_at": "2026-11-23T10:29:36Z",
+      "latest_at": "2026-11-23T10:29:36Z",
       "primary_item": {
-        "id": "ca75ffb7174862783c75d0de59920d7122035dd0",
-        "title": "代码覆盖率上传现在标记无效的报告格式 / Code coverage uploads now flag invalid report formats",
-        "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
+        "id": "506b940c695586dbdce4440d3cd52f4980b58671",
+        "title": "从 12 月 1 日开始，使用情况报告将包含用户 ID 列 / Usage reports will include a user ID column starting December 1",
+        "url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_ccaf854de25c",
-      "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-      "url": "https://www.aibase.com/news/32479",
-      "primary_url": "https://www.aibase.com/news/32479",
+      "story_id": "story_c4b37ab58ddc",
+      "title": "骗子从邮件打到电话：微软给 Teams 配了位 AI 反诈员",
+      "url": "https://www.aibase.com/news/32488",
+      "primary_url": "https://www.aibase.com/news/32488",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0c9e0bd8de412913b9c97850bde42f78e4005db7",
-          "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-          "url": "https://www.aibase.com/news/32479",
+          "id": "7f7bcd7f0fa83975a11acb160eae90e60bcdde6b",
+          "title": "骗子从邮件打到电话：微软给 Teams 配了位 AI 反诈员",
+          "url": "https://www.aibase.com/news/32488",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-23T10:46:53.366987Z"
+          "published_at": "2026-11-24T06:07:47.031973Z"
         },
         {
-          "id": "1d0c4595a26368dbf9c0846169436917175d7f66",
-          "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-          "url": "https://www.aibase.com/zh/news/32479",
+          "id": "d43fb383217e779489e716294e0ee8b1d180c86c",
+          "title": "骗子从邮件打到电话：微软给 Teams 配了位 AI 反诈员",
+          "url": "https://www.aibase.com/zh/news/32488",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -595,18 +982,18 @@
       ],
       "items": [
         {
-          "id": "0c9e0bd8de412913b9c97850bde42f78e4005db7",
-          "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-          "url": "https://www.aibase.com/news/32479",
+          "id": "7f7bcd7f0fa83975a11acb160eae90e60bcdde6b",
+          "title": "骗子从邮件打到电话：微软给 Teams 配了位 AI 反诈员",
+          "url": "https://www.aibase.com/news/32488",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-23T10:46:53.366987Z"
+          "published_at": "2026-11-24T06:07:47.031973Z"
         },
         {
-          "id": "1d0c4595a26368dbf9c0846169436917175d7f66",
-          "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-          "url": "https://www.aibase.com/zh/news/32479",
+          "id": "d43fb383217e779489e716294e0ee8b1d180c86c",
+          "title": "骗子从邮件打到电话：微软给 Teams 配了位 AI 反诈员",
+          "url": "https://www.aibase.com/zh/news/32488",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -615,15 +1002,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8472,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -632,833 +1019,463 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-23T10:46:53.366987Z",
-      "latest_at": "2026-11-23T10:46:53.366987Z",
+      "earliest_at": "2026-11-24T06:07:47.031973Z",
+      "latest_at": "2026-11-24T06:07:47.031973Z",
       "primary_item": {
-        "id": "0c9e0bd8de412913b9c97850bde42f78e4005db7",
-        "title": "90 分钟全 AI 造出的故事片上线三家卫视：深圳首部 AIGC 电影长片《奇妙连接》没有一台实景摄像机",
-        "url": "https://www.aibase.com/news/32479",
+        "id": "7f7bcd7f0fa83975a11acb160eae90e60bcdde6b",
+        "title": "骗子从邮件打到电话：微软给 Teams 配了位 AI 反诈员",
+        "url": "https://www.aibase.com/news/32488",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_178867387843",
-      "title": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
-      "url": "https://www.aibase.com/news/32477",
-      "primary_url": "https://www.aibase.com/news/32477",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_2df82173bb28",
+      "title": "AI 做音乐正从“生成一首歌”走向完整创作流程，但发布和变现的规则也在收紧。这期《AI 音乐周刊》汇总了 Suno 歌曲转视频、在 AI 助手里直接做歌，以及用对话修改音效、配乐等更新，同时梳理平台对冒名作品、刷量与训练授权的新动向。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-11-23",
+      "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "c24ae4325f31c09636c53104e259e9ded470d681",
-          "title": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
-          "url": "https://www.aibase.com/news/32477",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T10:46:53.366987Z"
+          "id": "2e264141649b7f78d075bd0540f12936bbd80c7b",
+          "title": "AI 做音乐正从“生成一首歌”走向完整创作流程，但发布和变现的规则也在收紧。这期《AI 音乐周刊》汇总了 Suno 歌曲转视频、在 AI 助手里直接做歌，以及用对话修改音效、配乐等更新，同时梳理平台对冒名作品、刷量与训练授权的新动向。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-24T06:07:47.031973Z"
         },
         {
-          "id": "d3da0595c59eb445a24870cc44e3a62b7fcbb0a9",
-          "title": "一台被黑客「晒」上网的攻击工具，暴露了 AI 作案的全过程",
-          "url": "https://www.aibase.com/zh/news/32477",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "395b78ffc9ad2cd3906318702839f140949c6cc9",
+          "title": "AI 生成的 3D 角色看着很帅，一动起来却穿模、滑步，连武器都握不稳？Fini 用一款三国动作游戏，拆解了从单张参考图到电脑、手机双端可玩的完整流程：规范角色图、生成模型与动作、压缩素材，再逐步修好动作细节、补上打击感和Boss战。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-24T06:07:47.031973Z"
+        },
+        {
+          "id": "313a9b37f9237d4f8b497f6ed69f79b9909546f2",
+          "title": "Claude、Codex、Gemini 都用上了，结果自己却成了在窗口间搬运需求和代码的“传话员”？作者用T3 Code把多个模型组织成一支开发团队，从安装配置讲到任务交接、权限管理和跨模型审查，附有可复用的团队规则与角色提示词。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-24T06:07:47.031973Z"
+        },
+        {
+          "id": "ad077e9b03ba621a8f3df40e7e49be2b31cecc1b",
+          "title": "一个人带 18 个 AI 助手，结果 149 件成果都堵在“等我看”。元子用自己的一人运营部复盘了一个真实困境：AI 产出越快，人的审核和决策越容易成为瓶颈。适合独立创作者和小团队参考，看看如何减少无效确认，把有限精力留给真正需要自己拍板的事。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-24T06:07:47.031973Z"
+        },
+        {
+          "id": "5403db82941fa6fb061d8d874a5fe77225b6d93b",
+          "title": "做绘本动画、科普视频，还要反复生成镜头、剪辑配音、对齐字幕？阿真分享了两个 Skill，用透明底图片加代码动效制作视频，自动对齐音画，还能把英语故事做成带生词问答的互动网页，省去反复生成 AI 视频的成本。可以试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-24T06:07:47.031973Z"
+        },
+        {
+          "id": "7fc61ee9360733b4d2377cd689e004ff16475857",
+          "title": "同样打开 Google AI Pro 订阅页，为什么有人能看到首年 99.99 美元，有人仍是原价？老金分享了自己获得黑五优惠的操作经历，从原有订阅处理、月付转年付，到退款、权益核验和关闭自动续费，都配了截图。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-24T06:07:47.031973Z"
+        },
+        {
+          "id": "ff01d8ca220b9997668cbca7987dd5e9157abe03",
+          "title": "员工用 AI 越来越快，项目却还在等审批、等交接，省下的时间又变成了更多材料和会议。这篇沿着“个人助手→办公交付→团队协作”的演进，拆解了一个现实问题：每个人都有 AI，为什么团队仍然忙乱？",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-24T06:07:47.031973Z"
+        },
+        {
+          "id": "9d2fd46a5686f410724697b0830ab93895bfa55f",
+          "title": "第二届 GEO 大会复盘汇集 27 位行业专家的实战分享，把“让 AI 找到你”到“让用户选择你”之间的关键环节串了起来：用真实资料建立信任、按统一口径监测效果，再用官网、电话和商品页面接住需求。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-24T06:07:47.031973Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 8,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "社区更新 · 2026-11-23"
       ],
       "items": [
         {
-          "id": "c24ae4325f31c09636c53104e259e9ded470d681",
-          "title": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
-          "url": "https://www.aibase.com/news/32477",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T10:46:53.366987Z"
+          "id": "2e264141649b7f78d075bd0540f12936bbd80c7b",
+          "title": "AI 做音乐正从“生成一首歌”走向完整创作流程，但发布和变现的规则也在收紧。这期《AI 音乐周刊》汇总了 Suno 歌曲转视频、在 AI 助手里直接做歌，以及用对话修改音效、配乐等更新，同时梳理平台对冒名作品、刷量与训练授权的新动向。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-24T06:07:47.031973Z"
         },
         {
-          "id": "d3da0595c59eb445a24870cc44e3a62b7fcbb0a9",
-          "title": "一台被黑客「晒」上网的攻击工具，暴露了 AI 作案的全过程",
-          "url": "https://www.aibase.com/zh/news/32477",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "395b78ffc9ad2cd3906318702839f140949c6cc9",
+          "title": "AI 生成的 3D 角色看着很帅，一动起来却穿模、滑步，连武器都握不稳？Fini 用一款三国动作游戏，拆解了从单张参考图到电脑、手机双端可玩的完整流程：规范角色图、生成模型与动作、压缩素材，再逐步修好动作细节、补上打击感和Boss战。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-24T06:07:47.031973Z"
+        },
+        {
+          "id": "313a9b37f9237d4f8b497f6ed69f79b9909546f2",
+          "title": "Claude、Codex、Gemini 都用上了，结果自己却成了在窗口间搬运需求和代码的“传话员”？作者用T3 Code把多个模型组织成一支开发团队，从安装配置讲到任务交接、权限管理和跨模型审查，附有可复用的团队规则与角色提示词。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-24T06:07:47.031973Z"
+        },
+        {
+          "id": "ad077e9b03ba621a8f3df40e7e49be2b31cecc1b",
+          "title": "一个人带 18 个 AI 助手，结果 149 件成果都堵在“等我看”。元子用自己的一人运营部复盘了一个真实困境：AI 产出越快，人的审核和决策越容易成为瓶颈。适合独立创作者和小团队参考，看看如何减少无效确认，把有限精力留给真正需要自己拍板的事。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-24T06:07:47.031973Z"
+        },
+        {
+          "id": "5403db82941fa6fb061d8d874a5fe77225b6d93b",
+          "title": "做绘本动画、科普视频，还要反复生成镜头、剪辑配音、对齐字幕？阿真分享了两个 Skill，用透明底图片加代码动效制作视频，自动对齐音画，还能把英语故事做成带生词问答的互动网页，省去反复生成 AI 视频的成本。可以试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-24T06:07:47.031973Z"
+        },
+        {
+          "id": "7fc61ee9360733b4d2377cd689e004ff16475857",
+          "title": "同样打开 Google AI Pro 订阅页，为什么有人能看到首年 99.99 美元，有人仍是原价？老金分享了自己获得黑五优惠的操作经历，从原有订阅处理、月付转年付，到退款、权益核验和关闭自动续费，都配了截图。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-24T06:07:47.031973Z"
+        },
+        {
+          "id": "ff01d8ca220b9997668cbca7987dd5e9157abe03",
+          "title": "员工用 AI 越来越快，项目却还在等审批、等交接，省下的时间又变成了更多材料和会议。这篇沿着“个人助手→办公交付→团队协作”的演进，拆解了一个现实问题：每个人都有 AI，为什么团队仍然忙乱？",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-24T06:07:47.031973Z"
+        },
+        {
+          "id": "9d2fd46a5686f410724697b0830ab93895bfa55f",
+          "title": "第二届 GEO 大会复盘汇集 27 位行业专家的实战分享，把“让 AI 找到你”到“让用户选择你”之间的关键环节串了起来：用真实资料建立信任、按统一口径监测效果，再用官网、电话和商品页面接住需求。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-24T06:07:47.031973Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8472,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T10:46:53.366987Z",
-      "latest_at": "2026-11-23T10:46:53.366987Z",
-      "primary_item": {
-        "id": "c24ae4325f31c09636c53104e259e9ded470d681",
-        "title": "一台被黑客“晒”上网的攻击工具，暴露了 AI 作案的全过程",
-        "url": "https://www.aibase.com/news/32477",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_60b564592090",
-      "title": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
-      "url": "https://www.aibase.com/news/32480",
-      "primary_url": "https://www.aibase.com/news/32480",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0bb0f050d03466962346bf62d1c1151fd5156d25",
-          "title": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
-          "url": "https://www.aibase.com/news/32480",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T10:46:53.366987Z"
-        },
-        {
-          "id": "02687956fe86f203d22330d92347a0cae5345f59",
-          "title": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音「喊」出座舱",
-          "url": "https://www.aibase.com/zh/news/32480",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0bb0f050d03466962346bf62d1c1151fd5156d25",
-          "title": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
-          "url": "https://www.aibase.com/news/32480",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T10:46:53.366987Z"
-        },
-        {
-          "id": "02687956fe86f203d22330d92347a0cae5345f59",
-          "title": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音「喊」出座舱",
-          "url": "https://www.aibase.com/zh/news/32480",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8472,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T10:46:53.366987Z",
-      "latest_at": "2026-11-23T10:46:53.366987Z",
-      "primary_item": {
-        "id": "0bb0f050d03466962346bf62d1c1151fd5156d25",
-        "title": "新款深蓝 L07 定档广州车展：800V 平台全系上激光雷达，豆包大模型把语音“喊”出座舱",
-        "url": "https://www.aibase.com/news/32480",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c3f90d362c13",
-      "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
-      "url": "https://www.aibase.com/news/32463",
-      "primary_url": "https://www.aibase.com/news/32463",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1d4030270c6b38ec291b10fbbc6a7cf42fa259d1",
-          "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
-          "url": "https://www.aibase.com/news/32463",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T08:55:32.156443Z"
-        },
-        {
-          "id": "a6536d250f1c21d25347d8f3f217214c166f29d0",
-          "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
-          "url": "https://www.aibase.com/zh/news/32463",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "1d4030270c6b38ec291b10fbbc6a7cf42fa259d1",
-          "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
-          "url": "https://www.aibase.com/news/32463",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T08:55:32.156443Z"
-        },
-        {
-          "id": "a6536d250f1c21d25347d8f3f217214c166f29d0",
-          "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
-          "url": "https://www.aibase.com/zh/news/32463",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8248,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T08:55:32.156443Z",
-      "latest_at": "2026-11-23T08:55:32.156443Z",
-      "primary_item": {
-        "id": "1d4030270c6b38ec291b10fbbc6a7cf42fa259d1",
-        "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
-        "url": "https://www.aibase.com/news/32463",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7758e9b44180",
-      "title": "把主权 AI 做成生意：Mistral AI 把亚太总部落在新加坡",
-      "url": "https://www.aibase.com/news/32468",
-      "primary_url": "https://www.aibase.com/news/32468",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e9c159da8cd45ccaf466bbefbdb99d1303f828ad",
-          "title": "把主权 AI 做成生意：Mistral AI 把亚太总部落在新加坡",
-          "url": "https://www.aibase.com/news/32468",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T08:55:32.156443Z"
-        },
-        {
-          "id": "8de3c0e95a597640604916096276fd27b4cbd3e5",
-          "title": "把主权 AI 做成生意：Mistral AI 把亚太总部落在新加坡",
-          "url": "https://www.aibase.com/zh/news/32468",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e9c159da8cd45ccaf466bbefbdb99d1303f828ad",
-          "title": "把主权 AI 做成生意：Mistral AI 把亚太总部落在新加坡",
-          "url": "https://www.aibase.com/news/32468",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T08:55:32.156443Z"
-        },
-        {
-          "id": "8de3c0e95a597640604916096276fd27b4cbd3e5",
-          "title": "把主权 AI 做成生意：Mistral AI 把亚太总部落在新加坡",
-          "url": "https://www.aibase.com/zh/news/32468",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8248,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T08:55:32.156443Z",
-      "latest_at": "2026-11-23T08:55:32.156443Z",
-      "primary_item": {
-        "id": "e9c159da8cd45ccaf466bbefbdb99d1303f828ad",
-        "title": "把主权 AI 做成生意：Mistral AI 把亚太总部落在新加坡",
-        "url": "https://www.aibase.com/news/32468",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a42db91deff9",
-      "title": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
-      "url": "https://www.aibase.com/news/32450",
-      "primary_url": "https://www.aibase.com/news/32450",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5dcbf08f502b27fee9570185201dcddd8df64ec7",
-          "title": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
-          "url": "https://www.aibase.com/news/32450",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T01:48:28.233707Z"
-        },
-        {
-          "id": "6e5b662fbcd9fd442c93cd03d37a0b34c46aed39",
-          "title": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
-          "url": "https://www.aibase.com/zh/news/32450",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "5dcbf08f502b27fee9570185201dcddd8df64ec7",
-          "title": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
-          "url": "https://www.aibase.com/news/32450",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T01:48:28.233707Z"
-        },
-        {
-          "id": "6e5b662fbcd9fd442c93cd03d37a0b34c46aed39",
-          "title": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
-          "url": "https://www.aibase.com/zh/news/32450",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7442,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-23T01:48:28.233707Z",
-      "latest_at": "2026-11-23T01:48:28.233707Z",
-      "primary_item": {
-        "id": "5dcbf08f502b27fee9570185201dcddd8df64ec7",
-        "title": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
-        "url": "https://www.aibase.com/news/32450",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_be5d4a66f1d6",
-      "title": "微软 AI 掌门人罕见“交底”：公开 MAI-2 模型关键指标，响应 OpenAI 透明度倡议",
-      "url": "https://www.aibase.com/news/32452",
-      "primary_url": "https://www.aibase.com/news/32452",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "340267bbac2c6acc88148fd2d34708e5e8363261",
-          "title": "微软 AI 掌门人罕见“交底”：公开 MAI-2 模型关键指标，响应 OpenAI 透明度倡议",
-          "url": "https://www.aibase.com/news/32452",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T01:48:28.233707Z"
-        },
-        {
-          "id": "264c181553d60649daae646806178e5129ec0de6",
-          "title": "微软 AI 掌门人罕见「交底」：公开 MAI-2 模型关键指标，响应 OpenAI 透明度倡议",
-          "url": "https://www.aibase.com/zh/news/32452",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "340267bbac2c6acc88148fd2d34708e5e8363261",
-          "title": "微软 AI 掌门人罕见“交底”：公开 MAI-2 模型关键指标，响应 OpenAI 透明度倡议",
-          "url": "https://www.aibase.com/news/32452",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T01:48:28.233707Z"
-        },
-        {
-          "id": "264c181553d60649daae646806178e5129ec0de6",
-          "title": "微软 AI 掌门人罕见「交底」：公开 MAI-2 模型关键指标，响应 OpenAI 透明度倡议",
-          "url": "https://www.aibase.com/zh/news/32452",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7442,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-23T01:48:28.233707Z",
-      "latest_at": "2026-11-23T01:48:28.233707Z",
-      "primary_item": {
-        "id": "340267bbac2c6acc88148fd2d34708e5e8363261",
-        "title": "微软 AI 掌门人罕见“交底”：公开 MAI-2 模型关键指标，响应 OpenAI 透明度倡议",
-        "url": "https://www.aibase.com/news/32452",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5094532b4e2e",
-      "title": "GLM-5.4：借助首个循环变换器迈向泛化编码",
-      "url": "https://z.ai/blog/glm-5.4",
-      "primary_url": "https://z.ai/blog/glm-5.4",
-      "source": "z.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "32c894c1224f34c2c28d1de543eccc940aab0eca",
-          "title": "GLM-5.4：借助首个循环变换器迈向泛化编码",
-          "url": "https://z.ai/blog/glm-5.4",
-          "source": "z.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-23T11:39:43.058000Z"
-        },
-        {
-          "id": "d7f1c3b2fdc2ab869ad89daa05a21d95e83f3eb4",
-          "title": "GLM-5.4：借助首个循环变换器迈向泛化编码 / GLM-5.4: Toward generalized coding with our first loop transformer",
-          "url": "https://z.ai/blog/glm-5.4",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-23T10:06:43Z"
-        },
-        {
-          "id": "ecba850940e09bd7ce1e0b5c069e671cdd72dbb1",
-          "title": "GLM-5.4：使用我们的第一个循环变压器进行广义编码 / GLM-5.4: Toward generalized coding with our first loop transformer",
-          "url": "https://news.ycombinator.com/item?id=50609685",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-23T10:06:43Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "z.ai"
-      ],
-      "items": [
-        {
-          "id": "32c894c1224f34c2c28d1de543eccc940aab0eca",
-          "title": "GLM-5.4：借助首个循环变换器迈向泛化编码",
-          "url": "https://z.ai/blog/glm-5.4",
-          "source": "z.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-23T11:39:43.058000Z"
-        },
-        {
-          "id": "d7f1c3b2fdc2ab869ad89daa05a21d95e83f3eb4",
-          "title": "GLM-5.4：借助首个循环变换器迈向泛化编码 / GLM-5.4: Toward generalized coding with our first loop transformer",
-          "url": "https://z.ai/blog/glm-5.4",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-23T10:06:43Z"
-        },
-        {
-          "id": "ecba850940e09bd7ce1e0b5c069e671cdd72dbb1",
-          "title": "GLM-5.4：使用我们的第一个循环变压器进行广义编码 / GLM-5.4: Toward generalized coding with our first loop transformer",
-          "url": "https://news.ycombinator.com/item?id=50609685",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-23T10:06:43Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "item_count": 8,
+      "duplicate_count": 8,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
-        "source_tier": 0.32,
+        "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.858,
-        "story_heat": 0.5
+        "recency": 1.0,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-23T10:06:43Z",
-      "latest_at": "2026-11-23T11:39:43.058000Z",
+      "earliest_at": "2026-11-24T06:07:47.031973Z",
+      "latest_at": "2026-11-24T06:07:47.031973Z",
       "primary_item": {
-        "id": "32c894c1224f34c2c28d1de543eccc940aab0eca",
-        "title": "GLM-5.4：借助首个循环变换器迈向泛化编码",
-        "url": "https://z.ai/blog/glm-5.4",
-        "source": "z.ai",
-        "source_name": "Buzzing"
+        "id": "2e264141649b7f78d075bd0540f12936bbd80c7b",
+        "title": "AI 做音乐正从“生成一首歌”走向完整创作流程，但发布和变现的规则也在收紧。这期《AI 音乐周刊》汇总了 Suno 歌曲转视频、在 AI 助手里直接做歌，以及用对话修改音效、配乐等更新，同时梳理平台对冒名作品、刷量与训练授权的新动向。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-11-23",
+        "source_name": "WaytoAGI"
       }
     },
     {
-      "story_id": "story_ac8a79b4e4e9",
-      "title": "Anthropic期权首日表现稳健，但仍落后于SpaceX的纪录 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZzZBTkVsVXo2NVo5WmF4NXlRZnpidUVLNE1ZX25XbHFLUm1RamtHODdMRWJYTWJDSVlFRmlfSDI5dGVGVEQ1ZHItNVhoLWFhX0M2eGxVTHdtUExfMUxEc1p2S3ZTVkJuTVd0TUYxXy04UEJnOXFldDE2ZHMzMDEyeXcyMkNpdlpHamVDRmtpVQ?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZzZBTkVsVXo2NVo5WmF4NXlRZnpidUVLNE1ZX25XbHFLUm1RamtHODdMRWJYTWJDSVlFRmlfSDI5dGVGVEQ1ZHItNVhoLWFhX0M2eGxVTHdtUExfMUxEc1p2S3ZTVkJuTVd0TUYxXy04UEJnOXFldDE2ZHMzMDEyeXcyMkNpdlpHamVDRmtpVQ?oc=5",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
+      "story_id": "story_43b498f2b7e3",
+      "title": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改 / Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
+      "primary_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "a9b5cae0afd0f473e9ae9b467005b97ff94c8037",
-          "title": "Anthropic期权首日表现稳健，但仍落后于SpaceX的纪录 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZzZBTkVsVXo2NVo5WmF4NXlRZnpidUVLNE1ZX25XbHFLUm1RamtHODdMRWJYTWJDSVlFRmlfSDI5dGVGVEQ1ZHItNVhoLWFhX0M2eGxVTHdtUExfMUxEc1p2S3ZTVkJuTVd0TUYxXy04UEJnOXFldDE2ZHMzMDEyeXcyMkNpdlpHamVDRmtpVQ?oc=5",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-23T21:31:32.078000Z"
+          "id": "31f91168dc3496984e419cb9ae7643ca5f21e5ad",
+          "title": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改 / Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-23T22:05:50Z"
         },
         {
-          "id": "71c4920477fcabdb11418452027523dfd20d9a72",
-          "title": "Anthropic股票期权开始交易，成交量活跃 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZzZBTkVsVXo2NVo5WmF4NXlRZnpidUVLNE1ZX25XbHFLUm1RamtHODdMRWJYTWJDSVlFRmlfSDI5dGVGVEQ1ZHItNVhoLWFhX0M2eGxVTHdtUExfMUxEc1p2S3ZTVkJuTVd0TUYxXy04UEJnOXFldDE2ZHMzMDEyeXcyMkNpdlpHamVDRmtpVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-23T20:58:58.699000Z"
+          "id": "ec0831bcb408209f71a6e7cba02ccd9e6cb3ee2a",
+          "title": "Anthropic 推出 Claude Ship，代理立即审查、修复和批准代码更改 / Anthropic launches Claude Ship, agents review, fix, & approve code changes now",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-11-23T23:39:44Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "news.google.com"
+        "HN Algolia · AI 24h",
+        "TechCrunch AI"
       ],
       "items": [
         {
-          "id": "a9b5cae0afd0f473e9ae9b467005b97ff94c8037",
-          "title": "Anthropic期权首日表现稳健，但仍落后于SpaceX的纪录 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZzZBTkVsVXo2NVo5WmF4NXlRZnpidUVLNE1ZX25XbHFLUm1RamtHODdMRWJYTWJDSVlFRmlfSDI5dGVGVEQ1ZHItNVhoLWFhX0M2eGxVTHdtUExfMUxEc1p2S3ZTVkJuTVd0TUYxXy04UEJnOXFldDE2ZHMzMDEyeXcyMkNpdlpHamVDRmtpVQ?oc=5",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-23T21:31:32.078000Z"
+          "id": "31f91168dc3496984e419cb9ae7643ca5f21e5ad",
+          "title": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改 / Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-23T22:05:50Z"
         },
         {
-          "id": "71c4920477fcabdb11418452027523dfd20d9a72",
-          "title": "Anthropic股票期权开始交易，成交量活跃 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZzZBTkVsVXo2NVo5WmF4NXlRZnpidUVLNE1ZX25XbHFLUm1RamtHODdMRWJYTWJDSVlFRmlfSDI5dGVGVEQ1ZHItNVhoLWFhX0M2eGxVTHdtUExfMUxEc1p2S3ZTVkJuTVd0TUYxXy04UEJnOXFldDE2ZHMzMDEyeXcyMkNpdlpHamVDRmtpVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-23T20:58:58.699000Z"
+          "id": "ec0831bcb408209f71a6e7cba02ccd9e6cb3ee2a",
+          "title": "Anthropic 推出 Claude Ship，代理立即审查、修复和批准代码更改 / Anthropic launches Claude Ship, agents review, fix, & approve code changes now",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-11-23T23:39:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
+      "score": 0.654,
+      "importance": 0.654,
+      "importance_score": 0.654,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9894,
+        "editorial": 0.5904,
+        "source_tier": 0.58,
+        "ai_relevance": 0.82,
+        "recency": 0.8905,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "multi_source"
+        "multi_source",
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-23T20:58:58.699000Z",
-      "latest_at": "2026-11-23T21:31:32.078000Z",
+      "earliest_at": "2026-11-23T22:05:50Z",
+      "latest_at": "2026-11-23T23:39:44Z",
       "primary_item": {
-        "id": "a9b5cae0afd0f473e9ae9b467005b97ff94c8037",
-        "title": "Anthropic期权首日表现稳健，但仍落后于SpaceX的纪录 - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZzZBTkVsVXo2NVo5WmF4NXlRZnpidUVLNE1ZX25XbHFLUm1RamtHODdMRWJYTWJDSVlFRmlfSDI5dGVGVEQ1ZHItNVhoLWFhX0M2eGxVTHdtUExfMUxEc1p2S3ZTVkJuTVd0TUYxXy04UEJnOXFldDE2ZHMzMDEyeXcyMkNpdlpHamVDRmtpVQ?oc=5",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
+        "id": "31f91168dc3496984e419cb9ae7643ca5f21e5ad",
+        "title": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改 / Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+        "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       }
     },
     {
-      "story_id": "story_8f3fa4876db1",
-      "title": "给 AI 发展划一条“困惑度”红线：OpenAI 首席科学家提议设行业门槛",
-      "url": "https://www.aibase.com/news/32455",
-      "primary_url": "https://www.aibase.com/news/32455",
+      "story_id": "story_30298b570f5f",
+      "title": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
+      "url": "https://www.aibase.com/news/32485",
+      "primary_url": "https://www.aibase.com/news/32485",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "06356fb0147e9c8d8bd8b7b5b8a436c7f0e4c55b",
-          "title": "给 AI 发展划一条“困惑度”红线：OpenAI 首席科学家提议设行业门槛",
-          "url": "https://www.aibase.com/news/32455",
+          "id": "f2a654957d263a3d367e3b6a7b11eb63616913d0",
+          "title": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
+          "url": "https://www.aibase.com/news/32485",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-23T01:48:28.233707Z"
-        },
-        {
-          "id": "ae6c313c2e74c03056edc2d152f090a9f474463e",
-          "title": "给 AI 发展划一条「困惑度」红线：OpenAI 首席科学家提议设行业门槛",
-          "url": "https://www.aibase.com/zh/news/32455",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-24T06:07:47.031973Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "06356fb0147e9c8d8bd8b7b5b8a436c7f0e4c55b",
-          "title": "给 AI 发展划一条“困惑度”红线：OpenAI 首席科学家提议设行业门槛",
-          "url": "https://www.aibase.com/news/32455",
+          "id": "f2a654957d263a3d367e3b6a7b11eb63616913d0",
+          "title": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
+          "url": "https://www.aibase.com/news/32485",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-23T01:48:28.233707Z"
-        },
-        {
-          "id": "ae6c313c2e74c03056edc2d152f090a9f474463e",
-          "title": "给 AI 发展划一条「困惑度」红线：OpenAI 首席科学家提议设行业门槛",
-          "url": "https://www.aibase.com/zh/news/32455",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-24T06:07:47.031973Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7442,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-23T01:48:28.233707Z",
-      "latest_at": "2026-11-23T01:48:28.233707Z",
+      "earliest_at": "2026-11-24T06:07:47.031973Z",
+      "latest_at": "2026-11-24T06:07:47.031973Z",
       "primary_item": {
-        "id": "06356fb0147e9c8d8bd8b7b5b8a436c7f0e4c55b",
-        "title": "给 AI 发展划一条“困惑度”红线：OpenAI 首席科学家提议设行业门槛",
-        "url": "https://www.aibase.com/news/32455",
+        "id": "f2a654957d263a3d367e3b6a7b11eb63616913d0",
+        "title": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
+        "url": "https://www.aibase.com/news/32485",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_ce0103082065",
-      "title": "黄仁勋重返英伟达对Anthropic来说是个坏消息。原因如下。",
-      "url": "https://www.businessinsider.com/jensen-huang-back-bad-news-for-anthropic-nvidia-ai-2026-11",
-      "primary_url": "https://www.businessinsider.com/jensen-huang-back-bad-news-for-anthropic-nvidia-ai-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_9f0a66dbf059",
+      "title": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
+      "url": "https://www.aibase.com/news/32483",
+      "primary_url": "https://www.aibase.com/news/32483",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "99bbcf7dad68a58bb14dc0a739712502236cf085",
-          "title": "黄仁勋重返英伟达对Anthropic来说是个坏消息。原因如下。",
-          "url": "https://www.businessinsider.com/jensen-huang-back-bad-news-for-anthropic-nvidia-ai-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-23T18:19:43.651000Z"
-        },
-        {
-          "id": "5a902f3344e8c49cd5d9c396f23a02919da3d6cb",
-          "title": "黄仁勋重返英伟达对Anthropic来说是个坏消息。原因如下。 / Jensen Huang's return to Nvidia is bad news for Anthropic. Here's why.",
-          "url": "https://www.businessinsider.com/jensen-huang-back-bad-news-for-anthropic-nvidia-ai-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-23T18:10:37Z"
+          "id": "3b316e653b3276f62cf0c470cdb13939e997800f",
+          "title": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
+          "url": "https://www.aibase.com/news/32483",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T06:07:47.031973Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "99bbcf7dad68a58bb14dc0a739712502236cf085",
-          "title": "黄仁勋重返英伟达对Anthropic来说是个坏消息。原因如下。",
-          "url": "https://www.businessinsider.com/jensen-huang-back-bad-news-for-anthropic-nvidia-ai-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-23T18:19:43.651000Z"
-        },
-        {
-          "id": "5a902f3344e8c49cd5d9c396f23a02919da3d6cb",
-          "title": "黄仁勋重返英伟达对Anthropic来说是个坏消息。原因如下。 / Jensen Huang's return to Nvidia is bad news for Anthropic. Here's why.",
-          "url": "https://www.businessinsider.com/jensen-huang-back-bad-news-for-anthropic-nvidia-ai-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-23T18:10:37Z"
+          "id": "3b316e653b3276f62cf0c470cdb13939e997800f",
+          "title": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
+          "url": "https://www.aibase.com/news/32483",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T06:07:47.031973Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9447,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-23T18:10:37Z",
-      "latest_at": "2026-11-23T18:19:43.651000Z",
+      "earliest_at": "2026-11-24T06:07:47.031973Z",
+      "latest_at": "2026-11-24T06:07:47.031973Z",
       "primary_item": {
-        "id": "99bbcf7dad68a58bb14dc0a739712502236cf085",
-        "title": "黄仁勋重返英伟达对Anthropic来说是个坏消息。原因如下。",
-        "url": "https://www.businessinsider.com/jensen-huang-back-bad-news-for-anthropic-nvidia-ai-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "3b316e653b3276f62cf0c470cdb13939e997800f",
+        "title": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
+        "url": "https://www.aibase.com/news/32483",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_9ee40c728107",
+      "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+      "url": "https://www.aibase.com/news/32491",
+      "primary_url": "https://www.aibase.com/news/32491",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
+          "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+          "url": "https://www.aibase.com/news/32491",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T06:07:47.031973Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
+          "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+          "url": "https://www.aibase.com/news/32491",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T06:07:47.031973Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T06:07:47.031973Z",
+      "latest_at": "2026-11-24T06:07:47.031973Z",
+      "primary_item": {
+        "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
+        "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+        "url": "https://www.aibase.com/news/32491",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
