@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-11-24T17:46:22.268225Z",
+  "generated_at": "2026-11-25T01:37:52.930468Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 268,
-      "duration_ms": 2966,
+      "item_count": 273,
+      "duration_ms": 3875,
       "error": null
     },
     {
       "site_id": "curated_media",
       "site_name": "Curated Media",
       "ok": true,
-      "item_count": 32,
-      "duration_ms": 6356,
+      "item_count": 28,
+      "duration_ms": 12200,
       "error": null
     },
     {
       "site_id": "aibreakfast",
       "site_name": "AI Breakfast",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 80,
-      "error": "401 Client Error: Unauthorized for url: https://r.jina.ai/https://aibreakfast.beehiiv.com/"
+      "ok": true,
+      "item_count": 9,
+      "duration_ms": 264,
+      "error": null
     },
     {
       "site_id": "followbuilders",
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 41,
-      "duration_ms": 231,
+      "duration_ms": 71,
       "error": null
     },
     {
@@ -38,7 +38,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 566,
+      "duration_ms": 390,
       "error": null
     },
     {
@@ -46,15 +46,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 774,
+      "duration_ms": 429,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 279,
-      "duration_ms": 59523,
+      "item_count": 309,
+      "duration_ms": 79941,
       "error": null
     },
     {
@@ -62,31 +62,31 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 395,
+      "duration_ms": 260,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3033,
-      "duration_ms": 1418,
+      "item_count": 3038,
+      "duration_ms": 1344,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 70,
-      "duration_ms": 705,
+      "item_count": 72,
+      "duration_ms": 721,
       "error": null
     },
     {
       "site_id": "hackernews",
       "site_name": "Hacker News",
       "ok": true,
-      "item_count": 2,
-      "duration_ms": 6825,
+      "item_count": 5,
+      "duration_ms": 6046,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 41,
-      "duration_ms": 422,
+      "duration_ms": 472,
       "error": null
     },
     {
@@ -102,7 +102,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1847,
+      "duration_ms": 1510,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "site_name": "AI HOT",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 1539,
+      "duration_ms": 4641,
       "error": "404 Client Error: Not Found for url: https://aihot.news/api/public/items?mode=selected&take=100"
     },
     {
@@ -118,7 +118,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 126,
-      "duration_ms": 1408,
+      "duration_ms": 1617,
       "error": null
     },
     {
@@ -126,20 +126,19 @@
       "site_name": "WaytoAGI",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 6513,
+      "duration_ms": 9705,
       "error": null
     }
   ],
-  "successful_sites": 14,
+  "successful_sites": 15,
   "failed_sites": [
-    "aibreakfast",
     "aihot"
   ],
   "zero_item_sites": [],
   "empty_advanced_sources": [],
-  "fetched_raw_items": 5071,
-  "items_before_topic_filter": 4762,
-  "items_in_24h": 486,
+  "fetched_raw_items": 5121,
+  "items_before_topic_filter": 4587,
+  "items_in_24h": 495,
   "rss_opml": {
     "enabled": false,
     "path": null,
@@ -174,7 +173,7 @@
     "effective_result_cap": 20,
     "estimated_max_cost_usd_per_run": 0.1,
     "run_utc_hour": 0,
-    "generated_date_utc": "2026-11-24",
+    "generated_date_utc": "2026-11-25",
     "disabled_reason": "no_bearer_token"
   },
   "socialdata": {
@@ -199,7 +198,7 @@
     "run_utc_minute_max": 10,
     "last_run_at": null,
     "last_success_at": null,
-    "generated_date_utc": "2026-11-24",
+    "generated_date_utc": "2026-11-25",
     "disabled_reason": "no_api_key"
   },
   "tikhub": {
@@ -224,7 +223,7 @@
     "run_utc_minute_max": 10,
     "last_run_at": null,
     "last_success_at": null,
-    "generated_date_utc": "2026-11-24",
+    "generated_date_utc": "2026-11-25",
     "disabled_reason": "no_api_key"
   }
 }
